@@ -1,0 +1,296 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol,ul {
+    list-style: none;
+}
+blockquote,q {
+    quotes: none;
+}
+blockquote:before,blockquote:after,
+q:before,q:after {
+    content: "";
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:active,a:focus {
+    outline: 0;
+}
+@font-face {
+    font-family: "gooddogplain";
+    src: url("../fonts/gooddog-plain/GoodDog-webfont.eot");
+    src: url("../fonts/gooddog-plain/GoodDog-webfont.eot#iefix")
+            format("embedded-opentype"),
+        url("../fonts/gooddog-plain/GoodDog-webfont.woff")
+            format("woff"),
+        url("../fonts/gooddog-plain/GoodDog-webfont.ttf")
+            format("truetype"),
+        url("../fonts/gooddog-plain/GoodDog-webfont.svg#GoodDogRegular")
+            format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background: #ebe3d9;
+    font-family: sans-serif, Helvetica, Arial;
+    font-size: 0.8em;
+    line-height: 1.6em;
+}
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+.content h1 {
+    font-family: "gooddogplain";
+    font-size: 6em;
+    line-height: 1em;
+    margin-bottom: 20px;
+    color: #404040;
+}
+.content h3 {
+    font-family: "gooddogplain";
+    font-size: 3em;
+    line-height: 1em;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    color: #404040;
+}
+.content h4 {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.content p {
+    margin-bottom: 15px;
+}
+.content a {
+    color: #ff6d00;
+    font-weight: bold;
+}
+.content a:hover {
+    color: #c92817;
+    text-decoration: underline;
+}
+.content b {
+    font-weight: bold;
+}
+header {
+    background: url(header.jpg);
+    background-position: center center;
+    height: 120px;
+}
+header #logo {
+    position: absolute;
+    display: block;
+    top: 20px;
+    left: -35px;
+    width: 496px;
+    height: 105px;
+    background: url(logo.png);
+}
+#headerSocial {
+    background: url(share.jpg);
+    background-position: 25px 4px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 115px;
+    left: 628px;
+    width: 400px;
+    height: 40px;
+}
+#ielink {
+    position: absolute;
+    top: 17px;
+    left: 844px;
+}
+header .fb-like {
+    float: right;
+    position: relative;
+    top: 0;
+    left: -25px;
+}
+header .twitter-share-button {
+    height: 20px;
+    width: 155px;
+    float: right;
+    position: relative;
+    top: 0;
+    left: -15px;
+}
+#team {
+    margin-top: 10px;
+}
+#team header {
+    width: 842px;
+    height: 99px;
+    background: url(title-team.jpg);
+    text-indent: -9999px;
+    position: relative;
+    left: -80px;
+    top: 14px;
+    z-index: -100;
+}
+#actions {
+    width: 221px;
+    height: 495px;
+    background: url(actions-bg.jpg);
+    position: absolute;
+    top: 73px;
+    left: 780px;
+}
+.actionbg {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.action a {
+    display: block;
+    text-indent: -9999px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+.action a:hover {
+    background: url(action-over.png);
+    background-repeat: no-repeat;
+}
+#action-ie {
+    width: 211px;
+    height: 143px;
+    position: absolute;
+    top: 50px;
+    left: -5px;
+}
+#action-ie div.actionbg {
+    background: url(action-ie.png);
+    width: 100%;
+    height: 100%;
+}
+#action-ie.action a:hover {
+    background-position: 165px 17px;
+}
+#action-loader {
+    width: 222px;
+    height: 126px;
+    position: absolute;
+    top: 210px;
+    left: -5px;
+}
+#action-loader div.actionbg {
+    background: url(action-loader.png);
+    width: 100%;
+    height: 100%;
+}
+#action-loader.action a:hover {
+    background-position: 150px 7px;
+}
+#action-win8 {
+    width: 220px;
+    height: 85px;
+    position: absolute;
+    top: 350px;
+    left: -5px;
+}
+#action-win8 div.actionbg {
+    background: url(action-win8.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+#action-win8.action a:hover {
+    background-position: 182px 8px;
+}
+.action-hl {
+    position: absolute;
+    top: -55px;
+    left: 0;
+    width: 210px;
+    height: 240px;
+    opacity: 0;
+    display: none;
+}
+#notes {
+    margin-top: 50px;
+    width: 1000px;
+}
+#notes header {
+    width: 1034px;
+    height: 46px;
+    background: url(title-notes.jpg);
+    text-indent: -9999px;
+    position: relative;
+    left: -34px;
+    top: 14px;
+}
+#notes-content {
+    width: 660px;
+    padding-left: 40px;
+    padding-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: White;
+    background-position: center top;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#notes-content p {
+    clear: both;
+}
+.notes-sidebar {
+    width: 0;
+    float: right;
+    position: relative;
+    color: #808080;
+    font-size: 0.8em;
+    line-height: 1.6em;
+}
+.notes-sidebar img {
+    margin-bottom: 10px;
+}
+.notes-sidebar section {
+    width: 220px;
+    position: absolute;
+    left: 40px;
+}
+#fancybox-outer {
+    background: transparent;
+}
+footer {
+    padding-bottom: 40px;
+}
+footer .dot {
+    margin: -2px 8px 2px 8px;
+}
+footer .zeptoLogo {
+    position: relative;
+    top: 20px;
+    left: -4px;
+}
