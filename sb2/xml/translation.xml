@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings english="true">
+
+	
+	<!--characterNames-->
+		<string id="characterNames.sheen" fontName="General"><![CDATA[SHEEN]]></string>
+		<string id="characterNames.spongeBob" fontName="General"><![CDATA[SPONGEBOB]]></string>
+		<string id="characterNames.kitty" fontName="General"><![CDATA[KITTY KATSWELL]]></string>
+		<string id="characterNames.kitty2lines" fontName="General"><![CDATA[KITTYKATSWELL]]></string>
+		<string id="characterNames.chumchum" fontName="General"><![CDATA[CHUM CHUM]]></string>
+		<string id="characterNames.monkey" fontName="General"><![CDATA[MONKEY]]></string>
+		<string id="characterNames.plankton" fontName="General"><![CDATA[PLANKTON]]></string>
+		<string id="characterNames.skipper" fontName="General"><![CDATA[SKIPPER]]></string>
+		<string id="characterNames.sandy" fontName="General"><![CDATA[SANDY]]></string>
+		<string id="characterNames.jimmy" fontName="General"><![CDATA[JIMMY NEUTRON]]></string>
+		<string id="characterNames.otis" fontName="General"><![CDATA[OTIS]]></string>
+		<string id="characterNames.bessie" fontName="General"><![CDATA[BESSIE]]></string>
+		<string id="characterNames.aang" fontName="General"><![CDATA[AANG]]></string>
+		<string id="characterNames.kyle" fontName="General"><![CDATA[KYLE]]></string>
+		<string id="characterNames.dudley" fontName="General"><![CDATA[DUDLEY PUPPY]]></string>
+		<string id="characterNames.fanboy" fontName="General"><![CDATA[FANBOY]]></string>
+		<string id="characterNames.danny" fontName="General"><![CDATA[DANNY PHANTOM]]></string>
+		<string id="characterNames.danny2lines" fontName="General"><![CDATA[DANNYPHANTOM]]></string>
+		<string id="characterNames.timmy" fontName="General"><![CDATA[TIMMY]]></string>
+		<string id="characterNames.rico" fontName="General"><![CDATA[RICO]]></string>
+		<string id="characterNames.patrick" fontName="General"><![CDATA[PATRICK]]></string>
+		<string id="characterNames.cspongebob" fontName="General"><![CDATA[CLASSIC SPONGEBOB]]></string>
+		<string id="characterNames.blowhole" fontName="General"><![CDATA[DR. BLOWHOLE]]></string>
+		<string id="characterNames.kingjulien" fontName="General"><![CDATA[KING JULIEN]]></string>
+		<string id="characterNames.you" fontName="General"><![CDATA[YOU]]></string>
+		<string id="characterNames.com" fontName="General"><![CDATA[COM]]></string>
+	
+	<!--stagesNames-->
+		<string id="stagesNames.sheen" fontName="General"><![CDATA[ZEENU]]></string>
+		<string id="stagesNames.spongebob" fontName="General"><![CDATA[FLYING DUTCHMAN'S SHIP]]></string>
+		<string id="stagesNames.skipper" fontName="General"><![CDATA[CENTRAL PARK ZOO]]></string>
+		<string id="stagesNames.kitty" fontName="General"><![CDATA[PETROPOLIS]]></string>
+		<string id="stagesNames.chumchum" fontName="General"><![CDATA[FANLAIR]]></string>
+		<string id="stagesNames.knightM" fontName="General"><![CDATA[FORGOTTEN TEMPLE]]></string>
+		<string id="stagesNames.plankton" fontName="General"><![CDATA[THE CHUM BUCKET]]></string>
+		<string id="stagesNames.sandy" fontName="General"><![CDATA[SANDY'S DOME]]></string>
+		<string id="stagesNames.jimmy" fontName="General"><![CDATA[BASEBALL FIELD]]></string>
+		<string id="stagesNames.otis" fontName="General"><![CDATA[FARM ROAD]]></string>
+		<string id="stagesNames.mightyB" fontName="General"><![CDATA[PIER 31]]></string>
+		<string id="stagesNames.aang" fontName="General"><![CDATA[WASTELAND]]></string>
+		<string id="stagesNames.kyle" fontName="General"><![CDATA[SCHOOL]]></string>
+		<string id="stagesNames.dudley" fontName="General"><![CDATA[TUFF HEADQUARTERS]]></string>
+		<string id="stagesNames.fanboy" fontName="General"><![CDATA[FROSTY MART]]></string>
+		<string id="stagesNames.danny" fontName="General"><![CDATA[AMITY PARK]]></string>
+		<string id="stagesNames.timmy" fontName="General"><![CDATA[FAIRY WORLD]]></string>
+		<string id="stagesNames.rico" fontName="General"><![CDATA[PENGUIN LAIR]]></string>
+		<string id="stagesNames.blowhole" fontName="General"><![CDATA[CONEY ISLAND HIDEOUT]]></string>
+		<string id="stagesNames.patrick" fontName="General"><![CDATA[GOO LAGOON]]></string>
+		<string id="stagesNames.cspongebob" fontName="General"><![CDATA[KRUSTY KRAB]]></string>
+		<string id="stagesNames.kingjulien" fontName="General"><![CDATA[JUNGLE]]></string>
+	
+
+	<!--comingSoon-->
+		<string id="comingSoon.rico" fontName="General" fontSize="18"><![CDATA[JUN 5]]></string>
+		<string id="comingSoon.blowhole" fontName="General" fontSize="18"><![CDATA[JUN 19]]></string>
+		<string id="comingSoon.patrick" fontName="General" fontSize="18"><![CDATA[JUL 3]]></string>
+		<string id="comingSoon.cspongebob" fontName="General" fontSize="18"><![CDATA[JUL 17]]></string>
+		<string id="comingSoon.kingjulien" fontName="General" fontSize="18"><![CDATA[JUL 31]]></string>
+	
+
+	<!--loader-->
+		<string id="loader.progressbar" fontName="General" fontSize="20"><![CDATA[0]]></string>
+	
+	<!--cover-->
+		<string id="cover.btnContinue" fontName="General" fontSize="20"><![CDATA[PLAY]]></string>
+	
+
+	<!--ui-->
+		<!--ui.perfectBonus-->
+			<string id="ui.perfectBonus.title" fontName="General" fontSize="52"><![CDATA[PERFECT]]></string>
+			<string id="ui.perfectBonus.score" fontName="General" fontSize="31"><![CDATA[{0} BONUS!]]></string>
+		
+
+		<!--ui.challenge-->
+			<string id="ui.challenge.txtmessage" fontName="General"><![CDATA[BONUS ROUND]]></string>
+		
+
+		<!--ui.challengeCompleted-->
+			<string id="ui.challengeCompleted.title" fontName="General"><![CDATA[END OF BONUS ROUND]]></string>
+			<string id="ui.challengeCompleted.s1" fontName="General"><![CDATA[HIT]]></string>		<string id="ui.challengeCompleted.v1" fontName="General"><![CDATA[{0}]]></string>
+			<string id="ui.challengeCompleted.s2" fontName="General"><![CDATA[MISSED]]></string>		<string id="ui.challengeCompleted.v2" fontName="General"><![CDATA[{1}]]></string>
+			<string id="ui.challengeCompleted.s3" fontName="General"><![CDATA[SCORE]]></string>		<string id="ui.challengeCompleted.v3" fontName="General"><![CDATA[{2}]]></string>
+			<string id="ui.challengeCompleted.btnContinue" fontName="General"><![CDATA[CONTINUE]]></string>
+		
+
+		<!--ui.survivalCompleted-->
+			<string id="ui.survivalCompleted.title" fontName="General" fontSize="31"><![CDATA[{0}]]></string>
+			<string id="ui.survivalCompleted.s2" fontName="General" fontSize="30"><![CDATA[OPPONENTS]]></string>		<string id="ui.survivalCompleted.v2" fontName="General" fontSize="30"><![CDATA[{1}/{2}]]></string>
+			<string id="ui.survivalCompleted.s3" fontName="General" fontSize="30"><![CDATA[SCORE]]></string>			<string id="ui.survivalCompleted.v3" fontName="General" fontSize="30"><![CDATA[{3}]]></string>
+			<string id="ui.survivalCompleted.btnContinue" fontName="General" fontSize="18"><![CDATA[CONTINUE]]></string>
+
+			<string id="ui.survivalCompleted.good" fontName="General" fontSize="31"><![CDATA[CONGRATULATIONS!]]></string>
+			<string id="ui.survivalCompleted.bad" fontName="General" fontSize="31"><![CDATA[YOU'VE LOST!]]></string>
+		
+
+		<!--ui.roundStart-->
+			<string id="ui.roundStart.roundCounter" fontName="General" fontSize="96"><![CDATA[{0}]]></string>
+			<string id="ui.roundStart.ready" fontName="General" fontSize="96"><![CDATA[READY]]></string>
+			<string id="ui.roundStart.roundX" fontName="General" fontSize="96"><![CDATA[ROUND {X}]]></string>
+		
+
+		<!--ui.comboCounter-->
+			<string id="ui.comboCounter.ComboMessage_Title" fontName="General" fontSize="40"><![CDATA[COMBO!]]></string>
+			<string id="ui.comboCounter.counter" fontName="General" fontSize="59"><![CDATA[X{0}]]></string>
+		
+
+		<!--ui.particles-->
+			<!--ui.particles.score-->
+				<string id="ui.particles.score.scoreText" fontName="General" fontSize="13"><![CDATA[{0}]]></string>
+			
+		
+	
+
+	<!--mainMenu-->
+		<string id="mainMenu.txttitle" fontName="General" fontSize="37"><![CDATA[def]]></string>
+		<string id="mainMenu.txtdescription" fontName="General" fontSize="15"><![CDATA[def]]></string>
+
+		<string id="mainMenu.btnArcade" fontName="General"><![CDATA[ARCADE]]></string>
+		<string id="mainMenu.btnTeam" fontName="General"><![CDATA[TAG TEAM]]></string>
+		<string id="mainMenu.btnEndurace" fontName="General"><![CDATA[SURVIVAL]]></string>
+		<string id="mainMenu.btnTournament" fontName="General"><![CDATA[TOURNAMENT]]></string>
+		<string id="mainMenu.btnBIOS" fontName="General"><![CDATA[BIOS]]></string>
+		<string id="mainMenu.fightsCounter" fontName="General" fontSize="20"><![CDATA[{0}/{1}]]></string>
+
+		<!--mainMenu.descriptions-->
+			<!--mainMenu.descriptions.normal-->
+				<string id="mainMenu.descriptions.normal.title" fontName="General" fontSize="37"><![CDATA[PATH TO THEBRAWLMASTER]]></string>
+				<string id="mainMenu.descriptions.normal.info" fontName="General" fontSize="15"><![CDATA[HAVE WHAT IT TAKES TO BECOME THE ULTIMATE BRAWL MASTER? WIN {0} TOURNAMENTS TO FACE OFF AGAINST YOUR HARDEST CHALLENGER YET...]]></string>
+				<string id="mainMenu.descriptions.normal.master" fontName="General" fontSize="15"><![CDATA[YOU ARE NOW A BRAWL MASTER. YOUR TOUGHEST CHALLENGE AWAITS YOU IN THE NEXT TOURNAMENT...]]></string>
+				<string id="mainMenu.descriptions.normal.ultimate" fontName="General" fontSize="15"><![CDATA[CONGRATULATIONS, YOU ARE THE ULTIMATE BRAWL MASTER. NOBODY CAN DEFEAT YOU!]]></string>
+			
+			<!--mainMenu.descriptions.arcade-->
+				<string id="mainMenu.descriptions.arcade.title" fontName="General" fontSize="37"><![CDATA[ARCADEMODE]]></string>
+				<string id="mainMenu.descriptions.arcade.info" fontName="General" fontSize="15"><![CDATA[CUSTOMIZE YOUR BRAWL. YOU PICK THE FIGHTERS AND THE STAGES.]]></string>
+			
+			<!--mainMenu.descriptions.tournament-->
+				<string id="mainMenu.descriptions.tournament.title" fontName="General" fontSize="37"><![CDATA[TOURNAMENTMODE]]></string>
+				<string id="mainMenu.descriptions.tournament.info" fontName="General" fontSize="15"><![CDATA[ADVANCE YOUR WAY THROUGH THE TOURNAMENT, 1 CHALLENGER AT A TIME.]]></string>
+			
+			<!--mainMenu.descriptions.team-->
+				<string id="mainMenu.descriptions.team.title" fontName="General" fontSize="37"><![CDATA[TAG TEAMMODE]]></string>
+				<string id="mainMenu.descriptions.team.info" fontName="General" fontSize="15"><![CDATA[2 FIGHTERS ARE BETTER THAN 1. PICK A PARTNER AND BRAWL TOGETHER IN THIS BRAND NEW FEATURE.]]></string>
+			
+			<!--mainMenu.descriptions.endurace-->
+				<string id="mainMenu.descriptions.endurace.title" fontName="General" fontSize="37"><![CDATA[SURVIVALMODE]]></string>
+				<string id="mainMenu.descriptions.endurace.info" fontName="General" fontSize="15"><![CDATA[THE ULTIMATE CHALLENGE. SEE HOW MANY PLAYERS YOU CAN DEFEAT WITH JUST 1 BAR OF HEALTH.]]></string>
+			
+		
+	
+
+	<!--help-->
+
+		<string id="help.txtname" fontName="General" fontSize="46"><![CDATA[default]]></string>
+		<string id="help.txtname2" fontName="General" fontSize="46"><![CDATA[default]]></string>
+
+		<string id="help.title" fontName="General" fontSize="27"><![CDATA[HOW TO PLAY]]></string>
+		<string id="help.jump" fontName="General" fontSize="16"><![CDATA[JUMP]]></string>
+		<string id="help.block" fontName="General" fontSize="16"><![CDATA[BLOCK]]></string>
+		<string id="help.walkingLeft" fontName="General" fontSize="16"><![CDATA[MOVE]]></string>
+		<string id="help.walkingRight" fontName="General" fontSize="16"><![CDATA[MOVE]]></string>
+		<string id="help.punch" fontName="General" fontSize="16"><![CDATA[PUNCH]]></string>
+		<string id="help.kick" fontName="General" fontSize="16"><![CDATA[KICK]]></string>
+		<string id="help.jumpAttack" fontName="General" fontSize="12"><![CDATA[JUMP ATTACK]]></string>
+		<string id="help.specialAttack" fontName="General" fontSize="12"><![CDATA[SPECIAL ATTACK]]></string>
+		<string id="help.btnContinue" fontName="General" fontSize="20"><![CDATA[CONTINUE]]></string>
+		<string id="help.powerglow" fontName="General" fontSize="11"><![CDATA[SUPER]]></string>
+		<string id="help.specialAttackInfo" fontName="General" fontSize="12"><![CDATA[FILL THE SUPER METER TO PERFORM A SUPER SPECIAL MOVE!]]></string>
+		<string id="help.spaceBar" fontName="General" fontSize="12"><![CDATA[SPACE BAR]]></string>
+		<string id="help.toggleFighters" fontName="General" fontSize="12"><![CDATA[SWITCH PLAYER]]></string>
+	
+
+	<!--singleCharacterSelector-->
+		<string id="singleCharacterSelector.txttitle" fontName="General" fontSize="43"><![CDATA[SELECT YOUR CHARACTER]]></string>
+		<string id="singleCharacterSelector.txtname" fontName="General" fontSize="34"><![CDATA[default]]></string>
+		<string id="singleCharacterSelector.title" fontName="General" fontSize="43"><![CDATA[SELECT YOUR CHARACTER]]></string>
+		<string id="singleCharacterSelector.btnNext" fontName="General" fontSize="20"><![CDATA[NEXT]]></string>
+		<string id="singleCharacterSelector.btnBack" fontName="General" fontSize="20"><![CDATA[BACK]]></string>
+		<string id="singleCharacterSelector.iconYou" fontName="General" fontSize="17"><![CDATA[YOU]]></string>
+		<string id="singleCharacterSelector.fighteryou" fontName="General" fontSize="17"><![CDATA[default]]></string>
+		<string id="singleCharacterSelector.iconYou" fontName="General" fontSize="18"><![CDATA[default]]></string>
+		<string id="singleCharacterSelector.comingsooninfo" fontName="General" fontSize="18"><![CDATA[default]]></string>
+	
+
+	<!--doubleCharacterSelector-->
+		<string id="doubleCharacterSelector.txttitle" fontName="General" fontSize="43"><![CDATA[default]]></string>
+		<string id="doubleCharacterSelector.btnNext" fontName="General" fontSize="20"><![CDATA[NEXT]]></string>
+		<string id="doubleCharacterSelector.btnBack" fontName="General" fontSize="20"><![CDATA[BACK]]></string>
+		<string id="doubleCharacterSelector.iconYou" fontName="General" fontSize="17"><![CDATA[YOU]]></string>
+		<string id="doubleCharacterSelector.iconCom" fontName="General" fontSize="17"><![CDATA[COM]]></string>
+		<string id="doubleCharacterSelector.mode" fontName="General" fontSize="15"><![CDATA[ARCADE]]></string>
+		<string id="doubleCharacterSelector.fighteryou" fontName="General" fontSize="17"><![CDATA[default]]></string>
+		<string id="doubleCharacterSelector.fightercom" fontName="General" fontSize="17"><![CDATA[default]]></string>
+		<string id="doubleCharacterSelector.iconYou" fontName="General" fontSize="18"><![CDATA[default]]></string>
+		<string id="doubleCharacterSelector.iconCom" fontName="General" fontSize="18"><![CDATA[default]]></string>
+		<string id="doubleCharacterSelector.comingsooninfo" fontName="General" fontSize="18"><![CDATA[default]]></string>
+		<string id="doubleCharacterSelector.txttitle" fontName="General" fontSize="43"><![CDATA[default]]></string>
+		<!--doubleCharacterSelector.titles-->
+			<string id="doubleCharacterSelector.titles.you" fontName="General" fontSize="43"><![CDATA[SELECT YOUR CHARACTER]]></string>
+			<string id="doubleCharacterSelector.titles.com" fontName="General" fontSize="43"><![CDATA[SELECT YOUR OPPONENT]]></string>
+			<string id="doubleCharacterSelector.titles.completed" fontName="General" fontSize="43"><![CDATA[]]></string>
+		
+	
+
+	<!--quadCharacterSelector-->
+		<string id="quadCharacterSelector.btnNext" fontName="General" fontSize="20"><![CDATA[NEXT]]></string>
+		<string id="quadCharacterSelector.btnBack" fontName="General" fontSize="20"><![CDATA[BACK]]></string>
+		<string id="quadCharacterSelector.fighteryou" fontName="General" fontSize="17"><![CDATA[default]]></string>
+		<string id="quadCharacterSelector.fightercom" fontName="General" fontSize="17"><![CDATA[default]]></string>
+		<string id="quadCharacterSelector.iconYou" fontName="General" fontSize="17"><![CDATA[YOU]]></string>
+		<string id="quadCharacterSelector.iconCom" fontName="General" fontSize="17"><![CDATA[COM]]></string>
+		<string id="quadCharacterSelector.mode" fontName="General" fontSize="15"><![CDATA[TAG TEAM]]></string>
+		<string id="quadCharacterSelector.comingsooninfo" fontName="General" fontSize="18"><![CDATA[default]]></string>
+		<string id="quadCharacterSelector.txttitle" fontName="General" fontSize="43"><![CDATA[default]]></string>
+		<!--quadCharacterSelector.titles-->
+			<string id="quadCharacterSelector.titles.you" fontName="General" fontSize="43"><![CDATA[SELECT YOUR CHARACTERS]]></string>
+			<string id="quadCharacterSelector.titles.com" fontName="General" fontSize="43"><![CDATA[SELECT YOUR OPPONENTS]]></string>
+			<string id="quadCharacterSelector.titles.completed" fontName="General" fontSize="43"><![CDATA[]]></string>
+		
+	
+
+	<!--stageSelector-->
+
+		<string id="stageSelector.location0" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location1" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location2" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location3" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location4" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location5" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location6" fontName="General" fontSize="14"><![CDATA[default]]></string>
+		<string id="stageSelector.location7" fontName="General" fontSize="14"><![CDATA[default]]></string>
+
+
+		<string id="stageSelector.title" fontName="General" fontSize="43"><![CDATA[SELECT STAGE]]></string>
+		<string id="stageSelector.btnNext" fontName="General" fontSize="20"><![CDATA[NEXT]]></string>
+		<string id="stageSelector.btnBack" fontName="General" fontSize="20"><![CDATA[BACK]]></string>
+	
+
+	<!--versus-->
+		<!--versus.tournament-->
+			<string id="versus.tournament.title" fontName="General" fontSize="17"><![CDATA[ ]]></string>
+			<string id="versus.tournament.txtname" fontName="General" fontSize="46"><![CDATA[default]]></string>
+			<string id="versus.tournament.title" fontName="General" fontSize="17"><![CDATA[TOURNAMENT]]></string>
+			<string id="versus.tournament.percent" fontName="General2" fontSize="42"><![CDATA[default]]></string>
+		
+		<!--versus.arcade-->
+			<string id="versus.arcade.title" fontName="General" fontSize="17"><![CDATA[ ]]></string>
+			<string id="versus.arcade.txtname" fontName="General" fontSize="46"><![CDATA[default]]></string>
+			<string id="versus.arcade.title" fontName="General" fontSize="17"><![CDATA[ARCADE]]></string>
+			<string id="versus.arcade.percent" fontName="General2" fontSize="42"><![CDATA[default]]></string>
+		
+		<!--versus.team-->
+			<string id="versus.team.title" fontName="General" fontSize="17"><![CDATA[ ]]></string>
+			<string id="versus.team.txtname" fontName="General" fontSize="28"><![CDATA[default]]></string>
+			<string id="versus.team.title" fontName="General" fontSize="17"><![CDATA[TAG TEAM]]></string>
+			<string id="versus.team.percent" fontName="General2" fontSize="42"><![CDATA[default]]></string>
+		
+		<!--versus.survival-->
+			<string id="versus.survival.title" fontName="General" fontSize="17"><![CDATA[ ]]></string>
+			<string id="versus.survival.txtname" fontName="General" fontSize="46"><![CDATA[default]]></string>
+			<string id="versus.survival.title" fontName="General" fontSize="17"><![CDATA[SURVIVAL]]></string>
+			<string id="versus.survival.percent" fontName="General2" fontSize="42"><![CDATA[default]]></string>
+		
+	
+
+	<!--hud-->
+		<string id="hud.superTxt" fontName="General" fontSize="11"><![CDATA[SUPER]]></string>
+		<string id="hud.txtname" fontName="General" fontSize="18"><![CDATA[ ]]></string>
+		<string id="hud.txtscore" fontName="General" fontSize="18"><![CDATA[ ]]></string>
+		<string id="hud.txtseconds" fontName="General" fontSize="55"><![CDATA[ ]]></string>
+	
+
+	<!--loadingCharacter-->
+		<string id="loadingCharacter.title" fontName="General2" fontSize="42"><![CDATA[LOADING CHARACTER]]></string>
+	
+
+	<!--quitMessage-->
+		<string id="quitMessage.title" fontName="General" fontSize="30"><![CDATA[ARE YOU SURE YOU WANT TO QUIT?]]></string>
+		<string id="quitMessage.btnYes" fontName="General" fontSize="18"><![CDATA[YES]]></string>
+		<string id="quitMessage.btnNo" fontName="General" fontSize="18"><![CDATA[NO]]></string>
+	
+
+	<!--leaderboard-->
+		<string id="leaderboard.btnSubmit" fontName="General" fontSize="20"><![CDATA[SUBMIT SCORE]]></string>
+		<string id="leaderboard.btnContinue" fontName="General" fontSize="20"><![CDATA[PLAY AGAIN]]></string>
+
+		<string id="leaderboard.title" fontName="General" fontSize="27"><![CDATA[LEADERBOARD]]></string>
+		<string id="leaderboard.txtrank" fontName="General" fontSize="16"><![CDATA[0]]></string>
+		<string id="leaderboard.txtname" fontName="General" fontSize="16"><![CDATA[0]]></string>
+		<string id="leaderboard.txtscore" fontName="General" fontSize="16"><![CDATA[0]]></string>
+		<string id="leaderboard.youScoreTitle" fontName="General"><![CDATA[YOU]]></string>
+		<string id="leaderboard.rankTitle" fontName="General"><![CDATA[RANK]]></string>
+		<string id="leaderboard.nameTitle" fontName="General"><![CDATA[USER]]></string>
+		<string id="leaderboard.scoreTitle" fontName="General"><![CDATA[SCORE]]></string>
+	
+
+	<!--lostScreen-->
+		<string id="lostScreen.title" fontName="General" fontSize="52"><![CDATA[YOU LOSE!]]></string>
+		<string id="lostScreen.info" fontName="General" fontSize="31"><![CDATA[SCORE: {0}]]></string>
+		<string id="lostScreen.btnView" fontName="General" fontSize="18"><![CDATA[LEADERBOARD]]></string>
+		<string id="lostScreen.btnContinue" fontName="General" fontSize="20"><![CDATA[PLAY AGAIN]]></string>
+	
+
+	<!--wonScreen-->
+		<string id="wonScreen.title" fontName="General"><![CDATA[YOUWIN!]]></string>
+		<string id="wonScreen.scoreName" fontName="General"><![CDATA[SCORE]]></string>		<string id="wonScreen.scoreValue" fontName="General"><![CDATA[{0}]]></string>
+		<string id="wonScreen.btnView" fontName="General"><![CDATA[LEADERBOARD]]></string>
+		<string id="wonScreen.btnSubmit" fontName="General"><![CDATA[SUBMIT SCORE]]></string>
+		<string id="wonScreen.btnContinue" fontName="General"><![CDATA[PLAY AGAIN]]></string>
+	
+
+	<!--intro-->
+		<string id="intro.btnSkip" fontName="General" fontSize="20"><![CDATA[SKIP]]></string>
+	
+
+	<!--achievements-->
+		<string id="achievements.title" fontName="General" fontSize="25"><![CDATA[{0}]]></string>
+		<string id="achievements.loginBtn" fontName="General" fontSize="25"><![CDATA[LOGIN]]></string>
+		<string id="achievements.ach1t" fontName="General" fontSize="14"><![CDATA[BASIC BRAWLER]]></string>
+		<string id="achievements.ach2t" fontName="General" fontSize="14"><![CDATA[30 SECONDS TO BRAWL]]></string>
+		<string id="achievements.ach3t" fontName="General" fontSize="14"><![CDATA[BONUS BRAWLER]]></string>
+		<string id="achievements.ach4t" fontName="General" fontSize="14"><![CDATA[BEST BRAWLER]]></string>
+		<string id="achievements.ach5t" fontName="General" fontSize="14"><![CDATA[BRAWL SURVIVOR]]></string>
+		<string id="achievements.ach6t" fontName="General" fontSize="14"><![CDATA[ULTIMATE BRAWLER]]></string>
+
+		<string id="achievements.titleLoggedIn" fontName="General" fontSize="25"><![CDATA[ACHIEVEMENTS]]></string>
+		<string id="achievements.titleLoggedOut" fontName="General" fontSize="25"><![CDATA[LOGIN TO SEE ACHIEVEMENTS]]></string>
+	
+
+	<!--someGroup-->
+	
+
+</strings>

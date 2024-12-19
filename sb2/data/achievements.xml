@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<achievements>
+
+	<achievement id="WinFight" code="_game_10" description="Basic Brawler: Defeat 1 opponent (10pts)">
+		<conditions>
+			<condition id="opponentDefeated" times="1"/>
+		</conditions>
+	</achievement>
+
+	<achievement id="WinFightFast" code="_game_20" description="30 Seconds to Brawl: Defeat an opponent in under 30 seconds (20pts)">
+		<conditions>
+			<condition id="opponentDefeatedFast" times="1"/>
+		</conditions>
+	</achievement>
+
+	<achievement id="BonusVaseBreak" code="_game_30"  description="Bonus Brawler: Break all the vases in the Bonus Round (30pts)">
+		<conditions>
+			<condition id="allVasesBroken" times="1"/>
+		</conditions>
+	</achievement>
+
+	<achievement id="WinTournament" code="_game_40" description="Best Brawler: Win Tournament Mode with 1 character (40pts)">
+		<conditions>
+			<condition id="tournamentWon" times="1"/>
+		</conditions>
+	</achievement>
+
+	<achievement id="WinSurvivor" code="_game_50" description="Brawl Survivor: Win Survival Mode with 1 character (50pts)">
+		<conditions>
+			<condition id="survivorWon" times="1"/>
+		</conditions>
+	</achievement>
+
+	<achievement id="WinTournamentUltimate" code="_game_100" description="Ultimate Brawler: Win the tournament mode with all 20 characters (100pts)">
+		<conditions>
+			<condition id="tournamentWon-spongeBob" times="1"/>
+			<condition id="tournamentWon-plankton" times="1"/>
+			<condition id="tournamentWon-sheen" times="1"/>
+			<condition id="tournamentWon-kitty" times="1"/>
+			<condition id="tournamentWon-chumchum" times="1"/>
+			<condition id="tournamentWon-monkey" times="1"/>
+			<condition id="tournamentWon-skipper" times="1"/>
+			<condition id="tournamentWon-sandy" times="1"/>
+			<condition id="tournamentWon-kingjulien" times="1"/>
+			<condition id="tournamentWon-patrick" times="1"/>
+			<condition id="tournamentWon-cspongebob" times="1"/>
+			<condition id="tournamentWon-blowhole" times="1"/>
+			<condition id="tournamentWon-rico" times="1"/>
+			<condition id="tournamentWon-danny" times="1"/>
+			<condition id="tournamentWon-timmy" times="1"/>
+			<condition id="tournamentWon-dudley" times="1"/>
+			<condition id="tournamentWon-jimmy" times="1"/>
+			<condition id="tournamentWon-bessie" times="1"/>
+			<condition id="tournamentWon-otis" times="1"/>
+			<condition id="tournamentWon-kyle" times="1"/>
+			<condition id="tournamentWon-fanboy" times="1"/>
+			<condition id="tournamentWon-aang" times="1"/>
+		</conditions>
+	</achievement>
+
+</achievements>

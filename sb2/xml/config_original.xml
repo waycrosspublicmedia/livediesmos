@@ -1,0 +1,28 @@
+<config>
+	<gameID>super-brawl</gameID>
+	<serviceSettings>
+		<servicesModuleURL>nick_services_module.swf</servicesModuleURL>
+		<enableServices>true</enableServices> <!-- Set to FALSE to disable all Nick Services completely. TRUE will follow 
+			the specific service settings. -->
+		<enableLogin>true</enableLogin>
+		<enableLeaderboard>true</enableLeaderboard>
+		<enableNickPoints>true</enableNickPoints>
+		<enableTracking>true</enableTracking>
+		<enableAchievements>false</enableAchievements>
+		<serviceManagerURL>/common/flash/services/ServiceManager.swf</serviceManagerURL>
+		<serviceManagerConfigURL>/common/flash/services/data/services.xml</serviceManagerConfigURL>
+	</serviceSettings>
+	<tracking>
+		<type>
+			<enabled>true</enabled>
+			<functionToCall>trackKidsGamePlay</functionToCall>
+			<onPlay enabled="true">@GAMENAME@</onPlay>
+			<onInstructions enabled="false"></onInstructions>
+			<onPlayAgain enabled="true">@GAMENAME@</onPlayAgain>
+		</type>
+	</tracking>
+	<leaderBoard>
+		<gameID>super-brawl-2-hsb</gameID>
+	</leaderBoard>
+	<logo enabled="false">/images/samplelogo.png</logo> 
+</config> 
