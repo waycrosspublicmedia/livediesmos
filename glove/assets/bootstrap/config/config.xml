@@ -1,0 +1,179 @@
+<config>
+    
+    <!-- Park Close -->
+    <parkClosed date="2015-02-09">false</parkClosed>
+	
+	<!-- CODE UNLOCK -->
+	<unlockEnabled>true</unlockEnabled> <!-- Set whether or not to allow the use of the code unlock screen -->
+	<unlockCode>1215</unlockCode> <!-- Set the code unlock number here, should be less than 10 digits and you can use the number 0 -->
+	
+	<!-- ANTI PIRACY REDIRECT URL -->
+	<redirectUrl>http://www.nick.com/games/spongebob-glove-universe.html</redirectUrl>
+	
+    <!-- SERVICES -->
+    <!-- Enable, disable, and configure services here -->
+    
+	<services>
+		<service type="deltadna" enabled="true" url="collect2312snjyc.deltadna.net" idDev="65596004946833413076677065814225" idLive="65600847127550117651264035514225" hashDev="x" hashLive="x" enabledQA="false" />
+		<service type="analytics" enabled="false" id="x" />
+		<service type="canadaTracking" enabled="false" showGameTitle="Spongebob: Glove Universe"/>
+		<service type="nickavatar" enabled="false" url="http://54.243.42.37:8080/nick/avatar" />
+		<service type="leaderboard" enabled="false" url="http://hs.nick.com/scores/" keyword="power-rangers-samurai-super-samurai" />	
+	</services>
+	
+	<!-- ACHIEVEMENTS -->
+	<achievements enabled="true"/>
+		
+	<!-- LOCALIZATION -->	      
+    <localization>
+    	<region>en</region>
+    </localization>
+    	
+    <!-- CHUNKS -->
+    <!-- Define bundles of folders and other chunks to load -->
+    
+    <chunks>
+    	<!-- EX
+    	<chunk id="chunk">
+			<pack>load_part_1</pack> - loads a folder in assets named "load_part_1"
+			<pack>load_part_2</pack> - loads a folder in assets named "load_part_2"
+			<chunk>other_chunk</chunk> - loads another chunk named "other_chunk" which will have its own list of folders in assets
+		</chunk>
+    	-->
+    	
+    	<chunk id="confetti">
+    		<pack>confetti</pack>
+    	</chunk>
+    	
+    	<chunk id="preload">
+    		<pack>preload</pack>
+    	</chunk>
+    	
+    	<chunk id="initial_sd">
+    		<pack>initial_universal</pack>
+    		<pack>initial_sd</pack>
+    	</chunk>
+    	
+    	<chunk id="initial_hd">
+    		<pack>initial_universal</pack>
+    		<pack>initial_hd</pack>     
+    	</chunk>
+    	
+    	<chunk id="initial_audio_with_soundfx">
+    		<pack>initial_music</pack>
+    		<pack>initial_soundfx</pack>
+    	</chunk>
+    	
+    	<chunk id="initial_audio_only_music">
+    		<pack>initial_music</pack>
+    	</chunk>
+    	
+    	<chunk id="glove_universe">
+    		<pack>glove_universe</pack>
+    	</chunk>
+    	
+    	<chunk id="glove_universe_en">
+    		<pack>glove_universe_en</pack>
+    	</chunk>
+    	
+    	<chunk id="glove_universe_localize">
+    		<pack>glove_universe_localize</pack>
+    	</chunk>
+    	
+    	<chunk id="park_closed">
+    		<pack>park_closed</pack>
+    		<pack>confetti</pack>
+    	</chunk>
+    	
+    	<chunk id="gameplay_sd">
+    		<pack>gameplay_universal</pack>
+    		<pack>gameplay_sd</pack>
+    		<pack>confetti</pack>
+    	</chunk>
+    	
+    	<chunk id="gameplay_hd">
+    		<pack>gameplay_universal</pack>
+    		<pack>gameplay_hd</pack>
+    		<pack>confetti</pack>
+    	</chunk>
+    	
+    	<chunk id="gameplay_audio_with_soundfx">
+    		<pack>gameplay_music</pack>
+    		<pack>gameplay_soundfx</pack>
+    	</chunk>
+    	
+    	<chunk id="gameplay_audio_only_music">
+    		<pack>gameplay_music</pack>
+    	</chunk>
+    	
+    	<chunk id="minigame_hammer">
+    		<pack>countdown</pack>
+    		<pack>minigame_hammer</pack>
+    	</chunk>
+    	
+    	<chunk id="minigame_balltoss">
+    		<pack>countdown</pack>
+    		<pack>minigame_balltoss</pack>
+    	</chunk>
+    	
+    	<chunk id="minigame_darts">
+    		<pack>countdown</pack>
+    		<pack>minigame_darts</pack>
+    	</chunk>
+    	
+    	<chunk id="minigame_water">
+    		<pack>countdown</pack>
+    		<pack>minigame_water</pack>
+    	</chunk>
+    	
+    	<chunk id="minigame_shoot">
+    		<pack>countdown</pack>
+    		<pack>minigame_shoot</pack>
+    	</chunk>
+    	
+    	<chunk id="minigame_basketball">
+    	    <pack>countdown</pack>
+    		<pack>minigame_basketball</pack>
+    	</chunk>
+    
+    	<chunk id="minigame_seabear">
+    		<pack>minigame_seabear</pack>
+    	</chunk>
+    	
+    	<chunk id="activity_fortune">
+    		<pack>activity_fortune</pack>
+    	</chunk>
+    
+    	<chunk id="activity_prize_box">
+    		<pack>activity_prize_box</pack>
+    	</chunk>
+    
+    	<chunk id="activity_admirer">
+    		<pack>activity_admirer</pack>
+    		<pack>confetti</pack>
+    	</chunk>
+    
+    	<chunk id="ride_coaster">
+    		<pack>ride_coaster</pack>
+    	</chunk>
+    
+    	<chunk id="ride_tunnel">
+    		<pack>ride_tunnel</pack>
+    	</chunk>
+
+        <!-- END OF CHUNKS -->
+    </chunks>
+    
+    <!-- QUALITY / BENCHMARKING -->
+    <!-- index -->
+    <!-- 	-1: Self determine via flambe benchmark -->
+    <!-- 	 0: Lowest quality -->
+    <!-- 	As the index increases the better the quality -->
+    <!-- 	-1, 0, and 1 are the normal options, but more can be added if necessary (this is rare) -->
+    <!-- forceLowQualityMobile -->
+    <!-- 	Only affects html touch platforms -->
+    <!-- 	False, do not force low quality -->
+    <!-- 	True, force low quality -->
+    <quality index="0" forceLowQualityMobile="true"/>
+    
+</config>

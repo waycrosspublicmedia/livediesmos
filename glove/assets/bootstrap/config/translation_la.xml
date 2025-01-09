@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<translation attributes>-->
+<!-- defaultFont dictates the font (based on the id set in fonts.xml) that all fields will use unless fontId is specified within that field's individual tag.-->
+
+<!-- <Node Attributes> -->
+<!-- id is not Optional. It tells flash which text field to change. -->
+<!-- fontScale is Optional. It allows you to customize the size of the font used in this particular field. 1 is normal. 2 is double size. .5 is half size. Defaults to 1.-->
+<!-- fontName is Optional. It allows you to customize the font used in this particular field. Leave it out to use the default font (specified by defaultFont).-->
+<!-- offsetX is Optional. It allows you to move the text field a certain number of pixels on the X axis. Leave it out or use 0 if you don't want to move the text. -->
+<!-- offsetY is Optional. It allows you to move the text field a certain number of pixels on the Y axis. Leave it out or use 0 if you don't want to move the text.--> 
+
+<strings defaultFont="Basic">
+	<!--Preloader-->
+	<string id="loading"				fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[LOADING]]></string>
+	
+	<!--Basics-->
+	<string id="title"					fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[GLOVE UNIVERSE]]></string>
+	<string id="tap_anywhere"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Tap Anywhere to Play]]></string>
+	<string id="click_anywhere"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Click Anywhere to Play]]></string>
+	<string id="orientation_landscape"	fontName="Basic"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Please flip back to Landscape mode.]]></string>
+	<string id="ticket_text"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[ADMIT ONE]]></string>
+	<string id="map_title"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[GLOVE UNIVERSE]]></string>
+	
+	<!--Park Closed-->
+	<string id="closed_title"			fontName="nougat"	fontScale=".7"	offsetX="0" offsetY="0"><![CDATA[GLOVE UNIVERSE]]></string>
+	<string id="closed_banner_1"		fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[NEW GAMES:]]></string>
+	<string id="closed_banner_2"		fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[DAYS]]></string>
+	<string id="closed_sign"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[PARK CLOSED]]></string>
+	
+	<!-- Code -->
+	<string id="code_copy"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Congratulations! You get 10 tickets!]]></string>
+	<string id="code_key_0"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[0]]></string>
+	<string id="code_key_1"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[1]]></string>
+	<string id="code_key_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[2]]></string>
+	<string id="code_key_3"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[3]]></string>
+	<string id="code_key_4"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[4]]></string>
+	<string id="code_key_5"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[5]]></string>
+	<string id="code_key_6"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[6]]></string>
+	<string id="code_key_7"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[7]]></string>
+	<string id="code_key_8"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[8]]></string>
+	<string id="code_key_9"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[9]]></string>
+	<string id="code_key_enter"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[DONE]]></string>
+	<string id="code_key_undo"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[UNDO]]></string>
+	<string id="btn_code"				fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[ENTER CODE]]></string>
+	
+	<!--Game Buttons-->
+	<string id="btn_back"				fontName="nougat"	fontScale=".75"	offsetX="0" offsetY="0"><![CDATA[BACK]]></string>
+	<string id="btn_map"				fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[BACK<br>TO MAP]]></string>
+	<string id="btn_play_again"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[KEEP<br>PLAYING]]></string>
+	<string id="btn_play"				fontName="nougat"	fontScale=".75"	offsetX="0" offsetY="0"><![CDATA[PLAY]]></string>
+	<string id="btn_prize_pit"			fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[PRIZE PIT]]></string>
+	<string id="btn_cost"				fontName="nougat"	fontScale=".75"	offsetX="0" offsetY="0"><![CDATA[COST]]></string>
+	<string id="btn_close"				fontName="nougat"	fontScale=".75"	offsetX="0" offsetY="0"><![CDATA[CLOSE]]></string>
+	<string id="btn_prizes"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[PRIZES]]></string>
+	
+	<!--Game Menu Screen-->
+	<string id="title_menu"				fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[PAUSE]]></string>
+	
+	<!-- Park Closed -->
+	<string id="glovey_ticket"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Here have a ticket! Use it when the park is open again!]]></string>
+	<string id="glovey_1"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[OWW!]]></string>
+	<string id="glovey_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[That hurts!]]></string>
+	<string id="glovey_3"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[That tickles!]]></string>
+	<string id="glovey_4"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Stop poking me!]]></string>
+	<string id="glovey_5"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[What do you want?]]></string>
+	<string id="glovey_6"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Come back later.]]></string>
+	<string id="park_closed_1"			fontName="nougat_pink"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[PARK CLOSED]]></string>
+	<string id="park_closed_2"			fontName="nougat_pink"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[Reopens]]></string>
+	<string id="park_closed_3"			fontName="nougat_pink"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[XX/XX/XXXX]]></string>
+	
+	<!--Map Screen-->
+	<string id="map_tickets"			fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[TICKETS]]></string>
+	<string id="map_new"				fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[NEW]]></string>
+	<string id="map_welcome_1"			fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[WELCOME TO GLOVE UNIVERSE!]]></string>
+	<string id="map_welcome_2"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[PLAY GAMES TO GET TICKETS AND PRIZES!]]></string>
+	<string id="map_welcome_3"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[USE TICKETS TO PLAY RIDES OR ACTIVITIES!]]></string>
+	<string id="map_welcome_4"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[TRY TO GET ALL THE PRIZES!]]></string>
+	<string id="map_welcome_5"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[IF YOU'RE REALLY GOOD YOU'LL GET A RARE PRIZE!]]></string>
+	
+	<!-- Daily Challenges -->
+	<string id="daily_click"			fontName="nougat"	fontScale=".22"	offsetX="0" offsetY="0"><![CDATA[Click for the daily challenge!]]></string>
+	<string id="daily_tap"				fontName="nougat"	fontScale=".22"	offsetX="0" offsetY="0"><![CDATA[Tap for the daily challenge!]]></string>
+	<string id="daily_challenge"		fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Daily Challenge:]]></string>
+	<string id="daily_win"				fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Win]]></string>
+	<string id="daily_games"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[games today!]]></string>
+	<string id="daily_tickets"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[tickets today!]]></string>
+	<string id="daily_prizes"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[prizes today!]]></string>
+	<string id="daily_complete1"		fontName="nougat"	fontScale=".27"	offsetX="0" offsetY="0"><![CDATA[You completed today's challenge!]]></string>
+	<string id="daily_complete2"		fontName="nougat"	fontScale=".27"	offsetX="0" offsetY="0"><![CDATA[Come back tomorrow for more!]]></string>
+	
+	<!--Help Screen-->
+	<string id="title_help"				fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[HELP]]></string>
+	
+	<!--Quit Screen-->
+	<string id="title_quit"				fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[PAUSE]]></string>
+	<string id="quit_copy"				fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[ARE YOU SURE YOU WANT TO QUIT?]]></string>
+	
+	<!--End Screen-->
+	<string id="you_won"				fontName="nougat"	fontScale=".65"	offsetX="0" offsetY="0"><![CDATA[YOU GOT:]]></string>
+	<string id="you_got"				fontName="nougat"	fontScale=".65"	offsetX="0" offsetY="0"><![CDATA[YOU GOT:]]></string>
+	<string id="you_have"				fontName="nougat"	fontScale=".65"	offsetX="0" offsetY="0"><![CDATA[YOU HAVE:]]></string>
+	<string id="you_upgrade"			fontName="nougat"	fontScale=".65"	offsetX="0" offsetY="0"><![CDATA[UPGRADE!]]></string>
+	<string id="prize_upgrade_1"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[GET]]></string>
+	<string id="prize_upgrade_2"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[<br>MORE POINTS TO UPGRADE]]></string>
+	<string id="prize_upgrade_3"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[<br>MORE POINTS FOR THE NEXT PRIZE]]></string>
+	<string id="earned_all"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[YOU EARNED ALL THE PRIZES IN THIS GAME! COME BACK TOMMOROW FOR NEW PRIZES!]]></string>
+	
+	<!-- Prize Pit -->			
+	<string id="pit_title"				fontName="nougat"	fontScale=".75"	offsetX="0" offsetY="0"><![CDATA[PRIZES]]></string>
+	<string id="prize_count"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[x]]></string>
+	<string id="prize_progress"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Total Prize Progress: ]]></string>
+	
+	<!-- Preview screen -->
+	<string id="preview_earned"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[EARNED]]></string>
+	<string id="preview_cost"			fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[COST]]></string>
+	<string id="title_prizes"			fontName="nougat"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[PRIZES]]></string>
+	<string id="rarity_0"				fontName="nougat"	fontScale=".2"	offsetX="0" offsetY="0"><![CDATA[(common)]]></string>
+	<string id="rarity_1"				fontName="nougat"	fontScale=".2"	offsetX="0" offsetY="0"><![CDATA[(uncommon)]]></string>
+	<string id="rarity_2"				fontName="nougat"	fontScale=".2"	offsetX="0" offsetY="0"><![CDATA[(rare)]]></string>
+	<string id="rarity_3"				fontName="nougat"	fontScale=".2"	offsetX="0" offsetY="0"><![CDATA[(super rare)]]></string>
+	<string id="info_0"					fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Play the game to get this prize!]]></string>
+	<string id="info_1"					fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Play the game and get more than 250 points to get this prize!]]></string>
+	<string id="info_2"					fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Play the game and get more than 500 points to get this prize!]]></string>
+	<string id="info_3"					fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Play the game and get more than 1000 points to get this prize!]]></string>
+	<string id="afford"					fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[You don't have enough tickets to play!]]></string>
+	<string id="tap_pay"				fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[Tap to enter tickets!]]></string>
+	<string id="click_pay"				fontName="nougat"	fontScale=".6"	offsetX="0" offsetY="0"><![CDATA[Click to enter tickets!]]></string>
+	<string id="preview_rare"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[RARE]]></string>
+	
+	<!--Gameplay-->
+	<string id="time"					fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[time]]></string>
+	<string id="score"					fontName="nougat"	fontScale=".25"	offsetX="0" offsetY="0"><![CDATA[SCORE]]></string>
+	<string id="score_floating"			fontName="nougat_pink"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[SCORE]]></string>
+	<string id="multiplier"				fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[x]]></string>
+	<string id="objective"				fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[BONUS GOAL:]]></string>
+	<string id="objective_done"			fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[You got the Bonus Goal!]]></string>
+	<string id="tickets"				fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[TICKET]]></string>
+	<string id="tickets_mult"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[TICKETS]]></string>
+	<string id="minigame_over"			fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[ALL DONE!]]></string>
+	<string id="times_up"				fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[TIME'S UP!]]></string>
+	<string id="countdown_5"			fontName="nougat_pink"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[5]]></string>
+	<string id="countdown_4"			fontName="nougat_pink"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[4]]></string>
+	<string id="countdown_3"			fontName="nougat_pink"	fontScale="1.5"	offsetX="0" offsetY="0"><![CDATA[3]]></string>
+	<string id="countdown_2"			fontName="nougat_pink"	fontScale="1.5"	offsetX="0" offsetY="0"><![CDATA[2]]></string>
+	<string id="countdown_1"			fontName="nougat_pink"	fontScale="1.5"	offsetX="0" offsetY="0"><![CDATA[1]]></string>
+	<string id="countdown_go"			fontName="nougat_pink"	fontScale="1.5"	offsetX="0" offsetY="0"><![CDATA[GO!]]></string>
+	
+	<!-- Game Names-->
+	<string id="minigame_hammer"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Hammer Slammer]]></string>
+	<string id="minigame_balltoss"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Flip n' Fling]]></string>
+	<string id="minigame_darts"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Pop 'Til You Drop]]></string>
+	<string id="minigame_water"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Balloon Blaster]]></string>
+	<string id="minigame_shoot"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Monster Glover]]></string>
+	<string id="minigame_basketball"	fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Clam Dunk]]></string>
+	<string id="ride_coaster"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Fiery Fist O'Pain II]]></string>
+	<string id="activity_fortune"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[The Great Wumbozi]]></string>
+	<string id="activity_prize_box"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Mystery Box]]></string>
+	<string id="minigame_seabear"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Stuff a Seabear]]></string>
+	<string id="ride_tunnel"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Tunnel of Glove]]></string>
+	<string id="activity_admirer"		fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Secret Admirer]]></string>
+	
+	<!-- Prizes -->
+	<string id="prize_balloon"			fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[GLOVE BALLOON]]></string>
+	<string id="prize_gloveglove"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[GLOVE GLOVE]]></string>
+	<string id="prize_hat"				fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[GLOVE HAT]]></string>
+	<string id="prize_flashlight"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[GLOVE LIGHT]]></string>
+	<string id="prize_bubble"			fontName="nougat"	fontScale=".33"	offsetX="0" offsetY="0"><![CDATA[DIRTY BUBBLE BALL]]></string>
+	<string id="prize_seabear"			fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[SEABEAR PLUSH]]></string>
+	<string id="prize_bb"				fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[BARNACLEBOY FIGURE]]></string>
+	<string id="prize_mm"				fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[MERMAIDMAN FIGURE]]></string>
+	<string id="prize_mr"				fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[MANRAY FIGURE]]></string>
+	<string id="prize_comic"			fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[COMIC BOOK]]></string>
+	<string id="prize_shellphone"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[SHELLPHONE]]></string>
+	<string id="prize_clownbot"			fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[CLOWNBOT]]></string>
+	<string id="prize_piratehat"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[PIRATE HAT]]></string>
+	<string id="prize_garyballoon"		fontName="nougat"	fontScale=".35"	offsetX="0" offsetY="0"><![CDATA[GARY BALLOON]]></string>
+	
+	<!-- Fortune Teller Text -->	
+	<string id="fortune_teller_tap"			fontName="nougat"	fontScale=".25"	offsetX="0" offsetY="0"><![CDATA[Tap anywhere to continue...]]></string>
+	<string id="fortune_teller_click"		fontName="nougat"	fontScale=".25"	offsetX="0" offsetY="0"><![CDATA[Click anywhere to continue...]]></string>
+	<string id="fortune_lever_desktop"				fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Click the lever to get a fortune!]]></string>
+	<string id="fortune_lever_mobile"				fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Tap the lever to get a fortune!]]></string>
+	<string id="fortune_teller_0"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[You want a fortune, bub? Lucky you, you're in the right place.]]></string>
+	<string id="fortune_teller_1_desktop"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Click and hold the crystal ball to get your fortune!]]></string>
+	<string id="fortune_teller_1_mobile"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Tap and hold the crystal ball to get your fortune!]]></string>
+	<string id="fortune_teller_2_desktop"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Don't let go! Click and hold the crystal ball to get your fortune!]]></string>
+	<string id="fortune_teller_2_mobile"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Don't let go! Tap and hold the crystal ball to get your fortune!]]></string>
+	<string id="fortune_teller_3"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Alright bub, your fortune is...]]></string>
+	<string id="fortune_teller_4"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Now get outta here.]]></string>
+	<string id="fortune_teller_fortune_1"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[I see the secret Krabby Patty formula in your future...]]></string>
+	<string id="fortune_teller_fortune_2"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[There are dark tidings in your future...has anyone checked up on Plankton recently?]]></string>
+	<string id="fortune_teller_fortune_3"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[If someone asks "Is mayonnaise an instrument", the answer is no.]]></string>
+	<string id="fortune_teller_fortune_4"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Today’s going be a great day! Get out there and have some fun!]]></string>
+	<string id="fortune_teller_fortune_5"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[You’re gonna run out of tickets if you keep this up...]]></string>
+	<string id="fortune_teller_fortune_6"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Gloves. Gloves! EVERYWHERE! How weird.]]></string>
+	<string id="fortune_teller_fortune_7"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Be careful. Something smells fishy...]]></string>
+	<string id="fortune_teller_fortune_8"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Nothing can bring you down today. You're happy as a clam.]]></string>
+	<string id="fortune_teller_fortune_9"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[-I wumbo, you wumbo, he, she, me wumbo.]]></string>
+	<string id="fortune_teller_fortune_10"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Don’t use your clarinet to unclog the toilet today.]]></string>
+	<string id="fortune_teller_fortune_11"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[I see a rare prize in your future! Keep playing!]]></string>
+	<string id="fortune_teller_fortune_12"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[You have a great chance at getting a high score today.]]></string>
+	<string id="fortune_help_desktop"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click the lever to get your fortune!]]></string>
+	<string id="fortune_help_mobile"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap the lever to get your fortune!]]></string>
+		
+	<!-- Prize Box Text -->	
+	<string id="prize_box_title"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Pick a box...any box]]></string>
+	<string id="prize_box_you_got"			fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[You got...]]></string>
+	<string id="prize_box_win_prize"		fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[A prize!]]></string>
+	<string id="prize_box_win_ticket"		fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[ticket!]]></string>
+	<string id="prize_box_win_tickets"		fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[tickets!]]></string>
+	<string id="prize_box_win_nothing"		fontName="nougat"	fontScale=".4"	offsetX="0" offsetY="0"><![CDATA[Nothing!]]></string>
+	<string id="prize_box_click_help"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click a box to see what's inside!]]></string>
+	<string id="prize_box_tap_help"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap a box to see what's inside!]]></string>
+	<string id="prize_box_prize_balloon"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A glove balloon!]]></string>
+	<string id="prize_box_prize_gloveglove"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A glove glove!]]></string>
+	<string id="prize_box_prize_hat"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A glove hat!]]></string>
+	<string id="prize_box_prize_flashlight"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A glove light!]]></string>
+	<string id="prize_box_prize_bubble"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A Dirty Bubble ball!]]></string>
+	<string id="prize_box_prize_seabear"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A seabear plush!]]></string>
+	<string id="prize_box_prize_bb"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A Barnacleboy figue!]]></string>
+	<string id="prize_box_prize_mm"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A Mermaidman figure!]]></string>
+	<string id="prize_box_prize_mr"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A Manray figure!]]></string>
+	<string id="prize_box_prize_comic"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A comic book!]]></string>
+	<string id="prize_box_prize_shellphone"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A shellphone!]]></string>
+	<string id="prize_box_prize_clownbot"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A clownbot!]]></string>
+	<string id="prize_box_prize_piratehat"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A pirate hat!]]></string>
+	<string id="prize_box_prize_garyballoon"	fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[A Gary balloon!]]></string>
+	
+	<!-- Monster Glover-->
+	<string id="shoot_help_desktop"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Shoot the monster targets!]]></string>
+	<string id="shoot_help_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Shoot the monster targets!]]></string>
+	<string id="shoot_help_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Hit the back targets and eyes for more points!]]></string>
+	<string id="shoot_objective_1"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Knock down]]></string>
+	<string id="shoot_objective_monster1"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[monsters]]></string>
+	<string id="shoot_objective_monster2"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[monsters]]></string>
+	<string id="shoot_objective_monster3"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[monsters]]></string>
+	<string id="shoot_objective_monster4"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[monsters]]></string>
+	<string id="shoot_objective_monster5"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[monsters]]></string>
+	
+	<!--Flip n' Fling-->
+	<string id="toss_objective_1"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Land in]]></string>
+	<string id="toss_objective_cup1"		fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[bronze cups]]></string>
+	<string id="toss_objective_cup2"		fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[silver cups]]></string>
+	<string id="toss_objective_cup3"		fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[gold cups]]></string>
+	<string id="toss_help_1_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click a cup to toss the coin!]]></string>
+	<string id="toss_help_1_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap a cup to toss the coin!]]></string>
+	<string id="toss_help_2_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click on Mr. Krabs to stop him from stealing your coin!]]></string>
+	<string id="toss_help_2_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap on Mr. Krabs to stop him from stealing your coin!]]></string>
+	<string id="great_toss"					fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[GREAT TOSS!]]></string>
+	
+	<!--Pop 'Till You Drop-->
+	<string id="darts_objective_1"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Pop]]></string>
+	<string id="darts_objective_balloon1"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[blue balloons]]></string>
+	<string id="darts_objective_balloon2"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[green balloons]]></string>
+	<string id="darts_objective_balloon3"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[orange balloons]]></string>
+	<string id="darts_objective_balloon4"	fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[red balloons]]></string>
+	<string id="darts_help_desktop"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click to throw a dart!]]></string>
+	<string id="darts_help_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap to throw a dart!]]></string>
+	<string id="darts_help_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Red balloons are worth the most points! Blue ones are worth the least!]]></string>
+	
+	<!--Glove Grow-->
+	<string id="water_help_desktop"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click to spray your water gun!]]></string>
+	<string id="water_help_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap to spray your water gun!]]></string>
+	<string id="water_help_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Try to fill up your balloon first!]]></string>
+	<string id="water_lose"					fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[YOU LOST!]]></string>
+	<string id="water_win"					fontName="nougat_pink"	fontScale=".8"	offsetX="0" offsetY="0"><![CDATA[YOU WIN!]]></string>
+	
+	<!--Clam Dunk-->
+	<string id="bball_help_desktop"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click the basket to throw the ball!]]></string>
+	<string id="bball_help_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap the basket to throw the ball!]]></string>
+	<string id="bball_help_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Get the best score before time runs out!]]></string>
+	
+	<!--Tunnel of Glove-->
+	<string id="tunnel_help_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click the cooties to shoot them with your arrows!]]></string>
+	<string id="tunnel_help_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap the cooties to shoot them with your arrows!]]></string>
+	<string id="tunnel_help_desktop_2"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click and hold to fire an exploding arrow!]]></string>
+	<string id="tunnel_help_mobile_2"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap and hold to fire an exploding arrow!]]></string>
+	
+	<!-- Build-a-Seabear -->
+	<string id="seabear_help_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click the pieces to make a seabear!]]></string>
+	<string id="seabear_help_mobile"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap the pieces to make a seabear!]]></string>
+	<string id="seabear_help_2"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Fill as many orders as you can before time runs out!]]></string>
+	
+	<!--Hammer Slam-->
+	<string id="hammer_help_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click to stop the meter in the target area to build up power!]]></string>
+	<string id="hammer_help_mobile"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap to stop the meter in the target area to build up power!]]></string>
+	<string id="hammer_help_2"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Combo successful hits to build power even higher!]]></string>
+	<string id="hammer_perfect"				fontName="nougat"	fontScale=".7"	offsetX="0" offsetY="0"><![CDATA[Perfect!]]></string>
+	<string id="hammer_great"				fontName="nougat"	fontScale=".7"	offsetX="0" offsetY="0"><![CDATA[Great!]]></string>
+	<string id="hammer_miss"				fontName="nougat"	fontScale=".7"	offsetX="0" offsetY="0"><![CDATA[Miss!]]></string>
+	<string id="hammer_result_1"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[BARNACLE<br>BAIT]]></string>
+	<string id="hammer_result_2"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[TINY<br>BABY]]></string>
+	<string id="hammer_result_3"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[BUBBLE<br>BLOWER]]></string>
+	<string id="hammer_result_4"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[GOOFY<br>GOOBER]]></string>
+	<string id="hammer_result_5"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[AVERAGE<br>GUPPY]]></string>
+	<string id="hammer_result_6"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[JUMPIN'<br>JELLYFISH]]></string>
+	<string id="hammer_result_7"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[BIG<br>FISH]]></string>
+	<string id="hammer_result_8"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[ANCHOR<br>ARMS]]></string>
+	<string id="hammer_result_9"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[BUFF<br>PANTS]]></string>
+	<string id="hammer_result_10"			fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[KING<br>NEPTUNE]]></string>
+	
+	<string id="hammer_checkpoint_1"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[BARNACLE BAIT!]]></string>
+	<string id="hammer_checkpoint_2"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[TINY BABY!]]></string>
+	<string id="hammer_checkpoint_3"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[BUBBLE BLOWER!]]></string>
+	<string id="hammer_checkpoint_4"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[GOOFY GOOBER!]]></string>
+	<string id="hammer_checkpoint_5"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[AVERAGE GUPPY]]></string>
+	<string id="hammer_checkpoint_6"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[JUMPIN' JELLYFISH!]]></string>
+	<string id="hammer_checkpoint_7"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[BIG FISH!]]></string>
+	<string id="hammer_checkpoint_8"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[ANCHOR ARMS!]]></string>
+	<string id="hammer_checkpoint_9"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[BUFF PANTS!]]></string>
+	<string id="hammer_checkpoint_10"		fontName="nougat_pink"	fontScale=".9"	offsetX="0" offsetY="0"><![CDATA[KING NEPTUNE!]]></string>
+	
+	<!--Roller Coaster-->
+	<string id="coaster_help_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Use the mouse to move left and right!]]></string>
+	<string id="coaster_help_mobile"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Swipe to move left and right!]]></string>
+	<string id="coaster_help2_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click or press space to jump!]]></string>
+	<string id="coaster_help2_mobile"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap to jump!]]></string>
+	<string id="coaster_help3"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Get as many points as you can!]]></string>
+	<string id="coaster_progress1"			fontName="nougat"	fontScale=".2"	offsetX="0" offsetY="0"><![CDATA[You have]]></string>
+	<string id="coaster_progress2"			fontName="nougat"	fontScale=".2"	offsetX="0" offsetY="0"><![CDATA[points so far!]]></string>
+	<string id="coaster_you_need1"			fontName="nougat"	fontScale=".26"	offsetX="0" offsetY="0"><![CDATA[You need]]></string>
+	<string id="coaster_you_need2"			fontName="nougat"	fontScale=".26"	offsetX="0" offsetY="0"><![CDATA[more points to get:]]></string>
+	<string id="coaster_you_won"			fontName="nougat"	fontScale=".26"	offsetX="0" offsetY="0"><![CDATA[You won:]]></string>
+	<string id="coaster_you_already_won"	fontName="nougat"	fontScale=".26"	offsetX="0" offsetY="0"><![CDATA[You already have:]]></string>
+	<string id="coaster_welcome1"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Welcome to the<br>Fiery Fist O'Pain II!]]></string>
+	<string id="coaster_welcome2"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[To get the prize for this ride, score 1000 points before the five days are up!]]></string>
+	<string id="coaster_welcome3"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[Only ]]></string>
+	<string id="coaster_welcome4"			fontName="nougat"	fontScale=".3"	offsetX="0" offsetY="0"><![CDATA[ days left!!]]></string>
+	
+	<!-- Secret Admirer -->
+	<string id="admirer_help_desktop"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Click the character you think is hiding behind the curtain!]]></string>
+	<string id="admirer_help_mobile"		fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Tap the character you think is hiding behind the curtain!]]></string>
+	<string id="admirer_title"				fontName="nougat"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Who's your<br>secret<br>admirer?]]></string>
+	<string id="admirer_correct"			fontName="nougat_pink"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[You guessed right!]]></string>
+	<string id="admirer_incorrect"			fontName="nougat_pink"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[You guessed wrong!]]></string>
+	<string id="admirer_result_1"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[WHAT A<br>CATCH!]]></string>
+	<string id="admirer_result_2"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[HOT<br>TAMALE!]]></string>
+	<string id="admirer_result_3"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[COLD FISH!]]></string>
+	<string id="admirer_result_4"			fontName="nougat"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[SPICY<br>SPAGHETTI!]]></string>
+	
+</strings>
