@@ -1,0 +1,52 @@
+<config>
+		
+    <!-- SERVICES -->
+    <!-- Enable, disable, and configure services here -->
+    
+	<services>
+		<service type="analytics" enabled="false" id="7364669622968456663" />
+	</services>
+	
+	<!-- LOCALIZATION -->
+	      
+    <localization>
+    	<region>en</region>
+    </localization>
+
+	<!-- PACK DEFINITIONS -->
+	<!-- Define packs and flump folders to be loaded later -->
+	      
+    <packs>
+    	<!-- EX
+    	<pack id="pack_folder1"/>
+    	<pack id="pack_folder2">
+      		<flump id="flump_folder"/>
+  		</pack>
+    	-->
+    	
+   		<pack id="gameplay_universal">
+        	<flump id="element"/>
+   		</pack>
+   		
+   		<!-- END OF PACKS -->
+    </packs>
+    
+    <!-- CHUNKS -->
+    <!-- Define larger bundles of chunks and packs to load -->
+    
+    <chunks>
+    	<!-- EX
+    	<chunk id="chunk">
+			<chunk>load_part_1</chunk>
+			<pack>load_part_2</chunk>
+		</chunk>
+    	-->
+    
+    	<chunk id="initial">
+    		<pack>gameplay_universal</pack>
+    	</chunk>
+        
+        <!-- END OF CHUNKS -->
+    </chunks>
+    
+</config>

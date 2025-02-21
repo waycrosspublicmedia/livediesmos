@@ -1,0 +1,1183 @@
+﻿<xml>
+	<vars>
+		<var>
+			<!-- racine à coller devant tous les noms d'export du jeu -->
+			<id>#RADIX#</id>
+			<value>com.disney.minigames.phf_spl_act_agentpstrikesback.</value>
+		</var>
+		<var>
+			<id>#NUM_DECO#</id>
+			<value>1..54</value>
+		</var>
+		<var>
+			<id>#NUM_NEON#</id>
+			<value>1..23</value>
+		</var>
+		<var>
+			<id>#SIDES#</id>
+			<value>_left,_right</value>
+		</var>
+		<var>
+			<!-- liste des plans de jeu decoration-->
+			<id>#BG_ASSETS#</id>
+			<value>_BG_plan2,_BG_plan3,_BG_fixed</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P -->
+			<id>#WEAPON_MODE#</id>
+			<value>_unarmed,_armed</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P communes à tous ses etats-->
+			<id>#AGENTP_ANIM#</id>
+			<value>_wait,_walk,_flip,_derap,_recept,_win,_hurt,_fall,_jump</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P spécifiques à l'état armé-->
+			<id>#AGENTP_ANIM_ARMED#</id>
+			<value>_shoot_wait,_shoot_jump,_shoot_walk</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P spécifiques à l'état armé-->
+			<id>#AGENTP_ANIM_UNARMED#</id>
+			<value>_cling,_cling_fall,_watch_wait,_watch_jump,_watch_walk</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P spécifiques à l'état armé-->
+			<id>#SHOOT_ANIM#</id>
+			<value>_begin,_normal,_end</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de robot -->
+			<id>#ROBOT_ARM_TYPES#</id>
+			<value>_2arms,_1arm</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de robot -->
+			<id>#ROBOT_DAMAGED_TYPES#</id>
+			<value>_normal,_damaged</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états du robot communes à tous ses etats-->
+			<id>#ROBOT_ANIM#</id>
+			<value>_wait,_walk,_shoot,_explode</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de robot spécifiques à l'état damaged-->
+			<id>#ROBOT_ANIM_DAMAGED#</id>
+			<value>_transitionDamaged</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de robot spécifiques à l'état damaged-->
+			<id>#ROBOT_ANIM_2ARMS#</id>
+			<value>_loseArm</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P communes à tous ses etats-->
+			<id>#BOSS_ANIM#</id>
+			<value>_wait,_run,_jump,_laugh,_explode,_fly_up,_fly_shoot,_fly_dive,_fly_start,_fly_recept</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P communes à tous ses etats-->
+			<id>#BOSS_PATTERNS#</id>
+			<value>_pattern1,_pattern2,_pattern3,_pattern4,_laugh</value>
+		</var>
+		<var>
+			<id>#BOSS_SCREEN_ANIM#</id>
+			<value>_begin,_wait,_end</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de contrôleur de camera -->
+			<id>#CAM#</id>
+			<value>L,R,T,B</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de templates de wall-->
+			<id>#NUM_PLATFORMS#</id>
+			<value>1</value>
+		</var>
+		<var>
+			<!-- liste de types de wall possibles-->
+			<id>#WALLTYPE#</id>
+			<value>1..3</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de blocks de wall sur lesquels le joueur peut marcher possibles-->
+			<id>#WALLTOPBLOCK_RARE#</id>
+			<value>000_010_000,000_011_000,000_111_000,000_110_000,000_010_010,000_011_011,000_110_110,000_011_010,000_110_010,000_111_010,000_111_011,000_111_110</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de blocks de wall sur lesquels le joueur peut marcher possibles-->
+			<id>#WALLTOPBLOCK_COMMON#</id>
+			<value>000_111_111</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de blocks de wall possibles-->
+			<id>#WALLBLOCK_RARE#</id>
+			<value>010_010_010,010_010_000,010_111_010,011_011_000,110_110_000,010_111_011,010_111_110,010_011_011,010_110_110,011_011_010,110_110_010,010_011_010,010_110_010,010_011_000,010_110_000,010_111_111,111_111_010,011_111_010,110_111_010,110_111_011,011_111_110,011_111_000,110_111_000,010_111_000,110_111_111,011_111_111,111_111_011,111_111_110,011_111_011,110_111_110</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de blocks de wall possibles-->
+			<id>#WALLBLOCK_UNCOMMON#</id>
+			<value>111_111_000,110_110_110</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de blocks de wall possibles-->
+			<id>#WALLBLOCK_COMMON#</id>
+			<value>111_111_111,011_011_011</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de panneaux d'aide -->
+			<id>#NUM_HELP#</id>
+			<value>1..12</value>
+		</var>
+		<var>
+			<!-- liste de suffixes d'états graphiques des bonus item -->
+			<id>#TYPE_ITEM#</id>
+			<value>_visible,_get</value>
+		</var>
+		<var>
+			<!-- liste de suffixes d'états graphiques des bonus item -->
+			<id>#TYPE_WEAPONITEM#</id>
+			<value>_visible,_get,_appear,_disappear</value>
+		</var>
+		<var>
+			<!-- liste de noms d'arbres-->
+			<id>#NUM_TREE#</id>
+			<value>1</value>
+		</var>
+		<var>
+			<!-- liste de types de wall possibles-->
+			<id>#BANDS_ANIM#</id>
+			<value>_open,_normal,_close</value>
+		</var>
+		<var>
+			<!-- id de levels possibles -->
+			<id>#NUM_LEVELS#</id>
+			<value>1..3</value>
+		</var>
+		<var>
+			<!-- liste des plans de jeu dev-->
+			<id>#PLANE_DEV#</id>
+			<value>gamePlane</value>
+		</var>
+		<var>
+			<id>#DOOR_STATES#</id>
+			<value>_open,_close</value>
+		</var>
+		<var>
+			<id>#DOOR_POPUP_ANIM#</id>
+			<value>_door_popup_begin,_door_popup_wait,_door_popup_end</value>
+		</var>
+		<var>
+			<!-- liste de suffixes de noms d'états de l'agent P communes à tous ses etats-->
+			<id>#WATCH_HALO_ANIM#</id>
+			<value>_watch_halo_begin,_watch_halo_wait,_watch_halo_end</value>
+		</var>
+		<var>
+			<!-- liste des plans de jeu decoration-->
+			<id>#PLANE_GFX#</id>
+			<value>gameBack,gameFront,bg1,bg2,bgFixed</value>
+		</var>
+		<var>
+			<!-- liste de types de wall possibles-->
+			<id>#NUM_FRIENDS#</id>
+			<value>1..9</value>
+		</var>
+	</vars>
+	
+	<bitmap/>
+	
+	<file_template><name>templates</name></file_template>
+	<file><name>sprites</name></file>
+	<template_alpha>0</template_alpha>
+	
+	<groups>
+	
+		<group>
+			<!-- les containers de level design -->
+			<id>levels</id>
+			<instance>0</instance>
+			<vecto/>
+			
+			<groups>
+				<group>
+					<!-- les containers de level design -->
+					<id>levels_dev</id>
+					<file><name>level_design</name></file>
+					
+					<assets>
+						<asset>
+							<!-- états graphiques de l'agent P -->
+							<id>level#NUM_LEVELS#_#PLANE_DEV#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.level#NUM_LEVELS#_#PLANE_DEV#</export>
+						</asset>
+					</assets>
+				</group>
+				<group>
+					<!-- les containers de level design -->
+					<id>levels_gfx</id>
+					<file><name>level_decoration</name></file>
+					
+					<assets>
+						<asset>
+							<!-- états graphiques de l'agent P -->
+							<id>level#NUM_LEVELS#_#PLANE_GFX#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.level#NUM_LEVELS#_#PLANE_GFX#</export>
+						</asset>
+					</assets>
+				</group>
+			</groups>
+		</group>
+		<group>
+			<!-- les sprites de jeu) -->
+			<id>sprites</id>
+			<file><name>sprites</name></file>
+			<instance>10</instance>
+			
+			<groups>
+				<group>
+					<!-- toutes les états graphiques de l'AgentP -->
+					<id>characters</id>
+					<file><name>characters</name></file>
+					<instance>1</instance>
+							
+					<assets>
+					
+						<!-- AgentP -->
+						<asset>
+							<!-- états graphiques de l'agent P -->
+							<id>AgentP#WEAPON_MODE##AGENTP_ANIM#</id>
+							<export>#RADIX#AgentP#WEAPON_MODE##AGENTP_ANIM#</export>
+							<export_template>#RADIX#template_AgentP#AGENTP_ANIM#</export_template>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- états graphiques de l'agent P état unarmed-->
+							<id>AgentP_unarmed#AGENTP_ANIM_UNARMED#</id>
+							<export>#RADIX#AgentP_unarmed#AGENTP_ANIM_UNARMED#</export>
+							<export_template>#RADIX#template_AgentP#AGENTP_ANIM_UNARMED#</export_template>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- états graphiques de l'agent P état unarmed-->
+							<id>AgentP_armed#AGENTP_ANIM_ARMED#</id>
+							<export>#RADIX#AgentP_armed#AGENTP_ANIM_ARMED#</export>
+							<export_template>#RADIX#template_AgentP#AGENTP_ANIM_ARMED#</export_template>
+							<vecto/>
+						</asset>
+													
+						<asset>
+							<!-- DEV : asset virtuel de l'agent P -->
+							<id>AgentP</id>
+							<export_template>#RADIX#template_AgentP</export_template>
+							<datas>
+								<data>
+									<id>depth</id>
+									<value>100000</value>
+								</data>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.player.AgentP</value>
+								</data>
+							</datas>
+						</asset>
+						
+						
+						<!-- Robot -->
+						<asset>
+							<!-- états graphiques du Robot -->
+							<id>Robot#ROBOT_ARM_TYPES##ROBOT_DAMAGED_TYPES##ROBOT_ANIM#</id>
+							<export>#RADIX#Robot#ROBOT_ARM_TYPES##ROBOT_DAMAGED_TYPES##ROBOT_ANIM#</export>
+							<export_template>#RADIX#template_Robot#ROBOT_ANIM#</export_template>
+							<instance>7</instance>
+							<!--vecto/-->
+						</asset>
+						<asset>
+							<!-- états graphiques du Robot -->
+							<id>Robot#ROBOT_ARM_TYPES#_damaged#ROBOT_ANIM_DAMAGED#</id>
+							<export>#RADIX#Robot#ROBOT_ARM_TYPES#_damaged#ROBOT_ANIM_DAMAGED#</export>
+							<export_template>#RADIX#template_Robot#ROBOT_ANIM_DAMAGED#</export_template>
+							<instance>7</instance>
+							<!--vecto/-->
+						</asset>
+						<asset>
+							<!-- états graphiques du Robot -->
+							<id>Robot_2arms#ROBOT_DAMAGED_TYPES##ROBOT_ANIM_2ARMS#</id>
+							<export>#RADIX#Robot_2arms#ROBOT_DAMAGED_TYPES##ROBOT_ANIM_2ARMS#</export>
+							<export_template>#RADIX#template_Robot_loseArm</export_template>
+							<instance>7</instance>
+							<!--vecto/-->
+						</asset>
+						
+						<asset>
+							<!-- DEV : asset virtuel du Robot -->
+							<id>Robot</id>
+							<export_template>#RADIX#template_Robot</export_template>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.Robot</value>
+								</data>
+							</datas>
+							<instance>3</instance>
+							<add_groups><add_group>groupRobot</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- DEV : asset virtuel du Robot -->
+							<id>RobotPatrol</id>
+							<export_template>#RADIX#template_Robot</export_template>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.RobotPatrol</value>
+								</data>
+							</datas>
+							<instance>7</instance>
+							<add_groups><add_group>groupRobot</add_group></add_groups>
+						</asset>
+						
+						<!-- Boss -->
+						<asset>
+							<id>Boss#SIDES##BOSS_ANIM#</id>
+							<export>#RADIX#Boss#SIDES##BOSS_ANIM#</export>
+							<export_template>#RADIX#template_Boss#BOSS_ANIM#</export_template>
+							<vecto/>
+						</asset>
+													
+						<asset>
+							<!-- DEV : asset virtuel de l'agent P -->
+							<id>Boss</id>
+							<export_template>#RADIX#template_Boss</export_template>
+							<datas>
+								<data>
+									<id>depth</id>
+									<value>100000</value>
+								</data>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.boss.Boss</value>
+								</data>
+							</datas>
+						</asset>
+						
+						<asset>
+							<!-- DEV : asset virtuel de l'agent P -->
+							<id>BossPattern</id>
+						</asset>
+						
+						<asset>
+							<!-- DEV : asset virtuel de l'agent P -->
+							<id>BossPattern#BOSS_PATTERNS#</id>
+							<export_template>#RADIX#template_BossPattern#BOSS_PATTERNS#</export_template>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.boss.BossPattern</value>
+								</data>
+							</datas>
+						</asset>
+					</assets>
+				</group>
+				<group>
+					<!-- toutes les états graphiques de l'AgentP -->
+					<id>blocks</id>
+					<file><name>blocks</name></file>
+					<instance>7</instance>
+							
+					<assets>
+						<asset>
+							<!-- walkable part of a top block, borders is a pf so that it doesn't block a jump through it, but so the player can still walk on it -->
+							<id>PFBlockTop</id>
+							<export_template>#RADIX#template_WallTop</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>wall_pfblocktop</add_group></add_groups>
+							<instance>60</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall top blocks (where player can walk onto) -->
+							<id>Wall#WALLTYPE#_#WALLTOPBLOCK_RARE#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Wall#WALLTYPE#_#WALLTOPBLOCK_RARE#</export>
+							<export_template>#RADIX#template_Wall</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>wall_topblock</add_group></add_groups>
+							<vecto/>
+							<instance>5</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall top blocks (where player can walk onto) -->
+							<id>Wall#WALLTYPE#_#WALLTOPBLOCK_COMMON#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Wall#WALLTYPE#_#WALLTOPBLOCK_COMMON#</export>
+							<export_template>#RADIX#template_Wall</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>wall_topblock</add_group></add_groups>
+							<vecto/>
+							<instance>20</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall blocks-->
+							<id>Wall#WALLTYPE#_#WALLBLOCK_RARE#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Wall#WALLTYPE#_#WALLBLOCK_RARE#</export>
+							<export_template>#RADIX#template_Wall</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>wall_block</add_group></add_groups>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- wall blocks-->
+							<id>Wall#WALLTYPE#_#WALLBLOCK_UNCOMMON#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Wall#WALLTYPE#_#WALLBLOCK_UNCOMMON#</export>
+							<export_template>#RADIX#template_Wall</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>wall_block</add_group></add_groups>
+							<vecto/>
+							<instance>20</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall blocks-->
+							<id>Wall#WALLTYPE#_#WALLBLOCK_COMMON#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Wall#WALLTYPE#_#WALLBLOCK_COMMON#</export>
+							<export_template>#RADIX#template_Wall</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>wall_block</add_group></add_groups>
+							<vecto/>
+							<instance>50</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall blocks-->
+							<id>Platform#NUM_PLATFORMS#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Platform#NUM_PLATFORMS#</export>
+							<export_template>#RADIX#template_Platform</export_template>
+							<template_alpha>0</template_alpha>
+							<add_groups><add_group>platform</add_group></add_groups>
+							<vecto/>
+							<instance>10</instance>
+						</asset>
+					</assets>
+				</group>
+				<group>
+					<!-- les sprites de jeu propres à l'environnement 1 -->
+					<id>env1</id>
+					
+					<groups>
+						
+					</groups>
+					
+				</group>
+				<group>
+					<!-- les sprites de jeu communs à tous les environnements -->
+					<id>envall</id>
+					
+					<assets>
+						<asset>
+							<!-- contrôleurs de camera -->
+							<id>Camera#CAM#</id>
+							<export_template>#RADIX#template_Camera#CAM#</export_template>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.camera.Camera#CAM#</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+							<instance>15</instance>
+						</asset>
+						
+						<asset>
+							<!-- DEV : time line d'un mcContent qui clignote quand on lit -->
+							<id>Blinker</id>
+							<export_template>#RADIX#template_Blinker</export_template>
+							<template_alpha>1</template_alpha>
+							<instance>2</instance>
+						</asset>
+						
+						<asset>
+							<!-- DEV : time line d'un mcContent qui clignote quand on lit -->
+							<id>BlinkerRobot</id>
+							<export_template>#RADIX#template_BlinkerRobot</export_template>
+							<template_alpha>1</template_alpha>
+							<instance>2</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall template-->
+							<id>WallTemplate#WALLTYPE#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallTemplate#WALLTYPE#</export>
+							<add_groups><add_group>wall_template</add_group></add_groups>
+							<instance>1</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall boss-->
+							<id>WallBoss</id>
+							<export_template>#RADIX#template_Wall</export_template>
+							<add_groups><add_group>wall_boss</add_group></add_groups>
+							<instance>15</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall boss-->
+							<id>WallRobot</id>
+							<export_template>#RADIX#template_Wall</export_template>
+							<add_groups><add_group>wall_robot</add_group></add_groups>
+							<instance>15</instance>
+						</asset>
+						
+						<asset>
+							<!-- wall boss-->
+							<id>WallInvisible</id>
+							<export_template>#RADIX#template_Wall</export_template>
+							<add_groups><add_group>wall_invisible</add_group></add_groups>
+							<instance>10</instance>
+						</asset>
+						
+						<asset>
+							<!-- trees-->
+							<id>_Arbre#NUM_TREE#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback._Arbre#NUM_TREE#</export>
+							<add_groups><add_group>decorSnapY</add_group></add_groups>
+							<instance>1</instance>
+						</asset>
+						<asset>
+							<!-- trees-->
+							<id>_Neon_#NUM_NEON#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback._Neon_#NUM_NEON#</export>
+							<add_groups><add_group>decor</add_group></add_groups>
+							<instance>20</instance>
+							<vecto parse_mode="in-depth"/>
+						</asset>
+						<asset>
+							<!-- trees-->
+							<id>_Deco_#NUM_DECO#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback._Deco_#NUM_DECO#</export>
+							<add_groups><add_group>decor</add_group></add_groups>
+							<instance>30</instance>
+						</asset>
+						<asset>
+							<!-- helps -->
+							<id>Help#NUM_HELP#</id>
+							<export>#RADIX#Help#NUM_HELP#</export>
+							<add_groups><add_group>decorSnapY</add_group></add_groups>
+							<instance>1</instance>
+							<vecto/>
+						</asset>
+						<asset>
+							<!-- trees-->
+							<id>#BG_ASSETS#</id>
+							<export>com.disney.minigames.phf_spl_act_agentpstrikesback.#BG_ASSETS#</export>
+							<instance>6</instance>
+							<add_groups><add_group>decor</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- dev-->
+							<id>BossScreen</id>
+							<add_groups><add_group>boss_screen</add_group></add_groups>
+							<instance>1</instance>
+						</asset>
+						
+						<asset>
+							<!-- gfx-->
+							<id>BossScreen_level#NUM_LEVELS##BOSS_SCREEN_ANIM#</id>
+							<export>#RADIX#BossScreen_level#NUM_LEVELS##BOSS_SCREEN_ANIM#</export>
+							<instance>1</instance>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>_WeaponItem</id>
+							<export_template>#RADIX#template_WeaponItem</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>2</instance>
+							<add_groups><add_group>weaponItem</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>_WeaponItem#TYPE_WEAPONITEM#</id>
+							<export>#RADIX#_WeaponItem#TYPE_WEAPONITEM#</export>
+							<instance>2</instance>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>#WATCH_HALO_ANIM#</id>
+							<export>#RADIX##WATCH_HALO_ANIM#</export>
+							<instance>2</instance>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>#DOOR_POPUP_ANIM#</id>
+							<export>#RADIX##DOOR_POPUP_ANIM#</export>
+							<instance>2</instance>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>_Pendant</id>
+							<export_template>#RADIX#template_Pendant</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>15</instance>
+							<add_groups><add_group>pendant</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>_Pendant#TYPE_ITEM#</id>
+							<export>#RADIX#_Pendant#TYPE_ITEM#</export>
+							<instance>20</instance>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>_PendantSuper</id>
+							<export_template>#RADIX#template_Pendant</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>3</instance>
+							<vecto/>
+							<add_groups><add_group>pendantSuper</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>_PendantSuper#TYPE_ITEM#</id>
+							<export>#RADIX#_PendantSuper#TYPE_ITEM#</export>
+							<instance>3</instance>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>_Friend</id>
+							<export_template>#RADIX#template_Friend</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>2</instance>
+							<add_groups><add_group>friend</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>_Friend#TYPE_ITEM#</id>
+							<export>#RADIX#_Friend#TYPE_ITEM#</export>
+							<instance>2</instance>
+							<vecto/>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>_Friend_#NUM_FRIENDS#</id>
+							<export>#RADIX#_Friend_#NUM_FRIENDS#</export>
+							<vecto/>
+							<instance>2</instance>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>_LifeBonus</id>
+							<export_template>#RADIX#template_LifeBonus</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>5</instance>
+							<add_groups><add_group>lifeBonus</add_group></add_groups>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques de l'objet bonus 1 -->
+							<id>_LifeBonus#TYPE_ITEM#</id>
+							<export>#RADIX#_LifeBonus#TYPE_ITEM#</export>
+							<instance>5</instance>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques du tir de bras du joueur -->
+							<id>ShootArmPlayer</id>
+							<export_template>#RADIX#template_ShootArm</export_template>
+							<instance>25</instance>
+							<add_groups><add_group>shoot_player</add_group></add_groups>
+						</asset>
+						<asset>
+							<!-- les états graphiques du tir de bras -->
+							<id>ShootArmPlayer#SHOOT_ANIM#</id>
+							<export>#RADIX#ShootArmPlayer#SHOOT_ANIM#</export>
+							<instance>20</instance>
+						</asset>
+						<asset>
+							<!-- les états graphiques du tir de bras d'un robot -->
+							<id>ShootArmRobot</id>
+							<export_template>#RADIX#template_ShootArm</export_template>
+							<instance>10</instance>
+							<add_groups><add_group>shoot_robot</add_group></add_groups>
+						</asset>
+						<asset>
+							<!-- les états graphiques du tir de bras -->
+							<id>ShootArmRobot#SHOOT_ANIM#</id>
+							<export>#RADIX#ShootArmRobot#SHOOT_ANIM#</export>
+							<instance>10</instance>
+						</asset>
+						<asset>
+							<!-- les états graphiques du tir de bras d'un robot -->
+							<id>ShootArmBoss</id>
+							<export_template>#RADIX#template_ShootArm</export_template>
+							<instance>10</instance>
+							<add_groups><add_group>shoot_boss</add_group></add_groups>
+						</asset>
+						<asset>
+							<!-- les états graphiques du tir de bras -->
+							<id>ShootArmBoss#SHOOT_ANIM#</id>
+							<export>#RADIX#ShootArmBoss#SHOOT_ANIM#</export>
+							<instance>10</instance>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>DoorPopupArea</id>
+							<export_template>#RADIX#template_DoorPopupArea</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>1</instance>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.area.DoorPopupArea</value>
+								</data>
+							</datas>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>BossTriggerZone</id>
+							<export_template>#RADIX#template_BossTriggerZone</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>1</instance>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.area.BossTriggerZone</value>
+								</data>
+							</datas>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>CheckPoint</id>
+							<export_template>#RADIX#template_CheckPoint</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>1</instance>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.area.CheckPoint</value>
+								</data>
+							</datas>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>Trap</id>
+							<export_template>#RADIX#template_Trap</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>5</instance>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.Trap</value>
+								</data>
+							</datas>
+						</asset>
+						
+						<asset>
+							<!-- DEV : -->
+							<id>Door</id>
+							<export_template>#RADIX#template_Door</export_template>
+							<template_alpha>0</template_alpha>
+							<instance>5</instance>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.Door</value>
+								</data>
+							</datas>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques du tir de bras -->
+							<id>Door#DOOR_STATES#</id>
+							<export>#RADIX#Door#DOOR_STATES#</export>
+							<vecto/>
+							<instance>2</instance>
+						</asset>
+						
+						<asset>
+							<!-- les états graphiques du tir de bras -->
+							<id>_cutscene_bands#BANDS_ANIM#</id>
+							<export>#RADIX#_cutscene_bands#BANDS_ANIM#</export>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>flash.display.MovieClip</value>
+								</data>
+							</datas>
+							<instance>1</instance>
+							<vecto/>
+						</asset>
+					</assets>
+				</group>
+			</groups>
+		</group>
+		
+		<group>
+			<!-- DEV : les classes de sprites -->
+			<id>sprite_class</id>
+			<groups>
+				<group>
+					<id>template</id>
+					
+					<datas><data>
+						<id>depth</id>
+						<value>0</value>
+					</data></datas>
+					
+					<groups>
+						<group>
+							<id>wall_template</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallTemplate</value>
+								</data>
+								<data>
+									<id>snapX</id>
+									<value>true</value>
+								</data>
+								<data>
+									<id>snapY</id>
+									<value>true</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall_boss</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallBoss</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall_robot</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallRobot</value>
+								</data>
+							</datas>
+						</group>
+					</groups>
+				</group>
+				<group>
+					<id>levelD</id>
+					
+					<groups>
+						<group>
+							<id>platform</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.PF</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Wall</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall_invisible</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallInvisible</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall_pfblocktop</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.PF</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall_block</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallBlock</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>wall_topblock</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.WallTopBlock</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>0</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>boss_screen</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.BossScreen</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>decor</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Decor</value>
+								</data>
+							</datas>
+						</group>
+												
+						<group>
+							<id>decorSnapX</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Decor</value>
+								</data>
+								<data>
+									<id>snapX</id>
+									<value>true</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>decorSnapY</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Decor</value>
+								</data>
+								<data>
+									<id>snapY</id>
+									<value>true</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>decorSnapXY</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Decor</value>
+								</data>
+								<data>
+									<id>snapX</id>
+									<value>true</value>
+								</data>
+								<data>
+									<id>snapY</id>
+									<value>true</value>
+								</data>
+							</datas>
+						</group>
+						
+						<group>
+							<id>groupRobot</id>
+							<datas>
+								<data>
+									<id>addClipX</id>
+									<value>300</value>
+								</data>
+								<data>
+									<id>addClipY</id>
+									<value>200</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>500000</value>
+								</data>
+							</datas>
+							<add_groups><add_group>decorSnapY</add_group></add_groups>
+						</group>
+						
+						<group>
+							<id>decor</id>
+							<datas><data>
+								<id>class</id>
+								<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.clip.Decor</value>
+							</data></datas>
+						</group>
+						
+						<group>
+							<id>weaponItem</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.WeaponItem</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>150000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>pendant</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.Pendant</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>50000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>pendantSuper</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.PendantSuper</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>50000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>friend</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.Friend</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>50000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>lifeBonus</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.LifeBonus</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>50000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>shoot_player</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.shoot.ShootPlayer</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>700000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>shoot_robot</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.shoot.ShootRobot</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>700000</value>
+								</data>
+							</datas>
+						</group>
+						<group>
+							<id>shoot_boss</id>
+							<datas>
+								<data>
+									<id>class</id>
+									<value>com.disney.minigames.phf_spl_act_agentpstrikesback.game.lvld.sprite.mobile.shoot.ShootBoss</value>
+								</data>
+								<data>
+									<id>depth</id>
+									<value>700000</value>
+								</data>
+							</datas>
+						</group>
+					</groups>
+				</group>
+			</groups>
+		</group>
+	</groups>
+</xml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+
+	<main>
+		<life>1150</life>
+		<maxEnergy>220</maxEnergy>
+	</main>
+
+	<physics>
+		<idle>
+			<gravity>8</gravity>
+
+			<maxV>30, 60</maxV>
+			<bounce>0, 0</bounce>
+			<dragAir>1, 0</dragAir>
+			<dragFloor>1, 0</dragFloor>
+		</idle>
+
+		<run>
+			<gravity>8</gravity>
+
+			<maxV>50, 60</maxV>
+			<bounce>0, 0</bounce>
+			<dragAir>1, 0</dragAir>
+			<dragFloor>1, 0</dragFloor>
+		</run>
+
+		<jump>
+			<gravity>5</gravity>
+
+			<maxV>20, 90</maxV>
+			<bounce>0, 0</bounce>
+			<dragAir>.1, 0</dragAir>
+			<dragFloor>1, 0</dragFloor>
+		</jump>
+
+		<block>
+			<gravity>8</gravity>
+
+			<maxV>8, 0</maxV>
+			<bounce>0, 0</bounce>
+			<dragAir>1, 0</dragAir>
+			<dragFloor>1, 0</dragFloor>
+		</block>
+
+		<gettingHit>
+			<gravity>8</gravity>
+
+			<maxV>400, 50</maxV>
+			<bounce>0, 0</bounce>
+			<dragAir>.2, 0</dragAir>
+			<dragFloor>.2, 0</dragFloor>
+		</gettingHit>
+
+		<acceleration>
+			<run>15, 0</run>
+			<!-- The vertical acceleration in the jump is applied only in the moment the fighter jumps, in that sense, it can be considered the impulse -->
+			<jump>10, 53</jump>
+		</acceleration>
+	</physics>
+
+	<attacks>
+		<attack name="kicking">
+			<push>50, 10</push>
+			<damage>45</damage>
+			<range>.05, .9</range>
+		</attack>
+
+		<attack name="attackingAir">
+			<push>20, 30</push>
+			<damage>50</damage>
+			<range>0, 1</range>
+		</attack>
+
+		<attack name="punching1">
+			<push>3, 0</push>
+			<damage>35</damage>
+			<range>.3, 1</range>
+		</attack>
+
+		<attack name="punching2">
+			<push>6, 0</push>
+			<damage>40</damage>
+			<range>.3, 1</range>
+		</attack>
+
+		<attack name="punching3">
+			<push>70, 20</push>
+			<damage>50</damage>
+			<range>.3, .81</range>
+		</attack>
+
+		<attack name="usingSpecialPower">
+			<push>40, 20</push>
+			<damage>45</damage>
+			<range>0, 1</range>
+		</attack>
+
+		<attack name="preSuperSpecial">
+			<push>40, 20</push>
+			<damage>50</damage>
+			<range>0.8, 1</range>
+		</attack>
+
+		<attack name="superSpecial">
+			<push>40, 20</push>
+			<damage>200</damage>
+			<range>0, 1</range>
+		</attack>
+	</attacks>
+
+	<!-- ↑→↓← -->
+	<special>→→X</special>
+
+</character>

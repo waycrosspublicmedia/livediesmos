@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE soundGroup SYSTEM "http://games.mplocal.com/dtds/GameComponents/4.0.0/soundsDef.dtd"><soundGroup linkage="audio.">
+
+	<soundGroup id="soundFXs">
+		<soundGroup id="ui" linkage="menues.">
+			<sound id="btnClick" linkage="buttonClick.wav"/>
+			<sound id="btnOver" linkage="buttonOver.wav" volume="0.5"/>
+
+			<sound id="uau" linkage="uau.wav" volume="0.5"/>
+			<sound id="uau2" linkage="uau2.wav" volume="0.5"/>
+			<sound id="comboOut" linkage="comboScore.wav" volume="0.5"/>
+			<sound id="comboIn" linkage="comboMeterIn.wav" volume="0.5"/>
+		</soundGroup>
+
+		<soundGroup id="brawl2" linkage="fx.brawl2.">
+			<sound id="dannySpecial" linkage="danny_special_move.wav"/>
+			<sound id="dannySuperSpecial" linkage="danny_super_special_move.wav"/>
+			
+			<sound id="patrickTowel1" linkage="towel1.wav"/>
+			<sound id="patrickTowel2" linkage="towel2.wav"/>
+			<sound id="patrickShurikenSnd" linkage="patrick_super_special_move.wav"/>
+
+					
+			<sound id="blowholeSpecial" linkage="drblowhole_special_move"/>
+			<sound id="blowholeSuperSpecial" linkage="drblowhole_super_special_move"/>
+
+
+			<sound id="ricoDynamite" linkage="rico_special_move.wav"/>
+			<sound id="ricoBombExplosion" linkage="rico_super_special_move_explosion.wav"/>
+			<sound id="ricoBombTic" linkage="rico_super_special_move_tick.wav"/>
+
+			<sound id="timmySpecialMove" linkage="timmy_special_move.wav"/>
+			<sound id="timmySuperSpecialMove" linkage="timmy_super_special_move.wav"/>
+
+			
+			<sound id="fanboySpecialMove" linkage="fanboy_special_move.wav"/>
+			<sound id="fanboySuperSpecialMove" linkage="fanboy_super_special_move.wav"/>
+			<sound id="fanboySuperSpecialMoveBounce" linkage="fanboy_super_special_move_bounce.wav"/>
+
+
+			<sound id="switchCharacter" linkage="switchCharacter.wav"/>
+			<sound id="switchError" linkage="switchError.wav"/>
+			<sound id="blockedHit" linkage="block_impact.wav"/>
+
+			<sound id="puppy_special_move" linkage="puppy_special_move.wav"/>
+			<sound id="puppy_super_special_move" linkage="puppy_super_special_move.wav"/>
+
+			<sound id="chumchumSpecial" linkage="chumchum_special.wav"/>
+			<sound id="chumchumSuperSpecial" linkage="chumchum_super_special.wav"/>
+			<soundGroup id="chumchumIce" selectionType="xrandom">
+				<sound linkage="chumchum_super_special_icebreaking1.wav"/>
+				<sound linkage="chumchum_super_special_icebreaking2.wav"/>
+				<sound linkage="chumchum_super_special_icebreaking3.wav"/>
+			</soundGroup>
+
+			<sound id="kyle_special_move" linkage="kyle_special_move"/>
+			<sound id="kyle_super_special_move_falling" linkage="kyle_super_special_move_falling"/>
+			<sound id="kyle_super_special_move_vanish" linkage="kyle_super_special_move_vanish"/>
+
+			<sound id="otisSpecial" linkage="otis_special_move.wav"/>
+			<sound id="otisSuperSpecialHit" linkage="otis_super_special_move_hit.wav"/>
+			<sound id="otisSuperSpecialRunning" loop="true" linkage="otis_super_special_move_running.wav"/>
+
+			<sound id="sandyLassoFly" linkage="sandy_special_move_throw_lasso.wav"/>
+			<sound id="sandyLassoLoop" playCount="3" linkage="sandy_special_move_lasso.wav"/>
+			<sound id="sandyLassoHit" linkage="sandy_special_move_lasso_hit.wav"/>
+			<sound id="sandySuperLassoHit" linkage="sandy_super_special_move_lasso_hit.wav"/>
+
+			<sound id="bobJump" linkage="bob_jumping.wav"/>
+			<sound id="bobCheer" linkage="bob_cheering.wav"/>
+			<sound id="bobSpecial" linkage="bob_special.wav"/>
+			<sound id="bobSuperSpecial" linkage="bob_super_special.wav"/>
+			<sound id="bobSuperSpecialLanding" linkage="bob_super_special_landing.wav"/>
+
+			<sound id="monkeyJumpAttack" linkage="monkey_jumpattack.wav"/>
+			<sound id="monkeyKick" linkage="monkey_kick.wav"/>
+			<sound id="monkeyKiss" linkage="monkey_kiss.wav"/>
+			<sound id="monkeyLanding" linkage="monkey_landing.wav"/>
+			<sound id="monkeyBulletImpact" linkage="monkey_projectile_hits.wav"/>
+			<sound id="monkeySpecial" linkage="monkey_special.wav"/>
+			<sound id="monkeySuperSpecial" linkage="monkey_super_special.wav"/>
+
+			<sound id="skipperSpecial" linkage="skipper_special_move.wav"/>
+			<sound id="skipperIncoming" linkage="skipper_super_special_incoming.wav"/>
+			<sound id="skipperAirplane" linkage="skipper_super_special_airplane.wav"/>
+			<sound id="skipperExplosion" linkage="skipper_super_special_bombexplodes.wav"/>
+
+
+			<sound id="jimmySpecial" linkage="jimmy_special_move.wav"/>
+			<sound id="jimmySuperSpecial" linkage="jimmy_super_special_move.wav"/>
+
+			<sound id="kittySpecial" linkage="kitty_special.wav"/>
+			<sound id="kittySuperSpecial" linkage="kitty_super_special.wav"/>
+
+			<sound id="planktonSpecial" linkage="plankton_special.wav"/>
+			<sound id="planktonSuperSpecial" linkage="plankton_super_special.wav"/>
+
+			<sound id="onSuperSpecial" linkage="superSpecialOn.wav"/>
+
+			<sound id="superSpecial" linkage="super_special_enabled.wav"/>
+
+			<sound id="roundBell" linkage="roundBell.wav"/>
+
+			<sound id="knockOut" linkage="knockOut.wav"/>
+			<sound id="preJump" linkage="prejump.wav"/>
+
+			<sound id="kick" linkage="kick_hit.wav"/>
+			<sound id="kickAir" linkage="kick_swing.wav"/>
+
+			<sound id="punch1" linkage="punch_hit_01.wav"/>
+			<sound id="punch2" linkage="punch_hit_02.wav"/>
+			<sound id="punch3" linkage="punch_hit_03.wav"/>
+			<sound id="punchAir" linkage="punch_swing.wav"/>
+
+			<sound id="bessieSpecial" linkage="bessie_special.wav"/>
+
+			<sound id="aangSpecial" linkage="aang_special.wav"/>
+			<sound id="aangSuperSpecial" linkage="aang_superspecial.wav"/>
+
+			<sound id="cspongebobSpecial" linkage="special_move.wav"/>
+			<sound id="cspongebobSuperSpecial" linkage="super_special_move.wav"/>
+
+			<sound id="cameraShake" linkage="shake.wav"/>
+
+			<sound id="vaseFlying" linkage="punch_swing.wav"/>
+			<soundGroup id="vaseDestroyed" selectionType="xrandom">
+				<sound linkage="hit_vase_01.wav"/>
+				<sound linkage="hit_vase_02.wav"/>
+				<sound linkage="hit_vase_03.wav"/>
+			</soundGroup>
+		</soundGroup>
+	</soundGroup>
+
+	<soundGroup id="musics">
+		<sound id="mainMenu" linkage="menues.Main.wav" loop="true" fadeIn="true" fadeOut="true"/>
+
+		<soundGroup id="common" linkage="music.brawl2.">
+			<sound id="challengeMusic" linkage="challenge.wav" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="wonMusic" linkage="WinFight.wav" fadeIn="true" fadeOut="true"/>
+			<sound id="wonTournamentMusic" linkage="WinTournament.wav" fadeIn="true" fadeOut="true"/>
+			<sound id="loseMusic" linkage="LoseFight.wav" fadeIn="true" fadeOut="true"/>
+			<sound id="loseTournamentMusic" linkage="LoseTournament.wav" fadeIn="true" fadeOut="true"/>
+		</soundGroup>
+
+		<soundGroup id="stages" linkage="music.">
+			<sound id="kitty" linkage="kitty" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="chumchum" linkage="chumchum" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="knightM" linkage="knightM" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="plankton" linkage="plankton" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="sheen" linkage="sheen" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="spongebob" linkage="spongebob" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="skipper" linkage="skipper" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="sandy" linkage="sandy" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="jimmy" linkage="jimmy" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="otis" linkage="otis" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="mightyB" linkage="bessie" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="aang" linkage="aang" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="kyle" linkage="kyle" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="dudley" linkage="dudley" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="fanboy" linkage="fanboy" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="danny" linkage="danny" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="timmy" linkage="timmy" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="rico" linkage="rico" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="blowhole" linkage="blowhole" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="patrick" linkage="patrick" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="cspongebob" linkage="cspongebob" loop="true" fadeIn="true" fadeOut="true"/>
+			<sound id="kingjulien" linkage="kingjulien" loop="true" fadeIn="true" fadeOut="true"/>
+		</soundGroup>
+	</soundGroup>
+
+</soundGroup>

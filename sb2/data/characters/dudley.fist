@@ -1,0 +1,280 @@
+/*
+
+-numericVars
+distanceToOpponent
+successfulAttacks
+hitsReceived
+life
+opponentLife
+energy
+direction
+
+
+-booleanVars
+jumping
+opponentJumping
+enemyBlocking
+
+-functions
+jump
+kick
+punch
+walk
+doSpecial
+block
+run
+
+
+-builtin functions
+call()
+output()
+wait()
+
+if (rand < 50)
+{
+idle
+}
+else
+{
+angry
+}
+*/
+BLOQUEO = if(hitsReceived >=2){call(block)}
+
+[random]
+{
+  if (rand < 50)
+	{
+		output(rand);
+		output("idle");
+		idle
+	}
+	else
+	{
+		output(rand);
+		output("enemy");
+		enemyFullLife
+	};
+}
+
+[idle]
+{	
+	set(setBehaviourOnAttack, 0);
+	output("opponentLife");
+    output(opponentLife);
+	output(life);
+	set(direction, 1);
+	wait(.2);
+	call(doSpecial);
+	wait(.2);
+	set(direction,  1);
+	wait(0.1);
+
+	if(distanceToOpponent <= 220)
+	{
+		output("Estoy en el if");
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.1);
+		call(punch);
+		wait(.5)
+		
+	}
+	else
+	{
+		output("llegue al else");
+		set(direction, 1);
+		wait(0.2);
+		output(distanceToOpponent);
+		wait(.3)
+	};
+	set(setBehaviourOnAttack, 1);
+	wait(0.2);
+	set(direction, 1);
+	wait(0.2);
+	if(distanceToOpponent <= 200)
+	{
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2)
+	};
+	
+	call(kick);
+	wait(0.2);
+	call(jump);
+	wait(.2);
+	call(kick);
+	wait(0.2);
+	if(distanceToOpponent <= 210)
+	{
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2)
+	};
+	
+
+	
+	if(life <=0.7)
+	{
+		output("pruebo el if de life");
+		if(rand < 80)
+		{
+			output(rand);
+			output("1");
+			angry
+		}
+	}
+	
+}
+
+[angry]
+{
+	set(setBehaviourOnAttack, 0);
+	output("angry");
+	output(opponentLife);
+	output(life);
+	set(direction,  1);
+	if(distanceToOpponent <= 190)
+	{
+		output("mas piñas");
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(doSpecial);
+		wait(0.2)	
+	}
+	else
+	{
+		set(setBehaviourOnAttack, 1);
+		set(direction,1);		
+		call(jump);
+		wait(.2);
+		call(kick)
+	};
+	wait(0.2);
+	if(rand > 50)
+	{
+		call(doSpecial)
+	};
+	wait(.2);
+	output(life);
+	wait(0.2)
+	
+}
+
+[enemyFullLife]
+{
+	set(setBehaviourOnAttack, 0);
+    output("fulllife");
+	set(direction, 0);
+	wait(0.2);
+	set(direction, 1);
+	wait(0.5);
+	if(hitsReceived >= 2)
+	{
+		output("me pegan T_T");
+		wait(0.2);
+		call(punch);
+		wait(.1);
+		call(punch);
+		wait(.1);
+		output("pego yo");
+		call(punch);
+		wait(.3);
+		set(direction, -1);
+		wait(0.2)
+	};
+	
+	if(distanceToOpponent <= 200)
+	{
+		output("atroden");
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2);
+		call(punch);
+		wait(.2)
+	}
+	set(direction, -1);
+	wait(0.2);
+	call(doSpecial);
+	set(direction, 0);
+	wait(0.2);
+	call(punch);
+	wait(.2);
+	call(punch);
+	wait(.2);
+	set(setBehaviourOnAttack, 1);
+	call(punch);
+	wait(.2);
+	call(kick);
+	set(direction, 1);
+	wait(0.2);
+	call(punch);
+	wait(.2);
+	call(punch);
+	wait(.2);
+	call(punch);
+	wait(.3);
+	set(direction,-1);
+	wait(0.2);
+	set(direction,0);
+	wait(.2);
+	
+	
+	if(life <=0.6)
+	{
+		output(rand);
+		output("1");
+		angry
+	}
+	
+}
+
+[underAttack]
+{	
+	output("underAtack");
+	if(rand > 80)
+	{
+		call(block);
+		output("bloqueando");
+		wait(0.9);
+		output("nobloqueando");
+		call(stopBlocking);
+		wait(0.9)
+	};
+	
+	if(life >= 0.6)
+	{
+		wait(.5);
+		idle
+	};
+	
+	if(life <=0.59 )
+	{
+		output("pruebo el if de life");
+		if(rand < 80)
+		{
+			
+			output(rand);
+			output("1");
+			angry
+		}
+	}
+	
+}
+
+
+

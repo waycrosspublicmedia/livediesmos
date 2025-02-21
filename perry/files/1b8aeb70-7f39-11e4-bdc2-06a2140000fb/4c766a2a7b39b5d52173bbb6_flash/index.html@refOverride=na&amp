@@ -1,0 +1,25 @@
+<html>
+  <head>
+  </head>
+  <body class="disneyGamesIframe">
+  <div id="content">
+    <div id="DisneyGame"></div>
+    <script type="text/javascript" src="http://img.lum.dolimg.com/v1/game_container/js/disneygames-iframe.js"></script>
+    <script type="text/javascript">
+      var config = {"apiVersion":"2.5","assetId":"1864911","elementId":"DisneyGame","filename":"phf_spl_act_agentpstrikesback.swf","height":"500","img750x500":"http://core.int.diznee.net/cdn_assets/714b2f9bc165639d1701fc42263f904473027149.jpg","minimumFlashPlayerVersion":"10","techType":"AS3","width":"750","wmode":"transparent","swfConfig":""};
+
+      var pathParts = window.location.pathname.split('/');
+      pathParts.pop();
+      var pathWithoutFilename = pathParts.join('/');
+      config.fileURL = window.location.protocol + '//' + window.location.host + pathWithoutFilename + '/' + config.filename;
+
+      if (config.swfConfig !== '') {
+        config.fileURL += '?' + config.swfConfig;
+      }
+
+      disneyGames.addGame(config);
+    </script>
+  </div>
+  </body>
+  </html>
+    

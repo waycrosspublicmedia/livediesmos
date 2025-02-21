@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xml:lang="en">
+ <file datatype="plaintext" original="localization_global.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_SELECTLEVELMENU_TITLE">
+        <source>Select Level</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_PLAY">
+        <source>PLAY</source>
+      </trans-unit>
+	  <trans-unit id="002" resname="IDS_REPLAY">
+        <source>REPLAY</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LEVEL1_TITLE">
+        <source>Level 1</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LEVEL2_TITLE">
+        <source>Level 2</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LEVEL3_TITLE">
+        <source>Level 3</source>
+      </trans-unit>
+	  <trans-unit id="003" resname="IDS_LEVEL1_NAME">
+        <source>one</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LEVEL2_NAME">
+        <source>two</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LEVEL3_NAME">
+        <source>three</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_HOME">
+        <source>Play Again</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_LOADING">
+        <source>LOADING</source>
+      </trans-unit>
+       <trans-unit id="019" resname="IDS_WON_GAME_TITLE">
+        <source>You have finished the 3 levels!</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_CLOSE">
+        <source>CLOSE</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_HELP_TITLE">
+        <source>HOW TO PLAY</source>
+      </trans-unit>
+       <trans-unit id="027" resname="IDS_SPACEBAR">
+        <source>SPACEBAR</source>
+      </trans-unit>
+       <trans-unit id="028" resname="IDS_RESUME">
+        <source>RESUME</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_HOWTOPLAY">
+        <source>HOW TO PLAY</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_QUIT">
+        <source>QUIT</source>
+      </trans-unit>
+       <trans-unit id="031" resname="IDS_YES">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_NO">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_QUIT_TITLE">
+        <source>Do you really want to quit?</source>
+      </trans-unit>
+ 	  <trans-unit id="041" resname="IDS_MENU">
+        <source>MENU</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_NEXT">
+        <source>NEXT</source>
+      </trans-unit>
+	  <trans-unit id="053" resname="IDS_GUI_INGAME_FINDME">
+		<source>FIND ME</source>
+	  </trans-unit>
+	  <trans-unit id="054" resname="IDS_WIN_TITLE">
+        <source>LEVEL COMPLETED!</source>
+      </trans-unit>
+	  <trans-unit id="054" resname="IDS_LOSE_TITLE">
+        <source>Try Again!</source>
+      </trans-unit>
+	  <trans-unit id="055" resname="IDS_NEW_RECORD">
+        <source>New Record!</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TOTAL_SCORE">
+        <source>Total score</source>
+      </trans-unit>
+	  <trans-unit id="061" resname="IDS_SCORE">
+		<source>Score</source>
+	  </trans-unit> 
+	  <trans-unit id="061" resname="IDS_GUI_SCORE">
+		<source>Score:</source>
+	  </trans-unit> 	  
+	  <trans-unit id="003" resname="IDS_LEVEL_SUMMARY1">
+        <source>Agent P has teleported into the 2nd dimension, help him rescue all the captured agents!</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LEVEL_SUMMARY2">
+        <source>More secret agents have been captured, hurry and rescue them before it’s too late!</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_LEVEL_SUMMARY3">
+        <source>Dr. Doofenshmirtz and Platyborg are up to no good, stop them before they take over the world!</source>
+      </trans-unit>
+	  <trans-unit id="003" resname="IDS_SCORE_BONUS_ITEM_TXT">
+        <source>Item bonus</source>
+      </trans-unit>
+	  <trans-unit id="003" resname="IDS_SCORE_BONUS_AGENT_TXT">
+        <source>Agent save bonus</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP1">
+		<source>to move Left and Right</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP2">
+		<source>to Jump</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP3">
+		<source>to Double Jump</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP4">
+		<source>Jump towards wall to cling to it.</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP5">
+		<source>while clung to jump from a wall</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP6">
+		<source>to steal a robot arm if close enough. Press again to fire</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP7">
+		<source>You can't double jump or cling to walls while armed</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP8">
+		<source>to drop the robot arm</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP9">
+		<source>Rescue all the agents. They will help you unlock doors.</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP10">
+		<source>Collect all the tokens to earn extra points.</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP11">
+		<source>Other freed agents will open other locked doors.</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP12">
+		<source>Don't touch the neon tubes or you'll get electrocuted!</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_LEVEL1_BEGIN">
+		<source>Your days are numbered Agent P!\nI want you to meet my newest creation: PLATYBORG!!</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_LEVEL2_BEGIN">
+		<source>You didn't think it would be that easy to defeat my Platyborg!\nGet Him!!</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_LEVEL3_BEGIN">
+		<source>This is it, use everything you have Platyborg!\nGet rid of Agent P once and for all!!</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_LEVEL3_END">
+		<source>Nooooo! How can this be!!\nYou haven’t seen the last of me Agent P!</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_GUI_BOSS">
+		<source>Boss:</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_THE_END">
+		<source>The End?</source>
+      </trans-unit>
+	  <trans-unit id="022" resname="IDS_HELP_OPENDOOR">
+		<source>Rescue a trapped agent to unlock the door</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

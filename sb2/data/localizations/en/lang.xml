@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lang SYSTEM "http://tools.mplocal.com/static/dtds/MPUtilities/1.14.3/localizationDef.dtd">
+<lang id="en">
+
+	<!-- "&#xD;" -without quotations- means a newline -->
+	<group id="characterNames" font="General" >
+		<text id="sheen">SHEEN</text>
+		<text id="spongeBob">SPONGEBOB</text>
+		<text id="kitty">KITTY KATSWELL</text>
+		<text id="kitty2lines">KITTY&#xD;KATSWELL</text>
+		<text id="chumchum">CHUM CHUM</text>
+		<text id="monkey">MONKEY</text>
+		<text id="plankton">PLANKTON</text>
+		<text id="skipper">SKIPPER</text>
+		<text id="sandy">SANDY</text>
+		<text id="jimmy">JIMMY NEUTRON</text>
+		<text id="otis">OTIS</text>
+		<text id="bessie">BESSIE</text>
+		<text id="aang">AANG</text>
+		<text id="kyle">KYLE</text>
+		<text id="dudley">DUDLEY PUPPY</text>
+		<text id="fanboy">FANBOY</text>
+		<text id="danny">DANNY PHANTOM</text>
+		<text id="danny2lines">DANNY&#xD;PHANTOM</text>
+		<text id="timmy">TIMMY</text>
+		<text id="rico">RICO</text>
+		<text id="patrick">PATRICK</text>
+		<text id="cspongebob">CLASSIC SPONGEBOB</text>
+		<text id="blowhole">DR. BLOWHOLE</text>
+		<text id="kingjulien">KING JULIEN</text>
+		<text id="you">YOU</text>
+		<text id="com">COM</text>
+	</group>
+	<group id="stagesNames" font="General">
+		<text id="sheen">ZEENU</text>
+		<text id="spongebob">FLYING DUTCHMAN'S SHIP</text>
+		<text id="skipper">CENTRAL PARK ZOO</text>
+		<text id="kitty">PETROPOLIS</text>
+		<text id="chumchum">FANLAIR</text>
+		<text id="knightM">FORGOTTEN TEMPLE</text>
+		<text id="plankton">THE CHUM BUCKET</text>
+		<text id="sandy">SANDY'S DOME</text>
+		<text id="jimmy">BASEBALL FIELD</text>
+		<text id="otis">FARM ROAD</text>
+		<text id="mightyB">PIER 31</text>
+		<text id="aang">WASTELAND</text>
+		<text id="kyle">SCHOOL</text>
+		<text id="dudley">TUFF HEADQUARTERS</text>
+		<text id="fanboy">FROSTY MART</text>
+		<text id="danny">AMITY PARK</text>
+		<text id="timmy">FAIRY WORLD</text>
+		<text id="rico">PENGUIN LAIR</text>
+		<text id="blowhole">CONEY ISLAND HIDEOUT</text>
+		<text id="patrick">GOO LAGOON</text>
+		<text id="cspongebob">KRUSTY KRAB</text>
+		<text id="kingjulien">JUNGLE</text>
+	</group>
+
+	<group id="comingSoon" size="18" font="General">
+		<text id="rico">JUN 5</text>
+		<text id="blowhole">JUN 19</text>
+		<text id="patrick">JUL 3</text>
+		<text id="cspongebob">JUL 17</text>
+		<text id="kingjulien">JUL 31</text>
+	</group>
+
+	<group id="loader" font="General">
+		<text id="progressbar" size="20">0</text>
+	</group>
+	<group id="cover" font="General">
+		<text size="20" id="btnContinue">PLAY</text>
+	</group>
+
+	<group id="ui" font="General">
+		<group id="perfectBonus">
+			<text size="52" id="title">PERFECT</text>
+			<text size="31" id="score">{0} BONUS!</text>
+		</group>
+
+		<group id="challenge">
+			<text id="txtmessage">BONUS ROUND</text>
+		</group>
+
+		<group id="challengeCompleted">
+			<text id="title">END OF BONUS ROUND</text>
+			<text id="s1">HIT</text>		<text id="v1">{0}</text>
+			<text id="s2">MISSED</text>		<text id="v2">{1}</text>
+			<text id="s3">SCORE</text>		<text id="v3">{2}</text>
+			<text id="btnContinue">CONTINUE</text>
+		</group>
+
+		<group id="survivalCompleted" font="General">
+			<text size="31" id="title">{0}</text>
+			<text size="30" id="s2">OPPONENTS</text>		<text size="30" id="v2">{1}/{2}</text>
+			<text size="30" id="s3">SCORE</text>			<text size="30" id="v3">{3}</text>
+			<text size="18" id="btnContinue">CONTINUE</text>
+
+			<text size="31" id="good">CONGRATULATIONS!</text>
+			<text size="31" id="bad">YOU'VE LOST!</text>
+		</group>
+
+		<group id="roundStart" font="General">
+			<text size="96" id="roundCounter">{0}</text>
+			<text size="96" id="ready">READY</text>
+			<text size="96" id="roundX">ROUND {X}</text>
+		</group>
+
+		<group id="comboCounter" font="General">
+			<text size="40" id="ComboMessage_Title">COMBO!</text>
+			<text size="59" id="counter">X{0}</text>
+		</group>
+
+		<group id="particles">
+			<group id="score" font="General">
+				<text size="13" id="scoreText">{0}</text>
+			</group>
+		</group>
+	</group>
+
+	<group id="mainMenu" font="General">
+		<text size="37" id="txttitle">def</text>
+		<text size="15" id="txtdescription">def</text>
+
+		<text id="btnArcade">ARCADE</text>
+		<text id="btnTeam">TAG TEAM</text>
+		<text id="btnEndurace">SURVIVAL</text>
+		<text id="btnTournament">TOURNAMENT</text>
+		<text id="btnBIOS">BIOS</text>
+		<text size="20" id="fightsCounter">{0}/{1}</text>
+
+		<group id="descriptions" >
+			<group id="normal">
+				<text size="37" id="title">PATH TO THE&#xD;BRAWL&#xD;MASTER</text>
+				<text size="15" id="info">HAVE WHAT IT TAKES TO BECOME THE ULTIMATE BRAWL MASTER? WIN {0} TOURNAMENTS TO FACE OFF AGAINST YOUR HARDEST CHALLENGER YET...</text>
+				<text size="15" id="master">YOU ARE NOW A BRAWL MASTER. YOUR TOUGHEST CHALLENGE AWAITS YOU IN THE NEXT TOURNAMENT...</text>
+				<text size="15" id="ultimate">CONGRATULATIONS, YOU ARE THE ULTIMATE BRAWL MASTER. NOBODY CAN DEFEAT YOU!</text>
+			</group>
+			<group id="arcade">
+				<text size="37" id="title">ARCADE&#xD;MODE</text>
+				<text size="15" id="info">CUSTOMIZE YOUR BRAWL. YOU PICK THE FIGHTERS AND THE STAGES.</text>
+			</group>
+			<group id="tournament">
+				<text size="37" id="title">TOURNAMENT&#xD;MODE</text>
+				<text size="15" id="info">ADVANCE YOUR WAY THROUGH THE TOURNAMENT, 1 CHALLENGER AT A TIME.</text>
+			</group>
+			<group id="team">
+				<text size="37" id="title">TAG TEAM&#xD;MODE</text>
+				<text size="15" id="info">2 FIGHTERS ARE BETTER THAN 1. PICK A PARTNER AND BRAWL TOGETHER IN THIS BRAND NEW FEATURE.</text>
+			</group>
+			<group id="endurace">
+				<text size="37" id="title">SURVIVAL&#xD;MODE</text>
+				<text size="15" id="info">THE ULTIMATE CHALLENGE. SEE HOW MANY PLAYERS YOU CAN DEFEAT WITH JUST 1 BAR OF HEALTH.</text>
+			</group>
+		</group>
+	</group>
+
+	<group id="help" font="General" size="12">
+
+		<text size="46" id="txtname">default</text>
+		<text size="46" id="txtname2">default</text>
+
+		<text size="27" id="title">HOW TO PLAY</text>
+		<text size="16" id="jump">JUMP</text>
+		<text size="16" id="block">BLOCK</text>
+		<text size="16" id="walkingLeft">MOVE</text>
+		<text size="16" id="walkingRight">MOVE</text>
+		<text size="16" id="punch">PUNCH</text>
+		<text size="16" id="kick">KICK</text>
+		<text size="12" id="jumpAttack">JUMP ATTACK</text>
+		<text size="12" id="specialAttack">SPECIAL ATTACK</text>
+		<text size="20" id="btnContinue">CONTINUE</text>
+		<text size="11" id="powerglow">SUPER</text>
+		<text size="12" id="specialAttackInfo">FILL THE SUPER METER TO PERFORM A SUPER SPECIAL MOVE!</text>
+		<text size="12" id="spaceBar">SPACE BAR</text>
+		<text size="12" id="toggleFighters">SWITCH PLAYER</text>
+	</group>
+
+	<group id="singleCharacterSelector" font="General">
+		<text size="43" id="txttitle">SELECT YOUR CHARACTER</text>
+		<text size="34" id="txtname">default</text>
+		<text size="43" id="title">SELECT YOUR CHARACTER</text>
+		<text size="20" id="btnNext">NEXT</text>
+		<text size="20" id="btnBack">BACK</text>
+		<text size="17" id="iconYou">YOU</text>
+		<text size="17" id="fighteryou">default</text>
+		<text size="18" id="iconYou">default</text>
+		<text size="18" id="comingsooninfo">default</text>
+	</group>
+
+	<group id="doubleCharacterSelector" font="General">
+		<text size="43" id="txttitle">default</text>
+		<text size="20" id="btnNext">NEXT</text>
+		<text size="20" id="btnBack">BACK</text>
+		<text size="17" id="iconYou">YOU</text>
+		<text size="17" id="iconCom">COM</text>
+		<text size="15" id="mode">ARCADE</text>
+		<text size="17" id="fighteryou">default</text>
+		<text size="17" id="fightercom">default</text>
+		<text size="18" id="iconYou">default</text>
+		<text size="18" id="iconCom">default</text>
+		<text size="18" id="comingsooninfo">default</text>
+		<text size="43" id="txttitle">default</text>
+		<group id="titles" size="43" >
+			<text id="you">SELECT YOUR CHARACTER</text>
+			<text id="com">SELECT YOUR OPPONENT</text>
+			<text id="completed"></text>
+		</group>
+	</group>
+
+	<group id="quadCharacterSelector" font="General">
+		<text size="20" id="btnNext">NEXT</text>
+		<text size="20" id="btnBack">BACK</text>
+		<text size="17" id="fighteryou">default</text>
+		<text size="17" id="fightercom">default</text>
+		<text size="17" id="iconYou">YOU</text>
+		<text size="17" id="iconCom">COM</text>
+		<text size="15" id="mode">TAG TEAM</text>
+		<text size="18" id="comingsooninfo">default</text>
+		<text size="43" id="txttitle">default</text>
+		<group id="titles" size="43">
+			<text id="you">SELECT YOUR CHARACTERS</text>
+			<text id="com">SELECT YOUR OPPONENTS</text>
+			<text id="completed"></text>
+		</group>
+	</group>
+
+	<group id="stageSelector" font="General">
+
+		<text size="14" id="location0">default</text>
+		<text size="14" id="location1">default</text>
+		<text size="14" id="location2">default</text>
+		<text size="14" id="location3">default</text>
+		<text size="14" id="location4">default</text>
+		<text size="14" id="location5">default</text>
+		<text size="14" id="location6">default</text>
+		<text size="14" id="location7">default</text>
+
+
+		<text size="43" id="title">SELECT STAGE</text>
+		<text size="20" id="btnNext">NEXT</text>
+		<text size="20" id="btnBack">BACK</text>
+	</group>
+
+	<group id="versus" font="General">
+		<group id="tournament">
+			<text size="17" id="title"> </text>
+			<text size="46" id="txtname">default</text>
+			<text size="17" id="title">TOURNAMENT</text>
+			<text font="General2" size="42" id="percent">default</text>
+		</group>
+		<group id="arcade">
+			<text size="17" id="title"> </text>
+			<text size="46" id="txtname">default</text>
+			<text size="17" id="title">ARCADE</text>
+			<text font="General2" size="42" id="percent">default</text>
+		</group>
+		<group id="team">
+			<text size="17" id="title"> </text>
+			<text size="28" id="txtname">default</text>
+			<text size="17" id="title">TAG TEAM</text>
+			<text font="General2" size="42" id="percent">default</text>
+		</group>
+		<group id="survival">
+			<text size="17" id="title"> </text>
+			<text size="46" id="txtname">default</text>
+			<text size="17" id="title">SURVIVAL</text>
+			<text font="General2" size="42" id="percent">default</text>
+		</group>
+	</group>
+
+	<group id="hud" font="General">
+		<text size="11" id="superTxt">SUPER</text>
+		<text size="18" id="txtname"> </text>
+		<text size="18" id="txtscore"> </text>
+		<text size="55" id="txtseconds"> </text>
+	</group>
+
+	<group id="loadingCharacter" font="General2">
+		<text size="42" id="title">LOADING CHARACTER</text>
+	</group>
+
+	<group id="quitMessage" font="General">
+		<text size="30" id="title">ARE YOU SURE YOU WANT TO QUIT?</text>
+		<text size="18" id="btnYes">YES</text>
+		<text size="18" id="btnNo">NO</text>
+	</group>
+
+	<group id="leaderboard" font="General">
+		<text size="20" id="btnSubmit">SUBMIT SCORE</text>
+		<text size="20" id="btnContinue">PLAY AGAIN</text>
+
+		<text size="27" id="title">LEADERBOARD</text>
+		<text size="16" id="txtrank">0</text>
+		<text size="16" id="txtname">0</text>
+		<text size="16" id="txtscore">0</text>
+		<text id="youScoreTitle">YOU</text>
+		<text id="rankTitle">RANK</text>
+		<text id="nameTitle">USER</text>
+		<text id="scoreTitle">SCORE</text>
+	</group>
+
+	<group id="lostScreen" font="General">
+		<text size="52" id="title">YOU LOSE!</text>
+		<text size="31" id="info">SCORE: {0}</text>
+		<text size="18" id="btnView">LEADERBOARD</text>
+		<text size="20" id="btnContinue">PLAY AGAIN</text>
+	</group>
+
+	<group id="wonScreen" font="General">
+		<text id="title">YOU&#xD;WIN!</text>
+		<text id="scoreName">SCORE</text>		<text id="scoreValue">{0}</text>
+		<text id="btnView">LEADERBOARD</text>
+		<text id="btnSubmit">SUBMIT SCORE</text>
+		<text id="btnContinue">PLAY AGAIN</text>
+	</group>
+
+	<group id="intro" font="General">
+		<text size="20" id="btnSkip">SKIP</text>
+	</group>
+
+	<group id="achievements" font="General">
+		<text size="25" id="title">{0}</text>
+		<text size="25" id="loginBtn">LOGIN</text>
+		<text size="14" id="ach1t">BASIC BRAWLER</text>
+		<text size="14" id="ach2t">30 SECONDS TO BRAWL</text>
+		<text size="14" id="ach3t">BONUS BRAWLER</text>
+		<text size="14" id="ach4t">BEST BRAWLER</text>
+		<text size="14" id="ach5t">BRAWL SURVIVOR</text>
+		<text size="14" id="ach6t">ULTIMATE BRAWLER</text>
+
+		<text size="25" id="titleLoggedIn">ACHIEVEMENTS</text>
+		<text size="25" id="titleLoggedOut">LOGIN TO SEE ACHIEVEMENTS</text>
+	</group>
+
+	<group id="someGroup">
+	</group>
+
+</lang>

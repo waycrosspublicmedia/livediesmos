@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tournamentSettings shouldUseFinalRivals="false">
+	<randoms>
+		<rival characterID="spongeBob"/>
+		<rival characterID="sheen"/>
+		<rival characterID="kitty"/>
+		<rival characterID="chumchum"/>
+		<rival characterID="monkey"/>
+		<rival characterID="plankton"/>
+		<rival characterID="skipper"/>
+		<rival characterID="sandy"/>
+		<rival characterID="jimmy"/>
+		<rival characterID="otis"/>
+		<rival characterID="bessie"/>
+		<rival characterID="aang"/>
+		<rival characterID="kyle"/>
+		<rival characterID="dudley"/>
+
+		<rival characterID="fanboy"/>
+		<rival characterID="danny"/>
+		<rival characterID="timmy"/>
+
+		<rival characterID="rico"/>
+		<rival characterID="blowhole"/>
+		<rival characterID="patrick"/>
+		<rival characterID="cspongebob"/>
+		<rival characterID="kingjulien"/>
+
+	</randoms>
+	<finals>
+	</finals>
+</tournamentSettings>

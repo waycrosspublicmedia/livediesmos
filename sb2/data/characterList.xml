@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE characterList[
+	<!ELEMENT characterList (character+)>
+	<!ELEMENT character (graphics)>
+	<!ATTLIST character
+		id ID #REQUIRED
+		nameID NMTOKEN #IMPLIED
+		assetsGroupId NMTOKEN #IMPLIED
+		scenarioID NMTOKEN #REQUIRED
+		shouldUse (true | false) #IMPLIED
+		comingSoon (true | false) #IMPLIED
+		comingSoonTextID NMTOKEN #IMPLIED
+		>
+	<!ELEMENT graphics (winData,loseData)>
+	<!ATTLIST graphics
+		selectorIconPic NMTOKEN #REQUIRED
+		selector NMTOKEN #IMPLIED
+		versus NMTOKEN #IMPLIED
+		helpNameID NMTOKEN #IMPLIED
+		selectorNameID NMTOKEN #IMPLIED
+		versusNameID NMTOKEN #IMPLIED
+		>
+	<!ELEMENT loseData EMPTY>
+	<!ATTLIST loseData
+		picID NMTOKEN #REQUIRED
+		textID NMTOKEN #REQUIRED
+		>
+	<!ELEMENT winData EMPTY>
+	<!ATTLIST winData
+		picID NMTOKEN #REQUIRED
+		textID NMTOKEN #REQUIRED
+		>
+]>
+<characterList>
+	<character id="spongeBob" scenarioID="spongebob" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_spongebob.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="plankton" scenarioID="plankton" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_plankton.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="sheen" scenarioID="sheen" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_sheen.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="kitty" scenarioID="kitty" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_kitty.png" versusNameID="characterNames.kitty2lines" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="chumchum" scenarioID="chumchum" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_chumchum.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="monkey" scenarioID="knightM" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_monkey.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="skipper" scenarioID="skipper" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_skipper" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="sandy" scenarioID="sandy" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_sandy" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="jimmy" scenarioID="jimmy" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_neutron.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="otis" scenarioID="otis" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_otis.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="bessie" scenarioID="mightyB" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_bessie.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+
+	<character id="aang" scenarioID="aang" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_aang.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="kyle" scenarioID="kyle" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_kyle.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="dudley" scenarioID="dudley" >
+		<graphics selectorIconPic="gui.brawl2.menues.select_puppy.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="fanboy" scenarioID="fanboy">
+		<graphics selectorIconPic="gui.brawl2.menues.select_fanboy.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="danny" scenarioID="danny">
+		<graphics selectorIconPic="gui.brawl2.menues.select_danny.png" versusNameID="characterNames.danny2lines" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="timmy" scenarioID="timmy">
+		<graphics selectorIconPic="gui.brawl2.menues.select_timmy.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="rico" scenarioID="rico">
+		<graphics selectorIconPic="gui.brawl2.menues.select_rico.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="blowhole" scenarioID="blowhole">
+		<graphics selectorIconPic="gui.brawl2.menues.select_blowhole.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="patrick" scenarioID="patrick">
+		<graphics selectorIconPic="gui.brawl2.menues.select_patrick.png">
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="cspongebob" scenarioID="cspongebob">
+		<graphics selectorIconPic="gui.brawl2.menues.select_cspongebob.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+	<character id="kingjulien" scenarioID="kingjulien">
+		<graphics selectorIconPic="gui.brawl2.menues.select_kingjulien.png" >
+			<winData picID="default" textID="GameOverScreen.Win" />
+			<loseData picID="default" textID="GameOverScreen.Lose" />
+		</graphics>
+	</character>
+</characterList>

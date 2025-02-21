@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<siteDivName>dxdcontent</siteDivName>
+	<siteLockText>Click to play games at disney.com</siteLockText>
+	<siteLockTextColor>0x000000</siteLockTextColor>
+	<siteLockBackgroundColor>0x4995da</siteLockBackgroundColor>
+	<siteLockRedirectUrl>http://disney.go.com/games</siteLockRedirectUrl>
+	<omnitureTracking>true</omnitureTracking>
+	<libPathAS3 url="http://aglobal.go.com/stat/flash/analyticReportingAS3.swf" />
+	<libPathAS2 url="http://aglobal.go.com/stat/flash/analyticReporting.swf" />
+	<logitTracking>true</logitTracking>
+	<logitUrl>http://apps.dxd.go.com/gemws/logit</logitUrl>
+</config>

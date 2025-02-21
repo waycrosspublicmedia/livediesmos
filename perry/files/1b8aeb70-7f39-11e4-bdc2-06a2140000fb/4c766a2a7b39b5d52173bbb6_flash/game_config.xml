@@ -1,0 +1,29 @@
+﻿<game_config>
+	<controls left="a" right="d" up="w" down="s" action="space" disableArrows="0" />
+	<loader> 
+		<swf>loader.swf</swf>
+		<text><![CDATA[Loading]]></text>
+	</loader>
+	<templates swf="phf_spl_act_agentpstrikesback_templates.swf"/>
+	<main swf="phf_spl_act_agentpstrikesback_main.swf"/>
+	<sounds swf="phf_spl_act_agentpstrikesback_sounds.swf"/>
+	<sprites swf="phf_spl_act_agentpstrikesback_sprites.swf"/>
+	<blocks swf="phf_spl_act_agentpstrikesback_blocks.swf"/>
+	<characters swf="phf_spl_act_agentpstrikesback_characters.swf"/>
+	<level_design swf="phf_spl_act_agentpstrikesback_level_design.swf"/> <!-- note: not used for release build -->
+	<level_decoration swf="phf_spl_act_agentpstrikesback_level_decoration.swf"/> <!-- note: not used for release build -->
+	<level_design_xml swf="phf_spl_act_agentpstrikesback_level_design_xml.swf"/>
+	<strings xml="strings/strings.xml"/>
+	<cheat value="false"/>
+	<debug value="false"/>
+	<fps value="false"/>
+	<quality value="HIGH"/>
+	<swapFonts>Penumbra Sans Std Bold</swapFonts>
+	<newFonts>Arial Unicode MS</newFonts>
+	<embedFonts>true</embedFonts>
+	<debugGenerateBMC value="false"/>
+	
+	<displayBuildingNames value="true"/> <!-- false to disable building names such as "DOOF" in the game-->
+	<switchToArial value="false"/> <!-- true to change main game font to Arial Unicode MS-->
+	
+</game_config>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration errorCode="0" errorName="OK">
+	<assets>
+		<group id="cdn">
+			<group id="preload">
+				<group id="assets" url="assets/gui">
+					<asset id="loader" size="105924" url="loader.swf"/>
+				</group>
+				<group id="fonts" url="fonts">
+					<asset id="font" size="39206" type="font" url="embeddedFonts.swf"/>
+				</group>
+				<asset id="nickLangFile" size="23435" url="xml/translation.xml"/>
+				<group id="data" url="data">
+					<asset id="soundsFile" size="8665" url="sounds.xml"/>
+					<group id="localizations" loadOnDemand="true" url="localizations">
+						<group id="lang" url="en">
+							<asset id="langFile" size="12711" url="lang.xml"/>
+						</group>
+					</group>
+				</group>
+				<group id="xml" url="xml">
+					<asset id="config" size="1128" url="config.xml"/>
+				</group>
+			</group>
+
+			<group id="load" loadOnDemand="true">
+				<group id="assets" url="assets">
+					<group id="core">
+						<asset id="audioMenues" size="748692" url="audio/menues.swf"/>
+						<group id="gui" url="gui">
+							<!--<asset id="intro" size="68288" url="intro.swf"/>-->
+							<asset id="menues" size="11396907" url="menues.swf"/>
+							<!--<asset id="menues" size="6082484" url="menues.swf"/>-->
+							<asset id="hud" size="73553" url="hud.swf"/>
+							<asset id="achievementsSWF" size="109202" url="achievements.swf"/>
+						</group>
+					</group>
+
+					<group id="inGameAssets" loadOnDemand="true">
+						<group id="common">
+							<group id="gui" url="gui">
+								<asset id="ingame" size="1945804" url="ingame.swf"/>
+							</group>
+							<group id="audio" url="audio">
+								<group id="fx" url="fx">
+									<asset id="brawl2" size="1192330" url="brawl2.swf"/>
+								</group>
+								<group id="music" url="music">
+									<asset id="brawl2M" size="967317" url="brawl2.swf"/>
+								</group>
+							</group>
+								<group id="characters" url="characters">
+									<group id="brawl2" url="brawl2">
+										<group id="fx">
+											<asset id="main1" size="940262" url="fx.swf"/>
+										</group>
+										<group id="destructibleObjects">
+											<asset id="main2" size="403072" url="destructibleObjects.swf"/>
+										</group>
+									</group>
+								</group>
+						</group>
+
+						<group id="characters" url="characters">
+							<group id="brawl2" url="brawl2">
+								<group id="sheen">
+									<asset id="mainChar1" size="2796397" url="sheen.swf"/>
+								</group>
+								<group id="chumchum">
+									<asset id="mainChar2" size="3635521" url="chumchum.swf"/>
+								</group>
+								<group id="kitty">
+									<asset id="mainChar3" size="3106388" url="kitty.swf"/>
+								</group>
+								<group id="spongeBob">
+									<asset id="mainChar4" size="2329230" url="spongebob.swf"/>
+								</group>
+								<group id="monkey">
+									<asset id="mainChar5" size="2769541" url="monkey.swf"/>
+								</group>
+								<group id="plankton">
+									<asset id="mainChar6" size="2856367" url="plankton.swf"/>
+								</group>
+								<group id="skipper">
+									<asset id="mainChar7" size="1627908" url="skipper.swf"/>
+								</group>
+								<group id="sandy">
+									<asset id="mainChar8" size="4869030" url="sandy.swf"/>
+								</group>
+								<group id="jimmy">
+									<asset id="mainChar9" size="2438355" url="jimmy.swf"/>
+								</group>
+								<group id="otis">
+									<asset id="mainChar10" size="2830131" url="otis.swf"/>
+								</group>
+								<group id="bessie">
+									<asset id="mainChar11" size="3503495" url="bessie.swf"/>
+								</group>
+								<group id="aang">
+									<asset id="mainChar12" size="5491482" url="aang.swf"/>
+								</group>
+								<group id="kyle">
+									<asset id="mainChar13" size="2903596" url="kyle.swf"/>
+								</group>
+								<group id="dudley">
+									<asset id="mainChar14" size="1686123" url="dudley.swf"/>
+								</group>
+								<group id="fanboy">
+									<asset id="mainChar15" size="3098680" url="fanboy.swf"/>
+								</group>
+								<group id="danny">
+									<asset id="mainChar16" size="4147665" url="danny.swf"/>
+								</group>
+								<group id="timmy">
+									<asset id="mainChar17" size="3459869" url="timmy.swf"/>
+								</group>
+								<group id="rico">
+									<asset id="mainChar18" size="1900656" url="rico.swf"/>
+								</group>
+								<group id="blowhole">
+									<asset id="mainChar19" size="2976192" url="blowhole.swf"/>
+								</group>
+								<group id="patrick">
+									<asset id="mainChar20" size="3722599" url="patrick.swf"/>
+								</group>
+								<group id="cspongebob">
+									<asset id="mainChar20" size="3722599" url="cspongebob.swf"/>
+								</group>
+								<group id="kingjulien">
+									<asset id="mainChar21" size="3353541" url="julien.swf"/>
+								</group>
+							</group>
+						</group>
+						<group id="musicIngame" url="audio/music">
+							<asset id="kitty" size="409684" url="kitty.swf"/>
+							<asset id="chumchum" size="408383" url="chumchum.swf"/>
+							<asset id="knightM" size="439230" url="knightM.swf"/>
+							<asset id="plankton" size="463899" url="plankton.swf"/>
+							<asset id="sheen" size="452078" url="sheen.swf"/>
+							<asset id="spongebob" size="410074" url="spongebob.swf"/>
+							<asset id="skipper" size="1260317" url="skipper.swf"/>
+							<asset id="sandy" size="410067" url="sandy.swf"/>
+							<asset id="jimmy" size="444197" url="jimmy.swf"/>
+							<asset id="otis" size="73100" url="otis.swf"/>
+							<asset id="mightyB" size="179309" url="bessie.swf"/>
+							<asset id="aang" size="816425" url="aang.swf"/>
+							<asset id="kyle" size="406211" url="kyle.swf"/>
+							<asset id="dudley" size="364176" url="dudley.swf"/>
+							<asset id="fanboy" size="235712" url="fanboy.swf"/>
+							<asset id="danny" size="767055" url="danny.swf"/>
+							<asset id="timmy" size="89489" url="timmy.swf"/>
+							<asset id="rico" size="282001" url="rico.swf"/>
+							<asset id="blowhole" size="968420" url="blowhole.swf"/>
+							<asset id="patrick" size="945919" url="patrick.swf"/>
+							<asset id="cspongebob" size="529380" url="cspongebob.swf"/>
+							<asset id="kingjulien" size="421306" url="kingjulien.swf"/>
+						</group>
+
+						<group id="backs" url="backs">
+							<group id="brawl2Backs" url="brawl2">
+								<group id="kitty">
+									<asset id="mainBack1" size="238221" url="kitty.swf"/>
+								</group>
+								<group id="chumchum">
+									<asset id="mainBack2" size="730174" url="chumchum.swf"/>
+								</group>
+								<group id="knightM">
+									<asset id="mainBack3" size="1059090" url="knightM.swf"/>
+								</group>
+								<group id="plankton">
+									<asset id="mainBack4" size="804843" url="plankton.swf"/>
+								</group>
+								<group id="sheen">
+									<asset id="mainBack5" size="824945" url="sheen.swf"/>
+								</group>
+								<group id="spongebob">
+									<asset id="mainBack6" size="981115" url="spongebob.swf"/>
+								</group>
+								<group id="skipper">
+									<asset id="mainBack7" size="250928" url="skipper.swf"/>
+								</group>
+								<group id="sandy">
+									<asset id="mainBack8" size="926751" url="sandy.swf"/>
+								</group>
+								<group id="jimmy">
+									<asset id="mainBack9" size="277451" url="jimmy.swf"/>
+								</group>
+								<group id="otis">
+									<asset id="mainBack10" size="311621" url="otis.swf"/>
+								</group>
+								<group id="mightyB">
+									<asset id="mainBack11" size="328085" url="bessie.swf"/>
+								</group>
+								<group id="aang">
+									<asset id="mainBack12" size="504288" url="aang.swf"/>
+								</group>
+								<group id="kyle">
+									<asset id="mainBack13" size="171393" url="kyle.swf"/>
+								</group>
+								<group id="fanboy">
+									<asset id="mainBack14" size="279975" url="fanboy.swf"/>
+								</group>
+								<group id="danny">
+									<asset id="mainBack15" size="142405" url="danny.swf"/>
+								</group>
+								<group id="dudley">
+									<asset id="mainBack16" size="187836" url="dudley.swf"/>
+								</group>
+								<group id="timmy">
+									<asset id="mainBack17" size="271589" url="timmy.swf"/>
+								</group>
+								<group id="rico">
+									<asset id="mainBack18" size="350451" url="rico.swf"/>
+								</group>
+								<group id="blowhole">
+									<asset id="mainBack19" size="330253" url="blowhole.swf"/>
+								</group>
+								<group id="patrick">
+									<asset id="mainBack20" size="991628" url="patrick.swf"/>
+								</group>
+								<group id="cspongebob">
+									<asset id="mainBack21" size="302107" url="cspongebob.swf"/>
+								</group>
+								<group id="kingjulien">
+									<asset id="mainBack22" size="434993" url="kingjulien.swf"/>
+								</group>
+							</group>
+						</group>
+					</group>
+
+				</group>
+
+				<group id="data" url="data">
+					<asset id="achievements" size="2553" url="achievements.xml"/>
+					<asset id="characterList" size="6904" url="characterList.xml"/>
+					<asset id="tournament" size="897" url="tournamentSettings.xml"/>
+					<asset id="stagesList" size="580" url="stagesList.xml"/>
+
+					<asset id="maps" size="129829" type="text" url="scenarios/maps.xmap"/>
+
+					<group id="charConfig" url="characters">
+						<asset id="jimmyAI" size="2768" type="text" url="jimmy.fist"/>
+						<asset id="sheenAI" size="4358" type="text" url="sheen.fist"/>
+						<asset id="kittyAI" size="3184" type="text" url="kitty.fist"/>
+						<asset id="sandyAI" size="3611" type="text" url="sandy.fist"/>
+						<asset id="monkeyAI" size="3706" type="text" url="knightM.fist"/>
+						<asset id="skipperAI" size="3460" type="text" url="skipper.fist"/>
+						<asset id="chumchumAI" size="3861" type="text" url="chumchum.fist"/>
+						<asset id="planktonAI" size="3713" type="text" url="plankton.fist"/>
+						<asset id="spongeBobAI" size="4071" type="text" url="spongebob.fist"/>
+						<asset id="otisAI" size="3460" type="text" url="otis.fist"/>
+						<asset id="bessieAI" size="3405" type="text" url="bessie.fist"/>
+						<asset id="aangAI" size="3403" type="text" url="aang.fist"/>
+						<asset id="kyleAI" size="3713" type="text" url="kyle.fist"/>
+						<asset id="fanboyAI" size="3713" type="text" url="fanboy.fist"/>
+						<asset id="dudleyAI" size="3540" type="text" url="dudley.fist"/>
+						<asset id="dannyAI" size="3844" type="text" url="danny.fist"/>
+						<asset id="timmyAI" size="3713" type="text" url="timmy.fist"/>
+						<asset id="ricoAI" size="3713" type="text" url="rico.fist"/>
+						<asset id="blowholeAI" size="3556" type="text" url="blowhole.fist"/>
+						<asset id="patrickAI" size="3485" type="text" url="patrick.fist"/>
+						<asset id="cspongebobAI" size="4071" type="text" url="cspongebob.fist"/>
+						<asset id="kingjulienAI" size="3844" type="text" url="kingjulien.fist"/>
+
+						<asset id="jimmyConfig" size="2102" url="jimmy.xml"/>
+						<asset id="sheenConfig" size="2111" url="sheen.xml"/>
+						<asset id="kittyConfig" size="2114" url="kitty.xml"/>
+						<asset id="sandyConfig" size="2105" url="sandy.xml"/>
+						<asset id="monkeyConfig" size="2108" url="knightM.xml"/>
+						<asset id="skipperConfig" size="2101" url="skipper.xml"/>
+						<asset id="planktonConfig" size="2125" url="plankton.xml"/>
+						<asset id="chumchumConfig" size="2104" url="chumchum.xml"/>
+						<asset id="spongebobConfig" size="2236" url="spongebob.xml"/>
+						<asset id="otisConfig" size="2105" url="otis.xml"/>
+						<asset id="bessieConfig" size="2110" url="bessie.xml"/>
+						<asset id="aangConfig" size="2477" url="aang.xml"/>
+						<asset id="kyleConfig" size="2166" url="kyle.xml"/>
+						<asset id="fanboyConfig" size="2117" url="fanboy.xml"/>
+						<asset id="dudleyConfig" size="2118" url="dudley.xml"/>
+						<asset id="dannyConfig" size="2109" url="danny.xml"/>
+						<asset id="timmyConfig" size="2161" url="timmy.xml"/>
+						<asset id="ricoConfig" size="2299" url="rico.xml"/>
+						<asset id="blowholeConfig" size="2245" url="blowhole.xml"/>
+						<asset id="patrickConfig" size="2244" url="patrick.xml"/>
+						<asset id="cspongebobConfig" size="2249" url="cspongebob.xml"/>
+						<asset id="kingjulienConfig" size="2239" url="kingjulien.xml"/>
+					</group>
+				</group>
+			</group>
+
+		</group>
+	</assets>
+</configuration>

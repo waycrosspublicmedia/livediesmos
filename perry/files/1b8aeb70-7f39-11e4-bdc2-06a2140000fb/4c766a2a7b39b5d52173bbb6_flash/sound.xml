@@ -1,0 +1,58 @@
+﻿<sounds>
+<files>
+	  <main hifi="phf_spl_act_agentpstrikesback_sounds.swf" lofi="">
+	    <fxs_main>
+			<!--fx game-->
+			<_boss_laugh_1 volume="100" />
+			<_boss_laugh_2 volume="100" />
+			<_boss_laugh_3 volume="100" />
+			<_boss_shoot volume="100" />
+			<_boss_speech volume="40" />
+			<_boss_speech_end volume="40" />
+			<_bossscreen_on volume="100" />
+			<_bossscreen_off volume="100" />
+			<_boss_explode volume="100" />
+			<_boss_explode_total volume="100" />
+			<_boss_jump volume="100" />
+			<_boss_reactor volume="110" />
+			<_boss_run volume="100" />
+			<_cling volume="70" />
+			<_jump volume="40" />
+			<_over volume="100" />
+			<_release volume="100" />
+			<_electrocuted volume="100" />
+			<_hurt volume="100" />
+			<_recept volume="15" />
+			<_pendant volume="40" />
+			<_life volume="40" />
+			<_cage volume="120" />
+			<_grabArm volume="100" />
+			<_robot_destroy_head volume="100" />
+			<_robot_explode volume="100" />
+			<_robot_steal_arm volume="100" />
+			<_shoot volume="70" />
+			<_watch volume="100" />
+	    </fxs_main>
+		<musics_main>	
+			<!--musics game-->
+			<_main volume="75" />
+			<_game volume="85" />
+			<_boss_fight volume="75" />
+			<_boss_intro_loop volume="140" />
+			<_win volume="100" />
+			<_lose volume="100" />
+			<_game_finished volume="100" />
+		</musics_main>
+	  </main>
+	</files>
+	<groups>
+		<general volume="75">
+			<dig volume="100">
+				<main volume="75">
+					<fxs_main volume="100" />
+					<musics_main volume="100" />
+				</main>
+			</dig>
+		</general>
+	</groups>
+</sounds>
