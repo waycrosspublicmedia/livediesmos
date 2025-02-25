@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-180,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Dance",
+			"loop": true,
+			"name": "gf caramelldansen"
+		},
+		{
+			"offsets": [
+				-187,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "preDance",
+			"loop": false,
+			"name": "gf pre dance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/GF/gf_dance",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		150,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

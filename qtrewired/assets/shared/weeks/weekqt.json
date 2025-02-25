@@ -1,0 +1,35 @@
+{
+	"storyName": "YOUR FAVOURITE THERAPY ROBOT",
+	"difficulties": "Hard,Easy",
+	"hideFreeplay": false,
+	"weekBackground": "qt",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"qt",
+		"bf-qt",
+		"gf-qt"
+	],
+	"songs": [
+		[
+			"blissful",
+			"QT",
+			[
+				255,
+	     	140,
+		     181
+			]
+		],
+		[
+			"obliterated",
+			"KB",
+			[
+				128,
+				128,
+				128
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "stage"
+}

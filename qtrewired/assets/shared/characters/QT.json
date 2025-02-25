@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "qt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "qt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "qt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "qt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "qt left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "preDance",
+			"loop": false,
+			"name": "qt pre dance"
+		},
+		{
+			"offsets": [
+				-17,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Dance",
+			"loop": true,
+			"name": "qt dance"
+		},
+		{
+			"offsets": [
+				120,
+				-79
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "cheer",
+			"loop": false,
+			"name": "qt hey"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/QT_assets/QT",
+	"position": [
+		-250,
+		240
+	],
+	"healthicon": "QT",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		181
+	],
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

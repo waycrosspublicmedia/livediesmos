@@ -1,0 +1,20 @@
+function onCreatePost()
+makeAnimatedLuaSprite('speaker', 'characters/speaker_assets', 0, 0)
+addLuaSprite('speaker', false)
+addAnimationByPrefix('speaker', 'idle', 'bumpBox', 24, true)
+end
+
+function onUpdate(e)
+setProperty('speaker.y', getProperty('gfGroup.y') + 300)
+setProperty('speaker.x', getProperty('gfGroup.x') - 20)
+setProperty('speaker.visible', getProperty('gfGroup.visible'))
+setProperty('speaker.alpha', getProperty('gfGroup.alpha'))
+setProperty('speaker.visible', getProperty('gf.visible'))
+setProperty('speaker.alpha', getProperty('gf.alpha'))
+setProperty('speaker.visible', getProperty('gf.visible'))
+setProperty('speaker.alpha', getProperty('gf.alpha'))
+setProperty('speaker.flipY', getProperty('gfGroup.flipY'))
+setProperty('speaker.flipX', getProperty('gfGroup.flipX'))
+setProperty('speaker.flipY', getProperty('gf.flipY'))
+setProperty('speaker.flipX', getProperty('gf.flipX'))
+end
