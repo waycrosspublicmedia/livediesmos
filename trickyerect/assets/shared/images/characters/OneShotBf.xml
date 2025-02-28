@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OneShotBf.png">
+	<SubTexture name="BF NOTE DOWN0000" x="752" y="920" width="403" height="423" frameX="2" frameY="-4" frameWidth="400" frameHeight="425"/>
+	<SubTexture name="BF NOTE DOWN0001" x="834" y="462" width="403" height="428" frameX="1" frameY="1" frameWidth="400" frameHeight="425"/>
+	<SubTexture name="BF NOTE LEFT0000" x="1633" y="0" width="371" height="459" frameX="2" frameY="-1" frameWidth="381" frameHeight="458"/>
+	<SubTexture name="BF NOTE LEFT0001" x="377" y="920" width="375" height="462" frameX="-8" frameY="2" frameWidth="381" frameHeight="458"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="1633" y="917" width="360" height="453" frameX="-3" frameY="-3" frameWidth="362" frameHeight="454"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="1633" y="459" width="362" height="458" frameX="2" frameY="2" frameWidth="362" frameHeight="454"/>
+	<SubTexture name="BF NOTE UP0000" x="1259" y="0" width="374" height="483" frameX="0" frameY="2" frameWidth="373" frameHeight="480"/>
+	<SubTexture name="BF NOTE UP0001" x="0" y="920" width="377" height="472" frameX="2" frameY="-9" frameWidth="373" frameHeight="480"/>
+	<SubTexture name="Idle0000" x="419" y="462" width="415" height="451" frameX="-6" frameY="-9" frameWidth="419" frameHeight="458"/>
+	<SubTexture name="Idle0001" x="0" y="462" width="419" height="458" frameX="1" frameY="-2" frameWidth="419" frameHeight="458"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="422" height="462" frameX="2" frameY="2" frameWidth="419" frameHeight="458"/>
+	<SubTexture name="Idle0003" x="422" y="0" width="419" height="462" frameX="-1" frameY="2" frameWidth="419" frameHeight="458"/>
+	<SubTexture name="Idle0004" x="841" y="0" width="418" height="462" frameX="-2" frameY="2" frameWidth="419" frameHeight="458"/>
+</TextureAtlas>

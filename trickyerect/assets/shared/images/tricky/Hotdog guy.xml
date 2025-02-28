@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hotdog guy.png">
+	<SubTexture name="hotdog guy instance0000" x="0" y="313" width="277" height="312" frameX="1" frameY="0" frameWidth="277" frameHeight="312"/>
+	<SubTexture name="hotdog guy instance0001" x="554" y="0" width="277" height="312" frameX="1" frameY="0" frameWidth="277" frameHeight="312"/>
+	<SubTexture name="hotdog guy instance0002" x="0" y="0" width="277" height="313" frameX="1" frameY="1" frameWidth="277" frameHeight="312"/>
+	<SubTexture name="hotdog guy instance0003" x="277" y="0" width="277" height="313" frameX="1" frameY="1" frameWidth="277" frameHeight="312"/>
+</TextureAtlas>
