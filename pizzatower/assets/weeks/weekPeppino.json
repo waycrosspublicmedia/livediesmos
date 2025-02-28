@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Delivery", "peppino", [200, 200, 200]],
+		["Bloodsauce", "peppino-angry", [200, 200, 200]],
+		["Sweet Mayhem", "peppino-gun", [200, 200, 200]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "delivery",
+	"difficulties": "Normal",
+	"storyName": "Vs. Peppino",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

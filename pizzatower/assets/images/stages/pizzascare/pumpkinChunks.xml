@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_pumpkinchunks.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="debris00" x="0" y="0" width="35" height="34" frameX="-15" frameY="-21" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="debris01" x="72" y="0" width="26" height="29" frameX="-21" frameY="-13" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="debris02" x="36" y="0" width="35" height="34" frameX="-15" frameY="-21" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="debris03" x="72" y="30" width="21" height="23" frameX="-23" frameY="-25" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

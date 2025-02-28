@@ -1,0 +1,13 @@
+{
+	"directory": "",
+	"defaultZoom": 0.5,
+	"isPixelStage": true,
+	"frameSprite": "pizza",
+	"framePadding": [50,15],
+
+	"boyfriend": [2000, 500],
+	"girlfriend": [1400, 400],
+	"opponent": [600, 400],
+	
+	"hide_girlfriend": "true"
+}

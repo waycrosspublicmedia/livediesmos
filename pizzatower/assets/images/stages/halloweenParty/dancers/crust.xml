@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crust_dance.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="0" y="0" width="41" height="108" frameX="-42" frameY="-9" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle01" x="0" y="109" width="41" height="104" frameX="-42" frameY="-9" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance00" x="42" y="0" width="40" height="108" frameX="-43" frameY="-9" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance01" x="42" y="109" width="41" height="104" frameX="-42" frameY="-9" frameWidth="135" frameHeight="117"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bloosauce crowd.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="goblin loop00" x="291" y="0" width="289" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop01" x="120" y="285" width="81" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop02" x="1233" y="0" width="82" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop03" x="1238" y="293" width="81" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop04" x="393" y="256" width="82" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop05" x="475" y="335" width="81" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop06" x="0" y="0" width="291" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop07" x="120" y="285" width="81" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop08" x="1233" y="0" width="82" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop09" x="1238" y="293" width="81" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop010" x="393" y="256" width="82" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin loop011" x="475" y="335" width="81" height="116" frameX="-0" frameY="-58" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="goblin death00" x="580" y="0" width="144" height="173" frameX="-4" frameY="-0" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop00" x="724" y="165" width="167" height="103" frameX="-172" frameY="-71" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop01" x="775" y="268" width="130" height="105" frameX="-170" frameY="-69" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop02" x="610" y="268" width="165" height="86" frameX="-165" frameY="-88" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop03" x="1017" y="336" width="112" height="79" frameX="-165" frameY="-95" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop04" x="905" y="336" width="112" height="82" frameX="-165" frameY="-92" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop05" x="610" y="173" width="108" height="88" frameX="-170" frameY="-86" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop06" x="724" y="165" width="167" height="103" frameX="-172" frameY="-71" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop07" x="775" y="268" width="130" height="105" frameX="-170" frameY="-69" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop08" x="610" y="268" width="165" height="86" frameX="-165" frameY="-88" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop09" x="1017" y="336" width="112" height="79" frameX="-165" frameY="-95" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop010" x="905" y="336" width="112" height="82" frameX="-165" frameY="-92" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard loop011" x="610" y="173" width="108" height="88" frameX="-170" frameY="-86" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="pissard death00" x="138" y="116" width="111" height="169" frameX="-194" frameY="-5" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop00" x="702" y="354" width="73" height="37" frameX="-94" frameY="-137" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop01" x="629" y="354" width="73" height="38" frameX="-94" frameY="-136" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop02" x="556" y="354" width="73" height="40" frameX="-94" frameY="-134" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop03" x="1129" y="336" width="73" height="41" frameX="-94" frameY="-133" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop04" x="905" y="296" width="333" height="40" frameX="-94" frameY="-134" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop05" x="629" y="354" width="73" height="38" frameX="-94" frameY="-136" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop06" x="702" y="354" width="73" height="37" frameX="-94" frameY="-137" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop07" x="629" y="354" width="73" height="38" frameX="-94" frameY="-136" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop08" x="556" y="354" width="73" height="40" frameX="-94" frameY="-134" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop09" x="1129" y="336" width="73" height="41" frameX="-94" frameY="-133" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop010" x="556" y="354" width="73" height="40" frameX="-94" frameY="-134" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime loop011" x="629" y="354" width="73" height="38" frameX="-94" frameY="-136" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="cheeseslime death00" x="249" y="256" width="144" height="99" frameX="-65" frameY="-72" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop00" x="249" y="116" width="132" height="140" frameX="-302" frameY="-34" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop01" x="0" y="116" width="138" height="136" frameX="-303" frameY="-38" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop02" x="1095" y="0" width="138" height="136" frameX="-303" frameY="-38" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop03" x="957" y="0" width="138" height="137" frameX="-303" frameY="-37" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop04" x="381" y="116" width="131" height="140" frameX="-303" frameY="-34" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop05" x="0" y="252" width="120" height="119" frameX="-303" frameY="-55" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop06" x="724" y="0" width="117" height="165" frameX="-302" frameY="-9" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop07" x="1223" y="136" width="105" height="157" frameX="-303" frameY="-17" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop08" x="957" y="137" width="103" height="159" frameX="-303" frameY="-15" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop09" x="512" y="173" width="98" height="162" frameX="-303" frameY="-12" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop010" x="841" y="0" width="116" height="165" frameX="-303" frameY="-9" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork loop011" x="0" y="252" width="120" height="119" frameX="-303" frameY="-55" frameWidth="441" frameHeight="174"/>
+  <SubTexture name="fork death00" x="1095" y="136" width="128" height="135" frameX="-284" frameY="-38" frameWidth="441" frameHeight="174"/>
+</TextureAtlas>

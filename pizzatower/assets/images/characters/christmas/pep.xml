@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grunch_pep.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="0" y="163" width="68" height="76" frameX="-71" frameY="-97" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle01" x="153" y="162" width="69" height="76" frameX="-71" frameY="-97" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle02" x="86" y="150" width="67" height="81" frameX="-71" frameY="-92" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle03" x="285" y="148" width="66" height="87" frameX="-70" frameY="-86" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle04" x="351" y="148" width="64" height="85" frameX="-71" frameY="-88" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left00" x="0" y="80" width="86" height="83" frameX="-41" frameY="-90" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left01" x="198" y="80" width="87" height="82" frameX="-42" frameY="-91" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right00" x="198" y="0" width="104" height="80" frameX="-61" frameY="-93" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right01" x="0" y="0" width="105" height="80" frameX="-56" frameY="-93" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down00" x="86" y="90" width="96" height="60" frameX="-57" frameY="-113" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down01" x="285" y="87" width="95" height="61" frameX="-57" frameY="-112" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up00" x="105" y="0" width="93" height="90" frameX="-48" frameY="-83" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up01" x="302" y="0" width="92" height="87" frameX="-49" frameY="-86" frameWidth="200" frameHeight="200"/>
+</TextureAtlas>

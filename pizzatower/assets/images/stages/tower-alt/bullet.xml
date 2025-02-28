@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bullet.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="bolet00" x="0" y="0" width="100" height="100" frameX="-0" frameY="-0" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="ow00" x="100" y="0" width="100" height="100" frameX="-0" frameY="-0" frameWidth="100" frameHeight="100"/>
+</TextureAtlas>

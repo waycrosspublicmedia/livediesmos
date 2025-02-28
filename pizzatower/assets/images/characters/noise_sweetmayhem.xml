@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="is the noiser.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="288" y="1" width="92" height="77" frameX="-65" frameY="-96" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle01" x="100" y="1" width="94" height="77" frameX="-64" frameY="-96" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle02" x="194" y="1" width="94" height="77" frameX="-64" frameY="-96" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right00" x="1" y="77" width="92" height="76" frameX="-61" frameY="-97" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right01" x="1" y="1" width="99" height="76" frameX="-55" frameY="-97" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right02" x="1" y="1" width="99" height="76" frameX="-55" frameY="-97" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right03" x="1" y="1" width="99" height="76" frameX="-55" frameY="-97" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down00" x="93" y="78" width="85" height="73" frameX="-60" frameY="-100" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down01" x="178" y="78" width="84" height="72" frameX="-61" frameY="-101" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down02" x="178" y="78" width="84" height="72" frameX="-61" frameY="-101" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down03" x="178" y="78" width="84" height="72" frameX="-61" frameY="-101" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up00" x="262" y="78" width="70" height="86" frameX="-77" frameY="-85" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up01" x="178" y="150" width="68" height="85" frameX="-78" frameY="-86" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up02" x="178" y="150" width="68" height="85" frameX="-78" frameY="-86" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up03" x="178" y="150" width="68" height="85" frameX="-78" frameY="-86" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left00" x="1" y="153" width="95" height="57" frameX="-39" frameY="-116" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left01" x="246" y="164" width="91" height="57" frameX="-44" frameY="-116" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left02" x="246" y="164" width="91" height="57" frameX="-44" frameY="-116" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left03" x="246" y="164" width="91" height="57" frameX="-44" frameY="-116" frameWidth="200" frameHeight="200"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PT_spr_pumpkin_0.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="pumpkin00" x="0" y="0" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin01" x="64" y="0" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin02" x="128" y="0" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin03" x="0" y="64" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin04" x="64" y="64" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin05" x="128" y="64" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin06" x="0" y="128" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="pumpkin07" x="64" y="128" width="64" height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luke_idle.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="0" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle01" x="0" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle02" x="0" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle03" x="0" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle04" x="0" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle05" x="0" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle06" x="62" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle07" x="124" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle08" x="186" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="idle09" x="248" y="0" width="61" height="105" frameX="-45" frameY="-13" frameWidth="144" frameHeight="122"/>
+  <SubTexture name="dance00" x="0" y="106" width="125" height="24" frameX="-7" frameY="-92" frameWidth="144" frameHeight="122"/>
+</TextureAtlas>

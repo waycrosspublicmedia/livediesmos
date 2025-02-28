@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nighty_night.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="anim00" x="0" y="720" width="633" height="357" frameX="-7" frameY="-3" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="anim01" x="0" y="0" width="633" height="360" frameX="-7" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="anim02" x="633" y="0" width="633" height="360" frameX="-7" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="anim03" x="1266" y="0" width="633" height="360" frameX="-7" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="anim04" x="1266" y="360" width="632" height="360" frameX="-8" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="anim05" x="0" y="360" width="633" height="360" frameX="-7" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="anim06" x="633" y="360" width="633" height="360" frameX="-7" frameY="-0" frameWidth="640" frameHeight="360"/>
+</TextureAtlas>

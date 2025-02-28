@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="indigo.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="0" y="158" width="53" height="78" frameX="-25" frameY="-21" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="idle01" x="53" y="158" width="53" height="78" frameX="-25" frameY="-21" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="idle02" x="106" y="158" width="53" height="78" frameX="-25" frameY="-21" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance00" x="163" y="79" width="54" height="78" frameX="-24" frameY="-21" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance01" x="216" y="158" width="53" height="78" frameX="-25" frameY="-21" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance02" x="216" y="158" width="53" height="78" frameX="-25" frameY="-21" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance03" x="217" y="79" width="53" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance04" x="0" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance05" x="52" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance06" x="55" y="79" width="54" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance07" x="163" y="157" width="53" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance08" x="52" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance09" x="0" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance010" x="0" y="0" width="57" height="79" frameX="-22" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance011" x="57" y="0" width="56" height="79" frameX="-23" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance012" x="113" y="0" width="55" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance013" x="109" y="79" width="54" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance014" x="168" y="0" width="55" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance015" x="223" y="0" width="55" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance016" x="223" y="0" width="55" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance017" x="0" y="79" width="55" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance018" x="109" y="79" width="54" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance019" x="113" y="0" width="55" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance020" x="0" y="0" width="57" height="79" frameX="-22" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance021" x="57" y="0" width="56" height="79" frameX="-23" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance022" x="0" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance023" x="52" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance024" x="55" y="79" width="54" height="79" frameX="-24" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance025" x="163" y="157" width="53" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance026" x="52" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+  <SubTexture name="dance027" x="0" y="236" width="52" height="79" frameX="-25" frameY="-20" frameWidth="100" frameHeight="100"/>
+</TextureAtlas>

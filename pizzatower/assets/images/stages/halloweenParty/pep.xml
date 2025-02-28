@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldPep_icon.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="neutral00" x="182" y="446" width="85" height="118" frameX="-35" frameY="-28" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral01" x="367" y="447" width="85" height="118" frameX="-35" frameY="-28" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral02" x="505" y="342" width="85" height="119" frameX="-35" frameY="-28" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose00" x="279" y="360" width="88" height="114" frameX="-36" frameY="-34" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose01" x="463" y="229" width="98" height="113" frameX="-35" frameY="-35" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose02" x="210" y="229" width="107" height="112" frameX="-35" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose03" x="476" y="114" width="111" height="115" frameX="-36" frameY="-34" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose04" x="366" y="0" width="110" height="125" frameX="-26" frameY="-35" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose05" x="0" y="0" width="124" height="138" frameX="-17" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose06" x="352" y="125" width="111" height="114" frameX="-13" frameY="-34" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose07" x="124" y="114" width="115" height="113" frameX="-8" frameY="-35" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose08" x="248" y="0" width="118" height="117" frameX="-6" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose09" x="0" y="374" width="88" height="114" frameX="-36" frameY="-34" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose010" x="0" y="138" width="103" height="119" frameX="-35" frameY="-29" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose011" x="476" y="0" width="118" height="114" frameX="-35" frameY="-34" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose012" x="124" y="0" width="124" height="114" frameX="-36" frameY="-34" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose013" x="103" y="227" width="107" height="113" frameX="-16" frameY="-35" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose014" x="239" y="117" width="113" height="112" frameX="-11" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win00" x="0" y="257" width="90" height="117" frameX="-34" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win01" x="317" y="239" width="91" height="121" frameX="-33" frameY="-33" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win02" x="0" y="257" width="90" height="117" frameX="-34" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win03" x="90" y="340" width="92" height="114" frameX="-33" frameY="-39" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win04" x="88" y="454" width="91" height="109" frameX="-33" frameY="-42" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win05" x="182" y="341" width="97" height="105" frameX="-31" frameY="-45" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win06" x="452" y="461" width="96" height="93" frameX="-31" frameY="-56" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win07" x="267" y="474" width="93" height="94" frameX="-33" frameY="-54" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win08" x="408" y="342" width="97" height="105" frameX="-31" frameY="-45" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win09" x="88" y="454" width="91" height="109" frameX="-33" frameY="-42" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win010" x="90" y="340" width="92" height="114" frameX="-33" frameY="-39" frameWidth="164" frameHeight="177"/>
+</TextureAtlas>

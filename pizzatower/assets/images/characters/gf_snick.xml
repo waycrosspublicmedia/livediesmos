@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_snick.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFSnick0000" x="0" y="0" width="109" height="84" frameX="-12" frameY="-17" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0001" x="109" y="0" width="115" height="82" frameX="-9" frameY="-19" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0002" x="224" y="0" width="121" height="80" frameX="-6" frameY="-21" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0003" x="345" y="0" width="129" height="76" frameX="-2" frameY="-25" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0004" x="0" y="84" width="131" height="75" frameX="-1" frameY="-26" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0005" x="131" y="84" width="133" height="74" frameX="0" frameY="-27" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0006" x="264" y="84" width="113" height="94" frameX="-10" frameY="-7" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0007" x="377" y="84" width="113" height="101" frameX="-10" frameY="0" frameWidth="133" frameHeight="101"/>
+	<SubTexture name="GFSnick0008" x="0" y="185" width="113" height="88" frameX="-10" frameY="-13" frameWidth="133" frameHeight="101"/>
+</TextureAtlas>

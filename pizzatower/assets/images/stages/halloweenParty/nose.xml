@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="old_Nose_icon.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="neutral00" x="329" y="0" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral01" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral02" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral03" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral04" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral05" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral06" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral07" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral08" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral09" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral010" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral011" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral012" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral013" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral014" x="329" y="100" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral015" x="0" y="124" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral016" x="118" y="124" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral017" x="0" y="224" width="118" height="99" frameX="-28" frameY="-41" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral018" x="236" y="200" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="neutral019" x="354" y="200" width="118" height="100" frameX="-28" frameY="-40" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win00" x="0" y="0" width="110" height="124" frameX="-30" frameY="-12" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win01" x="220" y="0" width="109" height="123" frameX="-30" frameY="-12" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="win02" x="110" y="0" width="110" height="124" frameX="-29" frameY="-12" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose00" x="118" y="300" width="133" height="85" frameX="-18" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose01" x="251" y="300" width="131" height="85" frameX="-19" frameY="-36" frameWidth="164" frameHeight="177"/>
+  <SubTexture name="lose02" x="382" y="300" width="130" height="85" frameX="-19" frameY="-36" frameWidth="164" frameHeight="177"/>
+</TextureAtlas>

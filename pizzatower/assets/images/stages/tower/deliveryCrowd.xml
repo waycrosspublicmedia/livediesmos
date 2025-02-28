@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deliveryCrowd.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deliveryCrowd0000" x="0" y="0" width="509" height="87" frameX="0" frameY="-40" frameWidth="510" frameHeight="127"/>
+	<SubTexture name="deliveryCrowd0001" x="509" y="0" width="509" height="100" frameX="0" frameY="-27" frameWidth="510" frameHeight="127"/>
+	<SubTexture name="deliveryCrowd0002" x="0" y="100" width="509" height="119" frameX="0" frameY="-8" frameWidth="510" frameHeight="127"/>
+	<SubTexture name="deliveryCrowd0003" x="509" y="100" width="510" height="124" frameX="0" frameY="-3" frameWidth="510" frameHeight="127"/>
+	<SubTexture name="deliveryCrowd0004" x="0" y="224" width="510" height="127"/>
+</TextureAtlas>

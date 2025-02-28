@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weeny.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="173" y="294" width="149" height="123" frameX="-59" frameY="-76" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="idle01" x="324" y="294" width="150" height="122" frameX="-58" frameY="-78" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="idle02" x="880" y="155" width="157" height="121" frameX="-55" frameY="-81" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="idle03" x="0" y="160" width="158" height="120" frameX="-55" frameY="-83" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="idle04" x="880" y="278" width="169" height="110" frameX="-51" frameY="-93" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="idle05" x="0" y="282" width="171" height="108" frameX="-50" frameY="-95" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="idle06" x="628" y="318" width="158" height="115" frameX="-55" frameY="-88" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="left00" x="540" y="0" width="152" height="137" frameX="-44" frameY="-63" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="left01" x="218" y="0" width="159" height="137" frameX="-42" frameY="-66" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="left02" x="694" y="0" width="152" height="137" frameX="-44" frameY="-63" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="left03" x="379" y="0" width="159" height="137" frameX="-42" frameY="-66" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="right00" x="788" y="390" width="141" height="126" frameX="-95" frameY="-74" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="right01" x="0" y="392" width="142" height="124" frameX="-90" frameY="-78" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="right02" x="931" y="390" width="141" height="126" frameX="-95" frameY="-74" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="right03" x="476" y="412" width="142" height="124" frameX="-90" frameY="-78" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="up00" x="638" y="139" width="119" height="161" frameX="-68" frameY="-37" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="up01" x="848" y="0" width="131" height="153" frameX="-62" frameY="-45" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="up02" x="759" y="155" width="119" height="161" frameX="-68" frameY="-37" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="up03" x="218" y="139" width="131" height="153" frameX="-62" frameY="-45" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="down00" x="620" y="435" width="158" height="101" frameX="-52" frameY="-99" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="down01" x="144" y="419" width="157" height="104" frameX="-52" frameY="-95" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="down02" x="780" y="518" width="158" height="101" frameX="-52" frameY="-99" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="down03" x="303" y="419" width="157" height="104" frameX="-52" frameY="-95" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="taunts00" x="0" y="0" width="216" height="158" frameX="-8" frameY="-40" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="taunts01" x="489" y="274" width="137" height="136" frameX="-70" frameY="-62" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="taunts02" x="351" y="139" width="136" height="144" frameX="-75" frameY="-40" frameWidth="270" frameHeight="235"/>
+  <SubTexture name="taunts03" x="489" y="139" width="147" height="133" frameX="-64" frameY="-74" frameWidth="270" frameHeight="235"/>
+</TextureAtlas>

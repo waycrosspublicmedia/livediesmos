@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ending_card.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="ending00" x="0" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending01" x="640" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending02" x="1280" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending03" x="1920" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending04" x="2560" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending05" x="3200" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending06" x="3840" y="0" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending07" x="0" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending08" x="640" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending09" x="1280" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending010" x="1920" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending011" x="2560" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending012" x="3200" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending013" x="3840" y="360" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending014" x="0" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending015" x="640" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending016" x="1280" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending017" x="1920" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending018" x="2560" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending019" x="3200" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending020" x="3840" y="720" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending021" x="0" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending022" x="640" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending023" x="1280" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending024" x="1920" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending025" x="2560" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending026" x="3200" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending027" x="3840" y="1080" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending028" x="0" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending029" x="640" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending030" x="1280" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending031" x="1920" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending032" x="2560" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending033" x="3200" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending034" x="3840" y="1440" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending035" x="0" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending036" x="640" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending037" x="1280" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending038" x="1920" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending039" x="2560" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending040" x="3200" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending041" x="3840" y="1800" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending042" x="0" y="2160" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending043" x="640" y="2160" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending044" x="1280" y="2160" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending045" x="1920" y="2160" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending046" x="2560" y="2160" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="ending047" x="3200" y="2160" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+</TextureAtlas>

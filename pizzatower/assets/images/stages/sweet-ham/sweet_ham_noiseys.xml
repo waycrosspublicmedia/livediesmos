@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sweet_ham_noiseys.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="wheee00" x="2730" y="701" width="906" height="207" frameX="-32" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee01" x="0" y="493" width="916" height="207" frameX="-22" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee02" x="917" y="493" width="915" height="207" frameX="-23" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee03" x="0" y="701" width="910" height="207" frameX="-28" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee04" x="1821" y="701" width="908" height="207" frameX="-30" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee05" x="1833" y="493" width="913" height="207" frameX="-25" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee06" x="2747" y="493" width="912" height="207" frameX="-26" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="wheee07" x="911" y="701" width="909" height="207" frameX="-29" frameY="-382" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey00" x="1786" y="0" width="888" height="246" frameX="-50" frameY="-343" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey01" x="889" y="247" width="889" height="245" frameX="-49" frameY="-344" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey02" x="895" y="0" width="890" height="246" frameX="-48" frameY="-343" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey03" x="0" y="0" width="894" height="245" frameX="-44" frameY="-344" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey04" x="2675" y="0" width="888" height="246" frameX="-50" frameY="-343" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey05" x="1779" y="247" width="889" height="245" frameX="-49" frameY="-344" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey06" x="0" y="246" width="888" height="246" frameX="-50" frameY="-343" frameWidth="941" frameHeight="589"/>
+  <SubTexture name="hey07" x="2669" y="247" width="889" height="245" frameX="-49" frameY="-344" frameWidth="941" frameHeight="589"/>
+</TextureAtlas>

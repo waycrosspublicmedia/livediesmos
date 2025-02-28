@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pepperoni.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pep0000" x="1" y="1" width="1280" height="720"/>
+	<SubTexture name="pep0001" x="1305" y="1" width="1280" height="720"/>
+	<SubTexture name="pep0002" x="2609" y="1" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "fall",
+			"indices": [],
+			"name": "fall"
+		},
+		{
+			"offsets": [
+				41,
+				-16
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				41,
+				-16
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle-loop",
+			"indices": [
+				4,
+				4
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				32,
+				-15
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				4,
+				-10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				42,
+				-17
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				62,
+				-33
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				5,
+				-5
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/peppino_angry",
+	"position": [
+		270,
+		230
+	],
+	"healthicon": "peppino-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		48,
+		0
+	],
+	"camera_position": [
+		-150,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_gameover.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="init00" x="0" y="93" width="65" height="66" frameX="-32" frameY="-32" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init01" x="242" y="90" width="64" height="69" frameX="-39" frameY="-29" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init02" x="306" y="90" width="64" height="69" frameX="-39" frameY="-28" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init03" x="306" y="90" width="64" height="69" frameX="-42" frameY="-26" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init04" x="306" y="90" width="64" height="69" frameX="-36" frameY="-30" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init05" x="306" y="90" width="64" height="69" frameX="-38" frameY="-27" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init06" x="108" y="90" width="67" height="78" frameX="-27" frameY="-20" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init07" x="175" y="90" width="67" height="78" frameX="-26" frameY="-19" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init08" x="175" y="90" width="67" height="78" frameX="-32" frameY="-18" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init09" x="175" y="90" width="67" height="78" frameX="-26" frameY="-20" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init010" x="175" y="90" width="67" height="78" frameX="-28" frameY="-21" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init011" x="175" y="90" width="67" height="78" frameX="-26" frameY="-18" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init012" x="0" y="159" width="63" height="64" frameX="-31" frameY="-35" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init013" x="242" y="159" width="63" height="64" frameX="-30" frameY="-34" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init014" x="242" y="159" width="63" height="64" frameX="-33" frameY="-34" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init015" x="242" y="159" width="63" height="64" frameX="-30" frameY="-36" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init016" x="242" y="159" width="63" height="64" frameX="-33" frameY="-32" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="init017" x="242" y="159" width="63" height="64" frameX="-29" frameY="-33" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="hit00" x="0" y="0" width="108" height="93" frameX="-8" frameY="-7" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="hit01" x="108" y="0" width="104" height="90" frameX="-11" frameY="-10" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="hit02" x="212" y="0" width="104" height="90" frameX="-11" frameY="-10" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="hit03" x="316" y="0" width="104" height="90" frameX="-11" frameY="-10" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="fall-loop00" x="108" y="0" width="104" height="90" frameX="-11" frameY="-10" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="fall-loop01" x="212" y="0" width="104" height="90" frameX="-11" frameY="-10" frameWidth="120" frameHeight="100"/>
+  <SubTexture name="fall-loop02" x="316" y="0" width="104" height="90" frameX="-11" frameY="-10" frameWidth="120" frameHeight="100"/>
+</TextureAtlas>

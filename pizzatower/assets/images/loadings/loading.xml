@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loading-placeholder.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="load00" x="424" y="106" width="212" height="105" frameX="-9" frameY="-4" frameWidth="240" frameHeight="109"/>
+  <SubTexture name="load01" x="0" y="0" width="212" height="107" frameX="-9" frameY="-2" frameWidth="240" frameHeight="109"/>
+  <SubTexture name="load02" x="424" y="0" width="212" height="106" frameX="-9" frameY="-3" frameWidth="240" frameHeight="109"/>
+  <SubTexture name="load03" x="0" y="107" width="212" height="105" frameX="-9" frameY="-4" frameWidth="240" frameHeight="109"/>
+  <SubTexture name="load04" x="212" y="0" width="212" height="107" frameX="-9" frameY="-2" frameWidth="240" frameHeight="109"/>
+  <SubTexture name="load05" x="424" y="0" width="212" height="106" frameX="-9" frameY="-3" frameWidth="240" frameHeight="109"/>
+</TextureAtlas>

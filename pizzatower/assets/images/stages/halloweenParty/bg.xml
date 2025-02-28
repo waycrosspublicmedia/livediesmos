@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="halparty.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="anim00" x="0" y="0" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim01" x="513" y="0" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim02" x="1026" y="0" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim03" x="1539" y="0" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim04" x="0" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim05" x="513" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim06" x="1026" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim07" x="1539" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim08" x="0" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim09" x="513" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim010" x="1026" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim011" x="1539" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim012" x="0" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim013" x="513" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim014" x="1026" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim015" x="1539" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim016" x="0" y="662" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim017" x="513" y="662" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim018" x="1026" y="662" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim019" x="1539" y="662" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim020" x="0" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim021" x="513" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim022" x="1026" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim023" x="1539" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim024" x="0" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim025" x="513" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim026" x="1026" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim027" x="1539" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim028" x="0" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim029" x="513" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim030" x="1026" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim031" x="1539" y="331" width="513" height="331" frameX="-0" frameY="-0" frameWidth="511" frameHeight="329"/>
+</TextureAtlas>

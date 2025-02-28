@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jimmy_idle.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle01" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle02" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle03" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle04" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle05" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle06" x="220" y="190" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle07" x="131" y="193" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle08" x="65" y="195" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle09" x="131" y="193" width="60" height="96" frameX="-33" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance00" x="0" y="99" width="65" height="99" frameX="-32" frameY="-15" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance01" x="152" y="96" width="68" height="97" frameX="-29" frameY="-17" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance02" x="152" y="0" width="78" height="96" frameX="-29" frameY="-18" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance03" x="0" y="0" width="76" height="99" frameX="-32" frameY="-15" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance04" x="65" y="99" width="66" height="96" frameX="-32" frameY="-18" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance05" x="220" y="96" width="69" height="94" frameX="-29" frameY="-20" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance06" x="230" y="0" width="72" height="96" frameX="-29" frameY="-18" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance07" x="76" y="0" width="76" height="99" frameX="-32" frameY="-15" frameWidth="135" frameHeight="117"/>
+</TextureAtlas>

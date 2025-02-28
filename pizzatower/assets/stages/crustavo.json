@@ -1,0 +1,13 @@
+{
+	"directory": "",
+	"defaultZoom": 0.5,
+	"isPixelStage": true,
+	"frameSprite": "crustavo",
+	"framePadding": [52,15],
+
+	"boyfriend": [1900, 450],
+	"girlfriend": [2200, 450],
+	"opponent": [600, 480],
+	
+	"hide_girlfriend": "true"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="halparty.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="anim00" x="62" y="95" width="66" height="92" frameX="-221" frameY="-155" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim01" x="0" y="0" width="68" height="90" frameX="-220" frameY="-157" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim02" x="0" y="90" width="62" height="98" frameX="-223" frameY="-148" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="anim03" x="68" y="0" width="64" height="95" frameX="-222" frameY="-152" frameWidth="511" frameHeight="329"/>
+</TextureAtlas>

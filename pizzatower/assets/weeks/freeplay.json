@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Crustavo", "crustavo", [200, 200, 200]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"storyName": "this uhh.. only exists bc i think it would get mad if theres no weeks at all",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pillar.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="bwoomf00" x="1" y="1" width="318" height="229" frameX="-66" frameY="-34" frameWidth="395" frameHeight="271"/>
+  <SubTexture name="bwoomf01" x="629" y="1" width="311" height="231" frameX="-65" frameY="-32" frameWidth="395" frameHeight="271"/>
+  <SubTexture name="bwoomf02" x="319" y="1" width="310" height="233" frameX="-65" frameY="-31" frameWidth="395" frameHeight="271"/>
+  <SubTexture name="bwoomf03" x="1" y="230" width="297" height="234" frameX="-67" frameY="-30" frameWidth="395" frameHeight="271"/>
+  <SubTexture name="bwoomf04" x="298" y="234" width="284" height="235" frameX="-68" frameY="-29" frameWidth="395" frameHeight="271"/>
+  <SubTexture name="bwoomf05" x="629" y="232" width="286" height="234" frameX="-66" frameY="-29" frameWidth="395" frameHeight="271"/>
+</TextureAtlas>

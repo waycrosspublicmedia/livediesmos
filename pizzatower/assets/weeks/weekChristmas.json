@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Sainte", "grunch", [200, 200, 200]],
+		["Grunch", "christmas-noise", [200, 200, 200]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "christmas",
+	"difficulties": "Normal",
+	"storyName": "So, what's it gonna be? Huh? HuhH?",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

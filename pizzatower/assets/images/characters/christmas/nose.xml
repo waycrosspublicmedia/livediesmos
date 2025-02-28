@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noiwse (1).png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="413" y="85" width="74" height="87" frameX="-60" frameY="-55" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle01" x="179" y="85" width="73" height="88" frameX="-60" frameY="-54" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle02" x="346" y="103" width="65" height="97" frameX="-65" frameY="-45" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle03" x="85" y="154" width="65" height="91" frameX="-65" frameY="-51" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="idle04" x="0" y="169" width="65" height="90" frameX="-65" frameY="-52" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down00" x="252" y="103" width="94" height="68" frameX="-62" frameY="-74" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="down01" x="85" y="85" width="94" height="69" frameX="-62" frameY="-73" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left00" x="0" y="85" width="85" height="84" frameX="-47" frameY="-58" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="left01" x="413" y="0" width="86" height="85" frameX="-47" frameY="-57" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right00" x="0" y="0" width="128" height="85" frameX="-58" frameY="-56" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="right01" x="128" y="0" width="124" height="85" frameX="-60" frameY="-56" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up00" x="334" y="0" width="79" height="103" frameX="-61" frameY="-39" frameWidth="200" frameHeight="200"/>
+  <SubTexture name="up01" x="252" y="0" width="82" height="101" frameX="-60" frameY="-41" frameWidth="200" frameHeight="200"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrows.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="static00" x="118" y="0" width="57" height="43" frameX="-12" frameY="-15" frameWidth="83" frameHeight="66"/>
+  <SubTexture name="static01" x="0" y="0" width="59" height="43" frameX="-11" frameY="-15" frameWidth="83" frameHeight="66"/>
+  <SubTexture name="confirm00" x="48" y="43" width="43" height="32" frameX="-20" frameY="-23" frameWidth="83" frameHeight="66"/>
+  <SubTexture name="confirm01" x="0" y="43" width="48" height="36" frameX="-17" frameY="-20" frameWidth="83" frameHeight="66"/>
+  <SubTexture name="confirm02" x="59" y="0" width="59" height="43" frameX="-12" frameY="-16" frameWidth="83" frameHeight="66"/>
+</TextureAtlas>

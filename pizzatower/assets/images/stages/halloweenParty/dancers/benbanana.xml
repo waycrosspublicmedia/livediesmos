@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="benjanana_dance.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="68" y="0" width="33" height="26" frameX="-27" frameY="-78" frameWidth="91" frameHeight="104"/>
+  <SubTexture name="dance00" x="30" y="0" width="37" height="25" frameX="-26" frameY="-79" frameWidth="91" frameHeight="104"/>
+  <SubTexture name="dance01" x="68" y="0" width="33" height="26" frameX="-27" frameY="-78" frameWidth="91" frameHeight="104"/>
+  <SubTexture name="dance02" x="30" y="26" width="30" height="27" frameX="-29" frameY="-37" frameWidth="91" frameHeight="104"/>
+  <SubTexture name="dance03" x="61" y="27" width="31" height="26" frameX="-29" frameY="-39" frameWidth="91" frameHeight="104"/>
+  <SubTexture name="dance04" x="0" y="0" width="29" height="37" frameX="-29" frameY="-40" frameWidth="91" frameHeight="104"/>
+</TextureAtlas>

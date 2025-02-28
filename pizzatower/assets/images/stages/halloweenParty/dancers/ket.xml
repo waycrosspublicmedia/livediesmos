@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ket.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="0" y="146" width="74" height="72" frameX="-24" frameY="-40" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle01" x="74" y="147" width="74" height="71" frameX="-24" frameY="-41" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle02" x="222" y="149" width="74" height="70" frameX="-24" frameY="-42" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle03" x="148" y="148" width="74" height="71" frameX="-24" frameY="-41" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="idle04" x="0" y="146" width="74" height="72" frameX="-24" frameY="-40" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance00" x="248" y="74" width="73" height="75" frameX="-27" frameY="-37" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance01" x="252" y="0" width="79" height="74" frameX="-22" frameY="-38" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance02" x="0" y="73" width="80" height="73" frameX="-22" frameY="-39" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance03" x="171" y="0" width="81" height="73" frameX="-30" frameY="-39" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance04" x="171" y="73" width="77" height="75" frameX="-32" frameY="-37" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance05" x="89" y="0" width="82" height="74" frameX="-31" frameY="-38" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance06" x="0" y="0" width="89" height="73" frameX="-30" frameY="-39" frameWidth="135" frameHeight="117"/>
+  <SubTexture name="dance07" x="80" y="74" width="77" height="73" frameX="-25" frameY="-39" frameWidth="135" frameHeight="117"/>
+</TextureAtlas>

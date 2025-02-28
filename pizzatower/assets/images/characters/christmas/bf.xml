@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sainte.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="idle00" x="63" y="385" width="59" height="69" frameX="-30" frameY="-20" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="idle01" x="63" y="322" width="65" height="63" frameX="-26" frameY="-26" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="idle02" x="0" y="325" width="63" height="65" frameX="-27" frameY="-24" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="idle03" x="582" y="317" width="59" height="74" frameX="-29" frameY="-15" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="idle04" x="130" y="320" width="59" height="71" frameX="-29" frameY="-18" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt00" x="326" y="89" width="104" height="80" frameX="-0" frameY="-11" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt01" x="449" y="88" width="106" height="85" frameX="-1" frameY="-9" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt02" x="106" y="0" width="116" height="88" frameX="-1" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt03" x="337" y="0" width="112" height="89" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt04" x="449" y="0" width="112" height="88" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt05" x="337" y="0" width="112" height="89" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt06" x="449" y="0" width="112" height="88" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt07" x="337" y="0" width="112" height="89" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt08" x="449" y="0" width="112" height="88" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hurt09" x="337" y="0" width="112" height="89" frameX="-5" frameY="-4" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="right00" x="196" y="255" width="63" height="70" frameX="-39" frameY="-20" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="right01" x="405" y="318" width="61" height="69" frameX="-38" frameY="-21" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="right02" x="0" y="255" width="63" height="70" frameX="-39" frameY="-20" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="right03" x="259" y="319" width="61" height="69" frameX="-38" frameY="-21" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="left00" x="134" y="180" width="69" height="71" frameX="-21" frameY="-18" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="left01" x="65" y="251" width="65" height="71" frameX="-25" frameY="-18" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="left02" x="65" y="180" width="69" height="71" frameX="-21" frameY="-18" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="left03" x="340" y="249" width="65" height="71" frameX="-25" frameY="-18" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="up00" x="210" y="179" width="65" height="76" frameX="-30" frameY="-13" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="up01" x="625" y="168" width="68" height="75" frameX="-30" frameY="-14" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="up02" x="0" y="179" width="65" height="76" frameX="-30" frameY="-13" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="up03" x="458" y="243" width="65" height="75" frameX="-30" frameY="-14" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="down00" x="189" y="325" width="68" height="60" frameX="-27" frameY="-29" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="down01" x="245" y="388" width="64" height="62" frameX="-28" frameY="-27" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="down02" x="466" y="328" width="68" height="60" frameX="-27" frameY="-29" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="down03" x="380" y="387" width="64" height="62" frameX="-28" frameY="-27" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hey00" x="458" y="173" width="71" height="70" frameX="-28" frameY="-19" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="hey01" x="130" y="251" width="66" height="69" frameX="-31" frameY="-20" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="taunts00" x="309" y="389" width="60" height="57" frameX="-30" frameY="-32" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="taunts01" x="0" y="103" width="87" height="76" frameX="-18" frameY="-14" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="taunts02" x="189" y="385" width="56" height="72" frameX="-33" frameY="-18" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="taunts03" x="523" y="248" width="59" height="80" frameX="-35" frameY="-10" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="taunts04" x="555" y="92" width="105" height="76" frameX="-19" frameY="-14" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="taunts05" x="222" y="0" width="115" height="87" frameX="-4" frameY="-3" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 100" x="500" y="388" width="52" height="71" frameX="-39" frameY="-19" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 101" x="641" y="317" width="55" height="71" frameX="-35" frameY="-16" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 102" x="555" y="168" width="70" height="80" frameX="-23" frameY="-6" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 103" x="326" y="169" width="66" height="77" frameX="-25" frameY="-9" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 104" x="392" y="173" width="66" height="76" frameX="-25" frameY="-10" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 105" x="625" y="243" width="65" height="74" frameX="-26" frameY="-12" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 106" x="320" y="320" width="60" height="69" frameX="-27" frameY="-17" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 107" x="641" y="388" width="51" height="71" frameX="-34" frameY="-22" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="parry 108" x="444" y="388" width="56" height="70" frameX="-34" frameY="-19" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="fall00" x="0" y="0" width="106" height="103" frameX="-6" frameY="-0" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="fall01" x="106" y="88" width="104" height="92" frameX="-8" frameY="-8" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="fall02" x="222" y="87" width="104" height="92" frameX="-8" frameY="-8" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="fall03" x="561" y="0" width="104" height="92" frameX="-8" frameY="-8" frameWidth="124" frameHeight="114"/>
+  <SubTexture name="shock00" x="275" y="246" width="65" height="73" frameX="-32" frameY="-19" frameWidth="124" frameHeight="114"/>
+</TextureAtlas>

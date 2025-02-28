@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bloodsauce-bg.png">
+  <!-- silly funny :3 -->
+  <SubTexture name="00" x="0" y="0" width="64" height="81" frameX="-61" frameY="-144" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="01" x="124" y="0" width="59" height="79" frameX="-61" frameY="-146" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="02" x="64" y="79" width="62" height="74" frameX="-61" frameY="-151" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="03" x="126" y="79" width="62" height="71" frameX="-61" frameY="-154" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="04" x="0" y="81" width="57" height="74" frameX="-66" frameY="-151" frameWidth="511" frameHeight="329"/>
+  <SubTexture name="05" x="64" y="0" width="60" height="79" frameX="-60" frameY="-146" frameWidth="511" frameHeight="329"/>
+</TextureAtlas>

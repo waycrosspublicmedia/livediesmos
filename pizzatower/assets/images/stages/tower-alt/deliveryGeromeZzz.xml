@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deliveryGeromeZzz.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gerome0000" x="1" y="1" width="512" height="330"/>
+	<SubTexture name="gerome0001" x="537" y="1" width="512" height="330"/>
+	<SubTexture name="gerome0002" x="1073" y="1" width="512" height="330"/>
+	<SubTexture name="gerome0003" x="1" y="355" width="512" height="330"/>
+	<SubTexture name="gerome0004" x="537" y="355" width="512" height="330"/>
+	<SubTexture name="gerome0005" x="1073" y="355" width="512" height="330"/>
+	<SubTexture name="gerome0006" x="1" y="709" width="512" height="330"/>
+	<SubTexture name="gerome0007" x="1" y="355" width="512" height="330"/>
+	<SubTexture name="gerome0008" x="1073" y="1" width="512" height="330"/>
+	<SubTexture name="gerome0009" x="537" y="1" width="512" height="330"/>
+	<SubTexture name="gerome0010" x="1" y="1" width="512" height="330"/>
+	<SubTexture name="gerome0011" x="537" y="709" width="512" height="330"/>
+</TextureAtlas>

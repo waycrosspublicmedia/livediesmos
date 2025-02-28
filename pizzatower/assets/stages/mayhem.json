@@ -1,0 +1,14 @@
+{
+	"directory": "",
+	"defaultZoom": 0.25,
+	"isPixelStage": true,
+
+	"frameSprite": "noise",
+	"framePadding": [4,12],
+
+	"boyfriend": [1600, 2400],
+	"girlfriend": [2920, 2080],
+	"opponent": [3900, 1800],
+
+	"camera_speed": 2
+}
