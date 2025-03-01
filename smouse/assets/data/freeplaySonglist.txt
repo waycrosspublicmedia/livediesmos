@@ -1,0 +1,5 @@
+Tutorial:gf:0xFF9271FD
+Unhappy:sadmouse:0xFF919191
+Happy:happymouse:0xFF5E5E5E
+Really-happy:bipolarmouse:0xFF5E5E5E
+Smile:altsadmouse:0xFF5E5E5E
