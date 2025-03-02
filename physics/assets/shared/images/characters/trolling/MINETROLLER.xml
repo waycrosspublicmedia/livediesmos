@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MINETROLLER.png"><SubTexture name="MINETROLLER Idle0000" x="0.0" y="1844.0" width="723.0" height="909.5" frameX="-177.5" frameY="-47.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER Idle0001" x="0.0" y="929.5" width="714.0" height="914.5" frameX="-185.5" frameY="-42.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER Idle0002" x="808.0" y="3609.5" width="720.5" height="799.5" frameX="-205.0" frameY="-156.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER Idle0003" x="2337.5" y="3609.5" width="733.5" height="750.0" frameX="-199.5" frameY="-206.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER Idle0004" x="0.0" y="0.0" width="694.0" height="929.5" frameX="-179.5" frameY="-27.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER Idle0005" x="714.0" y="929.5" width="701.0" height="914.5" frameX="-185.5" frameY="-42.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER Idle0006" x="0.0" y="1844.0" width="723.0" height="909.5" frameX="-177.5" frameY="-47.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER LEFT0000" x="2740.5" y="0.0" width="671.0" height="910.0" frameX="-76.5" frameY="-47.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER LEFT0001" x="2740.5" y="910.0" width="668.5" height="903.5" frameX="-60.5" frameY="-56.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER LEFT0002" x="4089.0" y="1639.5" width="655.5" height="795.5" frameX="-56.0" frameY="-163.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER LEFT0003" x="1415.5" y="2753.5" width="679.5" height="841.0" frameX="-71.0" frameY="-98.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER LEFT0004" x="3411.5" y="0.0" width="677.5" height="889.5" frameX="-91.5" frameY="-54.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER LEFT0005" x="2740.5" y="0.0" width="671.0" height="910.0" frameX="-76.5" frameY="-47.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0000" x="2071.5" y="912.5" width="630.5" height="900.0" frameX="-147.0" frameY="-51.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0001" x="0.0" y="2753.5" width="733.0" height="856.0" frameX="-106.5" frameY="-94.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0002" x="1528.5" y="3609.5" width="809.0" height="798.5" frameX="-68.5" frameY="-150.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0003" x="0.0" y="3609.5" width="808.0" height="802.5" frameX="-69.0" frameY="-150.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0004" x="3071.0" y="3609.5" width="808.0" height="729.5" frameX="-69.0" frameY="-222.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0005" x="4795.0" y="0.0" width="930.5" height="725.5" frameX="-6.0" frameY="-228.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER DOWN0006" x="4089.0" y="2435.0" width="641.0" height="769.5" frameX="-152.5" frameY="-58.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER RIGHT0000" x="733.0" y="2753.5" width="682.5" height="852.0" frameX="-180.0" frameY="-94.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER RIGHT0001" x="2791.0" y="2753.5" width="686.5" height="824.0" frameX="-197.0" frameY="-113.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER RIGHT0002" x="2095.0" y="2753.5" width="696.0" height="825.5" frameX="-214.0" frameY="-133.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER RIGHT0003" x="4089.0" y="823.5" width="679.0" height="816.0" frameX="-231.0" frameY="-134.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER RIGHT0004" x="4089.0" y="0.0" width="706.0" height="823.5" frameX="-203.5" frameY="-120.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER RIGHT0005" x="733.0" y="2753.5" width="682.5" height="852.0" frameX="-180.0" frameY="-94.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER UP0000" x="1379.5" y="0.0" width="692.0" height="920.0" frameX="-91.5" frameY="-27.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER UP0001" x="2238.5" y="1844.0" width="682.5" height="901.0" frameX="-113.0" frameY="-18.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER UP0002" x="2071.5" y="0.0" width="669.0" height="912.5" frameX="-132.0" frameY="-30.5" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER UP0003" x="723.0" y="1844.0" width="754.5" height="908.0" frameX="-132.0" frameY="-35.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER UP0004" x="1477.5" y="1844.0" width="761.0" height="907.0" frameX="-150.0" frameY="-36.0" frameWidth="960.0" frameHeight="960.0" />
+<SubTexture name="MINETROLLER UP0005" x="694.0" y="0.0" width="685.5" height="924.5" frameX="-110.5" frameY="-27.5" frameWidth="960.0" frameHeight="960.0" />
+</TextureAtlas>
