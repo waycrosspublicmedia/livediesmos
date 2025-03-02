@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JAKE FONDO.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JAKE0000" x="0" y="0" width="1212" height="686" frameX="-5" frameY="-8" frameWidth="1243" frameHeight="694"/>
+	<SubTexture name="JAKE0001" x="1212" y="0" width="1203" height="681" frameX="-9" frameY="-6" frameWidth="1243" frameHeight="694"/>
+	<SubTexture name="JAKE0002" x="2415" y="0" width="1209" height="666" frameX="0" frameY="-6" frameWidth="1243" frameHeight="694"/>
+	<SubTexture name="JAKE0003" x="0" y="686" width="1238" height="675" frameX="-5" frameY="0" frameWidth="1243" frameHeight="694"/>
+</TextureAtlas>
