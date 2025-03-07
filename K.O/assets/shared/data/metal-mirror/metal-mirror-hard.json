@@ -14069,7 +14069,7 @@
 						""
 					],
 					[
-						"Toggle Letterbox",
+						"followchars off",
 						"",
 						""
 					]
@@ -14080,6 +14080,11 @@
 				[
 					[
 						"Toggle Letterbox",
+						"",
+						""
+					],
+					[
+						"followchars on",
 						"",
 						""
 					]
