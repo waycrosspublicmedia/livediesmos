@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png"><SubTexture name="red0000" x="134" y="158" width="158" height="134" frameX="0" frameY="-12" frameWidth="158" frameHeight="158" />
+<SubTexture name="green0000" x="0" y="0" width="134" height="158" frameX="-12" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="blue0000" x="134" y="0" width="134" height="158" frameX="-12" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="purple0000" x="402" y="0" width="158" height="134" frameX="0" frameY="-12" frameWidth="158" frameHeight="158" />
+<SubTexture name="arrowRIGHT0000" x="402" y="134" width="158" height="134" frameX="0" frameY="-12" frameWidth="158" frameHeight="158" />
+<SubTexture name="arrowUP0000" x="268" y="0" width="134" height="158" frameX="-12" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="arrowDOWN0000" x="0" y="158" width="134" height="158" frameX="-12" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="arrowLEFT0000" x="0" y="316" width="158" height="134" frameX="0" frameY="-12" frameWidth="158" frameHeight="158" />
+<SubTexture name="right press0000" x="134" y="158" width="158" height="134" frameX="0" frameY="-12" frameWidth="158" frameHeight="158" />
+<SubTexture name="up press0000" x="0" y="0" width="134" height="158" frameX="-12" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="down press0000" x="134" y="0" width="134" height="158" frameX="-12" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="left press0000" x="402" y="0" width="158" height="134" frameX="0" frameY="-12" frameWidth="158" frameHeight="158" />
+</TextureAtlas>

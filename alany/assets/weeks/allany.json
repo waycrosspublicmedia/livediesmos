@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"hell-allany",
+			"hell-allany",
+			[
+				186,
+				193,
+				215
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "allany",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "allany but harder or something",
+	"weekName": "allany week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
