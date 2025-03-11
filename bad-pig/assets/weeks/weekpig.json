@@ -1,0 +1,44 @@
+{
+	"storyName": "piggy island showdown",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"cakerace",
+			"ross",
+			[
+				0,
+				250,
+				0
+			]
+		],
+		[
+			"courtroom",
+			"ross",
+			[
+				0,
+				250,
+				0
+			]
+		],
+		[
+			"badpiggies",
+			"ross",
+			[
+				0,
+				250,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"week1",
+		"",
+		""
+	],
+	"weekName": "weekpig"
+}

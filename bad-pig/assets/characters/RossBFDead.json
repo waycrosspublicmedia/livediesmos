@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Confirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				210,
+				20
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "LoopDead",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "RossBFDED"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RossBFDead",
+	"position": [
+		-280,
+		220
+	],
+	"healthicon": "ross",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		204,
+		51
+	],
+	"camera_position": [
+		-780,
+		-90
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RedIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RedLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RedDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RedUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RedRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RedFly",
+	"position": [
+		90,
+		360
+	],
+	"healthicon": "bfbird",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-120,
+		80
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

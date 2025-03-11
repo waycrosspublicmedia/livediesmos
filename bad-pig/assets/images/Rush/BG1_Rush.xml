@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG1_Rush.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG1_Rush instância 10000" x="0" y="0" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10001" x="2260" y="0" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10002" x="4520" y="0" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10003" x="0" y="564" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10004" x="2260" y="564" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10005" x="4520" y="564" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10006" x="0" y="1128" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10007" x="2260" y="1128" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10008" x="4520" y="1128" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10009" x="0" y="1692" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10010" x="2260" y="1692" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10011" x="4520" y="1692" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10012" x="0" y="2256" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10013" x="2260" y="2256" width="2250" height="554"/>
+	<SubTexture name="BG1_Rush instância 10014" x="4520" y="2256" width="2250" height="554"/>
+</TextureAtlas>

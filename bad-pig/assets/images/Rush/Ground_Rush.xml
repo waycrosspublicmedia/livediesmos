@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ground_Rush.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ground_Rush instância 10000" x="0" y="0" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10001" x="0" y="246" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10002" x="0" y="492" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10003" x="0" y="738" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10004" x="0" y="984" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10005" x="0" y="1230" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10006" x="0" y="1476" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10007" x="0" y="1722" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10008" x="0" y="1968" width="5076" height="236"/>
+	<SubTexture name="Ground_Rush instância 10009" x="0" y="2214" width="5076" height="236"/>
+</TextureAtlas>

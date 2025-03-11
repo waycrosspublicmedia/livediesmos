@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Car.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Loop instância 10000" x="0" y="0" width="870" height="792"/>
+	<SubTexture name="Loop instância 10001" x="880" y="0" width="870" height="792"/>
+	<SubTexture name="Loop instância 10002" x="1760" y="0" width="870" height="792"/>
+	<SubTexture name="Loop instância 10003" x="2640" y="0" width="870" height="792"/>
+	<SubTexture name="Loop instância 10004" x="0" y="802" width="870" height="792"/>
+	<SubTexture name="Loop instância 10005" x="880" y="802" width="870" height="792"/>
+	<SubTexture name="Ready instância 10000" x="1760" y="802" width="871" height="792"/>
+	<SubTexture name="Ready instância 10001" x="2641" y="802" width="871" height="792"/>
+	<SubTexture name="Ready instância 10002" x="0" y="1604" width="871" height="792"/>
+	<SubTexture name="Ready instância 10003" x="881" y="1604" width="871" height="792"/>
+	<SubTexture name="Ready instância 10004" x="1762" y="1604" width="871" height="792"/>
+	<SubTexture name="Ready instância 10005" x="2643" y="1604" width="871" height="792"/>
+</TextureAtlas>

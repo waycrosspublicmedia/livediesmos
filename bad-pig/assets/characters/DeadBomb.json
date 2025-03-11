@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				40
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "DeadBomb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				40
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				18
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ConfirmDead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BombGameOver",
+	"position": [
+		80,
+		240
+	],
+	"healthicon": "bomb",
+	"flip_x": true,
+	"healthbar_colors": [
+		67,
+		67,
+		67
+	],
+	"camera_position": [
+		-320,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

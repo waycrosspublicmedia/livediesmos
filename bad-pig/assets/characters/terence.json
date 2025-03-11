@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TerenceIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TerenceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TerenceDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TerenceUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TerenceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Terence",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "terence",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		22,
+		60
+	],
+	"camera_position": [
+		-310,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

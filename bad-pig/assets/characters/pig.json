@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pig Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pig Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pig Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pig idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pig Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pig_assets",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "pig",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		239,
+		89
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

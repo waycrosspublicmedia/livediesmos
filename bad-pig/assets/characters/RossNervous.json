@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nervous_Idle"
+		},
+		{
+			"offsets": [
+				-22,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nervous_Left"
+		},
+		{
+			"offsets": [
+				-53,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nervous_Down"
+		},
+		{
+			"offsets": [
+				-113,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nervous_Up"
+		},
+		{
+			"offsets": [
+				-47,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nervous_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RossNervous",
+	"position": [
+		100,
+		450
+	],
+	"healthicon": "ross",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		204,
+		51
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

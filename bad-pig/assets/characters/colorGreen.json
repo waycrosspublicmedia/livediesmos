@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RossIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RossLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RossDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RossUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RossRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ColorGreen",
+	"position": [
+		110,
+		460
+	],
+	"healthicon": "ross",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		204,
+		51
+	],
+	"camera_position": [
+		170,
+		90
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

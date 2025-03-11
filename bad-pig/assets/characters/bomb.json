@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BombIdle"
+		},
+		{
+			"offsets": [
+				110,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BombLeft"
+		},
+		{
+			"offsets": [
+				-63,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BombDown"
+		},
+		{
+			"offsets": [
+				20,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BombUp"
+		},
+		{
+			"offsets": [
+				-79,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BombRight"
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sad"
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sad2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Sad3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sad4",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bomb",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "bomb",
+	"flip_x": true,
+	"healthbar_colors": [
+		67,
+		67,
+		67
+	],
+	"camera_position": [
+		-320,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

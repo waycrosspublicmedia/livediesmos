@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				14,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				5,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				78
+			],
+			"anim": "hey",
+			"fps": 30,
+			"name": "HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-26
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				45
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BirdfriendREMAKE",
+	"position": [
+		120,
+		400
+	],
+	"healthicon": "bfbird",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		134,
+		236
+	],
+	"camera_position": [
+		-300,
+		60
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

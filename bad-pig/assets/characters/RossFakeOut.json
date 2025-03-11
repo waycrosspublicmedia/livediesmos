@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nervous_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "FakeOut",
+			"loop": false,
+			"name": "RossFakeOut"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RossFakeOut",
+	"position": [
+		100,
+		450
+	],
+	"healthicon": "ross",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		204,
+		51
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Oviparous-Feast",
+			"king",
+			[
+				180,
+				213,
+				0
+			]
+		],
+		[
+			"biggestbird",
+			"terence",
+			[
+				195,
+				0,
+				80
+			]
+		],
+			[
+			"numberross",
+			"ross",
+			[
+				195,
+				0,
+				80
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="A_Mimir.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A_Mimir instância 10000" x="0" y="0" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10001" x="381" y="0" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10002" x="762" y="0" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10003" x="1143" y="0" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10004" x="1524" y="0" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10005" x="0" y="157" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10006" x="381" y="157" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10007" x="762" y="157" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10008" x="1143" y="157" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10009" x="1524" y="157" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10010" x="0" y="314" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10011" x="381" y="314" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10012" x="762" y="314" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10013" x="1143" y="314" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10014" x="1524" y="314" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10015" x="0" y="471" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10016" x="381" y="471" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10017" x="762" y="471" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10018" x="1143" y="471" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10019" x="1524" y="471" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10020" x="0" y="628" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10021" x="381" y="628" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10022" x="762" y="628" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10023" x="1143" y="628" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10024" x="1524" y="628" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10025" x="0" y="785" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10026" x="381" y="785" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10027" x="762" y="785" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10028" x="1143" y="785" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10029" x="1524" y="785" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10030" x="0" y="942" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10031" x="381" y="942" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10032" x="762" y="942" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10033" x="1143" y="942" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10034" x="1524" y="942" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10035" x="0" y="1099" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10036" x="381" y="1099" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10037" x="762" y="1099" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10038" x="1143" y="1099" width="371" height="147"/>
+	<SubTexture name="A_Mimir instância 10039" x="0" y="0" width="371" height="147"/>
+</TextureAtlas>

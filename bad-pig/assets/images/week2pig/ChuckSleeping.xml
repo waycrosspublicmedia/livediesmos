@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChuckSleeping.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ChuckSleeping instância 10000" x="0" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10001" x="0" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10002" x="330" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10003" x="330" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10004" x="660" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10005" x="660" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10006" x="660" y="0" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10007" x="0" y="310" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10008" x="0" y="310" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10009" x="330" y="310" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10010" x="330" y="310" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10011" x="660" y="310" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10012" x="660" y="310" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10013" x="0" y="620" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10014" x="0" y="620" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10015" x="0" y="620" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10016" x="330" y="620" width="320" height="300"/>
+	<SubTexture name="ChuckSleeping instância 10017" x="330" y="620" width="320" height="300"/>
+</TextureAtlas>

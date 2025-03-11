@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFBird.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFDanceLeft instância 10000" x="0" y="0" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10001" x="456" y="0" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10002" x="912" y="0" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10003" x="1368" y="0" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10004" x="0" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10005" x="0" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10006" x="456" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10007" x="912" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10008" x="912" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10009" x="912" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10010" x="1368" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10011" x="1368" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10012" x="1368" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10013" x="1368" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceLeft instância 10014" x="1368" y="286" width="446" height="276"/>
+	<SubTexture name="GFDanceRight instância 10000" x="0" y="572" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10001" x="508" y="572" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10002" x="1016" y="572" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10003" x="1524" y="572" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10004" x="0" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10005" x="0" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10006" x="508" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10007" x="1016" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10008" x="1016" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10009" x="1016" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10010" x="1524" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10011" x="1524" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10012" x="1524" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10013" x="1524" y="830" width="498" height="248"/>
+	<SubTexture name="GFDanceRight instância 10014" x="1524" y="830" width="498" height="248"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rocket.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="not yet instância 10000" x="0" y="0" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10000" x="0" y="0" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10001" x="1356" y="0" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10002" x="2712" y="0" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10003" x="0" y="830" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10004" x="1356" y="830" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10005" x="2712" y="830" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10006" x="0" y="1660" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10007" x="1356" y="1660" width="1346" height="820"/>
+	<SubTexture name="GRAAH instância 10008" x="2712" y="1660" width="1346" height="820"/>
+</TextureAtlas>

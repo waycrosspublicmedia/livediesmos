@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ChuckIdle"
+		},
+		{
+			"offsets": [
+				32,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ChuckLeft"
+		},
+		{
+			"offsets": [
+				-6,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ChuckDown"
+		},
+		{
+			"offsets": [
+				20,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ChuckUp"
+		},
+		{
+			"offsets": [
+				-23,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ChuckRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ChuckFly",
+	"position": [
+		90,
+		360
+	],
+	"healthicon": "chuck",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		171,
+		25
+	],
+	"camera_position": [
+		-60,
+		20
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

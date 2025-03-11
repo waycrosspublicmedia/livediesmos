@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Book.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle10000" x="0" y="0" width="562" height="546"/>
+	<SubTexture name="idle10001" x="572" y="0" width="562" height="546"/>
+	<SubTexture name="idle10002" x="1144" y="0" width="562" height="546"/>
+	<SubTexture name="idle10003" x="1716" y="0" width="562" height="546"/>
+	<SubTexture name="idle10004" x="2288" y="0" width="562" height="546"/>
+	<SubTexture name="idle10005" x="2860" y="0" width="562" height="546"/>
+	<SubTexture name="idle10006" x="3432" y="0" width="562" height="546"/>
+	<SubTexture name="idle10007" x="0" y="556" width="562" height="546"/>
+	<SubTexture name="idle10008" x="572" y="556" width="562" height="546"/>
+	<SubTexture name="idle10009" x="1144" y="556" width="562" height="546"/>
+	<SubTexture name="idle10010" x="1716" y="556" width="562" height="546"/>
+	<SubTexture name="idle10011" x="2288" y="556" width="562" height="546"/>
+	<SubTexture name="idle10012" x="2860" y="556" width="562" height="546"/>
+	<SubTexture name="idle10013" x="3432" y="556" width="562" height="546"/>
+	<SubTexture name="idle10014" x="0" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10015" x="572" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10016" x="1144" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10017" x="1716" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10018" x="2288" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10019" x="2860" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10020" x="3432" y="1112" width="562" height="546"/>
+	<SubTexture name="idle10021" x="0" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10022" x="572" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10023" x="1144" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10024" x="1716" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10025" x="2288" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10026" x="2860" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10027" x="3432" y="1668" width="562" height="546"/>
+	<SubTexture name="idle10028" x="0" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10029" x="572" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10030" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10031" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10032" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10033" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10034" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10035" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10036" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10037" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10038" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10039" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10040" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10041" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10042" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10043" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10044" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10045" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10046" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10047" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10048" x="1144" y="2224" width="562" height="546"/>
+	<SubTexture name="idle10049" x="1144" y="2224" width="562" height="546"/>
+</TextureAtlas>

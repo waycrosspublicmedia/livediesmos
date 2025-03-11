@@ -1,0 +1,44 @@
+{
+	"storyName": "Heist on the night",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"HogTurnal",
+			"ross",
+			[
+				0,
+				250,
+				0
+			]
+		],
+		[
+			"YolkThief",
+			"ross",
+			[
+				0,
+				250,
+				0
+			]
+		],
+		[
+			"Omelette Rush",
+			"both",
+			[
+				255,
+				40,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"week2",
+		"",
+		""
+	],
+	"weekName": "Episode2"
+}

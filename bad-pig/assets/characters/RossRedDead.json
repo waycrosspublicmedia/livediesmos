@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				20
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "RossRedDED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				20
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "LoopDead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RossRedDead",
+	"position": [
+		-280,
+		200
+	],
+	"healthicon": "ross",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		204,
+		51
+	],
+	"camera_position": [
+		-780,
+		-90
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.6
+}

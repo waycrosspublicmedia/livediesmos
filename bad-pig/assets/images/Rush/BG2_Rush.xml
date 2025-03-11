@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG2_Rush.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG2_Rush instância 10000" x="0" y="0" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10001" x="1810" y="0" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10002" x="3620" y="0" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10003" x="5430" y="0" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10004" x="0" y="567" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10005" x="1810" y="567" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10006" x="3620" y="567" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10007" x="5430" y="567" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10008" x="0" y="1134" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10009" x="1810" y="1134" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10010" x="3620" y="1134" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10011" x="5430" y="1134" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10012" x="0" y="1701" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10013" x="1810" y="1701" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10014" x="3620" y="1701" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10015" x="5430" y="1701" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10016" x="0" y="2268" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10017" x="1810" y="2268" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10018" x="3620" y="2268" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10019" x="5430" y="2268" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10020" x="0" y="2835" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10021" x="1810" y="2835" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10022" x="3620" y="2835" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10023" x="5430" y="2835" width="1800" height="557"/>
+	<SubTexture name="BG2_Rush instância 10024" x="0" y="3402" width="1800" height="557"/>
+</TextureAtlas>

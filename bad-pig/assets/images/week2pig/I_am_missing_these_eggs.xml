@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="I_am_missing_these_eggs.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eggs instância 10000" x="0" y="0" width="359" height="262"/>
+	<SubTexture name="Missing instância 10000" x="369" y="0" width="359" height="260"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pig3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pig3 instância 10000" x="0" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10001" x="0" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10002" x="154" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10003" x="154" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10004" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10005" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10006" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10007" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10008" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10009" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10010" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10011" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10012" x="308" y="0" width="144" height="135"/>
+	<SubTexture name="Pig3 instância 10013" x="308" y="0" width="144" height="135"/>
+</TextureAtlas>

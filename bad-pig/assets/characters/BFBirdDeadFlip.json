@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				113,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF_FlipDead"
+		},
+		{
+			"offsets": [
+				24,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF_FlipLoop"
+		},
+		{
+			"offsets": [
+				75,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF_FlipAlive"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFBirdDeadFlip",
+	"position": [
+		150,
+		410
+	],
+	"healthicon": "bfbird",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		134,
+		236
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

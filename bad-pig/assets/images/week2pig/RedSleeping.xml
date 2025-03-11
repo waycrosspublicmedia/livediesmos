@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RedSleeping.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RedSleeping instância 10000" x="0" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10001" x="0" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10002" x="0" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10003" x="356" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10004" x="356" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10005" x="356" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10006" x="712" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10007" x="712" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10008" x="712" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10009" x="712" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10010" x="712" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10011" x="1068" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10012" x="1068" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10013" x="1068" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10014" x="1424" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10015" x="1424" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10016" x="1424" y="0" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10017" x="0" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10018" x="0" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10019" x="0" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10020" x="356" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10021" x="356" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10022" x="356" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10023" x="356" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10024" x="356" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10025" x="712" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10026" x="712" y="356" width="346" height="346"/>
+	<SubTexture name="RedSleeping instância 10027" x="712" y="356" width="346" height="346"/>
+</TextureAtlas>
