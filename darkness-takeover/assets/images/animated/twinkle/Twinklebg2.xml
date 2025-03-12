@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Twinklebg2.png"><SubTexture name="Twinklebg2 Anim0000" x="0" y="0" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0001" x="0" y="2007" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0002" x="5000" y="0" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0003" x="5000" y="2007" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0004" x="0" y="4014" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0005" x="5000" y="4014" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0006" x="0" y="6021" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Twinklebg2 Anim0007" x="5000" y="6021" width="5000" height="2007" frameX="0" frameY="-193" frameWidth="5000" frameHeight="2200" />
+</TextureAtlas>

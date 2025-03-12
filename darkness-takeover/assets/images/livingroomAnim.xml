@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="livingroomAnim.png"><SubTexture name="livingroomAnim Anim0000" x="0" y="0" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0001" x="3192" y="0" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0002" x="0" y="1692" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0003" x="3192" y="1692" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0004" x="0" y="3384" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0005" x="3192" y="0" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0006" x="3192" y="3384" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="livingroomAnim Anim0007" x="6384" y="0" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+</TextureAtlas>

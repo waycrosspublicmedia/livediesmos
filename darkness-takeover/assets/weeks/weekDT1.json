@@ -1,0 +1,49 @@
+{
+	"storyName": "Part 1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "part1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"A Family Guy",
+			"peter",
+			[
+				30,
+				97,
+				2
+			]
+		],
+		[
+			"Rooten Family",
+			"brianrooten",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Fashioned Values",
+			"clevelandcorruptedFV",
+			[
+				255,
+				185,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Part1"
+}

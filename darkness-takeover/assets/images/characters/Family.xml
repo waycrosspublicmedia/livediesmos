@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Family.png"><SubTexture name="Family down0000" x="5580" y="3751" width="1000" height="697" frameX="-94" frameY="-499" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family down0001" x="5339" y="5017" width="1051" height="694" frameX="-94" frameY="-502" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family down0002" x="0" y="5767" width="979" height="687" frameX="-94" frameY="-509" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family down0003" x="5580" y="3051" width="1024" height="700" frameX="-94" frameY="-496" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family down0004" x="4351" y="5017" width="988" height="697" frameX="-94" frameY="-499" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0000" x="1161" y="4131" width="1182" height="878" frameX="-90" frameY="-319" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0001" x="0" y="4131" width="1161" height="886" frameX="-94" frameY="-308" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0002" x="4383" y="2777" width="1174" height="899" frameX="-94" frameY="-296" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0003" x="4383" y="1868" width="1195" height="909" frameX="-94" frameY="-285" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0004" x="4383" y="939" width="1193" height="929" frameX="-94" frameY="-265" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0005" x="4383" y="0" width="1197" height="939" frameX="-94" frameY="-255" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0006" x="2320" y="3180" width="1214" height="943" frameX="-94" frameY="-253" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0007" x="1114" y="3180" width="1206" height="950" frameX="-94" frameY="-244" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0008" x="0" y="3180" width="1114" height="951" frameX="-93" frameY="-244" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family idle0009" x="2343" y="4131" width="1117" height="859" frameX="-94" frameY="-337" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0000" x="926" y="2170" width="941" height="1006" frameX="-87" frameY="-190" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0001" x="3484" y="975" width="859" height="970" frameX="-94" frameY="-226" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0002" x="915" y="0" width="872" height="1074" frameX="-94" frameY="-122" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0003" x="0" y="0" width="915" height="1116" frameX="-54" frameY="-80" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0004" x="3484" y="0" width="899" height="975" frameX="-94" frameY="-221" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0005" x="841" y="1116" width="895" height="1035" frameX="-94" frameY="-161" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0006" x="0" y="2170" width="926" height="1010" frameX="-94" frameY="-189" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family left0007" x="1867" y="2170" width="912" height="998" frameX="-94" frameY="-198" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0000" x="5580" y="775" width="1388" height="773" frameX="-95" frameY="-424" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0001" x="5580" y="1548" width="1380" height="753" frameX="-95" frameY="-444" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0002" x="2922" y="5017" width="1429" height="742" frameX="-95" frameY="-455" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0003" x="0" y="5017" width="1472" height="750" frameX="-95" frameY="-447" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0004" x="1472" y="5017" width="1450" height="750" frameX="-95" frameY="-447" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0005" x="5580" y="2301" width="1388" height="750" frameX="-95" frameY="-447" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0006" x="5580" y="0" width="1418" height="775" frameX="-95" frameY="-422" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family right0007" x="3460" y="4131" width="1376" height="783" frameX="-95" frameY="-414" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family up0000" x="1736" y="1116" width="841" height="1021" frameX="-94" frameY="-175" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family up0001" x="3484" y="1945" width="877" height="961" frameX="-94" frameY="-235" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family up0002" x="1787" y="0" width="840" height="1067" frameX="-94" frameY="-129" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family up0003" x="0" y="1116" width="841" height="1054" frameX="-93" frameY="-142" frameWidth="1620" frameHeight="1280" />
+<SubTexture name="Family up0004" x="2627" y="0" width="857" height="1021" frameX="-94" frameY="-175" frameWidth="1620" frameHeight="1280" />
+</TextureAtlas>

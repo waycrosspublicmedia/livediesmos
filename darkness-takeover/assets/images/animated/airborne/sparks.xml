@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sparks.png"><SubTexture name="sparks anim0000" x="0" y="0" width="2545" height="1000" frameX="-55" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sparks anim0001" x="0" y="1000" width="2368" height="1000" frameX="-232" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sparks anim0002" x="2545" y="0" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sparks anim0003" x="2545" y="1000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+</TextureAtlas>

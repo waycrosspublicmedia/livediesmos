@@ -1,0 +1,40 @@
+{
+	"storyName": "Part 2",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "part2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekDT1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Death lives",
+			"waveDL",
+			[
+			    0,
+				0,
+				0
+			]
+		],
+		[
+			"Twinkle",
+			"stewieTwinkleph1",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Part2"
+}

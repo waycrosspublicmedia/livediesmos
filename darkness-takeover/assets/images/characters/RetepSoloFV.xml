@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RetepSoloFV.png"><SubTexture name="RetepSoloFV idle0000" x="1374" y="2850" width="504" height="618" frameX="-222" frameY="-168" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0001" x="1698" y="0" width="532" height="677" frameX="-215" frameY="-109" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0002" x="2418" y="2184" width="546" height="660" frameX="-204" frameY="-126" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0003" x="2687" y="0" width="534" height="671" frameX="-216" frameY="-116" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0004" x="1131" y="1508" width="553" height="674" frameX="-213" frameY="-112" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0005" x="1684" y="1508" width="537" height="674" frameX="-211" frameY="-112" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0006" x="2230" y="674" width="457" height="673" frameX="-219" frameY="-113" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0007" x="1698" y="677" width="467" height="676" frameX="-216" frameY="-110" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0008" x="2230" y="0" width="457" height="674" frameX="-219" frameY="-113" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV idle0009" x="656" y="1508" width="475" height="675" frameX="-215" frameY="-111" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV down0000" x="1878" y="2850" width="558" height="607" frameX="-19" frameY="-180" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV down0001" x="3943" y="0" width="591" height="558" frameX="-21" frameY="-230" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV down0002" x="0" y="3505" width="631" height="556" frameX="-13" frameY="-231" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV down0003" x="2982" y="2850" width="673" height="603" frameX="-23" frameY="-202" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV down0004" x="2436" y="2850" width="546" height="606" frameX="-19" frameY="-181" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV down0005" x="3221" y="0" width="722" height="659" frameX="-9" frameY="-165" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV left0000" x="0" y="2184" width="551" height="666" frameX="-111" frameY="-120" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV left0001" x="3221" y="1318" width="564" height="655" frameX="-74" frameY="-131" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV left0002" x="3221" y="659" width="622" height="659" frameX="-18" frameY="-127" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV left0003" x="1858" y="2184" width="560" height="663" frameX="-84" frameY="-124" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV left0004" x="2687" y="1338" width="530" height="663" frameX="-127" frameY="-123" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV left0005" x="2687" y="671" width="517" height="667" frameX="-136" frameY="-119" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV right0000" x="551" y="2184" width="648" height="665" frameX="-30" frameY="-122" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV right0001" x="3221" y="1973" width="672" height="655" frameX="-37" frameY="-132" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV right0002" x="663" y="2850" width="711" height="653" frameX="-30" frameY="-134" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV right0003" x="0" y="2850" width="663" height="655" frameX="-36" frameY="-132" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV right0004" x="1199" y="2184" width="659" height="665" frameX="-31" frameY="-122" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV right0005" x="0" y="1508" width="656" height="676" frameX="-28" frameY="-111" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV up0000" x="0" y="784" width="541" height="724" frameX="-141" frameY="-61" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV up0001" x="551" y="0" width="598" height="754" frameX="-91" frameY="-33" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV up0002" x="0" y="0" width="551" height="784" frameX="-155" frameY="-1" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV up0003" x="1149" y="0" width="549" height="754" frameX="-172" frameY="-31" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV up0004" x="541" y="784" width="503" height="718" frameX="-200" frameY="-67" frameWidth="900" frameHeight="900" />
+<SubTexture name="RetepSoloFV up0005" x="1044" y="784" width="478" height="708" frameX="-212" frameY="-77" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

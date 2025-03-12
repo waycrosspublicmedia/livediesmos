@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CorruptionDL1.png"><SubTexture name="CorruptionDL1 idle0000" x="1544" y="2398" width="1583" height="1175" frameX="0" frameY="-707" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0001" x="4662" y="1175" width="1514" height="1163" frameX="0" frameY="-719" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0002" x="4662" y="2338" width="1514" height="1157" frameX="0" frameY="-725" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0003" x="0" y="2398" width="1544" height="1178" frameX="0" frameY="-704" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0004" x="1544" y="2398" width="1583" height="1175" frameX="0" frameY="-707" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0005" x="0" y="0" width="1547" height="1205" frameX="0" frameY="-677" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0006" x="1547" y="0" width="1580" height="1196" frameX="0" frameY="-686" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0007" x="3127" y="0" width="1535" height="1184" frameX="0" frameY="-698" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0008" x="0" y="1205" width="1613" height="1193" frameX="0" frameY="-689" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 idle0009" x="4662" y="0" width="1544" height="1175" frameX="0" frameY="-707" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0000" x="1544" y="2398" width="1583" height="1175" frameX="0" frameY="-707" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0001" x="0" y="3576" width="1546" height="1075" frameX="0" frameY="-807" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0002" x="3127" y="1184" width="1471" height="1047" frameX="0" frameY="-835" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0003" x="1613" y="1205" width="1507" height="953" frameX="0" frameY="-929" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0004" x="1546" y="3576" width="1461" height="855" frameX="0" frameY="-1027" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0005" x="3127" y="2398" width="1352" height="857" frameX="0" frameY="-1025" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0006" x="3007" y="3576" width="1230" height="720" frameX="0" frameY="-1162" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0007" x="4237" y="3576" width="1046" height="630" frameX="0" frameY="-1194" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0008" x="5283" y="3576" width="566" height="449" frameX="0" frameY="-1266" frameWidth="1800" frameHeight="1882" />
+<SubTexture name="CorruptionDL1 die0009" x="1613" y="2158" width="169" height="179" frameX="0" frameY="-1391" frameWidth="1800" frameHeight="1882" />
+</TextureAtlas>

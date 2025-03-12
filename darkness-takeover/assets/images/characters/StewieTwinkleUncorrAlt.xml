@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="StewieTwinkleUncorrAlt.png"><SubTexture name="StewieTwinkleUncorrAlt idle0000" x="543" y="1000" width="231" height="195" frameX="-94" frameY="-104" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0001" x="1332" y="375" width="240" height="180" frameX="-95" frameY="-119" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0002" x="464" y="797" width="214" height="201" frameX="-91" frameY="-98" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0003" x="774" y="1000" width="197" height="194" frameX="-105" frameY="-105" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0004" x="1068" y="399" width="189" height="198" frameX="-103" frameY="-101" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0005" x="185" y="1000" width="191" height="197" frameX="-106" frameY="-102" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0006" x="1068" y="597" width="186" height="198" frameX="-105" frameY="-101" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0007" x="1068" y="795" width="191" height="198" frameX="-102" frameY="-101" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0008" x="1068" y="200" width="185" height="199" frameX="-106" frameY="-100" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt idle0009" x="0" y="1000" width="185" height="198" frameX="-106" frameY="-101" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt down0000" x="971" y="1000" width="260" height="192" frameX="-47" frameY="-106" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt down0001" x="1332" y="0" width="278" height="191" frameX="-43" frameY="-110" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt down0002" x="1332" y="727" width="246" height="155" frameX="-82" frameY="-143" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt down0003" x="1332" y="555" width="227" height="172" frameX="-72" frameY="-126" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt down0004" x="678" y="797" width="297" height="201" frameX="-54" frameY="-97" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt down0005" x="848" y="0" width="220" height="206" frameX="-68" frameY="-92" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt left0000" x="645" y="252" width="201" height="218" frameX="-17" frameY="-78" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt left0001" x="265" y="797" width="199" height="202" frameX="-14" frameY="-94" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt left0002" x="228" y="571" width="213" height="208" frameX="0" frameY="-88" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt left0003" x="848" y="206" width="200" height="203" frameX="-16" frameY="-93" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt left0004" x="452" y="289" width="187" height="200" frameX="-33" frameY="-96" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt left0005" x="376" y="1000" width="167" height="197" frameX="-52" frameY="-99" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt right0000" x="441" y="571" width="256" height="208" frameX="-78" frameY="-91" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt right0001" x="0" y="797" width="265" height="203" frameX="-98" frameY="-96" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt right0002" x="1332" y="191" width="269" height="184" frameX="-116" frameY="-115" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt right0003" x="1068" y="0" width="264" height="200" frameX="-110" frameY="-99" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt right0004" x="0" y="571" width="228" height="226" frameX="-106" frameY="-73" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt right0005" x="848" y="409" width="214" height="203" frameX="-109" frameY="-96" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt up0000" x="212" y="289" width="240" height="274" frameX="-32" frameY="-26" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt up0001" x="217" y="0" width="221" height="288" frameX="-41" frameY="-12" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt up0002" x="438" y="0" width="207" height="284" frameX="-59" frameY="-16" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt up0003" x="0" y="0" width="217" height="289" frameX="-58" frameY="-11" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt up0004" x="0" y="289" width="212" height="282" frameX="-46" frameY="-18" frameWidth="400" frameHeight="400" />
+<SubTexture name="StewieTwinkleUncorrAlt up0005" x="645" y="0" width="203" height="252" frameX="-48" frameY="-48" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

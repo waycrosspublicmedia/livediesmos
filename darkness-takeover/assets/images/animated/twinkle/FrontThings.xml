@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FrontThings.png"><SubTexture name="FrontThings Anim0000" x="0" y="1634" width="4977" height="1540" frameX="-19" frameY="-660" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="FrontThings Anim0001" x="0" y="0" width="4994" height="1634" frameX="-5" frameY="-566" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="FrontThings Anim0002" x="4977" y="1634" width="4979" height="1452" frameX="-21" frameY="-748" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="FrontThings Anim0003" x="4994" y="0" width="4995" height="1568" frameX="0" frameY="-632" frameWidth="5000" frameHeight="2200" />
+</TextureAtlas>

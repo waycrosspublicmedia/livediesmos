@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Retep.png"><SubTexture name="Retep idle0000" x="3309" y="0" width="610" height="703" frameX="-158" frameY="-73" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0001" x="1782" y="1903" width="540" height="710" frameX="-157" frameY="-66" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0002" x="2702" y="709" width="600" height="707" frameX="-131" frameY="-69" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0003" x="2002" y="922" width="649" height="723" frameX="-103" frameY="-59" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0004" x="541" y="1903" width="680" height="717" frameX="-91" frameY="-59" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0005" x="2702" y="0" width="607" height="709" frameX="-79" frameY="-68" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0006" x="1345" y="965" width="532" height="723" frameX="-142" frameY="-55" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0007" x="0" y="1903" width="541" height="721" frameX="-136" frameY="-55" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0008" x="1221" y="1903" width="561" height="713" frameX="-137" frameY="-72" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep idle0009" x="3309" y="703" width="518" height="702" frameX="-141" frameY="-74" frameWidth="900" frameHeight="800" />
+<SubTexture name="Retep down0000" x="3919" y="1349" width="732" height="616" frameX="-212" frameY="-61" frameWidth="1000" frameHeight="700" />
+<SubTexture name="Retep down0001" x="3567" y="3319" width="895" height="602" frameX="-49" frameY="-76" frameWidth="1000" frameHeight="700" />
+<SubTexture name="Retep down0002" x="1813" y="3992" width="930" height="536" frameX="-26" frameY="-139" frameWidth="1000" frameHeight="700" />
+<SubTexture name="Retep down0003" x="2743" y="3992" width="952" height="531" frameX="-16" frameY="-143" frameWidth="1000" frameHeight="700" />
+<SubTexture name="Retep down0004" x="4745" y="0" width="948" height="515" frameX="-5" frameY="-157" frameWidth="1000" frameHeight="700" />
+<SubTexture name="Retep down0005" x="3695" y="3992" width="895" height="526" frameX="-55" frameY="-146" frameWidth="1000" frameHeight="700" />
+<SubTexture name="Retep left0000" x="2680" y="3319" width="887" height="606" frameX="-148" frameY="-139" frameWidth="1200" frameHeight="800" />
+<SubTexture name="Retep left0001" x="840" y="3319" width="946" height="643" frameX="-92" frameY="-107" frameWidth="1200" frameHeight="800" />
+<SubTexture name="Retep left0002" x="887" y="3992" width="926" height="582" frameX="-72" frameY="-166" frameWidth="1200" frameHeight="800" />
+<SubTexture name="Retep left0003" x="1786" y="3319" width="894" height="609" frameX="-114" frameY="-139" frameWidth="1200" frameHeight="800" />
+<SubTexture name="Retep left0004" x="0" y="3992" width="887" height="597" frameX="-133" frameY="-150" frameWidth="1200" frameHeight="800" />
+<SubTexture name="Retep left0005" x="0" y="3319" width="840" height="673" frameX="-189" frameY="-75" frameWidth="1200" frameHeight="800" />
+<SubTexture name="Retep right0000" x="1664" y="2624" width="779" height="691" frameX="-25" frameY="-7" frameWidth="900" frameHeight="700" />
+<SubTexture name="Retep right0001" x="3919" y="679" width="805" height="670" frameX="-41" frameY="-23" frameWidth="900" frameHeight="700" />
+<SubTexture name="Retep right0002" x="0" y="2624" width="871" height="695" frameX="-29" frameY="0" frameWidth="900" frameHeight="700" />
+<SubTexture name="Retep right0003" x="3919" y="0" width="826" height="679" frameX="-27" frameY="-14" frameWidth="900" frameHeight="700" />
+<SubTexture name="Retep right0004" x="871" y="2624" width="793" height="693" frameX="-33" frameY="0" frameWidth="900" frameHeight="700" />
+<SubTexture name="Retep right0005" x="2443" y="2624" width="734" height="687" frameX="-30" frameY="-8" frameWidth="900" frameHeight="700" />
+<SubTexture name="Retep up0000" x="0" y="965" width="668" height="938" frameX="-49" frameY="-47" frameWidth="800" frameHeight="1000" />
+<SubTexture name="Retep up0001" x="0" y="0" width="674" height="965" frameX="-46" frameY="-25" frameWidth="800" frameHeight="1000" />
+<SubTexture name="Retep up0002" x="674" y="0" width="654" height="961" frameX="-40" frameY="-19" frameWidth="800" frameHeight="1000" />
+<SubTexture name="Retep up0003" x="1328" y="0" width="674" height="954" frameX="-52" frameY="-26" frameWidth="800" frameHeight="1000" />
+<SubTexture name="Retep up0004" x="668" y="965" width="677" height="934" frameX="-35" frameY="-47" frameWidth="800" frameHeight="1000" />
+<SubTexture name="Retep up0005" x="2002" y="0" width="700" height="922" frameX="-25" frameY="-61" frameWidth="800" frameHeight="1000" />
+</TextureAtlas>

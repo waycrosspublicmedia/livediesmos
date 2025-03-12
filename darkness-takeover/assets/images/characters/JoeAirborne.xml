@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JoeAirborne.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Joe down0000" x="0" y="0" width="536" height="613" frameX="0" frameY="0" frameWidth="547" frameHeight="613"/>
+	<SubTexture name="Joe down0001" x="536" y="0" width="546" height="582" frameX="0" frameY="-31" frameWidth="547" frameHeight="613"/>
+	<SubTexture name="Joe down0002" x="1082" y="0" width="547" height="578" frameX="0" frameY="-35" frameWidth="547" frameHeight="613"/>
+	<SubTexture name="Joe down0003" x="1629" y="0" width="543" height="583" frameX="0" frameY="-29" frameWidth="547" frameHeight="613"/>
+	<SubTexture name="Joe down0004" x="2172" y="0" width="539" height="590" frameX="0" frameY="-23" frameWidth="547" frameHeight="613"/>
+	<SubTexture name="Joe down0005" x="2711" y="0" width="535" height="597" frameX="0" frameY="-16" frameWidth="547" frameHeight="613"/>
+	<SubTexture name="Joe idle0000" x="3246" y="0" width="524" height="609" frameX="0" frameY="-29" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0001" x="0" y="613" width="503" height="616" frameX="0" frameY="-22" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0002" x="503" y="613" width="485" height="621" frameX="0" frameY="-17" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0003" x="988" y="613" width="482" height="624" frameX="0" frameY="-14" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0004" x="1470" y="613" width="458" height="629" frameX="0" frameY="-9" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0005" x="1928" y="613" width="456" height="632" frameX="0" frameY="-6" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0006" x="2384" y="613" width="454" height="634" frameX="0" frameY="-4" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0007" x="2838" y="613" width="449" height="636" frameX="0" frameY="-2" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0008" x="3287" y="613" width="452" height="637" frameX="0" frameY="-1" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0009" x="0" y="1250" width="451" height="637" frameX="0" frameY="-1" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0010" x="451" y="1250" width="451" height="638" frameX="0" frameY="0" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0011" x="902" y="1250" width="451" height="638" frameX="0" frameY="0" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0012" x="1353" y="1250" width="451" height="638" frameX="0" frameY="0" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe idle0013" x="1804" y="1250" width="451" height="638" frameX="0" frameY="0" frameWidth="524" frameHeight="638"/>
+	<SubTexture name="Joe left0000" x="2255" y="1250" width="477" height="640" frameX="-6" frameY="0" frameWidth="483" frameHeight="640"/>
+	<SubTexture name="Joe left0001" x="2732" y="1250" width="448" height="631" frameX="-1" frameY="-9" frameWidth="483" frameHeight="640"/>
+	<SubTexture name="Joe left0002" x="3180" y="1250" width="444" height="629" frameX="0" frameY="-11" frameWidth="483" frameHeight="640"/>
+	<SubTexture name="Joe left0003" x="3624" y="1250" width="461" height="634" frameX="-1" frameY="-6" frameWidth="483" frameHeight="640"/>
+	<SubTexture name="Joe left0004" x="0" y="1890" width="470" height="637" frameX="-2" frameY="-3" frameWidth="483" frameHeight="640"/>
+	<SubTexture name="Joe left0005" x="470" y="1890" width="473" height="638" frameX="-3" frameY="-2" frameWidth="483" frameHeight="640"/>
+	<SubTexture name="Joe right0000" x="943" y="1890" width="678" height="636" frameX="0" frameY="-1" frameWidth="726" frameHeight="637"/>
+	<SubTexture name="Joe right0001" x="1621" y="1890" width="712" height="630" frameX="-8" frameY="-7" frameWidth="726" frameHeight="637"/>
+	<SubTexture name="Joe right0002" x="2333" y="1890" width="717" height="629" frameX="-9" frameY="-8" frameWidth="726" frameHeight="637"/>
+	<SubTexture name="Joe right0003" x="3050" y="1890" width="709" height="634" frameX="-8" frameY="-3" frameWidth="726" frameHeight="637"/>
+	<SubTexture name="Joe right0004" x="0" y="2528" width="706" height="636" frameX="-7" frameY="-1" frameWidth="726" frameHeight="637"/>
+	<SubTexture name="Joe right0005" x="706" y="2528" width="705" height="637" frameX="-6" frameY="0" frameWidth="726" frameHeight="637"/>
+	<SubTexture name="Joe up0000" x="1411" y="2528" width="458" height="636" frameX="0" frameY="-27" frameWidth="458" frameHeight="664"/>
+	<SubTexture name="Joe up0001" x="1869" y="2528" width="450" height="661" frameX="0" frameY="-3" frameWidth="458" frameHeight="664"/>
+	<SubTexture name="Joe up0002" x="2319" y="2528" width="449" height="664" frameX="0" frameY="0" frameWidth="458" frameHeight="664"/>
+	<SubTexture name="Joe up0003" x="2768" y="2528" width="450" height="656" frameX="0" frameY="-8" frameWidth="458" frameHeight="664"/>
+	<SubTexture name="Joe up0004" x="3218" y="2528" width="450" height="651" frameX="0" frameY="-13" frameWidth="458" frameHeight="664"/>
+	<SubTexture name="Joe up0005" x="0" y="3192" width="450" height="649" frameX="0" frameY="-15" frameWidth="458" frameHeight="664"/>
+</TextureAtlas>

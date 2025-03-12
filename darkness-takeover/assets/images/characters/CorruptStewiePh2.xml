@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CorruptStewiePh2.png"><SubTexture name="CorruptStewiePh2 idle0000" x="2832" y="3214" width="429" height="538" frameX="-135" frameY="-93" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0001" x="0" y="3214" width="375" height="557" frameX="-140" frameY="-74" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0002" x="3757" y="581" width="338" height="577" frameX="-139" frameY="-54" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0003" x="2337" y="2608" width="336" height="583" frameX="-138" frameY="-48" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0004" x="1668" y="2608" width="330" height="593" frameX="-139" frameY="-38" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0005" x="2673" y="2608" width="337" height="582" frameX="-140" frameY="-49" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0006" x="1998" y="2608" width="339" height="584" frameX="-139" frameY="-49" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0007" x="4095" y="581" width="344" height="569" frameX="-132" frameY="-62" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0008" x="3757" y="1725" width="335" height="566" frameX="-138" frameY="-65" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 idle0009" x="4092" y="1725" width="334" height="564" frameX="-142" frameY="-67" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 down0000" x="3724" y="3214" width="449" height="518" frameX="-299" frameY="-343" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 down0001" x="1032" y="3771" width="468" height="482" frameX="-291" frameY="-380" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 down0002" x="1953" y="3771" width="540" height="438" frameX="-299" frameY="-424" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 down0003" x="1500" y="3771" width="453" height="481" frameX="-297" frameY="-381" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 down0004" x="579" y="3771" width="453" height="514" frameX="-299" frameY="-348" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 down0005" x="3261" y="3214" width="463" height="535" frameX="-291" frameY="-326" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 left0000" x="0" y="2608" width="551" height="606" frameX="-110" frameY="-34" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 left0001" x="3010" y="2608" width="587" height="582" frameX="-72" frameY="-60" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 left0002" x="1083" y="2608" width="585" height="595" frameX="-71" frameY="-47" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 left0003" x="2878" y="1369" width="574" height="608" frameX="-85" frameY="-31" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 left0004" x="970" y="697" width="550" height="611" frameX="-107" frameY="-30" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 left0005" x="551" y="2608" width="532" height="599" frameX="-127" frameY="-43" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 right0000" x="2278" y="3214" width="554" height="541" frameX="-302" frameY="-321" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 right0001" x="1073" y="3214" width="588" height="546" frameX="-303" frameY="-317" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 right0002" x="1661" y="3214" width="617" height="543" frameX="-310" frameY="-319" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 right0003" x="0" y="3771" width="579" height="517" frameX="-302" frameY="-345" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 right0004" x="3757" y="1158" width="564" height="567" frameX="-300" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 right0005" x="3757" y="2291" width="552" height="558" frameX="-298" frameY="-304" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="CorruptStewiePh2 shoot0000" x="375" y="3214" width="698" height="556" frameX="-8" frameY="-188" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0001" x="3757" y="0" width="845" height="581" frameX="-12" frameY="-165" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0002" x="2434" y="1989" width="1140" height="617" frameX="-4" frameY="-126" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0003" x="1798" y="623" width="1507" height="622" frameX="-11" frameY="-121" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0004" x="1798" y="0" width="1959" height="623" frameX="-9" frameY="-120" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0005" x="0" y="1989" width="2434" height="619" frameX="-8" frameY="-125" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0006" x="0" y="1369" width="2878" height="620" frameX="-8" frameY="-123" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 shoot0007" x="3305" y="623" width="392" height="609" frameX="-9" frameY="-134" frameWidth="3000" frameHeight="780" />
+<SubTexture name="CorruptStewiePh2 up0000" x="1316" y="0" width="482" height="675" frameX="-130" frameY="-23" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 up0001" x="447" y="0" width="428" height="694" frameX="-109" frameY="-3" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 up0002" x="0" y="0" width="447" height="697" frameX="-102" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 up0003" x="875" y="0" width="441" height="685" frameX="-127" frameY="-12" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 up0004" x="0" y="697" width="475" height="672" frameX="-125" frameY="-25" frameWidth="700" frameHeight="700" />
+<SubTexture name="CorruptStewiePh2 up0005" x="475" y="697" width="495" height="664" frameX="-118" frameY="-33" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

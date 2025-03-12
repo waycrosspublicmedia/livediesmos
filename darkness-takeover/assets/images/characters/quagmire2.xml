@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="quagmire2.png"><SubTexture name="quagmire idle0000" x="3208" y="918" width="287" height="436" frameX="-289" frameY="-163" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0001" x="3221" y="460" width="280" height="449" frameX="-291" frameY="-150" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0002" x="2946" y="460" width="275" height="458" frameX="-292" frameY="-141" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0003" x="2204" y="2082" width="271" height="462" frameX="-294" frameY="-137" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0004" x="2629" y="510" width="267" height="468" frameX="-295" frameY="-131" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0005" x="2481" y="1584" width="267" height="468" frameX="-295" frameY="-131" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0006" x="0" y="2082" width="267" height="468" frameX="-295" frameY="-131" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0007" x="267" y="2082" width="267" height="468" frameX="-295" frameY="-131" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0008" x="534" y="2082" width="267" height="468" frameX="-295" frameY="-131" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire idle0009" x="801" y="2082" width="267" height="468" frameX="-295" frameY="-131" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire down0000" x="3763" y="460" width="262" height="437" frameX="-295" frameY="-162" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire down0001" x="3495" y="918" width="265" height="428" frameX="-295" frameY="-171" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire down0002" x="2946" y="1355" width="272" height="412" frameX="-295" frameY="-187" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire down0003" x="3760" y="918" width="265" height="428" frameX="-295" frameY="-171" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire down0004" x="2946" y="918" width="262" height="437" frameX="-295" frameY="-162" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire down0005" x="3501" y="460" width="262" height="440" frameX="-295" frameY="-159" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire left0000" x="2303" y="510" width="326" height="490" frameX="-161" frameY="-115" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire left0001" x="510" y="558" width="326" height="490" frameX="-140" frameY="-115" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire left0002" x="1448" y="1085" width="322" height="487" frameX="-122" frameY="-118" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire left0003" x="1166" y="558" width="324" height="489" frameX="-143" frameY="-116" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire left0004" x="836" y="558" width="330" height="490" frameX="-156" frameY="-115" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire left0005" x="1970" y="510" width="333" height="491" frameX="-165" frameY="-114" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire right0000" x="2114" y="1085" width="354" height="473" frameX="-290" frameY="-127" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire right0001" x="1068" y="2082" width="369" height="467" frameX="-290" frameY="-133" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire right0002" x="1437" y="2082" width="390" height="467" frameX="-291" frameY="-133" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire right0003" x="1827" y="2082" width="377" height="467" frameX="-290" frameY="-133" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire right0004" x="2468" y="1085" width="354" height="473" frameX="-290" frameY="-127" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire right0005" x="1770" y="1085" width="344" height="476" frameX="-289" frameY="-124" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire up0000" x="1497" y="510" width="157" height="507" frameX="-290" frameY="-95" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire up0001" x="182" y="558" width="164" height="520" frameX="-279" frameY="-82" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire up0002" x="0" y="558" width="182" height="527" frameX="-260" frameY="-75" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire up0003" x="346" y="558" width="164" height="516" frameX="-279" frameY="-86" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire up0004" x="1654" y="510" width="157" height="507" frameX="-290" frameY="-95" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire up0005" x="1811" y="510" width="159" height="503" frameX="-290" frameY="-99" frameWidth="870" frameHeight="700" />
+<SubTexture name="quagmire grab0000" x="0" y="1085" width="1448" height="499" frameX="-452" frameY="-169" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0001" x="1497" y="0" width="1449" height="510" frameX="-451" frameY="-158" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0002" x="0" y="0" width="1497" height="558" frameX="-403" frameY="-111" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0003" x="0" y="1584" width="1542" height="498" frameX="-358" frameY="-105" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0004" x="2946" y="0" width="1305" height="460" frameX="-595" frameY="-131" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0005" x="1542" y="1584" width="939" height="476" frameX="-961" frameY="-131" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0006" x="3218" y="1355" width="579" height="352" frameX="-1321" frameY="-180" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0007" x="4025" y="460" width="206" height="406" frameX="-1694" frameY="-158" frameWidth="1900" frameHeight="700" />
+<SubTexture name="quagmire grab0008" x="4025" y="918" width="162" height="193" frameX="-1738" frameY="-250" frameWidth="1900" frameHeight="700" />
+</TextureAtlas>

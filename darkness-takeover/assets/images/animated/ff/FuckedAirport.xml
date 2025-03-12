@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FuckedAirport.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0001" x="2989" y="0" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0002" x="0" y="1636" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0003" x="2989" y="1636" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0004" x="0" y="3272" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0005" x="2989" y="3272" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0006" x="0" y="4908" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0007" x="2989" y="4908" width="2989" height="1636" frameX="-2" frameY="0" frameWidth="2991" frameHeight="1636"/>
+	<SubTexture name="Idle0008" x="0" y="6544" width="2991" height="1636"/>
+	<SubTexture name="Idle0009" x="2991" y="6544" width="2991" height="1636"/>
+</TextureAtlas>

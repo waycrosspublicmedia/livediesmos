@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Loisdark.png"><SubTexture name="Lois down0000" x="5000" y="0" width="937" height="500" frameX="-332" frameY="-551" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois down0001" x="0" y="4900" width="974" height="485" frameX="-338" frameY="-566" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois down0002" x="974" y="4900" width="972" height="484" frameX="-318" frameY="-567" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois down0003" x="2405" y="4282" width="874" height="582" frameX="-410" frameY="-469" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois down0004" x="3279" y="4282" width="915" height="521" frameX="-376" frameY="-530" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0000" x="1524" y="4282" width="881" height="591" frameX="-387" frameY="-459" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0001" x="0" y="4282" width="775" height="618" frameX="-452" frameY="-432" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0002" x="3251" y="3546" width="832" height="620" frameX="-375" frameY="-430" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0003" x="2445" y="3546" width="806" height="629" frameX="-379" frameY="-421" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0004" x="4145" y="2057" width="711" height="641" frameX="-438" frameY="-409" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0005" x="1728" y="3546" width="717" height="637" frameX="-465" frameY="-413" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0006" x="775" y="4282" width="749" height="618" frameX="-385" frameY="-433" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0007" x="4083" y="3546" width="727" height="619" frameX="-485" frameY="-431" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0008" x="4145" y="1412" width="701" height="645" frameX="-417" frameY="-405" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois idle0009" x="4145" y="2698" width="691" height="641" frameX="-467" frameY="-409" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0000" x="936" y="2779" width="758" height="766" frameX="-154" frameY="-289" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0001" x="868" y="3546" width="860" height="661" frameX="-51" frameY="-390" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0002" x="0" y="1995" width="739" height="784" frameX="-172" frameY="-267" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0003" x="0" y="3546" width="868" height="736" frameX="-42" frameY="-315" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0004" x="4145" y="0" width="855" height="742" frameX="-59" frameY="-309" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0005" x="2660" y="2779" width="808" height="750" frameX="-114" frameY="-301" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0006" x="4145" y="742" width="833" height="670" frameX="-87" frameY="-381" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois left0007" x="1743" y="1995" width="762" height="776" frameX="-152" frameY="-275" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0000" x="0" y="2779" width="936" height="767" frameX="-478" frameY="-285" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0001" x="2211" y="0" width="978" height="798" frameX="-479" frameY="-254" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0002" x="3189" y="0" width="956" height="773" frameX="-473" frameY="-279" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0003" x="1694" y="2779" width="966" height="765" frameX="-478" frameY="-287" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0004" x="739" y="1995" width="1004" height="780" frameX="-474" frameY="-272" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0005" x="2211" y="798" width="954" height="792" frameX="-480" frameY="-260" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0006" x="3189" y="773" width="942" height="772" frameX="-479" frameY="-280" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois right0007" x="3189" y="1545" width="948" height="769" frameX="-468" frameY="-283" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois up0000" x="643" y="1026" width="977" height="806" frameX="-236" frameY="-245" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois up0001" x="1328" y="0" width="883" height="979" frameX="-240" frameY="-72" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois up0002" x="0" y="0" width="693" height="1026" frameX="-440" frameY="-25" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois up0003" x="693" y="0" width="635" height="994" frameX="-424" frameY="-57" frameWidth="1520" frameHeight="1080" />
+<SubTexture name="Lois up0004" x="0" y="1026" width="643" height="969" frameX="-408" frameY="-82" frameWidth="1520" frameHeight="1080" />
+</TextureAtlas>

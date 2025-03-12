@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JoeFv.png"><SubTexture name="JoeFv idle0000" x="1771" y="2510" width="375" height="434" frameX="-242" frameY="-223" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0001" x="1410" y="2510" width="361" height="450" frameX="-251" frameY="-207" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0002" x="2765" y="0" width="351" height="466" frameX="-249" frameY="-191" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0003" x="1845" y="2032" width="344" height="473" frameX="-253" frameY="-184" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0004" x="341" y="2032" width="341" height="477" frameX="-252" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0005" x="682" y="2032" width="340" height="477" frameX="-253" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0006" x="2380" y="479" width="342" height="478" frameX="-251" frameY="-179" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0007" x="2380" y="957" width="341" height="478" frameX="-252" frameY="-179" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0008" x="2380" y="1435" width="342" height="478" frameX="-251" frameY="-179" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv idle0009" x="0" y="2032" width="341" height="478" frameX="-252" frameY="-179" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv down0000" x="696" y="1543" width="311" height="483" frameX="-282" frameY="-174" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv down0001" x="372" y="1543" width="324" height="485" frameX="-272" frameY="-172" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv down0002" x="2189" y="2032" width="339" height="468" frameX="-259" frameY="-189" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv down0003" x="1318" y="1543" width="325" height="482" frameX="-271" frameY="-175" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv down0004" x="1007" y="1543" width="311" height="483" frameX="-282" frameY="-174" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv down0005" x="1643" y="1543" width="306" height="479" frameX="-286" frameY="-178" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv left0000" x="0" y="2510" width="519" height="465" frameX="-62" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv left0001" x="2146" y="2510" width="531" height="433" frameX="-43" frameY="-212" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv left0002" x="0" y="2975" width="553" height="411" frameX="-12" frameY="-241" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv left0003" x="3116" y="0" width="527" height="433" frameX="-48" frameY="-212" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv left0004" x="519" y="2510" width="519" height="465" frameX="-62" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv left0005" x="1022" y="2032" width="509" height="476" frameX="-75" frameY="-171" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv right0000" x="1681" y="993" width="372" height="489" frameX="-298" frameY="-170" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv right0001" x="1949" y="1543" width="382" height="479" frameX="-311" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv right0002" x="1038" y="2510" width="372" height="465" frameX="-348" frameY="-195" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv right0003" x="2380" y="0" width="385" height="479" frameX="-302" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv right0004" x="0" y="1543" width="372" height="489" frameX="-298" frameY="-170" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv right0005" x="1681" y="501" width="362" height="492" frameX="-295" frameY="-167" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv enter0000" x="0" y="1042" width="699" height="501" frameX="-251" frameY="-156" frameWidth="950" frameHeight="800" />
+<SubTexture name="JoeFv enter0001" x="0" y="539" width="699" height="503" frameX="-251" frameY="-156" frameWidth="950" frameHeight="800" />
+<SubTexture name="JoeFv enter0002" x="699" y="1042" width="699" height="501" frameX="-251" frameY="-156" frameWidth="950" frameHeight="800" />
+<SubTexture name="JoeFv enter0003" x="936" y="0" width="745" height="504" frameX="-205" frameY="-156" frameWidth="950" frameHeight="800" />
+<SubTexture name="JoeFv enter0004" x="699" y="539" width="699" height="503" frameX="-251" frameY="-156" frameWidth="950" frameHeight="800" />
+<SubTexture name="JoeFv enter0005" x="1681" y="0" width="699" height="501" frameX="-251" frameY="-156" frameWidth="950" frameHeight="800" />
+<SubTexture name="JoeFv up0000" x="2043" y="501" width="314" height="489" frameX="-279" frameY="-168" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv up0001" x="310" y="0" width="313" height="511" frameX="-280" frameY="-146" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv up0002" x="0" y="0" width="310" height="539" frameX="-283" frameY="-118" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv up0003" x="623" y="0" width="313" height="511" frameX="-280" frameY="-146" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv up0004" x="2053" y="993" width="314" height="489" frameX="-279" frameY="-168" frameWidth="800" frameHeight="800" />
+<SubTexture name="JoeFv up0005" x="1531" y="2032" width="314" height="475" frameX="-279" frameY="-182" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

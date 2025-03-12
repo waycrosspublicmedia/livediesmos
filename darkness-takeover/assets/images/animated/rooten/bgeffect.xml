@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgeffect.png"><SubTexture name="bgeffect idle0000" x="3312" y="0" width="1656" height="1690" frameX="0" frameY="-2" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0001" x="0" y="0" width="1656" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0002" x="0" y="1692" width="1656" height="1690" frameX="0" frameY="-2" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0003" x="1656" y="0" width="1656" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0004" x="3312" y="0" width="1656" height="1690" frameX="0" frameY="-2" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0005" x="0" y="0" width="1656" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0006" x="0" y="1692" width="1656" height="1690" frameX="0" frameY="-2" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bgeffect idle0007" x="1656" y="0" width="1656" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+</TextureAtlas>

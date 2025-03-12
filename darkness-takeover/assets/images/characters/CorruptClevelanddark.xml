@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CorruptClevelanddark.png"><SubTexture name="CorruptCleveland idle0000" x="2355" y="2053" width="496" height="547" frameX="-103" frameY="-233" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0001" x="2934" y="1734" width="418" height="573" frameX="-105" frameY="-204" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0002" x="1199" y="2053" width="385" height="593" frameX="-104" frameY="-184" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0003" x="0" y="2053" width="391" height="607" frameX="-109" frameY="-175" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0004" x="2545" y="1257" width="389" height="610" frameX="-99" frameY="-167" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0005" x="2138" y="630" width="400" height="627" frameX="-79" frameY="-153" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0006" x="1713" y="652" width="412" height="611" frameX="-78" frameY="-167" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0007" x="2138" y="1257" width="407" height="614" frameX="-103" frameY="-163" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0008" x="1675" y="1411" width="374" height="610" frameX="-104" frameY="-167" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland idle0009" x="2538" y="630" width="380" height="614" frameX="-104" frameY="-165" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland down0000" x="3708" y="538" width="690" height="536" frameX="-58" frameY="-42" frameWidth="800" frameHeight="650" />
+<SubTexture name="CorruptCleveland down0001" x="2686" y="2660" width="681" height="550" frameX="-60" frameY="-34" frameWidth="800" frameHeight="650" />
+<SubTexture name="CorruptCleveland down0002" x="0" y="3231" width="706" height="509" frameX="-51" frameY="-72" frameWidth="800" frameHeight="650" />
+<SubTexture name="CorruptCleveland down0003" x="3708" y="1074" width="678" height="512" frameX="-59" frameY="-67" frameWidth="800" frameHeight="650" />
+<SubTexture name="CorruptCleveland down0004" x="3708" y="1586" width="696" height="485" frameX="-55" frameY="-92" frameWidth="800" frameHeight="650" />
+<SubTexture name="CorruptCleveland down0005" x="3708" y="0" width="696" height="538" frameX="-58" frameY="-47" frameWidth="800" frameHeight="650" />
+<SubTexture name="CorruptCleveland left0000" x="2934" y="584" width="549" height="575" frameX="-333" frameY="-225" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0001" x="756" y="2660" width="619" height="569" frameX="-257" frameY="-231" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0002" x="1375" y="2660" width="665" height="556" frameX="-201" frameY="-244" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0003" x="1457" y="3231" width="724" height="475" frameX="-133" frameY="-325" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0004" x="706" y="3231" width="751" height="481" frameX="-110" frameY="-319" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0005" x="2181" y="3231" width="717" height="475" frameX="-147" frameY="-325" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0006" x="2040" y="2660" width="646" height="556" frameX="-224" frameY="-244" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland left0007" x="2934" y="1159" width="616" height="575" frameX="-263" frameY="-225" frameWidth="1000" frameHeight="800" />
+<SubTexture name="CorruptCleveland right0000" x="0" y="2660" width="756" height="571" frameX="-64" frameY="-125" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0001" x="1584" y="2053" width="771" height="584" frameX="-63" frameY="-112" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0002" x="899" y="0" width="814" height="686" frameX="-68" frameY="-10" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0003" x="841" y="1411" width="834" height="640" frameX="-66" frameY="-58" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0004" x="0" y="1411" width="841" height="642" frameX="-58" frameY="-54" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0005" x="2138" y="0" width="796" height="630" frameX="-64" frameY="-66" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0006" x="391" y="2053" width="808" height="598" frameX="-59" frameY="-98" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland right0007" x="2934" y="0" width="774" height="584" frameX="-68" frameY="-113" frameWidth="900" frameHeight="700" />
+<SubTexture name="CorruptCleveland up0000" x="459" y="726" width="424" height="681" frameX="-142" frameY="-56" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland up0001" x="418" y="0" width="481" height="716" frameX="-149" frameY="-15" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland up0002" x="0" y="0" width="418" height="726" frameX="-120" frameY="-5" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland up0003" x="883" y="726" width="524" height="655" frameX="-131" frameY="-76" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland up0004" x="0" y="726" width="459" height="685" frameX="-138" frameY="-47" frameWidth="700" frameHeight="800" />
+<SubTexture name="CorruptCleveland up0005" x="1713" y="0" width="425" height="652" frameX="-146" frameY="-82" frameWidth="700" frameHeight="800" />
+</TextureAtlas>

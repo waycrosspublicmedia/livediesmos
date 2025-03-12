@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sky.png"><SubTexture name="sky anim0000" x="0" y="0" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0001" x="0" y="1000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0002" x="2600" y="0" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0003" x="2600" y="1000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0004" x="0" y="2000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0005" x="2600" y="2000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0006" x="0" y="3000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0007" x="2600" y="3000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0008" x="0" y="4000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0009" x="2600" y="4000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0010" x="5200" y="0" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+<SubTexture name="sky anim0011" x="5200" y="1000" width="2600" height="1000" frameX="0" frameY="0" frameWidth="2600" frameHeight="1000" />
+</TextureAtlas>

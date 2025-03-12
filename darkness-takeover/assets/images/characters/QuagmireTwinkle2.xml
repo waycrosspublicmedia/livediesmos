@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="QuagmireTwinkle2.png"><SubTexture name="QuagmireTwinkle2 idle0000" x="1049" y="1753" width="267" height="489" frameX="-315" frameY="-199" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0001" x="783" y="1753" width="266" height="500" frameX="-314" frameY="-188" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0002" x="1160" y="690" width="251" height="515" frameX="-323" frameY="-173" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0003" x="2114" y="1043" width="254" height="517" frameX="-323" frameY="-171" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0004" x="2114" y="0" width="286" height="522" frameX="-282" frameY="-166" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0005" x="2114" y="522" width="274" height="521" frameX="-298" frameY="-167" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0006" x="1725" y="1223" width="292" height="523" frameX="-276" frameY="-165" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0007" x="1433" y="1223" width="292" height="524" frameX="-275" frameY="-164" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0008" x="1725" y="1223" width="292" height="523" frameX="-276" frameY="-165" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 idle0009" x="1725" y="1223" width="292" height="523" frameX="-276" frameY="-165" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 down0000" x="1316" y="1753" width="328" height="489" frameX="-1" frameY="-12" frameWidth="330" frameHeight="502" />
+<SubTexture name="QuagmireTwinkle2 down0001" x="2400" y="0" width="305" height="457" frameX="-24" frameY="-44" frameWidth="330" frameHeight="502" />
+<SubTexture name="QuagmireTwinkle2 down0002" x="2400" y="457" width="283" height="431" frameX="-46" frameY="-70" frameWidth="330" frameHeight="502" />
+<SubTexture name="QuagmireTwinkle2 down0003" x="1945" y="1753" width="297" height="462" frameX="-32" frameY="-39" frameWidth="330" frameHeight="502" />
+<SubTexture name="QuagmireTwinkle2 down0004" x="1644" y="1753" width="301" height="488" frameX="-28" frameY="-13" frameWidth="330" frameHeight="502" />
+<SubTexture name="QuagmireTwinkle2 down0005" x="472" y="1753" width="311" height="501" frameX="-19" frameY="0" frameWidth="330" frameHeight="502" />
+<SubTexture name="QuagmireTwinkle2 left0000" x="0" y="690" width="409" height="533" frameX="-132" frameY="-155" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 left0001" x="404" y="1223" width="434" height="529" frameX="-107" frameY="-159" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 left0002" x="0" y="1753" width="472" height="517" frameX="-69" frameY="-171" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 left0003" x="409" y="690" width="429" height="533" frameX="-112" frameY="-155" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 left0004" x="0" y="1223" width="404" height="530" frameX="-137" frameY="-158" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 left0005" x="1721" y="0" width="393" height="531" frameX="-148" frameY="-157" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 right0000" x="838" y="690" width="322" height="532" frameX="-272" frameY="-156" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 right0001" x="1721" y="531" width="316" height="529" frameX="-308" frameY="-159" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 right0002" x="1432" y="532" width="275" height="526" frameX="-364" frameY="-162" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 right0003" x="838" y="1223" width="298" height="529" frameX="-324" frameY="-159" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 right0004" x="1432" y="0" width="289" height="532" frameX="-288" frameY="-156" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 right0005" x="1136" y="1223" width="297" height="529" frameX="-268" frameY="-159" frameWidth="800" frameHeight="800" />
+<SubTexture name="QuagmireTwinkle2 up0000" x="1168" y="0" width="264" height="599" frameX="0" frameY="-91" frameWidth="389" frameHeight="690" />
+<SubTexture name="QuagmireTwinkle2 up0001" x="0" y="0" width="232" height="690" frameX="-71" frameY="0" frameWidth="389" frameHeight="690" />
+<SubTexture name="QuagmireTwinkle2 up0002" x="232" y="0" width="318" height="669" frameX="-71" frameY="-21" frameWidth="389" frameHeight="690" />
+<SubTexture name="QuagmireTwinkle2 up0003" x="550" y="0" width="271" height="667" frameX="-71" frameY="-23" frameWidth="389" frameHeight="690" />
+<SubTexture name="QuagmireTwinkle2 up0004" x="821" y="0" width="178" height="662" frameX="-71" frameY="-28" frameWidth="389" frameHeight="690" />
+<SubTexture name="QuagmireTwinkle2 up0005" x="999" y="0" width="169" height="653" frameX="-71" frameY="-37" frameWidth="389" frameHeight="690" />
+</TextureAtlas>

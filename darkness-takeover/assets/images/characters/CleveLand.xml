@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CleveLand.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CleveLand down0000" x="0" y="0" width="399" height="723" frameX="-9" frameY="0" frameWidth="463" frameHeight="723"/>
+	<SubTexture name="CleveLand down0001" x="399" y="0" width="457" height="688" frameX="0" frameY="-35" frameWidth="463" frameHeight="723"/>
+	<SubTexture name="CleveLand down0002" x="856" y="0" width="463" height="683" frameX="0" frameY="-40" frameWidth="463" frameHeight="723"/>
+	<SubTexture name="CleveLand down0003" x="1319" y="0" width="458" height="691" frameX="0" frameY="-32" frameWidth="463" frameHeight="723"/>
+	<SubTexture name="CleveLand down0004" x="1777" y="0" width="453" height="699" frameX="-1" frameY="-24" frameWidth="463" frameHeight="723"/>
+	<SubTexture name="CleveLand down0005" x="2230" y="0" width="447" height="707" frameX="-2" frameY="-16" frameWidth="463" frameHeight="723"/>
+	<SubTexture name="CleveLand idle0000" x="2677" y="0" width="482" height="717" frameX="0" frameY="-13" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0001" x="3159" y="0" width="469" height="722" frameX="-5" frameY="-8" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0002" x="3628" y="0" width="464" height="724" frameX="-4" frameY="-6" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0003" x="0" y="724" width="455" height="726" frameX="-6" frameY="-4" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0004" x="455" y="724" width="448" height="727" frameX="-8" frameY="-3" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0005" x="903" y="724" width="446" height="728" frameX="-7" frameY="-2" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0006" x="1349" y="724" width="444" height="729" frameX="-5" frameY="-1" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0007" x="1793" y="724" width="442" height="729" frameX="-7" frameY="-1" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0008" x="2235" y="724" width="439" height="729" frameX="-7" frameY="-1" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0009" x="2674" y="724" width="439" height="730" frameX="-6" frameY="0" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0010" x="3113" y="724" width="437" height="730" frameX="-7" frameY="0" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0011" x="3550" y="724" width="436" height="730" frameX="-8" frameY="0" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0012" x="0" y="1454" width="436" height="730" frameX="-7" frameY="0" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand idle0013" x="436" y="1454" width="436" height="730" frameX="-7" frameY="0" frameWidth="482" frameHeight="730"/>
+	<SubTexture name="CleveLand left0000" x="872" y="1454" width="489" height="715" frameX="-55" frameY="-1" frameWidth="544" frameHeight="717"/>
+	<SubTexture name="CleveLand left0001" x="1361" y="1454" width="528" height="716" frameX="-7" frameY="-1" frameWidth="544" frameHeight="717"/>
+	<SubTexture name="CleveLand left0002" x="1889" y="1454" width="534" height="715" frameX="0" frameY="-1" frameWidth="544" frameHeight="717"/>
+	<SubTexture name="CleveLand left0003" x="2423" y="1454" width="527" height="716" frameX="-8" frameY="-1" frameWidth="544" frameHeight="717"/>
+	<SubTexture name="CleveLand left0004" x="2950" y="1454" width="520" height="717" frameX="-16" frameY="0" frameWidth="544" frameHeight="717"/>
+	<SubTexture name="CleveLand left0005" x="3470" y="1454" width="512" height="716" frameX="-25" frameY="0" frameWidth="544" frameHeight="717"/>
+	<SubTexture name="CleveLand right0000" x="0" y="2184" width="501" height="730" frameX="0" frameY="-1" frameWidth="554" frameHeight="732"/>
+	<SubTexture name="CleveLand right0001" x="501" y="2184" width="543" height="726" frameX="-4" frameY="-6" frameWidth="554" frameHeight="732"/>
+	<SubTexture name="CleveLand right0002" x="1044" y="2184" width="549" height="725" frameX="-5" frameY="-6" frameWidth="554" frameHeight="732"/>
+	<SubTexture name="CleveLand right0003" x="1593" y="2184" width="537" height="727" frameX="-5" frameY="-4" frameWidth="554" frameHeight="732"/>
+	<SubTexture name="CleveLand right0004" x="2130" y="2184" width="524" height="729" frameX="-6" frameY="-2" frameWidth="554" frameHeight="732"/>
+	<SubTexture name="CleveLand right0005" x="2654" y="2184" width="512" height="731" frameX="-6" frameY="0" frameWidth="554" frameHeight="732"/>
+	<SubTexture name="CleveLand up0000" x="3166" y="2184" width="451" height="744" frameX="-14" frameY="-16" frameWidth="465" frameHeight="760"/>
+	<SubTexture name="CleveLand up0001" x="3617" y="2184" width="441" height="758" frameX="-2" frameY="-2" frameWidth="465" frameHeight="760"/>
+	<SubTexture name="CleveLand up0002" x="0" y="2942" width="440" height="760" frameX="0" frameY="0" frameWidth="465" frameHeight="760"/>
+	<SubTexture name="CleveLand up0003" x="440" y="2942" width="435" height="747" frameX="-5" frameY="-13" frameWidth="465" frameHeight="760"/>
+	<SubTexture name="CleveLand up0004" x="875" y="2942" width="431" height="740" frameX="-10" frameY="-20" frameWidth="465" frameHeight="760"/>
+	<SubTexture name="CleveLand up0005" x="1306" y="2942" width="428" height="737" frameX="-14" frameY="-23" frameWidth="465" frameHeight="760"/>
+</TextureAtlas>

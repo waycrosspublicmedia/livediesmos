@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BackBuildingskBg3.png"><SubTexture name="BackBuildingskBg3 Anim0000" x="0" y="0" width="3882" height="1492" frameX="-926" frameY="-23" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="BackBuildingskBg3 Anim0001" x="0" y="1492" width="3882" height="1492" frameX="-926" frameY="-23" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="BackBuildingskBg3 Anim0002" x="3882" y="0" width="3882" height="1492" frameX="-926" frameY="-23" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="BackBuildingskBg3 Anim0003" x="3882" y="1492" width="3882" height="1492" frameX="-926" frameY="-23" frameWidth="5000" frameHeight="2200" />
+</TextureAtlas>

@@ -1,0 +1,40 @@
+{
+	"storyName": "Part 3",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "part3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekDT2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Final fight",
+			"ernie",
+			[
+				202,
+				41,
+				41
+			]
+		],
+		[
+			"Airborne",
+			"rallo",
+			[
+				149,
+				222,
+				234
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Part3"
+}

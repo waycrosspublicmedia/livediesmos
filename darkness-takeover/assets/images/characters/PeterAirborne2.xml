@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PeterAirborne2.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Peter down0000" x="0" y="0" width="551" height="711" frameX="0" frameY="0" frameWidth="558" frameHeight="711"/>
+	<SubTexture name="Peter down0001" x="551" y="0" width="531" height="677" frameX="-15" frameY="-34" frameWidth="558" frameHeight="711"/>
+	<SubTexture name="Peter down0002" x="1082" y="0" width="529" height="673" frameX="-17" frameY="-38" frameWidth="558" frameHeight="711"/>
+	<SubTexture name="Peter down0003" x="1611" y="0" width="535" height="676" frameX="-15" frameY="-35" frameWidth="558" frameHeight="711"/>
+	<SubTexture name="Peter down0004" x="2146" y="0" width="541" height="679" frameX="-13" frameY="-32" frameWidth="558" frameHeight="711"/>
+	<SubTexture name="Peter down0005" x="2687" y="0" width="546" height="683" frameX="-12" frameY="-28" frameWidth="558" frameHeight="711"/>
+	<SubTexture name="Peter idle0000" x="3233" y="0" width="532" height="695" frameX="-47" frameY="-31" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0001" x="3765" y="0" width="538" height="702" frameX="-37" frameY="-24" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0002" x="4303" y="0" width="541" height="705" frameX="-32" frameY="-21" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0003" x="4844" y="0" width="547" height="713" frameX="-21" frameY="-13" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0004" x="5391" y="0" width="551" height="718" frameX="-13" frameY="-8" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0005" x="5942" y="0" width="552" height="719" frameX="-11" frameY="-7" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0006" x="6494" y="0" width="554" height="721" frameX="-7" frameY="-5" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0007" x="7048" y="0" width="555" height="722" frameX="-5" frameY="-4" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0008" x="7603" y="0" width="556" height="724" frameX="-3" frameY="-2" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0009" x="0" y="724" width="558" height="725" frameX="-1" frameY="-1" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0010" x="558" y="724" width="557" height="725" frameX="-1" frameY="-1" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0011" x="1115" y="724" width="558" height="726" frameX="0" frameY="0" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0012" x="1673" y="724" width="557" height="726" frameX="0" frameY="0" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter idle0013" x="2230" y="724" width="557" height="726" frameX="0" frameY="0" frameWidth="579" frameHeight="726"/>
+	<SubTexture name="Peter left0000" x="2787" y="724" width="617" height="717" frameX="-36" frameY="0" frameWidth="653" frameHeight="717"/>
+	<SubTexture name="Peter left0001" x="3404" y="724" width="633" height="711" frameX="-4" frameY="-6" frameWidth="653" frameHeight="717"/>
+	<SubTexture name="Peter left0002" x="4037" y="724" width="635" height="710" frameX="0" frameY="-7" frameWidth="653" frameHeight="717"/>
+	<SubTexture name="Peter left0003" x="4672" y="724" width="631" height="709" frameX="-4" frameY="-8" frameWidth="653" frameHeight="717"/>
+	<SubTexture name="Peter left0004" x="5303" y="724" width="626" height="707" frameX="-9" frameY="-10" frameWidth="653" frameHeight="717"/>
+	<SubTexture name="Peter left0005" x="5929" y="724" width="621" height="706" frameX="-14" frameY="-11" frameWidth="653" frameHeight="717"/>
+	<SubTexture name="Peter right0000" x="6550" y="724" width="815" height="729" frameX="0" frameY="0" frameWidth="856" frameHeight="729"/>
+	<SubTexture name="Peter right0001" x="7365" y="724" width="816" height="720" frameX="-35" frameY="-9" frameWidth="856" frameHeight="729"/>
+	<SubTexture name="Peter right0002" x="0" y="1453" width="816" height="718" frameX="-40" frameY="-11" frameWidth="856" frameHeight="729"/>
+	<SubTexture name="Peter right0003" x="816" y="1453" width="816" height="720" frameX="-32" frameY="-9" frameWidth="856" frameHeight="729"/>
+	<SubTexture name="Peter right0004" x="1632" y="1453" width="817" height="721" frameX="-27" frameY="-8" frameWidth="856" frameHeight="729"/>
+	<SubTexture name="Peter right0005" x="2449" y="1453" width="817" height="721" frameX="-26" frameY="-8" frameWidth="856" frameHeight="729"/>
+	<SubTexture name="Peter up0000" x="3266" y="1453" width="506" height="745" frameX="-35" frameY="-33" frameWidth="541" frameHeight="778"/>
+	<SubTexture name="Peter up0001" x="3772" y="1453" width="528" height="772" frameX="-4" frameY="-5" frameWidth="541" frameHeight="778"/>
+	<SubTexture name="Peter up0002" x="4300" y="1453" width="531" height="778" frameX="0" frameY="0" frameWidth="541" frameHeight="778"/>
+	<SubTexture name="Peter up0003" x="4831" y="1453" width="525" height="774" frameX="-2" frameY="-4" frameWidth="541" frameHeight="778"/>
+	<SubTexture name="Peter up0004" x="5356" y="1453" width="519" height="771" frameX="-4" frameY="-7" frameWidth="541" frameHeight="778"/>
+	<SubTexture name="Peter up0005" x="5875" y="1453" width="513" height="767" frameX="-6" frameY="-11" frameWidth="541" frameHeight="778"/>
+</TextureAtlas>

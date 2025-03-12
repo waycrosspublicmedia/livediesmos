@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Whitebg.png"><SubTexture name="Whitebg Anim0000" x="0" y="0" width="5000" height="2200" frameX="0" frameY="0" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Whitebg Anim0001" x="0" y="2200" width="5000" height="2200" frameX="0" frameY="0" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Whitebg Anim0002" x="5000" y="0" width="5000" height="2200" frameX="0" frameY="0" frameWidth="5000" frameHeight="2200" />
+<SubTexture name="Whitebg Anim0003" x="5000" y="2200" width="5000" height="2200" frameX="0" frameY="0" frameWidth="5000" frameHeight="2200" />
+</TextureAtlas>

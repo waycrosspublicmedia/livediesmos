@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CorruptionDL2.png"><SubTexture name="CorruptionDL2 idle0000" x="4787" y="0" width="1446" height="1674" frameX="0" frameY="-208" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0001" x="0" y="1760" width="1574" height="1720" frameX="0" frameY="-162" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0002" x="3127" y="1760" width="1573" height="1700" frameX="0" frameY="-182" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0003" x="0" y="0" width="1614" height="1760" frameX="0" frameY="-122" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0004" x="1551" y="3480" width="1547" height="1661" frameX="0" frameY="-221" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0005" x="0" y="3480" width="1551" height="1667" frameX="0" frameY="-215" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0006" x="3098" y="3480" width="1549" height="1658" frameX="0" frameY="-224" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0007" x="1614" y="0" width="1565" height="1745" frameX="0" frameY="-137" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0008" x="3179" y="0" width="1608" height="1742" frameX="0" frameY="-140" frameWidth="1700" frameHeight="1882" />
+<SubTexture name="CorruptionDL2 idle0009" x="1574" y="1760" width="1553" height="1703" frameX="0" frameY="-179" frameWidth="1700" frameHeight="1882" />
+</TextureAtlas>

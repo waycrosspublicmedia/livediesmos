@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg2.png"><SubTexture name="bg2 idle0000" x="0" y="0" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0001" x="3192" y="0" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0002" x="0" y="1672" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0003" x="3192" y="1672" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0004" x="0" y="3344" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0005" x="3192" y="3344" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0006" x="6384" y="0" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+<SubTexture name="bg2 idle0007" x="6384" y="1672" width="3192" height="1672" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+</TextureAtlas>

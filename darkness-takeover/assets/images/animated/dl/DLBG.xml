@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DLBG.png"><SubTexture name="DLBG Anim0000" x="0" y="0" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0001" x="0" y="2092" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0002" x="5000" y="0" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0003" x="5000" y="2092" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0004" x="0" y="4184" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0005" x="5000" y="4184" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0006" x="0" y="6276" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0007" x="5000" y="6276" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0008" x="10000" y="0" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0009" x="10000" y="2092" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0010" x="10000" y="4184" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0011" x="10000" y="6276" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0012" x="0" y="8368" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0013" x="5000" y="8368" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+<SubTexture name="DLBG Anim0014" x="10000" y="8368" width="5000" height="2092" frameX="0" frameY="0" frameWidth="5000" frameHeight="2092" />
+</TextureAtlas>
