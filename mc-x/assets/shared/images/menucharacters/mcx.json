@@ -1,0 +1,13 @@
+{
+	"idle_anim": "week menu mcx idle",
+	"fps": 12,
+	"image": "Menu_MCX",
+	"position": [
+		940,
+		880
+	],
+	"flipX": false,
+	"scale": 0.25,
+	"fps": 12,
+	"confirm_anim": "week menu mcx idle"
+}

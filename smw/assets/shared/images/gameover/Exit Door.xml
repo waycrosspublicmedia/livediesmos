@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Exit Door.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exit0000" x="25" y="25" width="43" height="64"/>
+	<SubTexture name="press exit0000" x="25" y="25" width="43" height="64" frameX="-39" frameY="-16" frameWidth="43" frameHeight="64"/>
+	<SubTexture name="press exit0001" x="25" y="25" width="43" height="64" frameX="-39" frameY="-16" frameWidth="43" frameHeight="64"/>
+	<SubTexture name="press exit0002" x="183" y="25" width="42" height="70" frameX="-38" frameY="-11" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0003" x="183" y="25" width="42" height="70" frameX="-38" frameY="-11" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0004" x="250" y="25" width="69" height="83" frameX="-10" frameY="0" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0005" x="344" y="25" width="78" height="71" frameX="0" frameY="-11" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0006" x="344" y="25" width="78" height="71" frameX="0" frameY="-11" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0007" x="25" y="133" width="64" height="70" frameX="-13" frameY="-12" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0008" x="25" y="133" width="64" height="70" frameX="-13" frameY="-12" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0009" x="25" y="133" width="64" height="70" frameX="-13" frameY="-12" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0010" x="25" y="133" width="64" height="70" frameX="-13" frameY="-12" frameWidth="82" frameHeight="83"/>
+	<SubTexture name="press exit0011" x="25" y="133" width="64" height="70" frameX="-13" frameY="-12" frameWidth="82" frameHeight="83"/>
+</TextureAtlas>

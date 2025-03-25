@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GOD.png">
+<SubTexture name="god i am god0000" x="2703" y="0" width="741" height="704" frameX="-298" frameY="-350" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0001" x="2703" y="704" width="730" height="662" frameX="-325" frameY="-353" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0002" x="0" y="2003" width="752" height="672" frameX="-288" frameY="-356" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0003" x="1006" y="1034" width="665" height="756" frameX="-341" frameY="-370" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0004" x="2090" y="0" width="613" height="711" frameX="-297" frameY="-331" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0005" x="2703" y="1366" width="490" height="402" frameX="-340" frameY="-396" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0006" x="0" y="0" width="1074" height="1034" frameX="-112" frameY="-141" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0007" x="1074" y="0" width="1016" height="979" frameX="-139" frameY="-172" frameWidth="1299" frameHeight="1269" />
+<SubTexture name="god i am god0008" x="0" y="1034" width="1006" height="969" frameX="-145" frameY="-178" frameWidth="1299" frameHeight="1269" />
+</TextureAtlas>

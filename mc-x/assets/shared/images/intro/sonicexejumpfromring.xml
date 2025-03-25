@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicexejumpfromring.png">
+<SubTexture name="jumpfromring jump0000" x="1486" y="1840" width="1486" height="793" frameX="-21" frameY="-261" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0001" x="2972" y="0" width="1486" height="789" frameX="-21" frameY="-265" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0002" x="2972" y="789" width="1486" height="783" frameX="-21" frameY="-271" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0003" x="0" y="1840" width="1486" height="799" frameX="-21" frameY="-255" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0004" x="0" y="984" width="1486" height="856" frameX="-21" frameY="-198" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0005" x="1486" y="0" width="1486" height="971" frameX="-21" frameY="-83" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0006" x="0" y="0" width="1486" height="984" frameX="-21" frameY="-70" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring jump0007" x="1486" y="984" width="1486" height="853" frameX="-21" frameY="-201" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring offscreen0000" x="0" y="2639" width="753" height="550" frameX="-647" frameY="-522" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring offscreen0001" x="2972" y="2333" width="498" height="135" frameX="-811" frameY="-937" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="jumpfromring ring0000" x="2972" y="1572" width="1486" height="761" frameX="-21" frameY="-293" frameWidth="1526" frameHeight="1072" />
+</TextureAtlas>

@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-130
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-125
+			],
+			"anim": "singLEFT",
+			"fps": 22,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-132
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-228
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-84
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				6
+			],
+			"anim": "hatching",
+			"fps": 24,
+			"name": "crack egg",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-239,
+				-481
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Egg"
+		},
+		{
+			"offsets": [
+				70,
+				-140
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "altleft"
+		},
+		{
+			"offsets": [
+				31,
+				-171
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "altright"
+		},
+		{
+			"offsets": [
+				70,
+				-300
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				80,
+				-60
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "altup"
+		},
+		{
+			"offsets": [
+				130,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yoshi",
+			"loop": false,
+			"name": "taunt"
+		},
+		{
+			"offsets": [
+				122,
+				-118
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "surprised",
+			"loop": false,
+			"name": "surprised"
+		},
+		{
+			"offsets": [
+				50,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yeah",
+			"loop": false,
+			"name": "yeah"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/yoshi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yoshi",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		215,
+		0
+	],
+	"camera_position": [
+		160,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

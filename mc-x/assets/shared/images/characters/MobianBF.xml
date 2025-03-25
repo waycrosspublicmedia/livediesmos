@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mobianbf.png">
+<SubTexture name="MobianBF idle0000" x="2816" y="2609" width="942" height="1260" frameX="-560" frameY="-692" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF idle0001" x="4334" y="0" width="954" height="1246" frameX="-555" frameY="-706" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF idle0002" x="1871" y="2609" width="945" height="1266" frameX="-565" frameY="-686" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF idle0003" x="934" y="2609" width="937" height="1276" frameX="-567" frameY="-676" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF idle0004" x="0" y="2609" width="934" height="1279" frameX="-568" frameY="-673" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss left0000" x="0" y="1316" width="931" height="1293" frameX="-462" frameY="-659" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss left0001" x="931" y="1316" width="937" height="1290" frameX="-468" frameY="-661" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss right0000" x="1921" y="3888" width="967" height="1160" frameX="-667" frameY="-789" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss right0001" x="0" y="3888" width="961" height="1161" frameX="-666" frameY="-788" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss up0000" x="0" y="0" width="836" height="1316" frameX="-664" frameY="-632" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss up0001" x="836" y="0" width="843" height="1316" frameX="-664" frameY="-632" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss down0000" x="0" y="5049" width="961" height="1136" frameX="-540" frameY="-826" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF miss down0001" x="3854" y="3888" width="959" height="1147" frameX="-541" frameY="-815" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF left0000" x="3404" y="0" width="930" height="1289" frameX="-460" frameY="-663" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF left0001" x="1868" y="1316" width="936" height="1290" frameX="-468" frameY="-661" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF right0000" x="2888" y="3888" width="966" height="1154" frameX="-668" frameY="-796" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF right0001" x="961" y="3888" width="960" height="1161" frameX="-667" frameY="-789" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF up0000" x="1679" y="0" width="860" height="1314" frameX="-670" frameY="-634" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF up0001" x="2539" y="0" width="865" height="1311" frameX="-664" frameY="-637" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF down0000" x="961" y="5049" width="961" height="1135" frameX="-540" frameY="-827" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianBF down0001" x="5288" y="0" width="959" height="1147" frameX="-541" frameY="-815" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

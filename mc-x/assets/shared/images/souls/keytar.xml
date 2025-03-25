@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="keytar.png">
+<SubTexture name="keytar idle0000" x="713" y="0" width="342" height="306" frameX="-340" frameY="-517" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar idle0001" x="713" y="306" width="342" height="306" frameX="-340" frameY="-517" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar right0000" x="0" y="939" width="364" height="278" frameX="-342" frameY="-529" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar right0001" x="354" y="648" width="357" height="287" frameX="-343" frameY="-522" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar left0000" x="0" y="0" width="353" height="327" frameX="-297" frameY="-517" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar left0001" x="353" y="0" width="360" height="323" frameX="-295" frameY="-517" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar up0000" x="1055" y="0" width="360" height="284" frameX="-328" frameY="-516" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar up0001" x="0" y="648" width="354" height="291" frameX="-333" frameY="-515" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar down0000" x="0" y="327" width="330" height="321" frameX="-346" frameY="-522" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="keytar down0001" x="330" y="327" width="334" height="314" frameX="-344" frameY="-522" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

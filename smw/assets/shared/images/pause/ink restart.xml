@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ink restart.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ink restart0000" x="25" y="25" width="48" height="46" frameX="-475" frameY="-9" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0001" x="98" y="25" width="250" height="130" frameX="-264" frameY="-1" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0002" x="98" y="25" width="250" height="130" frameX="-264" frameY="-1" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0003" x="373" y="25" width="365" height="131" frameX="-141" frameY="0" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0004" x="373" y="25" width="365" height="131" frameX="-141" frameY="0" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0005" x="25" y="181" width="485" height="116" frameX="-17" frameY="-9" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0006" x="25" y="181" width="485" height="116" frameX="-17" frameY="-9" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0007" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0008" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0009" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0010" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0011" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart0012" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0013" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="ink restart back0012" x="25" y="25" width="48" height="46" frameX="-475" frameY="-9" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0011" x="98" y="25" width="250" height="130" frameX="-264" frameY="-1" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0010" x="98" y="25" width="250" height="130" frameX="-264" frameY="-1" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0009" x="373" y="25" width="365" height="131" frameX="-141" frameY="0" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0008" x="373" y="25" width="365" height="131" frameX="-141" frameY="0" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0007" x="25" y="181" width="485" height="116" frameX="-17" frameY="-9" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0006" x="25" y="181" width="485" height="116" frameX="-17" frameY="-9" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0005" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0004" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0003" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0002" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0001" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+	<SubTexture name="ink restart back0000" x="25" y="322" width="504" height="100" frameX="0" frameY="-21" frameWidth="523" frameHeight="131"/>
+</TextureAtlas>

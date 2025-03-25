@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Curtains.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="curtain0000" x="25" y="25" width="475" height="1257"/>
+	<SubTexture name="curtain opens0000" x="525" y="25" width="1363" height="1442" frameX="-62" frameY="-70" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0001" x="525" y="25" width="1363" height="1442" frameX="-62" frameY="-70" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0002" x="525" y="25" width="1363" height="1442" frameX="-62" frameY="-70" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0003" x="1913" y="25" width="1248" height="1451" frameX="-22" frameY="-63" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0004" x="1913" y="25" width="1248" height="1451" frameX="-22" frameY="-63" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0005" x="1913" y="25" width="1248" height="1451" frameX="-22" frameY="-63" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0006" x="3186" y="25" width="1220" height="1384" frameX="-19" frameY="-73" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0007" x="3186" y="25" width="1220" height="1384" frameX="-19" frameY="-73" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0008" x="3186" y="25" width="1220" height="1384" frameX="-19" frameY="-73" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0009" x="4431" y="25" width="1136" height="1416" frameX="-17" frameY="-38" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0010" x="4431" y="25" width="1136" height="1416" frameX="-17" frameY="-38" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0011" x="4431" y="25" width="1136" height="1416" frameX="-17" frameY="-38" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0012" x="5592" y="25" width="1036" height="1424" frameX="-22" frameY="0" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0013" x="5592" y="25" width="1036" height="1424" frameX="-22" frameY="0" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0014" x="6653" y="25" width="953" height="1376" frameX="-67" frameY="-39" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0015" x="6653" y="25" width="953" height="1376" frameX="-67" frameY="-39" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0016" x="25" y="1501" width="650" height="1250" frameX="-165" frameY="-67" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0017" x="25" y="1501" width="650" height="1250" frameX="-165" frameY="-67" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0018" x="700" y="1501" width="803" height="1119" frameX="-11" frameY="-74" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0019" x="700" y="1501" width="803" height="1119" frameX="-11" frameY="-74" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0020" x="1528" y="1501" width="737" height="1112" frameX="0" frameY="-57" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0021" x="1528" y="1501" width="737" height="1112" frameX="0" frameY="-57" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0022" x="2290" y="1501" width="739" height="1088" frameX="-13" frameY="-74" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0023" x="2290" y="1501" width="739" height="1088" frameX="-13" frameY="-74" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0024" x="3054" y="1501" width="552" height="1126" frameX="-28" frameY="-125" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0025" x="3054" y="1501" width="552" height="1126" frameX="-28" frameY="-125" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0026" x="3631" y="1501" width="449" height="1312" frameX="-79" frameY="-130" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0027" x="3631" y="1501" width="449" height="1312" frameX="-79" frameY="-130" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0028" x="4105" y="1501" width="481" height="1285" frameX="-63" frameY="-130" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtain opens0029" x="4105" y="1501" width="481" height="1285" frameX="-63" frameY="-130" frameWidth="1425" frameHeight="1514"/>
+	<SubTexture name="curtains closing0000" x="4611" y="1501" width="453" height="1260" frameX="-414" frameY="-66" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0001" x="4611" y="1501" width="453" height="1260" frameX="-414" frameY="-66" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0002" x="4611" y="1501" width="453" height="1260" frameX="-414" frameY="-66" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0003" x="5089" y="1501" width="634" height="1340" frameX="-250" frameY="0" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0004" x="5089" y="1501" width="634" height="1340" frameX="-250" frameY="0" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0005" x="5089" y="1501" width="634" height="1340" frameX="-250" frameY="0" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0006" x="5748" y="1501" width="958" height="1366" frameX="0" frameY="-9" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0007" x="5748" y="1501" width="958" height="1366" frameX="0" frameY="-9" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0008" x="6731" y="1501" width="572" height="1328" frameX="-374" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0009" x="6731" y="1501" width="572" height="1328" frameX="-374" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0010" x="7328" y="1501" width="541" height="1333" frameX="-383" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0011" x="7328" y="1501" width="541" height="1333" frameX="-383" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0012" x="25" y="2892" width="574" height="1334" frameX="-404" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0013" x="25" y="2892" width="574" height="1334" frameX="-404" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0014" x="624" y="2892" width="721" height="1350" frameX="-406" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0015" x="624" y="2892" width="721" height="1350" frameX="-406" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0016" x="1370" y="2892" width="889" height="1382" frameX="-435" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0017" x="1370" y="2892" width="889" height="1382" frameX="-435" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0018" x="2284" y="2892" width="1099" height="1376" frameX="-432" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0019" x="2284" y="2892" width="1099" height="1376" frameX="-432" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0020" x="3408" y="2892" width="1156" height="1385" frameX="-415" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0021" x="3408" y="2892" width="1156" height="1385" frameX="-415" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0022" x="4589" y="2892" width="1451" height="1395" frameX="-408" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0023" x="4589" y="2892" width="1451" height="1395" frameX="-408" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0024" x="6065" y="2892" width="1413" height="1415" frameX="-423" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0025" x="6065" y="2892" width="1413" height="1415" frameX="-423" frameY="-12" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0026" x="25" y="4332" width="1381" height="1443" frameX="-422" frameY="0" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0027" x="25" y="4332" width="1381" height="1443" frameX="-422" frameY="0" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0028" x="1431" y="4332" width="1364" height="1441" frameX="-408" frameY="-9" frameWidth="1859" frameHeight="1450"/>
+	<SubTexture name="curtains closing0029" x="1431" y="4332" width="1364" height="1441" frameX="-408" frameY="-9" frameWidth="1859" frameHeight="1450"/>
+</TextureAtlas>

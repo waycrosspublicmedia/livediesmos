@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "mitamenu",
+	"antialiasing": false,
+	"idle_anim": "mitamenu",
+	"position": [330, 390],
+	"scale": 0.35,
+	"image": "misidemenu",
+	"flipX": false
+}

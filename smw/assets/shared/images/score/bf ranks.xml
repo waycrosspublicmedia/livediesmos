@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf ranks.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a rank bf0000" x="25" y="25" width="191" height="151" frameX="-1" frameY="0" frameWidth="193" frameHeight="153"/>
+	<SubTexture name="a rank bf0001" x="25" y="25" width="191" height="151" frameX="-1" frameY="0" frameWidth="193" frameHeight="153"/>
+	<SubTexture name="a rank bf0002" x="241" y="25" width="193" height="153"/>
+	<SubTexture name="a rank bf0003" x="241" y="25" width="193" height="153"/>
+	<SubTexture name="a rank bf0004" x="459" y="25" width="192" height="148" frameX="0" frameY="-4" frameWidth="193" frameHeight="153"/>
+	<SubTexture name="b rank bf0000" x="676" y="25" width="190" height="168" frameX="-4" frameY="0" frameWidth="197" frameHeight="168"/>
+	<SubTexture name="b rank bf0001" x="676" y="25" width="190" height="168" frameX="-4" frameY="0" frameWidth="197" frameHeight="168"/>
+	<SubTexture name="b rank bf0002" x="891" y="25" width="195" height="166" frameX="0" frameY="-1" frameWidth="197" frameHeight="168"/>
+	<SubTexture name="b rank bf0003" x="891" y="25" width="195" height="166" frameX="0" frameY="-1" frameWidth="197" frameHeight="168"/>
+	<SubTexture name="b rank bf0004" x="1111" y="25" width="195" height="167" frameX="-2" frameY="-1" frameWidth="197" frameHeight="168"/>
+	<SubTexture name="b rank bf0005" x="1111" y="25" width="195" height="167" frameX="-2" frameY="-1" frameWidth="197" frameHeight="168"/>
+	<SubTexture name="bf looks 0000" x="1331" y="25" width="186" height="162" frameX="-1" frameY="0" frameWidth="189" frameHeight="162"/>
+	<SubTexture name="bf looks 0001" x="1331" y="25" width="186" height="162" frameX="-1" frameY="0" frameWidth="189" frameHeight="162"/>
+	<SubTexture name="bf looks 0002" x="1542" y="25" width="186" height="161" frameX="-1" frameY="0" frameWidth="189" frameHeight="162"/>
+	<SubTexture name="bf looks 0003" x="1542" y="25" width="186" height="161" frameX="-1" frameY="0" frameWidth="189" frameHeight="162"/>
+	<SubTexture name="bf looks 0004" x="1753" y="25" width="189" height="160" frameX="0" frameY="0" frameWidth="189" frameHeight="162"/>
+	<SubTexture name="bf looks 0005" x="1753" y="25" width="189" height="160" frameX="0" frameY="0" frameWidth="189" frameHeight="162"/>
+	<SubTexture name="c rank bf0000" x="25" y="218" width="186" height="162" frameX="-4" frameY="0" frameWidth="190" frameHeight="162"/>
+	<SubTexture name="c rank bf0001" x="25" y="218" width="186" height="162" frameX="-4" frameY="0" frameWidth="190" frameHeight="162"/>
+	<SubTexture name="c rank bf0002" x="236" y="218" width="187" height="158" frameX="-1" frameY="-3" frameWidth="190" frameHeight="162"/>
+	<SubTexture name="c rank bf0003" x="236" y="218" width="187" height="158" frameX="-1" frameY="-3" frameWidth="190" frameHeight="162"/>
+	<SubTexture name="c rank bf0004" x="448" y="218" width="188" height="158" frameX="0" frameY="-3" frameWidth="190" frameHeight="162"/>
+	<SubTexture name="c rank bf0005" x="448" y="218" width="188" height="158" frameX="0" frameY="-3" frameWidth="190" frameHeight="162"/>
+	<SubTexture name="d rank bf0000" x="661" y="218" width="193" height="178" frameX="0" frameY="-1" frameWidth="194" frameHeight="179"/>
+	<SubTexture name="d rank bf0001" x="661" y="218" width="193" height="178" frameX="0" frameY="-1" frameWidth="194" frameHeight="179"/>
+	<SubTexture name="d rank bf0002" x="879" y="218" width="193" height="177" frameX="0" frameY="-1" frameWidth="194" frameHeight="179"/>
+	<SubTexture name="d rank bf0003" x="879" y="218" width="193" height="177" frameX="0" frameY="-1" frameWidth="194" frameHeight="179"/>
+	<SubTexture name="d rank bf0004" x="1097" y="218" width="193" height="169" frameX="-1" frameY="0" frameWidth="194" frameHeight="179"/>
+	<SubTexture name="d rank bf0005" x="1097" y="218" width="193" height="169" frameX="-1" frameY="0" frameWidth="194" frameHeight="179"/>
+	<SubTexture name="f rank bf0000" x="1315" y="218" width="208" height="125" frameX="-3" frameY="0" frameWidth="213" frameHeight="125"/>
+	<SubTexture name="f rank bf0001" x="1315" y="218" width="208" height="125" frameX="-3" frameY="0" frameWidth="213" frameHeight="125"/>
+	<SubTexture name="f rank bf0002" x="1548" y="218" width="213" height="122" frameX="0" frameY="-1" frameWidth="213" frameHeight="125"/>
+	<SubTexture name="f rank bf0003" x="1548" y="218" width="213" height="122" frameX="0" frameY="-1" frameWidth="213" frameHeight="125"/>
+	<SubTexture name="f rank bf0004" x="1786" y="218" width="211" height="121" frameX="-1" frameY="-2" frameWidth="213" frameHeight="125"/>
+	<SubTexture name="f rank bf0005" x="1786" y="218" width="211" height="121" frameX="-1" frameY="-2" frameWidth="213" frameHeight="125"/>
+	<SubTexture name="p rank bf0000" x="25" y="421" width="206" height="171"/>
+	<SubTexture name="p rank bf0001" x="25" y="421" width="206" height="171"/>
+	<SubTexture name="p rank bf0002" x="256" y="421" width="206" height="171"/>
+	<SubTexture name="p rank bf0003" x="256" y="421" width="206" height="171"/>
+	<SubTexture name="p rank bf0004" x="487" y="421" width="201" height="168" frameX="-3" frameY="0" frameWidth="206" frameHeight="171"/>
+	<SubTexture name="p rank bf0005" x="487" y="421" width="201" height="168" frameX="-3" frameY="0" frameWidth="206" frameHeight="171"/>
+	<SubTexture name="s rank bf0000" x="713" y="421" width="192" height="176" frameX="0" frameY="0" frameWidth="192" frameHeight="177"/>
+	<SubTexture name="s rank bf0001" x="713" y="421" width="192" height="176" frameX="0" frameY="0" frameWidth="192" frameHeight="177"/>
+	<SubTexture name="s rank bf0002" x="930" y="421" width="187" height="172" frameX="-2" frameY="-3" frameWidth="192" frameHeight="177"/>
+	<SubTexture name="s rank bf0003" x="930" y="421" width="187" height="172" frameX="-2" frameY="-3" frameWidth="192" frameHeight="177"/>
+	<SubTexture name="s rank bf0004" x="1142" y="421" width="189" height="172" frameX="0" frameY="-5" frameWidth="192" frameHeight="177"/>
+	<SubTexture name="s rank bf0005" x="1142" y="421" width="189" height="172" frameX="0" frameY="-5" frameWidth="192" frameHeight="177"/>
+	<SubTexture name="transition rank a0000" x="1356" y="421" width="195" height="158" frameX="0" frameY="-6" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank a0001" x="1356" y="421" width="195" height="158" frameX="0" frameY="-6" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank a0002" x="1576" y="421" width="184" height="151" frameX="-5" frameY="0" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank a0003" x="1576" y="421" width="184" height="151" frameX="-5" frameY="0" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank b0000" x="1356" y="421" width="195" height="158" frameX="0" frameY="-6" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank b0001" x="1356" y="421" width="195" height="158" frameX="0" frameY="-6" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank b0002" x="1785" y="421" width="188" height="172" frameX="-6" frameY="0" frameWidth="195" frameHeight="172"/>
+	<SubTexture name="transition rank b0003" x="1785" y="421" width="188" height="172" frameX="-6" frameY="0" frameWidth="195" frameHeight="172"/>
+	<SubTexture name="transition rank c0000" x="1356" y="421" width="195" height="158" frameX="0" frameY="-6" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank c0001" x="1356" y="421" width="195" height="158" frameX="0" frameY="-6" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank c0002" x="25" y="622" width="181" height="170" frameX="-18" frameY="0" frameWidth="199" frameHeight="170"/>
+	<SubTexture name="transition rank c0003" x="25" y="622" width="181" height="170" frameX="-18" frameY="0" frameWidth="199" frameHeight="170"/>
+	<SubTexture name="transition rank d0000" x="1356" y="421" width="195" height="158" frameX="-9" frameY="-20" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank d0001" x="1356" y="421" width="195" height="158" frameX="-9" frameY="-20" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank d0002" x="231" y="622" width="195" height="186" frameX="0" frameY="0" frameWidth="204" frameHeight="186"/>
+	<SubTexture name="transition rank d0003" x="231" y="622" width="195" height="186" frameX="0" frameY="0" frameWidth="204" frameHeight="186"/>
+	<SubTexture name="transition rank f0000" x="1356" y="421" width="195" height="158" frameX="-12" frameY="0" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank f0001" x="1356" y="421" width="195" height="158" frameX="-12" frameY="0" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank f0002" x="451" y="622" width="214" height="121" frameX="0" frameY="-33" frameWidth="214" frameHeight="158"/>
+	<SubTexture name="transition rank f0003" x="451" y="622" width="214" height="121" frameX="0" frameY="-33" frameWidth="214" frameHeight="158"/>
+	<SubTexture name="transition rank p0000" x="1356" y="421" width="195" height="158" frameX="0" frameY="-21" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank p0001" x="1356" y="421" width="195" height="158" frameX="0" frameY="-21" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank p0002" x="690" y="622" width="200" height="180" frameX="-14" frameY="0" frameWidth="214" frameHeight="180"/>
+	<SubTexture name="transition rank p0003" x="690" y="622" width="200" height="180" frameX="-14" frameY="0" frameWidth="214" frameHeight="180"/>
+	<SubTexture name="transition rank s0000" x="1356" y="421" width="195" height="158" frameX="0" frameY="-18" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank s0001" x="1356" y="421" width="195" height="158" frameX="0" frameY="-18" frameWidth="195" frameHeight="164"/>
+	<SubTexture name="transition rank s0002" x="915" y="622" width="200" height="179" frameX="-13" frameY="0" frameWidth="213" frameHeight="179"/>
+	<SubTexture name="transition rank s0003" x="915" y="622" width="200" height="179" frameX="-13" frameY="0" frameWidth="213" frameHeight="179"/>
+</TextureAtlas>

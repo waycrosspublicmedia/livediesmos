@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="thriller_x.png">
+<SubTexture name="thriller x idle0000" x="4175" y="0" width="1179" height="1252" frameX="-448" frameY="-389" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x idle0001" x="1182" y="1469" width="1185" height="1257" frameX="-445" frameY="-385" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x idle0002" x="2424" y="2734" width="1173" height="1253" frameX="-446" frameY="-387" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x idle0003" x="3021" y="0" width="1154" height="1257" frameX="-447" frameY="-383" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x idle0004" x="3021" y="1257" width="1153" height="1256" frameX="-447" frameY="-384" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x idle0005" x="1273" y="2734" width="1151" height="1255" frameX="-447" frameY="-385" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x right0000" x="0" y="1469" width="1182" height="1265" frameX="-522" frameY="-373" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x right0001" x="1867" y="0" width="1154" height="1267" frameX="-513" frameY="-370" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x left0000" x="0" y="3990" width="1294" height="1237" frameX="-228" frameY="-417" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x left0001" x="0" y="2734" width="1273" height="1256" frameX="-254" frameY="-397" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x up0000" x="0" y="0" width="917" height="1469" frameX="-486" frameY="-184" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x up0001" x="917" y="0" width="950" height="1457" frameX="-468" frameY="-195" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x down0000" x="4175" y="1252" width="1111" height="1211" frameX="-471" frameY="-430" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thriller x down0001" x="4175" y="2463" width="1091" height="1210" frameX="-483" frameY="-431" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="p rank.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="p rank0000" x="25" y="25" width="69" height="106" frameX="-1" frameY="0" frameWidth="70" frameHeight="109"/>
+	<SubTexture name="p rank0001" x="25" y="25" width="69" height="106" frameX="-1" frameY="0" frameWidth="70" frameHeight="109"/>
+	<SubTexture name="p rank0002" x="119" y="25" width="70" height="109"/>
+	<SubTexture name="p rank0003" x="119" y="25" width="70" height="109"/>
+	<SubTexture name="p rank0004" x="214" y="25" width="65" height="107" frameX="-3" frameY="-1" frameWidth="70" frameHeight="109"/>
+	<SubTexture name="p rank0005" x="214" y="25" width="65" height="107" frameX="-3" frameY="-1" frameWidth="70" frameHeight="109"/>
+	<SubTexture name="p appears0000" x="304" y="25" width="35" height="51" frameX="-54" frameY="-65" frameWidth="158" frameHeight="164"/>
+	<SubTexture name="p appears0001" x="304" y="25" width="35" height="51" frameX="-54" frameY="-65" frameWidth="158" frameHeight="164"/>
+	<SubTexture name="p appears0002" x="364" y="25" width="70" height="92" frameX="-36" frameY="-40" frameWidth="158" frameHeight="164"/>
+	<SubTexture name="p appears0003" x="364" y="25" width="70" height="92" frameX="-36" frameY="-40" frameWidth="158" frameHeight="164"/>
+	<SubTexture name="p appears0004" x="25" y="159" width="143" height="154" frameX="-7" frameY="-5" frameWidth="158" frameHeight="164"/>
+	<SubTexture name="p appears0005" x="25" y="159" width="143" height="154" frameX="-7" frameY="-5" frameWidth="158" frameHeight="164"/>
+	<SubTexture name="p appears0006" x="193" y="159" width="158" height="164"/>
+	<SubTexture name="p appears0007" x="193" y="159" width="158" height="164"/>
+</TextureAtlas>

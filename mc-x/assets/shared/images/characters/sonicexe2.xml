@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicexe2.png">
+<SubTexture name="sonicexe idle0000" x="5395" y="1255" width="1041" height="1250" frameX="-504" frameY="-606" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe idle0001" x="5395" y="0" width="1046" height="1255" frameX="-507" frameY="-601" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe idle0002" x="4378" y="0" width="1017" height="1264" frameX="-513" frameY="-592" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe idle0003" x="2088" y="3012" width="1024" height="1268" frameX="-523" frameY="-588" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe idle0004" x="3112" y="3012" width="1043" height="1268" frameX="-516" frameY="-588" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe idle0005" x="1045" y="3012" width="1043" height="1269" frameX="-519" frameY="-587" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe idle0006" x="2320" y="0" width="1015" height="1270" frameX="-523" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe loop idle0000" x="0" y="1742" width="1019" height="1270" frameX="-508" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe loop idle0001" x="1019" y="1742" width="1009" height="1270" frameX="-514" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe loop idle0002" x="2028" y="1742" width="1022" height="1270" frameX="-519" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe loop idle0003" x="3335" y="0" width="1043" height="1270" frameX="-517" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe loop idle0004" x="0" y="3012" width="1045" height="1270" frameX="-519" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe loop idle0005" x="3335" y="1270" width="1016" height="1270" frameX="-521" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe left0000" x="3753" y="4282" width="1281" height="1197" frameX="-145" frameY="-651" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe left0001" x="1151" y="4282" width="1268" height="1215" frameX="-159" frameY="-633" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe right0000" x="2419" y="4282" width="1334" height="1205" frameX="-593" frameY="-650" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe right0001" x="5034" y="4282" width="1322" height="1196" frameX="-587" frameY="-659" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe up0000" x="0" y="0" width="1135" height="1742" frameX="-478" frameY="-166" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe up0001" x="1135" y="0" width="1185" height="1727" frameX="-475" frameY="-181" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe down0000" x="6441" y="2298" width="987" height="1089" frameX="-508" frameY="-765" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe down0001" x="6441" y="1196" width="991" height="1102" frameX="-526" frameY="-752" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe laugh0000" x="6441" y="0" width="1177" height="1196" frameX="-255" frameY="-668" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexe laugh0001" x="0" y="4282" width="1151" height="1220" frameX="-273" frameY="-644" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MobianGF.png">
+<SubTexture name="MobianGF happy danceleft0000" x="546" y="2368" width="562" height="559" frameX="-649" frameY="-1018" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceleft0001" x="1108" y="2368" width="560" height="559" frameX="-651" frameY="-1018" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceleft0002" x="0" y="2368" width="546" height="568" frameX="-661" frameY="-1009" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceleft0003" x="1082" y="1793" width="538" height="570" frameX="-667" frameY="-1007" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy idle0000" x="1620" y="1793" width="534" height="569" frameX="-671" frameY="-1008" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceright0000" x="2211" y="2368" width="495" height="554" frameX="-693" frameY="-1023" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceright0001" x="2706" y="2368" width="501" height="553" frameX="-691" frameY="-1024" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceright0002" x="2213" y="576" width="520" height="562" frameX="-678" frameY="-1015" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happy danceright0003" x="2742" y="1138" width="530" height="564" frameX="-675" frameY="-1013" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceleft0000" x="550" y="0" width="564" height="594" frameX="-673" frameY="-1024" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceleft0001" x="0" y="614" width="561" height="591" frameX="-675" frameY="-1023" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceleft0002" x="1114" y="0" width="552" height="592" frameX="-681" frameY="-1014" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceleft0003" x="0" y="1205" width="548" height="588" frameX="-682" frameY="-1010" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad idle0000" x="561" y="614" width="547" height="591" frameX="-683" frameY="-1007" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceright0000" x="3279" y="0" width="521" height="551" frameX="-703" frameY="-1022" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceright0001" x="2213" y="1138" width="527" height="560" frameX="-699" frameY="-1019" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceright0002" x="545" y="1793" width="537" height="574" frameX="-691" frameY="-1013" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF mad danceright0003" x="1108" y="614" width="548" height="590" frameX="-682" frameY="-1008" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happytomad0000" x="2154" y="1793" width="532" height="569" frameX="-672" frameY="-1008" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happytomad0001" x="2742" y="1702" width="525" height="563" frameX="-677" frameY="-1012" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF idle0000" x="1668" y="2368" width="543" height="557" frameX="-665" frameY="-1019" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happytomad0002" x="0" y="1793" width="545" height="575" frameX="-666" frameY="-1002" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happytomad0003" x="548" y="1205" width="559" height="585" frameX="-680" frameY="-987" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happytomad0004" x="0" y="0" width="550" height="614" frameX="-689" frameY="-964" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF happytomad0005" x="1655" y="1205" width="550" height="580" frameX="-686" frameY="-1000" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF madtohappy0000" x="1666" y="0" width="547" height="590" frameX="-683" frameY="-1008" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF madtohappy0001" x="1666" y="590" width="539" height="587" frameX="-690" frameY="-1011" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF madtohappy0002" x="2213" y="0" width="529" height="576" frameX="-701" frameY="-1018" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF madtohappy0003" x="1107" y="1205" width="548" height="583" frameX="-677" frameY="-993" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF madtohappy0004" x="2742" y="0" width="537" height="569" frameX="-673" frameY="-1010" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="MobianGF madtohappy0005" x="2742" y="569" width="532" height="569" frameX="-672" frameY="-1008" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

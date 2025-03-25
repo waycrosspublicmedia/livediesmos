@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="saxophone.png">
+<SubTexture name="saxophone idle0000" x="269" y="345" width="248" height="337" frameX="-346" frameY="-506" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone idle0001" x="517" y="345" width="249" height="337" frameX="-345" frameY="-506" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone right0000" x="0" y="0" width="213" height="345" frameX="-391" frameY="-508" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone right0001" x="430" y="0" width="213" height="340" frameX="-386" frameY="-507" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone left0000" x="0" y="345" width="269" height="339" frameX="-317" frameY="-505" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone left0001" x="253" y="684" width="265" height="331" frameX="-321" frameY="-506" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone up0000" x="213" y="0" width="217" height="345" frameX="-381" frameY="-494" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone up0001" x="907" y="0" width="219" height="335" frameX="-373" frameY="-499" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone down0000" x="643" y="0" width="264" height="340" frameX="-329" frameY="-520" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="saxophone down0001" x="0" y="684" width="253" height="333" frameX="-340" frameY="-515" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tails_emerge.png">
+<SubTexture name="tails emerge idle0000" x="0" y="955" width="460" height="806" frameX="-792" frameY="-575" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="tails emerge idle0001" x="1625" y="0" width="518" height="907" frameX="-764" frameY="-518" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="tails emerge idle0002" x="1089" y="0" width="536" height="939" frameX="-756" frameY="-495" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="tails emerge idle0003" x="545" y="0" width="544" height="952" frameX="-752" frameY="-485" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="tails emerge idle0004" x="0" y="0" width="545" height="955" frameX="-751" frameY="-483" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

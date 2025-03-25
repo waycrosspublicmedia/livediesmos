@@ -1,0 +1,26 @@
+{
+	"storyName": "cappie",
+	"difficulties": "Jap, Rus, Spa, Mex",
+	"hideFreeplay": false,
+	"weekBackground": "mina",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"cappie",
+			"cappie",
+			[
+				175,
+				0,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"misidemenu",
+		"logomiside"
+	],
+	"weekName": "WeekCappie"
+}

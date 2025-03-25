@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="restart.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="restart0000" x="25" y="729" width="561" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0001" x="25" y="729" width="561" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0002" x="611" y="729" width="564" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0003" x="611" y="729" width="564" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0004" x="611" y="729" width="564" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0005" x="611" y="729" width="564" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0006" x="611" y="729" width="564" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0007" x="611" y="729" width="564" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0008" x="1200" y="729" width="570" height="121"/>
+	<SubTexture name="restart0009" x="1200" y="729" width="570" height="121"/>
+	<SubTexture name="restart0010" x="25" y="875" width="569" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0011" x="25" y="875" width="569" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0012" x="25" y="875" width="569" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0013" x="25" y="875" width="569" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0014" x="25" y="875" width="569" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart0015" x="25" y="875" width="569" height="121" frameX="0" frameY="0" frameWidth="570" frameHeight="121"/>
+	<SubTexture name="restart hold0000" x="25" y="25" width="619" height="124" frameX="0" frameY="-17" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0001" x="25" y="25" width="619" height="124" frameX="0" frameY="-17" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0002" x="669" y="25" width="607" height="139" frameX="-9" frameY="-8" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0003" x="669" y="25" width="607" height="139" frameX="-9" frameY="-8" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0004" x="1301" y="25" width="556" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0005" x="1301" y="25" width="556" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0006" x="25" y="201" width="552" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0007" x="25" y="201" width="552" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0008" x="602" y="201" width="558" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0009" x="602" y="201" width="558" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0010" x="1185" y="201" width="558" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0011" x="1185" y="201" width="558" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0012" x="25" y="377" width="564" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0013" x="25" y="377" width="564" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0014" x="614" y="377" width="568" height="151" frameX="-48" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0015" x="614" y="377" width="568" height="151" frameX="-48" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0016" x="1207" y="377" width="556" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0017" x="1207" y="377" width="556" height="151" frameX="-55" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0018" x="25" y="553" width="553" height="151" frameX="-54" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0019" x="25" y="553" width="553" height="151" frameX="-54" frameY="0" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0020" x="603" y="553" width="582" height="133" frameX="-31" frameY="-15" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0021" x="603" y="553" width="582" height="133" frameX="-31" frameY="-15" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0022" x="1210" y="553" width="600" height="122" frameX="-13" frameY="-19" frameWidth="619" frameHeight="151"/>
+	<SubTexture name="restart hold0023" x="1210" y="553" width="600" height="122" frameX="-13" frameY="-19" frameWidth="619" frameHeight="151"/>
+</TextureAtlas>

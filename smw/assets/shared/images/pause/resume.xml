@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="resume.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="resume0000" x="1269" y="255" width="521" height="121"/>
+	<SubTexture name="resume0001" x="1269" y="255" width="521" height="121"/>
+	<SubTexture name="resume0002" x="25" y="462" width="519" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0003" x="25" y="462" width="519" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0004" x="25" y="462" width="519" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0005" x="25" y="462" width="519" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0006" x="25" y="462" width="519" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0007" x="25" y="462" width="519" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0008" x="569" y="462" width="512" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0009" x="569" y="462" width="512" height="121" frameX="0" frameY="0" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0010" x="1106" y="462" width="514" height="120" frameX="0" frameY="-1" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0011" x="1106" y="462" width="514" height="120" frameX="0" frameY="-1" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0012" x="1106" y="462" width="514" height="120" frameX="0" frameY="-1" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0013" x="1106" y="462" width="514" height="120" frameX="0" frameY="-1" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0014" x="1106" y="462" width="514" height="120" frameX="0" frameY="-1" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume0015" x="1106" y="462" width="514" height="120" frameX="0" frameY="-1" frameWidth="521" frameHeight="121"/>
+	<SubTexture name="resume hold0000" x="25" y="25" width="586" height="192" frameX="-15" frameY="-7" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0001" x="25" y="25" width="586" height="192" frameX="-15" frameY="-7" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0002" x="636" y="25" width="584" height="205" frameX="-17" frameY="-10" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0003" x="636" y="25" width="584" height="205" frameX="-17" frameY="-10" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0004" x="1245" y="25" width="584" height="187" frameX="-17" frameY="-10" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0005" x="1245" y="25" width="584" height="187" frameX="-17" frameY="-10" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0006" x="25" y="255" width="593" height="182" frameX="-8" frameY="0" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0007" x="25" y="255" width="593" height="182" frameX="-8" frameY="0" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0008" x="643" y="255" width="601" height="177" frameX="0" frameY="-5" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0009" x="643" y="255" width="601" height="177" frameX="0" frameY="-5" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0010" x="643" y="255" width="601" height="177" frameX="0" frameY="-5" frameWidth="601" frameHeight="215"/>
+	<SubTexture name="resume hold0011" x="643" y="255" width="601" height="177" frameX="0" frameY="-5" frameWidth="601" frameHeight="215"/>
+</TextureAtlas>

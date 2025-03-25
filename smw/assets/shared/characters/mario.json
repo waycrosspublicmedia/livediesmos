@@ -1,0 +1,190 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				64,
+				-229
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-56,
+				-210
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-10,
+				-260
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-16,
+				-179
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-213
+			],
+			"anim": "caught",
+			"fps": 24,
+			"name": "caught",
+			"indices": []
+		},
+		{
+			"offsets": [
+				105,
+				468
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "powerup",
+			"indices": [],
+			"name": "powerup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-221
+			],
+			"anim": "singLEFT-alt",
+			"fps": 22,
+			"name": "altleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-211
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 22,
+			"name": "altright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-328
+			],
+			"anim": "singDOWN-alt",
+			"fps": 22,
+			"name": "altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-142
+			],
+			"anim": "singUP-alt",
+			"fps": 22,
+			"name": "altup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oh mario",
+			"indices": [],
+			"name": "oh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-212
+			],
+			"anim": "idle-left",
+			"fps": 24,
+			"name": "mario alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-212
+			],
+			"anim": "idle-switch",
+			"fps": 24,
+			"name": "turnmario",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-212
+			],
+			"anim": "idle-right",
+			"fps": 24,
+			"name": "altmario",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		28,
+		84
+	],
+	"camera_position": [
+		30,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

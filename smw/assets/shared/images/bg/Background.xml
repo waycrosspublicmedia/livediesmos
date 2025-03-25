@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Background.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Back ground0000" x="24" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0001" x="24" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0002" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0003" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0004" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0005" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0006" x="24" y="1512" width="2736" height="1464"/>
+	<SubTexture name="Back ground0007" x="24" y="1512" width="2736" height="1464"/>
+	<SubTexture name="Back ground0008" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0009" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0010" x="2784" y="24" width="2736" height="1464"/>
+	<SubTexture name="Back ground0011" x="2784" y="24" width="2736" height="1464"/>
+</TextureAtlas>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alphabet tiny.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0 0000" x="25" y="25" width="35" height="52"/>
+	<SubTexture name="1 0000" x="85" y="25" width="24" height="51"/>
+	<SubTexture name="2 0000" x="134" y="25" width="26" height="52"/>
+	<SubTexture name="3 0000" x="185" y="25" width="31" height="56"/>
+	<SubTexture name="4 0000" x="241" y="25" width="26" height="53"/>
+	<SubTexture name="5 0000" x="292" y="25" width="29" height="50"/>
+	<SubTexture name="6 0000" x="346" y="25" width="31" height="49"/>
+	<SubTexture name="7 0000" x="402" y="25" width="29" height="49"/>
+	<SubTexture name="8 0000" x="456" y="25" width="26" height="51"/>
+	<SubTexture name="9 0000" x="25" y="106" width="29" height="56"/>
+	<SubTexture name="A 0000" x="79" y="106" width="30" height="49"/>
+	<SubTexture name="B 0000" x="134" y="106" width="28" height="49"/>
+	<SubTexture name="C 0000" x="187" y="106" width="28" height="47"/>
+	<SubTexture name="D 0000" x="240" y="106" width="26" height="46"/>
+	<SubTexture name="E 0000" x="291" y="106" width="24" height="47"/>
+	<SubTexture name="F 0000" x="340" y="106" width="25" height="49"/>
+	<SubTexture name="G 0000" x="390" y="106" width="33" height="47"/>
+	<SubTexture name="H 0000" x="448" y="106" width="29" height="49"/>
+	<SubTexture name="I 0000" x="25" y="187" width="8" height="51"/>
+	<SubTexture name="J 0000" x="58" y="187" width="33" height="49"/>
+	<SubTexture name="K 0000" x="116" y="187" width="30" height="51"/>
+	<SubTexture name="L 0000" x="171" y="187" width="22" height="49"/>
+	<SubTexture name="M 0000" x="218" y="187" width="36" height="45"/>
+	<SubTexture name="N 0000" x="279" y="187" width="25" height="47"/>
+	<SubTexture name="O 0000" x="329" y="187" width="29" height="46"/>
+	<SubTexture name="P 0000" x="383" y="187" width="26" height="48"/>
+	<SubTexture name="Q 0000" x="434" y="187" width="39" height="59"/>
+	<SubTexture name="R 0000" x="25" y="271" width="31" height="51"/>
+	<SubTexture name="S 0000" x="81" y="271" width="31" height="46"/>
+	<SubTexture name="T 0000" x="137" y="271" width="28" height="42"/>
+	<SubTexture name="U 0000" x="190" y="271" width="28" height="42"/>
+	<SubTexture name="V 0000" x="243" y="271" width="28" height="44"/>
+	<SubTexture name="W 0000" x="296" y="271" width="32" height="43"/>
+	<SubTexture name="X 0000" x="353" y="271" width="33" height="46"/>
+	<SubTexture name="Y 0000" x="411" y="271" width="31" height="52"/>
+	<SubTexture name="Z 0000" x="25" y="348" width="25" height="42"/>
+	<SubTexture name="dot 0000" x="75" y="348" width="11" height="10"/>
+</TextureAtlas>

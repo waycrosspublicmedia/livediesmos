@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="thrilleroutfitcamera.png">
+<SubTexture name="thrilleroutfitcamera look at cam0000" x="1956" y="0" width="1119" height="1271" frameX="-392" frameY="-589" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thrilleroutfitcamera look at cam0001" x="972" y="0" width="984" height="1311" frameX="-465" frameY="-566" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="thrilleroutfitcamera look at cam0002" x="0" y="0" width="972" height="1317" frameX="-472" frameY="-561" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

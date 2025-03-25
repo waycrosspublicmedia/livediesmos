@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mariopixel.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="altdown mariop0000" x="25" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0001" x="25" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0002" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0003" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0004" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0005" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0006" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0007" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0008" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0009" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0010" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0011" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0012" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altdown mariop0013" x="80" y="25" width="30" height="26"/>
+	<SubTexture name="altleft mariop0000" x="135" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0001" x="135" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0002" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0003" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0004" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0005" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0006" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0007" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0008" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0009" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0010" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0011" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0012" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altleft mariop0013" x="189" y="25" width="29" height="32"/>
+	<SubTexture name="altright mariop0000" x="243" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0001" x="243" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0002" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0003" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0004" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0005" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0006" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0007" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0008" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0009" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0010" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0011" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0012" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altright mariop0013" x="296" y="25" width="28" height="29"/>
+	<SubTexture name="altup mariop0000" x="349" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0001" x="349" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0002" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0003" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0004" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0005" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0006" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0007" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0008" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0009" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0010" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0011" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0012" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="altup mariop0013" x="404" y="25" width="30" height="37"/>
+	<SubTexture name="down mario pixel0000" x="25" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0001" x="25" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0002" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0003" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0004" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0005" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0006" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0007" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0008" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0009" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0010" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0011" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0012" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="down mario pixel0013" x="86" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0000" x="147" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0001" x="147" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0002" x="208" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0003" x="208" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0004" x="269" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0005" x="269" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0006" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0007" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0008" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0009" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0010" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0011" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0012" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="idle mario pixel0013" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="left mario pixel0000" x="391" y="87" width="36" height="41"/>
+	<SubTexture name="left mario pixel0001" x="391" y="87" width="36" height="41"/>
+	<SubTexture name="left mario pixel0002" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0003" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0004" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0005" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0006" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0007" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0008" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0009" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0010" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0011" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0012" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="left mario pixel0013" x="25" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0000" x="86" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0001" x="86" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0002" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0003" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0004" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0005" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0006" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0007" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0008" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0009" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0010" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0011" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0012" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="right mario pixel0013" x="147" y="153" width="36" height="41"/>
+	<SubTexture name="transition mario0000" x="208" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0001" x="208" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0002" x="208" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0003" x="208" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0004" x="270" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0005" x="270" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0006" x="270" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0007" x="270" y="153" width="37" height="30" frameX="-2" frameY="-11" frameWidth="39" frameHeight="41"/>
+	<SubTexture name="transition mario0008" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="transition mario0009" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="transition mario0010" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="transition mario0011" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="transition mario0012" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="transition mario0013" x="330" y="87" width="36" height="41"/>
+	<SubTexture name="up mario pixel0000" x="332" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0001" x="332" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0002" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0003" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0004" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0005" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0006" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0007" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0008" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0009" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0010" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0011" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0012" x="393" y="153" width="36" height="41"/>
+	<SubTexture name="up mario pixel0013" x="393" y="153" width="36" height="41"/>
+</TextureAtlas>

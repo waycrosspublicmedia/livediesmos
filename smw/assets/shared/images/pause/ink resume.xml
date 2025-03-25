@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ink resume.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ink resume0000" x="25" y="25" width="38" height="50" frameX="-26" frameY="-86" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0001" x="88" y="25" width="203" height="118" frameX="-14" frameY="-35" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0002" x="88" y="25" width="203" height="118" frameX="-14" frameY="-35" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0003" x="316" y="25" width="418" height="167" frameX="-9" frameY="-1" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0004" x="316" y="25" width="418" height="167" frameX="-9" frameY="-1" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0005" x="759" y="25" width="481" height="152" frameX="-1" frameY="0" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0006" x="759" y="25" width="481" height="152" frameX="-1" frameY="0" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0007" x="1265" y="25" width="487" height="135" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0008" x="1265" y="25" width="487" height="135" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0009" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0010" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0011" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume0012" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0012" x="25" y="25" width="38" height="50" frameX="-26" frameY="-86" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0011" x="88" y="25" width="203" height="118" frameX="-14" frameY="-35" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0010" x="88" y="25" width="203" height="118" frameX="-14" frameY="-35" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0009" x="316" y="25" width="418" height="167" frameX="-9" frameY="-1" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0008" x="316" y="25" width="418" height="167" frameX="-9" frameY="-1" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0007" x="759" y="25" width="481" height="152" frameX="-1" frameY="0" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0006" x="759" y="25" width="481" height="152" frameX="-1" frameY="0" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0005" x="1265" y="25" width="487" height="135" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0004" x="1265" y="25" width="487" height="135" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0003" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0002" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0001" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0000" x="25" y="217" width="487" height="130" frameX="0" frameY="-6" frameWidth="487" frameHeight="168"/>
+	<SubTexture name="ink resume back0013" x="0" y="0" width="1" height="1"/>
+</TextureAtlas>

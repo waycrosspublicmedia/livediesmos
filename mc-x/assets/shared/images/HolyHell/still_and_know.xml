@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="still_and_know.png">
+<SubTexture name="still and know that0000" x="0" y="1312" width="1156" height="1226" frameX="-756" frameY="-721" frameWidth="2598" frameHeight="2538" />
+<SubTexture name="still and know i0000" x="1156" y="1312" width="1323" height="1167" frameX="-653" frameY="-759" frameWidth="2598" frameHeight="2538" />
+<SubTexture name="still and know i0001" x="1486" y="0" width="1471" height="1297" frameX="-573" frameY="-713" frameWidth="2598" frameHeight="2538" />
+<SubTexture name="still and know am0000" x="0" y="0" width="1486" height="1312" frameX="-564" frameY="-704" frameWidth="2598" frameHeight="2538" />
+</TextureAtlas>

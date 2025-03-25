@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Accuracy.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="accuracy 0000" x="25" y="25" width="1155" height="92" frameX="-2" frameY="0" frameWidth="1157" frameHeight="93"/>
+	<SubTexture name="accuracy 0001" x="25" y="25" width="1155" height="92" frameX="-2" frameY="0" frameWidth="1157" frameHeight="93"/>
+	<SubTexture name="accuracy 0002" x="25" y="142" width="1156" height="93" frameX="-1" frameY="0" frameWidth="1157" frameHeight="93"/>
+	<SubTexture name="accuracy 0003" x="25" y="142" width="1156" height="93" frameX="-1" frameY="0" frameWidth="1157" frameHeight="93"/>
+	<SubTexture name="accuracy 0004" x="25" y="260" width="1157" height="92" frameX="0" frameY="0" frameWidth="1157" frameHeight="93"/>
+	<SubTexture name="accuracy 0005" x="25" y="260" width="1157" height="92" frameX="0" frameY="0" frameWidth="1157" frameHeight="93"/>
+</TextureAtlas>

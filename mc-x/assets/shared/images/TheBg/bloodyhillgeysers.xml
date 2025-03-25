@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bloodyhillgeysers.png">
+<SubTexture name="bloodyhillgeysers idle0000" x="1596" y="0" width="1596" height="996" frameX="-494" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bloodyhillgeysers idle0001" x="0" y="1015" width="1596" height="996" frameX="-494" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bloodyhillgeysers idle0002" x="0" y="0" width="1596" height="1015" frameX="-494" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bloodyhillgeysers idle0003" x="1596" y="2011" width="1596" height="949" frameX="-494" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bloodyhillgeysers idle0004" x="0" y="2011" width="1596" height="956" frameX="-494" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bloodyhillgeysers idle0005" x="1596" y="1015" width="1596" height="995" frameX="-494" frameY="0" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ink options.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ink options0000" x="25" y="25" width="33" height="32" frameX="0" frameY="-74" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0001" x="83" y="25" width="136" height="160" frameX="-18" frameY="-25" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0002" x="83" y="25" width="136" height="160" frameX="-18" frameY="-25" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0003" x="244" y="25" width="331" height="195" frameX="-30" frameY="-3" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0004" x="244" y="25" width="331" height="195" frameX="-30" frameY="-3" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0005" x="25" y="245" width="520" height="201" frameX="-27" frameY="0" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0006" x="25" y="245" width="520" height="201" frameX="-27" frameY="0" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0007" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0008" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0009" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0010" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0011" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options0012" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0012" x="25" y="25" width="33" height="32" frameX="0" frameY="-74" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0011" x="83" y="25" width="136" height="160" frameX="-18" frameY="-25" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0010" x="83" y="25" width="136" height="160" frameX="-18" frameY="-25" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0009" x="244" y="25" width="331" height="195" frameX="-30" frameY="-3" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0008" x="244" y="25" width="331" height="195" frameX="-30" frameY="-3" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0007" x="25" y="245" width="520" height="201" frameX="-27" frameY="0" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0006" x="25" y="245" width="520" height="201" frameX="-27" frameY="0" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0005" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0004" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0003" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0002" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0001" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0000" x="25" y="471" width="533" height="86" frameX="-25" frameY="-66" frameWidth="558" frameHeight="201"/>
+	<SubTexture name="ink options back0013" x="0" y="0" width="1" height="1"/>
+</TextureAtlas>

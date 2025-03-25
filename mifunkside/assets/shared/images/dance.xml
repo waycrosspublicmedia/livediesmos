@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dance.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luces0000" x="100" y="100" width="1940" height="1091"/>
+	<SubTexture name="luces0001" x="100" y="100" width="1940" height="1091"/>
+	<SubTexture name="luces0002" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0003" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0004" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0005" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0006" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0007" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0008" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0009" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0010" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0011" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0012" x="2140" y="100" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0013" x="4161" y="100" width="1901" height="1070" frameX="-19" frameY="-10" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0014" x="4161" y="100" width="1901" height="1070" frameX="-19" frameY="-10" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0015" x="100" y="1291" width="1940" height="1091"/>
+	<SubTexture name="luces0016" x="100" y="1291" width="1940" height="1091"/>
+	<SubTexture name="luces0017" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0018" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0019" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0020" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0021" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0022" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0023" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0024" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0025" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0026" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0027" x="2140" y="1291" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0028" x="4161" y="1291" width="1901" height="1070" frameX="-19" frameY="-10" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0029" x="4161" y="1291" width="1901" height="1070" frameX="-19" frameY="-10" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0030" x="100" y="2482" width="1940" height="1091"/>
+	<SubTexture name="luces0031" x="100" y="2482" width="1940" height="1091"/>
+	<SubTexture name="luces0032" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0033" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0034" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0035" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0036" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0037" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0038" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0039" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0040" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0041" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0042" x="2140" y="2482" width="1921" height="1081" frameX="-9" frameY="-5" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0043" x="4161" y="2482" width="1901" height="1070" frameX="-19" frameY="-10" frameWidth="1940" frameHeight="1091"/>
+	<SubTexture name="luces0044" x="4161" y="2482" width="1901" height="1070" frameX="-19" frameY="-10" frameWidth="1940" frameHeight="1091"/>
+</TextureAtlas>

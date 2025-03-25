@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fingerwagring.png">
+<SubTexture name="fingerwag wag0000" x="0" y="0" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0001" x="1486" y="0" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0002" x="0" y="787" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0003" x="1486" y="787" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0004" x="0" y="1574" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0005" x="1486" y="1574" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0006" x="2972" y="0" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+<SubTexture name="fingerwag wag0007" x="2972" y="787" width="1486" height="787" frameX="-21" frameY="-267" frameWidth="1526" frameHeight="1072" />
+</TextureAtlas>

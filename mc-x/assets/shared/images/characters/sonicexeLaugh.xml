@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicexelaugh.png">
+<SubTexture name="sonicexelaugh laugh0000" x="0" y="0" width="1270" height="1347" frameX="-172" frameY="-514" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexelaugh laugh0001" x="2530" y="0" width="1265" height="1306" frameX="-197" frameY="-557" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="sonicexelaugh laugh0002" x="1270" y="0" width="1260" height="1336" frameX="-195" frameY="-526" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

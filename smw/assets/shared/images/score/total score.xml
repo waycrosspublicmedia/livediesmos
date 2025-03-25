@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="total score.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="total score 0000" x="25" y="25" width="1173" height="70"/>
+	<SubTexture name="total score 0001" x="25" y="25" width="1173" height="70"/>
+	<SubTexture name="total score 0002" x="25" y="120" width="1172" height="68" frameX="0" frameY="0" frameWidth="1173" frameHeight="70"/>
+	<SubTexture name="total score 0003" x="25" y="120" width="1172" height="68" frameX="0" frameY="0" frameWidth="1173" frameHeight="70"/>
+	<SubTexture name="total score 0004" x="25" y="213" width="1171" height="69" frameX="0" frameY="0" frameWidth="1173" frameHeight="70"/>
+	<SubTexture name="total score 0005" x="25" y="213" width="1171" height="69" frameX="0" frameY="0" frameWidth="1173" frameHeight="70"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+FNF: From The Top!
+GoodieBag::icon-goodie::artist, voice actor::https://twitter.com/GoodieBag78/::0x336600
+ninjamonk::icon-ninjamonk::artist::https://x.com/NinjaMonkeee/::0xffff00
+Skyan::icon-skyan::charter, coder::https://twitter.com/SkyanUltra/::0x00ffff
+Daylight::icon-blamn::coder::https://twitter.com/Blam_Daylight/::0xff00cc
+Shygee::icon-shygee::coder::https://twitter.com/Shygeeofficial/::0xff6699
+Vaderlings::icon-vader::Musician::https://x.com/vaderlings::0x66ff00
+Rareblin::icon-rareblin::Musician::https://youtube.com/Rareblin/::0xff3300
+Chuckster::icon-chuck::Musician::https://twitter.com/ElCuckster/::0x990000
+Funkypop::icon-funkypop::Musician::https://twitter.com/funkypoppp/::0xFFFFFF
+Grimlock::icon-grimlock::Our good friend grimlock::https://twitter.com/Grimlock495/::0x6633ff

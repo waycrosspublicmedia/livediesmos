@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicexeland.png">
+<SubTexture name="xland land0000" x="1290" y="635" width="205" height="236" frameX="-440" frameY="0" frameWidth="1024" frameHeight="1216" />
+<SubTexture name="xland land0001" x="633" y="0" width="657" height="762" frameX="-256" frameY="-14" frameWidth="1024" frameHeight="1216" />
+<SubTexture name="xland land0002" x="0" y="0" width="633" height="948" frameX="-237" frameY="-167" frameWidth="1024" frameHeight="1216" />
+<SubTexture name="xland land0003" x="556" y="948" width="606" height="615" frameX="-205" frameY="-512" frameWidth="1024" frameHeight="1216" />
+<SubTexture name="xland land0004" x="0" y="948" width="556" height="621" frameX="-246" frameY="-502" frameWidth="1024" frameHeight="1216" />
+<SubTexture name="xland land0005" x="1290" y="0" width="508" height="635" frameX="-261" frameY="-485" frameWidth="1024" frameHeight="1216" />
+</TextureAtlas>

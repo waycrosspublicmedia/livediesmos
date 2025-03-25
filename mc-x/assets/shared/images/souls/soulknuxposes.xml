@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soulknuxposes.png">
+<SubTexture name="soulknuxposes idle0000" x="755" y="952" width="798" height="892" frameX="-608" frameY="-557" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes idle0001" x="1553" y="952" width="797" height="891" frameX="-608" frameY="-559" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes left0000" x="2395" y="883" width="798" height="868" frameX="-511" frameY="-582" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes left0001" x="2395" y="0" width="807" height="883" frameX="-504" frameY="-557" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes right0000" x="0" y="952" width="755" height="895" frameX="-729" frameY="-562" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes right0001" x="1624" y="0" width="771" height="902" frameX="-702" frameY="-550" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes up0000" x="0" y="0" width="807" height="952" frameX="-603" frameY="-447" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes up0001" x="807" y="0" width="817" height="910" frameX="-598" frameY="-503" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes down0000" x="719" y="1847" width="726" height="816" frameX="-643" frameY="-664" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soulknuxposes down0001" x="0" y="1847" width="719" height="837" frameX="-644" frameY="-632" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

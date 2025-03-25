@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soulknux.png">
+<SubTexture name="soulknux idle0000" x="0" y="0" width="401" height="578" frameX="-319" frameY="-215" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0001" x="1201" y="566" width="407" height="562" frameX="-319" frameY="-227" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0002" x="408" y="578" width="416" height="566" frameX="-306" frameY="-228" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0003" x="1201" y="0" width="425" height="566" frameX="-301" frameY="-223" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0004" x="0" y="578" width="408" height="569" frameX="-314" frameY="-223" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0005" x="401" y="0" width="401" height="573" frameX="-320" frameY="-218" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0006" x="802" y="0" width="399" height="571" frameX="-321" frameY="-219" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulknux idle0007" x="1626" y="0" width="400" height="560" frameX="-320" frameY="-224" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

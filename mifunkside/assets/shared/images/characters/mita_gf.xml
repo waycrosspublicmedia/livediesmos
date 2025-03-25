@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mita_gf.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mita gf0000" x="0" y="0" width="294" height="422" frameX="0" frameY="-17" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0001" x="294" y="0" width="294" height="421" frameX="0" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0002" x="294" y="0" width="294" height="421" frameX="0" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0003" x="588" y="0" width="280" height="421" frameX="-6" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0004" x="868" y="0" width="280" height="421" frameX="-6" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0005" x="868" y="0" width="280" height="421" frameX="-6" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0006" x="868" y="0" width="280" height="421" frameX="-6" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0007" x="1148" y="0" width="280" height="419" frameX="-6" frameY="-20" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0008" x="1428" y="0" width="280" height="418" frameX="-6" frameY="-21" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0009" x="1708" y="0" width="277" height="431" frameX="-1" frameY="-8" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0010" x="1708" y="0" width="277" height="431" frameX="-1" frameY="-8" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0011" x="0" y="431" width="277" height="437" frameX="0" frameY="-2" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0012" x="277" y="431" width="277" height="435" frameX="0" frameY="-4" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0013" x="277" y="431" width="277" height="435" frameX="0" frameY="-4" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0014" x="554" y="431" width="277" height="438" frameX="0" frameY="-1" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0015" x="831" y="431" width="286" height="421" frameX="-3" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0016" x="1117" y="431" width="286" height="421" frameX="-3" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0017" x="1117" y="431" width="286" height="421" frameX="-3" frameY="-18" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0018" x="1403" y="431" width="280" height="425" frameX="-6" frameY="-14" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0019" x="1683" y="431" width="282" height="425" frameX="-5" frameY="-14" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0020" x="1683" y="431" width="282" height="425" frameX="-5" frameY="-14" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0021" x="1683" y="431" width="282" height="425" frameX="-5" frameY="-14" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0022" x="0" y="869" width="280" height="424" frameX="-6" frameY="-15" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0023" x="280" y="869" width="280" height="422" frameX="-6" frameY="-17" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0024" x="560" y="869" width="277" height="432" frameX="-1" frameY="-7" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0025" x="560" y="869" width="277" height="432" frameX="-1" frameY="-7" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0026" x="837" y="869" width="277" height="439" frameX="0" frameY="0" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0027" x="1114" y="869" width="277" height="436" frameX="0" frameY="-3" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0028" x="1114" y="869" width="277" height="436" frameX="0" frameY="-3" frameWidth="294" frameHeight="439"/>
+	<SubTexture name="mita gf0029" x="1391" y="869" width="277" height="439" frameX="0" frameY="0" frameWidth="294" frameHeight="439"/>
+</TextureAtlas>

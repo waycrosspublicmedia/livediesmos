@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soultails.png">
+<SubTexture name="soultails idle0000" x="0" y="0" width="273" height="657" frameX="-363" frameY="-194" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0001" x="273" y="0" width="278" height="648" frameX="-370" frameY="-201" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0002" x="551" y="0" width="291" height="646" frameX="-367" frameY="-205" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0003" x="842" y="0" width="282" height="643" frameX="-366" frameY="-211" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0004" x="279" y="657" width="296" height="632" frameX="-366" frameY="-217" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0005" x="575" y="657" width="291" height="623" frameX="-364" frameY="-229" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0006" x="0" y="657" width="279" height="635" frameX="-370" frameY="-217" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soultails idle0007" x="1124" y="0" width="276" height="639" frameX="-369" frameY="-211" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

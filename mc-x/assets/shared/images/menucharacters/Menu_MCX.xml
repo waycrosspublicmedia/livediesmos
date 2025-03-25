@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_MCX.png">
+<SubTexture name="week menu mcx idle0000" x="3082" y="1255" width="1041" height="1250" frameX="-504" frameY="-606" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0001" x="3082" y="1255" width="1041" height="1250" frameX="-504" frameY="-606" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0002" x="3082" y="0" width="1046" height="1255" frameX="-507" frameY="-601" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0003" x="3082" y="0" width="1046" height="1255" frameX="-507" frameY="-601" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0004" x="1043" y="1270" width="1017" height="1264" frameX="-513" frameY="-592" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0005" x="1043" y="1270" width="1017" height="1264" frameX="-513" frameY="-592" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0006" x="2058" y="0" width="1024" height="1268" frameX="-523" frameY="-588" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0007" x="2058" y="0" width="1024" height="1268" frameX="-523" frameY="-588" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0008" x="0" y="1270" width="1043" height="1268" frameX="-516" frameY="-588" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0009" x="0" y="1270" width="1043" height="1268" frameX="-516" frameY="-588" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0010" x="1015" y="0" width="1043" height="1269" frameX="-519" frameY="-587" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0011" x="1015" y="0" width="1043" height="1269" frameX="-519" frameY="-587" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0012" x="0" y="0" width="1015" height="1270" frameX="-523" frameY="-586" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="week menu mcx idle0013" x="0" y="0" width="1015" height="1270" frameX="-523" frameY="-586" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

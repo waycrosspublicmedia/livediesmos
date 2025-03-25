@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a rank0000" x="25" y="25" width="33" height="50"/>
+	<SubTexture name="art0000" x="83" y="25" width="39" height="60"/>
+	<SubTexture name="b rank0000" x="147" y="25" width="27" height="50"/>
+	<SubTexture name="c rank0000" x="199" y="25" width="31" height="52"/>
+	<SubTexture name="code0000" x="255" y="25" width="52" height="53"/>
+	<SubTexture name="d rank0000" x="332" y="25" width="28" height="50"/>
+	<SubTexture name="egg0000" x="385" y="25" width="43" height="63"/>
+	<SubTexture name="f rank0000" x="453" y="25" width="34" height="52"/>
+	<SubTexture name="music0000" x="25" y="113" width="55" height="47"/>
+	<SubTexture name="p rank0000" x="105" y="113" width="30" height="51"/>
+	<SubTexture name="random0000" x="160" y="113" width="39" height="62"/>
+	<SubTexture name="s0000" x="224" y="113" width="29" height="50"/>
+</TextureAtlas>

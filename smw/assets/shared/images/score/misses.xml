@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="misses.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="misses0000" x="25" y="25" width="1132" height="59" frameX="0" frameY="0" frameWidth="1132" frameHeight="61"/>
+	<SubTexture name="misses0001" x="25" y="25" width="1132" height="59" frameX="0" frameY="0" frameWidth="1132" frameHeight="61"/>
+	<SubTexture name="misses0002" x="25" y="109" width="1131" height="59" frameX="0" frameY="0" frameWidth="1132" frameHeight="61"/>
+	<SubTexture name="misses0003" x="25" y="109" width="1131" height="59" frameX="0" frameY="0" frameWidth="1132" frameHeight="61"/>
+	<SubTexture name="misses0004" x="25" y="193" width="1130" height="61" frameX="0" frameY="0" frameWidth="1132" frameHeight="61"/>
+	<SubTexture name="misses0005" x="25" y="193" width="1130" height="61" frameX="0" frameY="0" frameWidth="1132" frameHeight="61"/>
+</TextureAtlas>

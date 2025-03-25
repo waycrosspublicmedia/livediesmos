@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				202,
+				54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-134
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleScared",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/rambley2",
+	"position": [
+		-30,
+		-90
+	],
+	"healthicon": "rambley",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		102,
+		186
+	],
+	"camera_position": [
+		-120,
+		180
+	],
+	"sing_duration": 6.2,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

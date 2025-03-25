@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="souleggposes.png">
+<SubTexture name="souleggposes idle0000" x="2349" y="0" width="822" height="777" frameX="-602" frameY="-627" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes idle0001" x="2349" y="777" width="821" height="777" frameX="-606" frameY="-625" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes left0000" x="1603" y="0" width="746" height="800" frameX="-487" frameY="-633" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes left0001" x="746" y="865" width="770" height="787" frameX="-506" frameY="-639" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes right0000" x="0" y="865" width="746" height="800" frameX="-815" frameY="-633" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes right0001" x="1516" y="865" width="770" height="787" frameX="-772" frameY="-639" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes up0000" x="0" y="0" width="783" height="865" frameX="-627" frameY="-508" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes up0001" x="783" y="0" width="820" height="844" frameX="-609" frameY="-543" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes down0000" x="823" y="1665" width="860" height="731" frameX="-592" frameY="-747" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="souleggposes down0001" x="0" y="1665" width="823" height="756" frameX="-608" frameY="-705" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

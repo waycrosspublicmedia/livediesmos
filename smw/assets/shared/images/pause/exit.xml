@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exit.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exit0000" x="25" y="497" width="341" height="102"/>
+	<SubTexture name="exit0001" x="25" y="497" width="341" height="102"/>
+	<SubTexture name="exit0002" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0003" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0004" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0005" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0006" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0007" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0008" x="25" y="624" width="328" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0009" x="25" y="624" width="328" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0010" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0011" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0012" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0013" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0014" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit0015" x="391" y="497" width="334" height="101" frameX="0" frameY="0" frameWidth="341" frameHeight="102"/>
+	<SubTexture name="exit hold0000" x="25" y="25" width="473" height="111" frameX="0" frameY="-31" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0001" x="25" y="25" width="473" height="111" frameX="0" frameY="-31" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0002" x="523" y="25" width="470" height="131" frameX="-3" frameY="-12" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0003" x="523" y="25" width="470" height="131" frameX="-3" frameY="-12" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0004" x="25" y="181" width="468" height="152" frameX="-5" frameY="-4" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0005" x="25" y="181" width="468" height="152" frameX="-5" frameY="-4" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0006" x="518" y="181" width="465" height="155" frameX="-8" frameY="0" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0007" x="518" y="181" width="465" height="155" frameX="-8" frameY="0" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0008" x="25" y="361" width="463" height="111" frameX="-10" frameY="-31" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0009" x="25" y="361" width="463" height="111" frameX="-10" frameY="-31" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0010" x="513" y="361" width="465" height="111" frameX="-8" frameY="-31" frameWidth="473" frameHeight="156"/>
+	<SubTexture name="exit hold0011" x="513" y="361" width="465" height="111" frameX="-8" frameY="-31" frameWidth="473" frameHeight="156"/>
+</TextureAtlas>

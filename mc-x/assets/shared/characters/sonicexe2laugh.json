@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "hey",
+			"loop": false,
+			"name": "sonicexelaugh laugh"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "laugh",
+			"loop": false,
+			"name": "sonicexelaugh laugh"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "sonicexelaugh laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicexeLaugh",
+	"position": [
+		-790,
+		-620
+	],
+	"healthicon": "mcx",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		20,
+		255
+	],
+	"camera_position": [
+		750,
+		680
+	],
+	"sing_duration": 6.1,
+	"scale": 0.45
+}

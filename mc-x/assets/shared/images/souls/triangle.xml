@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="triangle.png">
+<SubTexture name="triangle idle0000" x="0" y="0" width="187" height="409" frameX="-524" frameY="-200" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="triangle idle0001" x="187" y="0" width="187" height="408" frameX="-524" frameY="-200" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

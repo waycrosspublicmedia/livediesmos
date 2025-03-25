@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soultailsposes.png">
+<SubTexture name="soultailsposes idle0000" x="565" y="1008" width="544" height="955" frameX="-752" frameY="-483" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes idle0001" x="2176" y="0" width="548" height="945" frameX="-751" frameY="-485" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes right0000" x="1063" y="0" width="554" height="977" frameX="-805" frameY="-486" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes right0001" x="1617" y="0" width="559" height="969" frameX="-797" frameY="-472" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes left0000" x="1109" y="1008" width="568" height="952" frameX="-645" frameY="-509" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes left0001" x="0" y="1008" width="565" height="962" frameX="-670" frameY="-489" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes up0000" x="0" y="0" width="533" height="1008" frameX="-742" frameY="-386" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes up0001" x="533" y="0" width="530" height="988" frameX="-755" frameY="-413" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes down0000" x="0" y="1970" width="614" height="806" frameX="-724" frameY="-645" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="soultailsposes down0001" x="2724" y="0" width="589" height="833" frameX="-736" frameY="-607" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

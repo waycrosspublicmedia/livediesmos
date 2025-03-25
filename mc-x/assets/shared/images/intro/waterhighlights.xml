@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="waterhighlights.png">
+<SubTexture name="waterhighlights idle0000" x="0" y="288" width="2351" height="285" frameX="-79" frameY="-1076" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="waterhighlights idle0001" x="2320" y="0" width="2329" height="286" frameX="-87" frameY="-1077" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="waterhighlights idle0002" x="0" y="0" width="2320" height="288" frameX="-98" frameY="-1078" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

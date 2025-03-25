@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soulegg.png">
+<SubTexture name="soulegg idle0000" x="820" y="0" width="408" height="764" frameX="-255" frameY="-141" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0001" x="1221" y="769" width="408" height="756" frameX="-257" frameY="-149" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0002" x="815" y="769" width="406" height="757" frameX="-259" frameY="-148" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0003" x="413" y="769" width="402" height="760" frameX="-264" frameY="-145" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0004" x="0" y="0" width="411" height="769" frameX="-255" frameY="-134" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0005" x="0" y="769" width="413" height="761" frameX="-251" frameY="-140" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0006" x="1228" y="0" width="403" height="762" frameX="-260" frameY="-141" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="soulegg idle0007" x="411" y="0" width="409" height="769" frameX="-253" frameY="-140" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

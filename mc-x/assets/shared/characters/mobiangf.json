@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "MobianGF happy danceleft"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "MobianGF happy danceright"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 12,
+			"anim": "danceLeft-alt",
+			"loop": false,
+			"name": "MobianGF mad danceleft"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "danceRight-alt",
+			"loop": false,
+			"name": "MobianGF mad danceright"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "pissed",
+			"loop": false,
+			"name": "MobianGF happytomad"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "horny",
+			"loop": false,
+			"name": "MobianGF madtohappy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MobianGF",
+	"position": [
+		40,
+		-700
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		400,
+		820
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"antialiasing": true,
+	"idle_anim": "M Dad Idle",
+	"position": [999, -160],
+	"scale": 0.3,
+	"image": "logomiside",
+	"flipX": false
+}

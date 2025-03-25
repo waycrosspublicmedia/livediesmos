@@ -1,0 +1,176 @@
+{
+	"song": {
+		"events": [
+			[
+				7500,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"sonicexe2laugh"
+					],
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				7824.77678571428,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				7908.48214285714,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				8035.71428571428,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				8303.57142857143,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"sonicexe2"
+					]
+				]
+			],
+			[
+				43928.5714285714,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"sonicexe2laugh"
+					]
+				]
+			],
+			[
+				44286.8303571429,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				44571.4285714286,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				44866.0714285714,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"sonicexe2"
+					]
+				]
+			],
+			[
+				145714.285714286,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"thrillerx"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				179933.035714286,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"mcxthrillerfit"
+					],
+					[
+						"Change Character",
+						"BF",
+						"mobianbfsun"
+					],
+					[
+						"Change Character",
+						"GF",
+						"mobiangfsun"
+					]
+				]
+			],
+			[
+				198214.285714285,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"thillerCam"
+					],
+					[
+						"Play Animation",
+						"The",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}
