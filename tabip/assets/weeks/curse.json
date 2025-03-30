@@ -1,0 +1,49 @@
+{
+	"storyName": "Curse Pico mix",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tabi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"my battle",
+			"tabi",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"Last Chance",
+			"tabi",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"Genocide",
+			"tabi-crazy",
+			[
+				66,
+				93,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "curse"
+}

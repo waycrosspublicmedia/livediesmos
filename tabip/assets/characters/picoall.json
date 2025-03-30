@@ -1,0 +1,386 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				87,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				90,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				21,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				-46,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				87,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swearLEFT",
+			"indices": [],
+			"name": "pico swear left"
+		},
+		{
+			"offsets": [
+				90,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swearDOWN",
+			"indices": [],
+			"name": "pico swear down"
+		},
+		{
+			"offsets": [
+				21,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swearUP",
+			"indices": [],
+			"name": "pico swear up"
+		},
+		{
+			"offsets": [
+				-46,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swearRIGHT",
+			"indices": [],
+			"name": "pico swear right"
+		},
+		{
+			"offsets": [
+				81,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"offsets": [
+				80,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"offsets": [
+				28,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"offsets": [
+				-39,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"offsets": [
+				5,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cock",
+			"indices": [],
+			"name": "Pico Reload"
+		},
+		{
+			"offsets": [
+				286,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Pico Shoot Hip Full"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "Pico Hit Can"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hit-loop",
+			"indices": [
+				12,
+				13,
+				14
+			],
+			"name": "Pico Hit Can"
+		},
+		{
+			"offsets": [
+				39,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"name": "Pico HEY!!"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "burp",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				24,
+				25,
+				26,
+				27,
+				27,
+				27,
+				27
+			],
+			"name": "burpshit"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "burp-alt",
+			"indices": [],
+			"name": "burpsmile"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "swear",
+			"fps": 24,
+			"name": "burpshit",
+			"indices": [
+				24,
+				26,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "shit",
+			"fps": 24,
+			"name": "burpshit",
+			"indices": [
+				24,
+				26,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				1
+			],
+			"anim": "shit-alt",
+			"fps": 24,
+			"name": "shit",
+			"indices": [
+				1,
+				3,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/picoall",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "picoM",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

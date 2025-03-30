@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				211,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "PicoShoot0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PicoLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "PicoLeftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-63
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "PicoDownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				67
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "PicoUpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				42
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "PicoRightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				47
+			],
+			"anim": "dialog1",
+			"fps": 24,
+			"name": "PicoDialogue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-40
+			],
+			"anim": "dialog2",
+			"fps": 24,
+			"name": "PicoDIalogue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/PicoScared",
+	"position": [
+		-140,
+		300
+	],
+	"healthicon": "picoM",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		180,
+		-60
+	],
+	"sing_duration": 5,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

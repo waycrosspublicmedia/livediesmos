@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nene.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nene HEY!!0000" x="0" y="0" width="700" height="569" frameX="0" frameY="-2" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0001" x="702" y="0" width="700" height="569" frameX="0" frameY="-2" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0002" x="1404" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0003" x="2102" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0004" x="2800" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0005" x="3498" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0006" x="3498" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0007" x="3498" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0008" x="3498" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene HEY!!0009" x="3498" y="0" width="696" height="573" frameX="-1" frameY="0" frameWidth="700" frameHeight="573"/>
+	<SubTexture name="nene dance left0000" x="4196" y="0" width="701" height="561" frameX="0" frameY="-11" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0001" x="4899" y="0" width="701" height="561" frameX="0" frameY="-11" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0002" x="5602" y="0" width="697" height="564" frameX="-1" frameY="-10" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0003" x="6301" y="0" width="697" height="564" frameX="-1" frameY="-10" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0004" x="7000" y="0" width="697" height="566" frameX="-1" frameY="-8" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0005" x="0" y="575" width="697" height="566" frameX="-1" frameY="-8" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0006" x="699" y="575" width="697" height="568" frameX="-1" frameY="-6" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0007" x="1398" y="575" width="697" height="572" frameX="-1" frameY="-2" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0008" x="2097" y="575" width="697" height="572" frameX="-1" frameY="-2" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0009" x="2796" y="575" width="697" height="572" frameX="-1" frameY="-2" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0010" x="3495" y="575" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0011" x="3495" y="575" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0012" x="4194" y="575" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0013" x="4893" y="575" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance left0014" x="5592" y="575" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0000" x="6291" y="575" width="701" height="561" frameX="0" frameY="-11" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0001" x="6994" y="575" width="701" height="561" frameX="0" frameY="-11" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0002" x="0" y="1151" width="697" height="562" frameX="-1" frameY="-12" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0003" x="699" y="1151" width="697" height="562" frameX="-1" frameY="-12" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0004" x="1398" y="1151" width="697" height="563" frameX="-1" frameY="-11" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0005" x="2097" y="1151" width="697" height="563" frameX="-1" frameY="-11" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0006" x="2796" y="1151" width="697" height="564" frameX="-1" frameY="-10" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0007" x="3495" y="1151" width="697" height="573" frameX="-1" frameY="-1" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0008" x="4194" y="1151" width="697" height="573" frameX="-1" frameY="-1" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0009" x="4893" y="1151" width="697" height="573" frameX="-1" frameY="-1" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0010" x="5592" y="1151" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0011" x="5592" y="1151" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0012" x="6291" y="1151" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0013" x="6990" y="1151" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene dance right0014" x="0" y="1727" width="697" height="574" frameX="-1" frameY="0" frameWidth="701" frameHeight="574"/>
+	<SubTexture name="nene miss laugh0000" x="699" y="1727" width="699" height="529" frameX="0" frameY="-35" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0001" x="1400" y="1727" width="699" height="532" frameX="0" frameY="-32" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0002" x="2101" y="1727" width="696" height="533" frameX="0" frameY="-33" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0003" x="2799" y="1727" width="696" height="533" frameX="0" frameY="-33" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0004" x="3497" y="1727" width="696" height="563" frameX="0" frameY="-3" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0005" x="4195" y="1727" width="696" height="563" frameX="0" frameY="-3" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0006" x="4893" y="1727" width="696" height="565" frameX="0" frameY="-1" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0007" x="4893" y="1727" width="696" height="565" frameX="0" frameY="-1" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0008" x="5591" y="1727" width="696" height="566" frameX="0" frameY="0" frameWidth="699" frameHeight="566"/>
+	<SubTexture name="nene miss laugh0009" x="5591" y="1727" width="696" height="566" frameX="0" frameY="0" frameWidth="699" frameHeight="566"/>
+</TextureAtlas>
