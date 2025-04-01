@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd1.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="up0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="up0001" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="up0002" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="up0003" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="up0004" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="up0005" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="up0006" x="2560" y="1400" width="2560" height="1400"/>
+	<SubTexture name="up0007" x="2560" y="1400" width="2560" height="1400"/>
+	<SubTexture name="up0008" x="2560" y="1400" width="2560" height="1400"/>
+</TextureAtlas>
