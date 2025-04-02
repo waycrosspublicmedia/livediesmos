@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Spec 1 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Spec 1 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Spec 1 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Spec 1 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Spec 1 Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				72,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drop",
+			"indices": [],
+			"name": "Anim drop cotboard"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cardboard/Cardboard_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

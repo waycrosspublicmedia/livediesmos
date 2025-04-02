@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-276,
+				278
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Specimen9Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-470,
+				250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Specimen9Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-469,
+				418
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Specimen9Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-466,
+				195
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Specimen9Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-475,
+				340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Specimen9Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-545,
+				190
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Specimen9Charge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-247,
+				449
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Specimen9Bite",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-247,
+				449
+			],
+			"anim": "static",
+			"fps": 24,
+			"name": "Specimen9Bite",
+			"indices": [
+				21,
+				21
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sp9/Specimen9",
+	"position": [
+		60,
+		470
+	],
+	"healthicon": "sp9",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-820
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

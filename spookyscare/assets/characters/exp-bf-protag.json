@@ -1,0 +1,348 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss-losing",
+			"fps": 24,
+			"name": "BF LEFT MISS losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss-losing",
+			"fps": 24,
+			"name": "BF DOWN MISS losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				27
+			],
+			"anim": "singUPmiss-losing",
+			"fps": 24,
+			"name": "BF UP MISS losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss-losing",
+			"fps": 24,
+			"name": "BF RIGHT MISS losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				22
+			],
+			"anim": "hurt-losing",
+			"fps": 24,
+			"name": "BF hit l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance instancia 1"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT instancia 1"
+		},
+		{
+			"offsets": [
+				-20,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instancia 1"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP instancia 1"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT instancia 1"
+		},
+		{
+			"offsets": [
+				39,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop instancia 1"
+		},
+		{
+			"offsets": [
+				39,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm instancia 1"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-losing",
+			"indices": [],
+			"name": "BF idle dance losing instancia 1"
+		},
+		{
+			"offsets": [
+				-27,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-win",
+			"indices": [],
+			"name": "bf left win instancia 1"
+		},
+		{
+			"offsets": [
+				-25,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-win",
+			"indices": [],
+			"name": "bf down win instancia 1"
+		},
+		{
+			"offsets": [
+				-43,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-win",
+			"indices": [],
+			"name": "bf up win instancia 1"
+		},
+		{
+			"offsets": [
+				-33,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-win",
+			"indices": [],
+			"name": "bf right win instancia 1"
+		},
+		{
+			"offsets": [
+				4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-losing",
+			"indices": [],
+			"name": "bf left losing instancia 1"
+		},
+		{
+			"offsets": [
+				-18,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-losing",
+			"indices": [],
+			"name": "bf down losing instancia 1"
+		},
+		{
+			"offsets": [
+				-47,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-losing",
+			"indices": [],
+			"name": "bf losing up instancia 1"
+		},
+		{
+			"offsets": [
+				-46,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-losing",
+			"indices": [],
+			"name": "bf right losing instancia 1"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-win",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "BF idle dance win instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/expressive/antagonized/Antagonized_Expressive_BoyFriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		196,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

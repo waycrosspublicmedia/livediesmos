@@ -1,0 +1,14 @@
+{
+	"directory": "specimen9",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [0, 380],
+	"girlfriend": [1370, 280],
+	"opponent": [180, -180],
+	"hide_girlfriend": true,
+
+	"camera_speed": 1.4,
+	"camera_girlfriend": [800, 250],
+	"camera_opponent": [10, 80]
+}

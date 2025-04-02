@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press enter to play0000" x="1" y="1" width="705" height="173"/>
+	<SubTexture name="press enter to play glow0000" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0001" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0002" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0003" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0004" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0005" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0006" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0007" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0008" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0009" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0010" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0011" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0012" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0013" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0014" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0015" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0016" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0017" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0018" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0019" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0020" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0021" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0022" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0023" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0024" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0025" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0026" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0027" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0028" x="1" y="175" width="705" height="173" frameX="-10" frameY="-10" frameWidth="728" frameHeight="196"/>
+	<SubTexture name="press enter to play glow0029" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0030" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0031" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0032" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0033" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0034" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0035" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0036" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0037" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0038" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0039" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0040" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0041" x="1" y="349" width="728" height="196"/>
+	<SubTexture name="press enter to play glow0042" x="1" y="349" width="728" height="196"/>
+</TextureAtlas>

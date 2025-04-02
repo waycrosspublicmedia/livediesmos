@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				40
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "HERShot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HERLeft01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HERRight01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HERDown01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HERUp01",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HERIdle01",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "shotLoop",
+			"indices": [
+				31,
+				31
+			],
+			"name": "HERShot"
+		},
+		{
+			"offsets": [
+				-1,
+				41
+			],
+			"indices": [
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59
+			],
+			"fps": 24,
+			"anim": "blep",
+			"loop": false,
+			"name": "HERBlep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/imscared/HER",
+	"position": [
+		60,
+		-50
+	],
+	"healthicon": "her",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-150,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

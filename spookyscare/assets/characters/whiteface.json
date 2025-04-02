@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "WhiteFaceIdle02"
+		},
+		{
+			"offsets": [
+				115,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "WhiteFaceAppear"
+		},
+		{
+			"offsets": [
+				-70,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "WhiteFaceIdle01"
+		},
+		{
+			"offsets": [
+				58,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "WhiteFaceLeft01"
+		},
+		{
+			"offsets": [
+				31,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "WhiteFaceLeft02"
+		},
+		{
+			"offsets": [
+				-131,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "WhiteFaceRight01"
+		},
+		{
+			"offsets": [
+				-185,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "WhiteFaceRight02"
+		},
+		{
+			"offsets": [
+				-60,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "WhiteFaceDown01"
+		},
+		{
+			"offsets": [
+				-63,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "WhiteFaceDown02"
+		},
+		{
+			"offsets": [
+				-73,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "WhiteFaceUp01"
+		},
+		{
+			"offsets": [
+				-150,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "WhiteFaceUp02"
+		},
+		{
+			"offsets": [
+				115,
+				-74
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "appearStatic",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "WhiteFaceAppear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/imscared/WhiteFace",
+	"position": [
+		20,
+		-100
+	],
+	"healthicon": "whiteface",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-300,
+		140
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

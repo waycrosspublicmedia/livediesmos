@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				325,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "protag idle instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				304,
+				53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "protag left instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-97
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "protag down instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				103
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "protag up instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "protag right instancia 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-99,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "protag attack instancia 1"
+		},
+		{
+			"offsets": [
+				354,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "preattack",
+			"indices": [],
+			"name": "protag preattack instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/protag/protag_assets",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "protag",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-90,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,500 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				34
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF9FrontIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF9FrontLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF9FrontDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF9FrontUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF9FrontRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				315,
+				-7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF9FrontMISSLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-50
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF9FrontMISSDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				67
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF9FrontMISSUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-30
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF9FrontMISSRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				692,
+				59
+			],
+			"anim": "jumpCENTER-LEFT",
+			"fps": 24,
+			"name": "BF9JumpLeft01",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				705,
+				76
+			],
+			"anim": "jumpLEFT-CENTER",
+			"fps": 24,
+			"name": "BF9JumpLeft02",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				46
+			],
+			"anim": "jumpCENTER-RIGHT",
+			"fps": 24,
+			"name": "BF9JumpRight01",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				53
+			],
+			"anim": "jumpRIGHT-CENTER",
+			"fps": 24,
+			"name": "BF9JumpRight02",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				696,
+				-14
+			],
+			"anim": "idle-left",
+			"fps": 24,
+			"name": "BF9LeftIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				802,
+				-33
+			],
+			"anim": "singLEFT-left",
+			"fps": 24,
+			"name": "BF9LeftLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				640,
+				-52
+			],
+			"anim": "singDOWN-left",
+			"fps": 24,
+			"name": "BF9LeftDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				684,
+				22
+			],
+			"anim": "singUP-left",
+			"fps": 24,
+			"name": "BF9LeftUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				609,
+				-25
+			],
+			"anim": "singRIGHT-left",
+			"fps": 24,
+			"name": "BF9LeftRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				812,
+				-30
+			],
+			"anim": "singLEFTmiss-left",
+			"fps": 24,
+			"name": "BF9LeftMISSLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				644,
+				-47
+			],
+			"anim": "singDOWNmiss-left",
+			"fps": 24,
+			"name": "BF9LeftMISSDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				684,
+				24
+			],
+			"anim": "singUPmiss-left",
+			"fps": 24,
+			"name": "BF9LeftMISSUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				613,
+				-26
+			],
+			"anim": "singRIGHTmiss-left",
+			"fps": 24,
+			"name": "BF9LeftMISSRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-482,
+				-52
+			],
+			"anim": "singLEFT-right",
+			"fps": 24,
+			"name": "BF9RightLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-517,
+				-90
+			],
+			"anim": "singDOWN-right",
+			"fps": 24,
+			"name": "BF9RightDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-610,
+				-5
+			],
+			"anim": "singUP-right",
+			"fps": 24,
+			"name": "BF9RightUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-620,
+				-82
+			],
+			"anim": "singRIGHT-right",
+			"fps": 24,
+			"name": "BF9RightRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-483,
+				-60
+			],
+			"anim": "singLEFTmiss-right",
+			"fps": 24,
+			"name": "BF9RightMISSLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-518,
+				-80
+			],
+			"anim": "singDOWNmiss-right",
+			"fps": 24,
+			"name": "BF9RightMISSDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-601,
+				-10
+			],
+			"anim": "singUPmiss-right",
+			"fps": 24,
+			"name": "BF9RightMISSUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-636,
+				-86
+			],
+			"anim": "singRIGHTmiss-right",
+			"fps": 24,
+			"name": "BF9RightMISSRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-596,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-right",
+			"indices": [],
+			"name": "BF9RightIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/BF9Boss_Assets",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

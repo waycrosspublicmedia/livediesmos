@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boyfriend_Back_Death.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF fallen retry accept instancia 10000" x="3" y="3" width="1058" height="851" frameX="0" frameY="-31" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10001" x="1064" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10002" x="2125" y="3" width="1058" height="882" frameX="0" frameY="0" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10003" x="3186" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10004" x="4247" y="3" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10005" x="4247" y="3" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10006" x="5307" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10007" x="5307" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10008" x="3186" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10009" x="3186" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10010" x="4247" y="3" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10011" x="4247" y="3" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10012" x="5307" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10013" x="5307" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10014" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10015" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10016" x="3" y="888" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10017" x="3" y="888" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10018" x="1063" y="888" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10019" x="1063" y="888" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10020" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10021" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10022" x="3" y="888" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10023" x="3" y="888" width="1057" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10024" x="1063" y="888" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10025" x="1063" y="888" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10026" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10027" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10028" x="2124" y="888" width="1064" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10029" x="2124" y="888" width="1064" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10030" x="1063" y="888" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10031" x="1063" y="888" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10032" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10033" x="6368" y="3" width="1058" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry accept instancia 10034" x="2124" y="888" width="1064" height="852" frameX="0" frameY="-30" frameWidth="1064" frameHeight="882"/>
+	<SubTexture name="BF fallen retry instancia 10000" x="3191" y="888" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10001" x="4252" y="888" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10002" x="5313" y="888" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10003" x="6374" y="888" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10004" x="3" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10005" x="1063" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10006" x="2123" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10007" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10008" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10009" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10010" x="5306" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10011" x="5306" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10012" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10013" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10014" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10015" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10016" x="5306" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10017" x="6366" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10018" x="4252" y="888" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10019" x="4252" y="888" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10020" x="6374" y="888" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10021" x="6374" y="888" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10022" x="1063" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10023" x="1063" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10024" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10025" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10026" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10027" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10028" x="5306" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10029" x="5306" y="1743" width="1057" height="848" frameX="0" frameY="-3" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10030" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10031" x="3184" y="1743" width="1058" height="850" frameX="0" frameY="-1" frameWidth="1058" frameHeight="851"/>
+	<SubTexture name="BF fallen retry instancia 10032" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF fallen retry instancia 10033" x="4245" y="1743" width="1058" height="851"/>
+	<SubTexture name="BF gets scared to death instancia 10000" x="3" y="2597" width="807" height="1028" frameX="-1" frameY="-35" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10001" x="3" y="2597" width="807" height="1028" frameX="-1" frameY="-35" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10002" x="813" y="2597" width="808" height="1071" frameX="0" frameY="0" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10003" x="813" y="2597" width="808" height="1071" frameX="0" frameY="0" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10004" x="1624" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10005" x="1624" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10006" x="2436" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10007" x="2436" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10008" x="1624" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10009" x="1624" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10010" x="2436" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10011" x="2436" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10012" x="1624" y="2597" width="809" height="1064" frameX="0" frameY="-4" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10013" x="3248" y="2597" width="805" height="1050" frameX="-13" frameY="-18" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10014" x="3248" y="2597" width="805" height="1050" frameX="-13" frameY="-18" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10015" x="4056" y="2597" width="753" height="1005" frameX="-99" frameY="-72" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10016" x="4056" y="2597" width="753" height="1005" frameX="-99" frameY="-72" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10017" x="4812" y="2597" width="918" height="909" frameX="-216" frameY="-333" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10018" x="5733" y="2597" width="918" height="850" frameX="-216" frameY="-392" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10019" x="6654" y="2597" width="1218" height="571" frameX="-206" frameY="-685" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10020" x="6654" y="2597" width="1218" height="571" frameX="-206" frameY="-685" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10021" x="3" y="3671" width="1224" height="557" frameX="-206" frameY="-686" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10022" x="3" y="3671" width="1224" height="557" frameX="-206" frameY="-686" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10023" x="1230" y="3671" width="1247" height="541" frameX="-204" frameY="-695" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10024" x="1230" y="3671" width="1247" height="541" frameX="-204" frameY="-695" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10025" x="2480" y="3671" width="1270" height="553" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10026" x="2480" y="3671" width="1270" height="553" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10027" x="3753" y="3671" width="1280" height="583" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10028" x="3753" y="3671" width="1280" height="583" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10029" x="5036" y="3671" width="1295" height="578" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10030" x="5036" y="3671" width="1295" height="578" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10031" x="6334" y="3671" width="1298" height="578" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10032" x="6334" y="3671" width="1298" height="578" frameX="-204" frameY="-699" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10033" x="3" y="4257" width="1298" height="597" frameX="-204" frameY="-680" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10034" x="1304" y="4257" width="1298" height="865" frameX="-204" frameY="-412" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10035" x="1304" y="4257" width="1298" height="865" frameX="-204" frameY="-412" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10036" x="2605" y="4257" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10037" x="2605" y="4257" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10038" x="3906" y="4257" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10039" x="3906" y="4257" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10040" x="5207" y="4257" width="1298" height="848" frameX="-204" frameY="-429" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10041" x="5207" y="4257" width="1298" height="848" frameX="-204" frameY="-429" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10042" x="6508" y="4257" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10043" x="6508" y="4257" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10044" x="3" y="5125" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10045" x="3" y="5125" width="1298" height="850" frameX="-204" frameY="-427" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10046" x="1304" y="5125" width="1298" height="848" frameX="-204" frameY="-429" frameWidth="1502" frameHeight="1282"/>
+	<SubTexture name="BF gets scared to death instancia 10047" x="1304" y="5125" width="1298" height="848" frameX="-204" frameY="-429" frameWidth="1502" frameHeight="1282"/>
+</TextureAtlas>

@@ -1,0 +1,141 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-17,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF back left0"
+		},
+		{
+			"offsets": [
+				-24,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF back down0"
+		},
+		{
+			"offsets": [
+				-172,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF back up0"
+		},
+		{
+			"offsets": [
+				-116,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF back right0"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF back down miss"
+		},
+		{
+			"offsets": [
+				-175,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF back up miss"
+		},
+		{
+			"offsets": [
+				-112,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF back right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF back idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/Boyfriend_Back",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

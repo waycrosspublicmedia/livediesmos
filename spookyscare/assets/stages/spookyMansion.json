@@ -1,0 +1,9 @@
+{
+	"directory": "spookymansion",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [1800, 650],
+	"girlfriend": [960, 300],
+	"opponent": [1080, 600]
+}

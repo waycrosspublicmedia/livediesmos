@@ -1,0 +1,66 @@
+{
+	"storyName": "The Tri-Dimension",
+	"hideFreeplay": false,
+	"weekBackground": "expungeds",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cheating",
+			"3d",
+			[
+				0,
+				173,
+				20
+			]
+		],
+		[
+			"Unfairness",
+			"unfairbambi",
+			[
+				160,
+				0,
+				0
+			]
+		],
+		[
+			"Opposition",
+			"OppoExpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Thearchy",
+			"ThearExpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Phonophobia",
+			"phono",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Tri-Dimension"
+}

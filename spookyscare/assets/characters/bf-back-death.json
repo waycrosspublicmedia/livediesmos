@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				40
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF gets scared to death",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-350,
+				-434
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF fallen retry a"
+		},
+		{
+			"offsets": [
+				-350,
+				-471
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF fallen retry i"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/Boyfriend_Back_Death",
+	"position": [
+		1050,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
