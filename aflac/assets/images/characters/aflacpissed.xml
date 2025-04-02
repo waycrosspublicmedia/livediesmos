@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflacpissed.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle PISSED0000" x="0" y="0" width="633" height="891" frameX="-3" frameY="0" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0001" x="0" y="0" width="633" height="891" frameX="-3" frameY="0" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0002" x="661" y="0" width="620" height="894" frameX="-15" frameY="-7" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0003" x="661" y="0" width="620" height="894" frameX="-15" frameY="-7" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0004" x="1309" y="0" width="635" height="874" frameX="0" frameY="-38" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0005" x="1309" y="0" width="635" height="874" frameX="0" frameY="-38" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0006" x="1972" y="0" width="623" height="895" frameX="-6" frameY="-27" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0007" x="1972" y="0" width="623" height="895" frameX="-6" frameY="-27" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0008" x="2623" y="0" width="635" height="879" frameX="0" frameY="-48" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0009" x="2623" y="0" width="635" height="879" frameX="0" frameY="-48" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0010" x="3286" y="0" width="625" height="892" frameX="-5" frameY="-39" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0011" x="3286" y="0" width="625" height="892" frameX="-5" frameY="-39" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0012" x="3939" y="0" width="633" height="892" frameX="-1" frameY="-29" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0013" x="3939" y="0" width="633" height="892" frameX="-1" frameY="-29" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Idle PISSED0014" x="3939" y="0" width="633" height="892" frameX="-1" frameY="-29" frameWidth="636" frameHeight="931"/>
+	<SubTexture name="Note DOWN PISSE0000" x="4600" y="0" width="721" height="841" frameX="-48" frameY="-4" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0001" x="4600" y="0" width="721" height="841" frameX="-48" frameY="-4" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0002" x="5349" y="0" width="755" height="842" frameX="-18" frameY="-6" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0003" x="5349" y="0" width="755" height="842" frameX="-18" frameY="-6" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0004" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0005" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0006" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0007" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0008" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0009" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0010" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0011" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0012" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0013" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0014" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0015" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0016" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0017" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0018" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0019" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0020" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0021" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0022" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0023" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0024" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0025" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0026" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0027" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0028" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note DOWN PISSE0029" x="6132" y="0" width="777" height="839" frameX="0" frameY="0" frameWidth="777" frameHeight="848"/>
+	<SubTexture name="Note LEFT PISSED AF0000" x="6937" y="0" width="818" height="952" frameX="-73" frameY="0" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0001" x="6937" y="0" width="818" height="952" frameX="-73" frameY="0" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0002" x="0" y="980" width="867" height="916" frameX="0" frameY="-23" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0003" x="0" y="980" width="867" height="916" frameX="0" frameY="-23" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0004" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0005" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0006" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0007" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0008" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0009" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0010" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0011" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0012" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0013" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0014" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0015" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0016" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0017" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0018" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0019" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0020" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0021" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0022" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0023" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0024" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0025" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note LEFT PISSED AF0026" x="895" y="980" width="829" height="927" frameX="-37" frameY="-18" frameWidth="891" frameHeight="952"/>
+	<SubTexture name="Note RIGHT ANGY0000" x="1752" y="980" width="682" height="903" frameX="-47" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0001" x="1752" y="980" width="682" height="903" frameX="-47" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0002" x="2462" y="980" width="684" height="899" frameX="-25" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0003" x="2462" y="980" width="684" height="899" frameX="-25" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0004" x="3174" y="980" width="709" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0005" x="3174" y="980" width="709" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0006" x="3911" y="980" width="751" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0007" x="3911" y="980" width="751" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0008" x="4690" y="980" width="702" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0009" x="4690" y="980" width="702" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0010" x="5420" y="980" width="722" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0011" x="5420" y="980" width="722" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0012" x="5420" y="980" width="722" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note RIGHT ANGY0013" x="5420" y="980" width="722" height="895" frameX="0" frameY="0" frameWidth="751" frameHeight="903"/>
+	<SubTexture name="Note UP PISSED0000" x="6170" y="980" width="609" height="892" frameX="0" frameY="0" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0001" x="6170" y="980" width="609" height="892" frameX="0" frameY="0" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0002" x="6807" y="980" width="628" height="894" frameX="0" frameY="-8" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0003" x="6807" y="980" width="628" height="894" frameX="0" frameY="-8" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0004" x="7463" y="980" width="621" height="885" frameX="0" frameY="-28" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0005" x="7463" y="980" width="621" height="885" frameX="0" frameY="-28" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0006" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0007" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0008" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0009" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0010" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0011" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0012" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0013" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0014" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0015" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0016" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0017" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0018" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0019" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0020" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0021" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0022" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0023" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0024" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0025" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0026" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0027" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0028" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+	<SubTexture name="Note UP PISSED0029" x="7463" y="980" width="621" height="885" frameX="0" frameY="-20" frameWidth="628" frameHeight="913"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflac3.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AflacGodTalkLoop0000" x="10" y="10" width="442" height="729" frameX="-41" frameY="0" frameWidth="506" frameHeight="734"/>
+	<SubTexture name="AflacGodTalkLoop0001" x="457" y="10" width="465" height="734" frameX="-28" frameY="0" frameWidth="506" frameHeight="734"/>
+	<SubTexture name="AflacGodTalkLoop0002" x="927" y="10" width="465" height="734" frameX="-28" frameY="0" frameWidth="506" frameHeight="734"/>
+	<SubTexture name="AflacGodTalkLoop0003" x="1397" y="10" width="506" height="729" frameX="0" frameY="-4" frameWidth="506" frameHeight="734"/>
+	<SubTexture name="AflacGodTalkLoop0004" x="10" y="749" width="506" height="729" frameX="0" frameY="-4" frameWidth="506" frameHeight="734"/>
+	<SubTexture name="AflacGodTalkLoop0005" x="521" y="749" width="449" height="729" frameX="-34" frameY="0" frameWidth="506" frameHeight="734"/>
+</TextureAtlas>

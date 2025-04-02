@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflac.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AflacTiredLoop0000" x="10" y="10" width="547" height="727" frameX="0" frameY="0" frameWidth="559" frameHeight="728"/>
+	<SubTexture name="AflacTiredLoop0001" x="10" y="10" width="547" height="727" frameX="0" frameY="0" frameWidth="559" frameHeight="728"/>
+	<SubTexture name="AflacTiredLoop0002" x="562" y="10" width="551" height="719" frameX="-1" frameY="-8" frameWidth="559" frameHeight="728"/>
+	<SubTexture name="AflacTiredLoop0003" x="562" y="10" width="551" height="719" frameX="-1" frameY="-8" frameWidth="559" frameHeight="728"/>
+	<SubTexture name="AflacTiredLoop0004" x="1118" y="10" width="556" height="710" frameX="-3" frameY="-18" frameWidth="559" frameHeight="728"/>
+	<SubTexture name="AflacTiredLoop0005" x="1118" y="10" width="556" height="710" frameX="-3" frameY="-18" frameWidth="559" frameHeight="728"/>
+	<SubTexture name="Aflactalkend0000" x="10" y="742" width="555" height="709"/>
+	<SubTexture name="Aflactalkloop0000" x="570" y="742" width="546" height="726" frameX="0" frameY="0" frameWidth="558" frameHeight="727"/>
+	<SubTexture name="Aflactalkloop0001" x="570" y="742" width="546" height="726" frameX="0" frameY="0" frameWidth="558" frameHeight="727"/>
+	<SubTexture name="Aflactalkloop0002" x="1121" y="742" width="551" height="718" frameX="-1" frameY="-9" frameWidth="558" frameHeight="727"/>
+	<SubTexture name="Aflactalkloop0003" x="1121" y="742" width="551" height="718" frameX="-1" frameY="-9" frameWidth="558" frameHeight="727"/>
+	<SubTexture name="Aflactalkloop0004" x="10" y="742" width="555" height="709" frameX="-3" frameY="-18" frameWidth="555" frameHeight="709"/>
+	<SubTexture name="Aflactalkloop0005" x="10" y="742" width="555" height="709" frameX="-3" frameY="-18" frameWidth="555" frameHeight="709"/>
+</TextureAtlas>

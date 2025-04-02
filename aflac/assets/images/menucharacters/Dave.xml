@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dave.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story0000" x="0" y="0" width="288" height="325" frameX="-94" frameY="-14" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0001" x="316" y="0" width="268" height="350" frameX="-65" frameY="-10" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0002" x="612" y="0" width="348" height="267" frameX="-26" frameY="-30" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0003" x="0" y="378" width="349" height="268" frameX="-30" frameY="-71" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0004" x="377" y="378" width="349" height="267" frameX="-12" frameY="-25" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0005" x="0" y="674" width="288" height="325" frameX="-42" frameY="-10" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0006" x="316" y="674" width="349" height="268" frameX="0" frameY="-71" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0007" x="693" y="674" width="267" height="350" frameX="-14" frameY="0" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0008" x="0" y="0" width="288" height="325" frameX="-94" frameY="-14" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0009" x="316" y="0" width="268" height="350" frameX="-65" frameY="-10" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0010" x="612" y="0" width="348" height="267" frameX="-26" frameY="-30" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0011" x="0" y="378" width="349" height="268" frameX="-30" frameY="-71" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0012" x="377" y="378" width="349" height="267" frameX="-12" frameY="-25" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0013" x="0" y="674" width="288" height="325" frameX="-42" frameY="-10" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0014" x="316" y="674" width="349" height="268" frameX="0" frameY="-71" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0015" x="693" y="674" width="267" height="350" frameX="-14" frameY="0" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0016" x="377" y="378" width="349" height="267" frameX="-12" frameY="-25" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0017" x="0" y="674" width="288" height="325" frameX="-42" frameY="-10" frameWidth="382" frameHeight="360"/>
+	<SubTexture name="story0018" x="316" y="674" width="349" height="268" frameX="0" frameY="-71" frameWidth="382" frameHeight="360"/>
+</TextureAtlas>

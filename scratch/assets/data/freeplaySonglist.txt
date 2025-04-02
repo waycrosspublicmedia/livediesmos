@@ -1,0 +1,4 @@
+blocks:scratchCat:0
+motion:scratchCat:0
+scratch:scratchCat:0
+ailurophobia:scratchCatLost:0

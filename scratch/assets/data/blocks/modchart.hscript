@@ -1,0 +1,45 @@
+
+function start(song) {
+}
+
+
+function beatHit(beat)
+{
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+    if (curStep == 1){
+        FlxTween.tween(FlxG.camera, { zoom: 0.8 }, 0.5, { type: FlxTween.ONESHOT, ease: FlxEase.circOut });
+    }
+}
+
+function playerTwoTurn()
+{
+    
+}
+
+function playerTwoMiss()
+{
+    
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}

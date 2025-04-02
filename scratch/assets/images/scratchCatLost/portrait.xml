@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="default0000" x="0" y="0" width="278" height="233" frameX="0" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0001" x="0" y="0" width="278" height="233" frameX="0" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0002" x="278" y="0" width="279" height="233" frameX="0" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0003" x="278" y="0" width="279" height="233" frameX="0" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0004" x="557" y="0" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0005" x="557" y="0" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0006" x="0" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0007" x="0" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0008" x="279" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0009" x="279" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0010" x="279" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0011" x="279" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0012" x="279" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+	<SubTexture name="default0013" x="279" y="233" width="279" height="233" frameX="-1" frameY="0" frameWidth="280" frameHeight="233"/>
+</TextureAtlas>

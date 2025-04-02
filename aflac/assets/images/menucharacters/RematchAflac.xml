@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RematchAflac.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a0000" x="0" y="0" width="415" height="651" frameX="0" frameY="-27" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0001" x="0" y="0" width="415" height="651" frameX="0" frameY="-27" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0002" x="443" y="0" width="413" height="655" frameX="-1" frameY="-23" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0003" x="443" y="0" width="413" height="655" frameX="-1" frameY="-23" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0004" x="884" y="0" width="409" height="665" frameX="-5" frameY="-13" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0005" x="884" y="0" width="409" height="665" frameX="-5" frameY="-13" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0006" x="1321" y="0" width="409" height="675" frameX="-8" frameY="-3" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0007" x="1321" y="0" width="409" height="675" frameX="-8" frameY="-3" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0008" x="1758" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0009" x="1758" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0010" x="2195" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0011" x="2195" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0012" x="2632" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0013" x="2632" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0014" x="3069" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0015" x="3506" y="0" width="405" height="667" frameX="-16" frameY="-13" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0016" x="3506" y="0" width="405" height="667" frameX="-16" frameY="-13" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0017" x="0" y="706" width="406" height="668" frameX="-15" frameY="-12" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0018" x="0" y="706" width="406" height="668" frameX="-15" frameY="-12" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0019" x="434" y="706" width="407" height="672" frameX="-13" frameY="-7" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0020" x="434" y="706" width="407" height="672" frameX="-13" frameY="-7" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0021" x="869" y="706" width="409" height="676" frameX="-10" frameY="-2" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0022" x="869" y="706" width="409" height="676" frameX="-10" frameY="-2" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0023" x="1758" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0024" x="1758" y="0" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0025" x="1306" y="706" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0026" x="1306" y="706" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0027" x="1743" y="706" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0028" x="1743" y="706" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="a0029" x="2180" y="706" width="409" height="678" frameX="-9" frameY="0" frameWidth="421" frameHeight="680"/>
+</TextureAtlas>

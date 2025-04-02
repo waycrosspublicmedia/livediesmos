@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_AflacNeo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thefunny0000" x="0" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0001" x="0" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0002" x="961" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0003" x="961" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0004" x="1922" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0005" x="1922" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0006" x="2883" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0007" x="2883" y="0" width="933" height="771"/>
+	<SubTexture name="thefunny0008" x="0" y="799" width="933" height="771"/>
+	<SubTexture name="thefunny0009" x="0" y="799" width="933" height="771"/>
+	<SubTexture name="thefunny0010" x="0" y="799" width="933" height="771"/>
+	<SubTexture name="thefunny0011" x="0" y="799" width="933" height="771"/>
+	<SubTexture name="thefunny0012" x="0" y="799" width="933" height="771"/>
+	<SubTexture name="thefunny0013" x="0" y="799" width="933" height="771"/>
+</TextureAtlas>

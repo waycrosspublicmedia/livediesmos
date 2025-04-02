@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottomBlackBlocks.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bottomBackBlocks0000" x="0" y="0" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0001" x="0" y="0" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0002" x="1563" y="0" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0003" x="1563" y="0" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0004" x="0" y="733" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0005" x="0" y="733" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0006" x="1563" y="733" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0007" x="1563" y="733" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0008" x="0" y="1466" width="1563" height="733"/>
+	<SubTexture name="bottomBackBlocks0009" x="0" y="1466" width="1563" height="733"/>
+</TextureAtlas>

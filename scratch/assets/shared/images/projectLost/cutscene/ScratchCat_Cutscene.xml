@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScratchCat_Cutscene.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ScratchCat Cutscene0000" x="0" y="0" width="334" height="321" frameX="-7" frameY="-1" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0001" x="334" y="0" width="337" height="322" frameX="-8" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0002" x="671" y="0" width="336" height="322" frameX="-12" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0003" x="1007" y="0" width="335" height="320" frameX="-16" frameY="-2" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0004" x="1342" y="0" width="336" height="316" frameX="-16" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0005" x="1678" y="0" width="343" height="313" frameX="-10" frameY="-9" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0006" x="0" y="322" width="349" height="316" frameX="-6" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0007" x="349" y="322" width="350" height="317" frameX="-5" frameY="-5" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0008" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0009" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0010" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0011" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0012" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0013" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0014" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0015" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0016" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0017" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0018" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0019" x="699" y="322" width="349" height="316" frameX="-5" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0020" x="1048" y="322" width="352" height="313" frameX="-5" frameY="-9" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0021" x="1400" y="322" width="351" height="311" frameX="-7" frameY="-11" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0022" x="0" y="639" width="352" height="308" frameX="-8" frameY="-14" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0023" x="352" y="639" width="353" height="311" frameX="-7" frameY="-11" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0024" x="705" y="639" width="349" height="316" frameX="-7" frameY="-6" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0025" x="1054" y="639" width="350" height="319" frameX="-3" frameY="-3" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0026" x="1404" y="639" width="347" height="322" frameX="-2" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0027" x="0" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0028" x="347" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0029" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0030" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0031" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0032" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0033" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0034" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0035" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0036" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0037" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0038" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0039" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0040" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0041" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0042" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+	<SubTexture name="ScratchCat Cutscene0043" x="694" y="961" width="347" height="322" frameX="0" frameY="0" frameWidth="360" frameHeight="322"/>
+</TextureAtlas>

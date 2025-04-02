@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflacbutangry.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0000" x="0" y="0" width="819" height="802" frameX="-59" frameY="-36" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0001" x="0" y="0" width="819" height="802" frameX="-59" frameY="-36" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0002" x="847" y="0" width="844" height="804" frameX="-34" frameY="-34" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0003" x="847" y="0" width="844" height="804" frameX="-34" frameY="-34" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0004" x="1719" y="0" width="837" height="812" frameX="-28" frameY="-26" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0005" x="1719" y="0" width="837" height="812" frameX="-28" frameY="-26" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0006" x="2584" y="0" width="833" height="838" frameX="-29" frameY="0" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0007" x="2584" y="0" width="833" height="838" frameX="-29" frameY="0" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0008" x="3445" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0009" x="4308" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0010" x="4308" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0011" x="5171" y="0" width="862" height="833" frameX="0" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0012" x="5171" y="0" width="862" height="833" frameX="0" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0013" x="6061" y="0" width="766" height="833" frameX="-96" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0014" x="6061" y="0" width="766" height="833" frameX="-96" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0015" x="6855" y="0" width="785" height="833" frameX="-77" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0016" x="6855" y="0" width="785" height="833" frameX="-77" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0017" x="4308" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0018" x="4308" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0019" x="5171" y="0" width="862" height="833" frameX="0" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0020" x="5171" y="0" width="862" height="833" frameX="0" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0021" x="6061" y="0" width="766" height="833" frameX="-96" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0022" x="6061" y="0" width="766" height="833" frameX="-96" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0023" x="6855" y="0" width="785" height="833" frameX="-77" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0024" x="6855" y="0" width="785" height="833" frameX="-77" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0025" x="4308" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0026" x="4308" y="0" width="835" height="833" frameX="-27" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0027" x="5171" y="0" width="862" height="833" frameX="0" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0028" x="5171" y="0" width="862" height="833" frameX="0" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="2ND TO 3RD SONG CUTSCENE0029" x="6061" y="0" width="766" height="833" frameX="-96" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0000" x="0" y="0" width="819" height="802" frameX="-59" frameY="-36" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0001" x="0" y="0" width="819" height="802" frameX="-59" frameY="-36" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0002" x="847" y="0" width="844" height="804" frameX="-34" frameY="-33" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0003" x="847" y="0" width="844" height="804" frameX="-34" frameY="-33" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0004" x="1719" y="0" width="837" height="812" frameX="-27" frameY="-25" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0005" x="1719" y="0" width="837" height="812" frameX="-27" frameY="-25" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0006" x="2584" y="0" width="833" height="838" frameX="-29" frameY="0" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0007" x="2584" y="0" width="833" height="838" frameX="-29" frameY="0" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0008" x="3445" y="0" width="835" height="833" frameX="-26" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0009" x="3445" y="0" width="835" height="833" frameX="-26" frameY="-5" frameWidth="878" frameHeight="838"/>
+	<SubTexture name="Idle ANGRY0010" x="0" y="866" width="861" height="832" frameX="0" frameY="-5" frameWidth="877" frameHeight="837"/>
+	<SubTexture name="Idle ANGRY0011" x="0" y="866" width="861" height="832" frameX="0" frameY="-5" frameWidth="877" frameHeight="837"/>
+	<SubTexture name="Idle ANGRY0012" x="889" y="866" width="766" height="832" frameX="-95" frameY="-5" frameWidth="877" frameHeight="837"/>
+	<SubTexture name="Idle ANGRY0013" x="889" y="866" width="766" height="832" frameX="-95" frameY="-5" frameWidth="877" frameHeight="837"/>
+	<SubTexture name="Idle ANGRY0014" x="1683" y="866" width="785" height="832" frameX="-76" frameY="-5" frameWidth="877" frameHeight="837"/>
+	<SubTexture name="Idle ANGRY0015" x="1683" y="866" width="785" height="832" frameX="-76" frameY="-5" frameWidth="877" frameHeight="837"/>
+	<SubTexture name="Note DOWN ANGRY0000" x="2496" y="866" width="618" height="758" frameX="-3" frameY="-33" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0001" x="2496" y="866" width="618" height="758" frameX="-3" frameY="-33" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0002" x="3142" y="866" width="642" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0003" x="3142" y="866" width="642" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0004" x="3812" y="866" width="655" height="779" frameX="0" frameY="-14" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0005" x="3812" y="866" width="655" height="779" frameX="0" frameY="-14" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0006" x="4495" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0007" x="4495" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0008" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0009" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0010" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0011" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0012" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0013" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0014" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0015" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0016" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0017" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0018" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0019" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0020" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0021" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0022" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0023" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0024" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0025" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0026" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0027" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0028" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0029" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0030" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0031" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0032" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0033" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note DOWN ANGRY0034" x="5178" y="866" width="655" height="787" frameX="0" frameY="-6" frameWidth="655" frameHeight="793"/>
+	<SubTexture name="Note LEFT ANGRY0000" x="5861" y="866" width="897" height="799" frameX="0" frameY="-1" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0001" x="5861" y="866" width="897" height="799" frameX="0" frameY="-1" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0002" x="6786" y="866" width="865" height="792" frameX="-33" frameY="-8" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0003" x="6786" y="866" width="865" height="792" frameX="-33" frameY="-8" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0004" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0005" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0006" x="920" y="1726" width="796" height="800" frameX="-102" frameY="0" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0007" x="920" y="1726" width="796" height="800" frameX="-102" frameY="0" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0008" x="1744" y="1726" width="814" height="798" frameX="-84" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0009" x="1744" y="1726" width="814" height="798" frameX="-84" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0010" x="2586" y="1726" width="865" height="798" frameX="-33" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0011" x="2586" y="1726" width="865" height="798" frameX="-33" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0012" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0013" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0014" x="3479" y="1726" width="796" height="798" frameX="-102" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0015" x="3479" y="1726" width="796" height="798" frameX="-102" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0016" x="1744" y="1726" width="814" height="798" frameX="-84" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0017" x="1744" y="1726" width="814" height="798" frameX="-84" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0018" x="2586" y="1726" width="865" height="798" frameX="-33" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0019" x="2586" y="1726" width="865" height="798" frameX="-33" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0020" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0021" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0022" x="3479" y="1726" width="796" height="798" frameX="-102" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0023" x="3479" y="1726" width="796" height="798" frameX="-102" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0024" x="1744" y="1726" width="814" height="798" frameX="-84" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0025" x="1744" y="1726" width="814" height="798" frameX="-84" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0026" x="2586" y="1726" width="865" height="798" frameX="-33" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0027" x="2586" y="1726" width="865" height="798" frameX="-33" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0028" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0029" x="0" y="1726" width="892" height="798" frameX="-6" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0030" x="3479" y="1726" width="796" height="798" frameX="-102" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note LEFT ANGRY0031" x="3479" y="1726" width="796" height="798" frameX="-102" frameY="-2" frameWidth="898" frameHeight="800"/>
+	<SubTexture name="Note RIGHT ANGRY0000" x="4303" y="1726" width="723" height="843" frameX="-227" frameY="0" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0001" x="5054" y="1726" width="824" height="843" frameX="-76" frameY="0" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0002" x="5906" y="1726" width="813" height="825" frameX="-50" frameY="-18" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0003" x="5906" y="1726" width="813" height="825" frameX="-50" frameY="-18" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0004" x="6747" y="1726" width="822" height="816" frameX="-48" frameY="-27" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0005" x="6747" y="1726" width="822" height="816" frameX="-48" frameY="-27" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0006" x="0" y="2597" width="870" height="812" frameX="0" frameY="-31" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0007" x="0" y="2597" width="870" height="812" frameX="0" frameY="-31" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0008" x="898" y="2597" width="800" height="815" frameX="-70" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0009" x="898" y="2597" width="800" height="815" frameX="-70" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0010" x="1726" y="2597" width="796" height="815" frameX="-74" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0011" x="1726" y="2597" width="796" height="815" frameX="-74" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0012" x="2550" y="2597" width="822" height="815" frameX="-48" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0013" x="2550" y="2597" width="822" height="815" frameX="-48" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0014" x="3400" y="2597" width="870" height="815" frameX="0" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0015" x="3400" y="2597" width="870" height="815" frameX="0" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0016" x="898" y="2597" width="800" height="815" frameX="-70" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0017" x="898" y="2597" width="800" height="815" frameX="-70" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0018" x="1726" y="2597" width="796" height="815" frameX="-74" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0019" x="1726" y="2597" width="796" height="815" frameX="-74" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0020" x="2550" y="2597" width="822" height="815" frameX="-48" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0021" x="2550" y="2597" width="822" height="815" frameX="-48" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0022" x="3400" y="2597" width="870" height="815" frameX="0" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0023" x="3400" y="2597" width="870" height="815" frameX="0" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0024" x="898" y="2597" width="800" height="815" frameX="-70" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0025" x="898" y="2597" width="800" height="815" frameX="-70" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0026" x="1726" y="2597" width="796" height="815" frameX="-74" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0027" x="1726" y="2597" width="796" height="815" frameX="-74" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0028" x="2550" y="2597" width="822" height="815" frameX="-48" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note RIGHT ANGRY0029" x="2550" y="2597" width="822" height="815" frameX="-48" frameY="-28" frameWidth="950" frameHeight="843"/>
+	<SubTexture name="Note UP ANGRY0000" x="4298" y="2597" width="615" height="834" frameX="-6" frameY="0" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0001" x="4298" y="2597" width="615" height="834" frameX="-6" frameY="0" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0002" x="4941" y="2597" width="623" height="824" frameX="0" frameY="-10" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0003" x="4941" y="2597" width="623" height="824" frameX="0" frameY="-10" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0004" x="5592" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0005" x="5592" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0006" x="6243" y="2597" width="623" height="823" frameX="0" frameY="-11" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0007" x="6243" y="2597" width="623" height="823" frameX="0" frameY="-11" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0008" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0009" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0010" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0011" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0012" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0013" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0014" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0015" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0016" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0017" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0018" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0019" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0020" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0021" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0022" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0023" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0024" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0025" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0026" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0027" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0028" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0029" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+	<SubTexture name="Note UP ANGRY0030" x="6894" y="2597" width="623" height="815" frameX="0" frameY="-19" frameWidth="623" frameHeight="834"/>
+</TextureAtlas>
