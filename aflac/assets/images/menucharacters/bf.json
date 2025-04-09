@@ -1,0 +1,10 @@
+{
+	"idle_anim": "he",
+	"image": "Menu_BF2",
+	"position": [
+		70,
+		-40
+	],
+	"scale": 0.9,
+	"confirm_anim": "e"
+}

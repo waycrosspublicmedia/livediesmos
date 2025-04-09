@@ -1,0 +1,14 @@
+{
+	"directory": "cardboard",
+	"defaultZoom": 0.4,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"boyfriend": [1120, 300],
+	"girlfriend": [400, 100],
+	"opponent": [-45, 295],
+
+	"camera_boyfriend": [-370, -300],
+	"camera_girlfriend": [1075, 480],
+	"camera_opponent": [150, -75]
+}

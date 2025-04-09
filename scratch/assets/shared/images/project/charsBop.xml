@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charsBop.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charsBop0000" x="0" y="0" width="1762" height="628" frameX="0" frameY="-24" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0001" x="1762" y="0" width="1760" height="638" frameX="-1" frameY="-14" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0002" x="0" y="638" width="1758" height="645" frameX="-2" frameY="-7" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0003" x="1758" y="638" width="1758" height="650" frameX="-2" frameY="-2" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0004" x="0" y="1288" width="1758" height="651" frameX="-2" frameY="-1" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0005" x="1758" y="1288" width="1758" height="652" frameX="-2" frameY="0" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0006" x="0" y="1940" width="1758" height="651" frameX="-2" frameY="-1" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0007" x="1758" y="1940" width="1758" height="650" frameX="-2" frameY="-2" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0008" x="0" y="2591" width="1758" height="649" frameX="-2" frameY="-3" frameWidth="1762" frameHeight="652"/>
+	<SubTexture name="charsBop0009" x="0" y="2591" width="1758" height="649" frameX="-2" frameY="-3" frameWidth="1762" frameHeight="652"/>
+</TextureAtlas>

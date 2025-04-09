@@ -1,0 +1,467 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS instancia 1"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS instancia 1"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS instancia 1"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS instancia 1"
+		},
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-losing",
+			"indices": [],
+			"name": "BF LEFT MISS losing instancia 1"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-losing",
+			"indices": [],
+			"name": "BF DOWN MISS losing instancia 1"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-losing",
+			"indices": [],
+			"name": "BF UP MISS losing instancia 1"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-losing",
+			"indices": [],
+			"name": "BF RIGHT MISS losing instancia 1"
+		},
+		{
+			"offsets": [
+				172,
+				263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-146
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "idle-losing",
+			"fps": 24,
+			"name": "BF idle dance losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-2
+			],
+			"anim": "singLEFT-win",
+			"fps": 24,
+			"name": "bf left comboing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-37
+			],
+			"anim": "singDOWN-win",
+			"fps": 24,
+			"name": "bf down combo instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				11
+			],
+			"anim": "singUP-win",
+			"fps": 24,
+			"name": "bf up combo instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-7
+			],
+			"anim": "singRIGHT-win",
+			"fps": 24,
+			"name": "bf right combo instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-6
+			],
+			"anim": "singLEFT-losing",
+			"fps": 24,
+			"name": "bf left losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-51
+			],
+			"anim": "singDOWN-losing",
+			"fps": 24,
+			"name": "bf down losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				25
+			],
+			"anim": "singUP-losing",
+			"fps": 24,
+			"name": "bf losing up instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-4
+			],
+			"anim": "singRIGHT-losing",
+			"fps": 24,
+			"name": "bf right losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle-win",
+			"fps": 24,
+			"name": "BF idle dance combo instancia 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				10
+			],
+			"anim": "hey-losing",
+			"fps": 24,
+			"name": "bf lean cup losing instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Bf with lean cup instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey-win",
+			"fps": 24,
+			"name": "Bf with lean cup Comboing instancia 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drink",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "bf drinking lean instancia 1"
+		},
+		{
+			"offsets": [
+				-52,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drink-losing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "bf drinking lean looseng instancia 1"
+		},
+		{
+			"offsets": [
+				-53,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drink-win",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3,
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "bf drinking lean comboing instancia 1"
+		},
+		{
+			"offsets": [
+				161,
+				-211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF Dead Loop instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/expressive/lean/Leany_Expressive_BoyFriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

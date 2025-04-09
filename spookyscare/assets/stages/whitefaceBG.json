@@ -1,0 +1,13 @@
+{
+	"directory": "whitefacebg",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [980, 170],
+	"girlfriend": [120, -1200],
+	"opponent": [100, 100],
+	"hide_girlfriend": false,
+
+	"camera_girlfriend": [100, 1150],
+	"camera_speed": 10
+}

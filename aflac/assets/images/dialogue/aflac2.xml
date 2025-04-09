@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflac2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aflac blaze idle0000" x="383" y="583" width="415" height="580" frameX="-54" frameY="0" frameWidth="480" frameHeight="580"/>
+	<SubTexture name="Aflac blaze idle0001" x="803" y="583" width="415" height="580" frameX="-54" frameY="0" frameWidth="480" frameHeight="580"/>
+	<SubTexture name="Aflac blaze idle0002" x="1223" y="583" width="445" height="566" frameX="-30" frameY="-6" frameWidth="480" frameHeight="580"/>
+	<SubTexture name="Aflac blaze idle0003" x="10" y="1168" width="445" height="566" frameX="-30" frameY="-6" frameWidth="480" frameHeight="580"/>
+	<SubTexture name="Aflac blaze idle0004" x="460" y="1168" width="480" height="543" frameX="0" frameY="-15" frameWidth="480" frameHeight="580"/>
+	<SubTexture name="Aflac blaze idle0005" x="945" y="1168" width="480" height="543" frameX="0" frameY="-15" frameWidth="480" frameHeight="580"/>
+	<SubTexture name="AflacGod_Idle0000" x="10" y="10" width="359" height="551" frameX="-7" frameY="-17" frameWidth="368" frameHeight="568"/>
+	<SubTexture name="AflacGod_Idle0001" x="374" y="10" width="359" height="551" frameX="-7" frameY="-17" frameWidth="368" frameHeight="568"/>
+	<SubTexture name="AflacGod_Idle0002" x="738" y="10" width="361" height="560" frameX="-6" frameY="-8" frameWidth="368" frameHeight="568"/>
+	<SubTexture name="AflacGod_Idle0003" x="1104" y="10" width="361" height="560" frameX="-6" frameY="-8" frameWidth="368" frameHeight="568"/>
+	<SubTexture name="AflacGod_Idle0004" x="1470" y="10" width="368" height="568"/>
+	<SubTexture name="AflacGod_Idle0005" x="10" y="583" width="368" height="568"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-173,
+				-280
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "HERpixel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				-227
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "HERpixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				-252
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "HERpixel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				-330
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "HERpixel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-189,
+				-302
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "HERpixel up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/imscared/HERpixel",
+	"position": [
+		60,
+		-50
+	],
+	"healthicon": "her",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-150,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 5.00000000000001
+}

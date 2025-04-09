@@ -1,0 +1,66 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"mansion",
+			"gf",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"cutout",
+			"sp9",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"rigor-chorus",
+			"spooky",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"off-the-goop",
+			"lean",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"ImScared",
+			"her",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}

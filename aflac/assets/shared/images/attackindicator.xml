@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attackindicator.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="attackInd0000" x="3" y="3" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0001" x="143" y="3" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0002" x="283" y="3" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0003" x="3" y="66" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0004" x="143" y="66" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0005" x="283" y="66" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0006" x="3" y="129" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0007" x="143" y="129" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0008" x="283" y="129" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0009" x="3" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0010" x="143" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0011" x="283" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0012" x="3" y="255" width="129" height="68"/>
+	<SubTexture name="attackInd0013" x="283" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0014" x="3" y="255" width="129" height="68"/>
+	<SubTexture name="attackInd0015" x="283" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0016" x="3" y="255" width="129" height="68"/>
+	<SubTexture name="attackInd0017" x="283" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0018" x="3" y="255" width="129" height="68"/>
+	<SubTexture name="attackInd0019" x="283" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+	<SubTexture name="attackInd0020" x="3" y="255" width="129" height="68"/>
+	<SubTexture name="attackInd0021" x="283" y="192" width="129" height="52" frameX="0" frameY="-16" frameWidth="129" frameHeight="68"/>
+</TextureAtlas>

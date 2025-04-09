@@ -1,0 +1,10 @@
+{
+	"idle_anim": "story",
+	"image": "Dave",
+	"position": [
+		150,
+		-50
+	],
+	"scale": 1.1,
+	"confirm_anim": "M Dad Idle"
+}

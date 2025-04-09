@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFTalk0000" x="10" y="10" width="535" height="541"/>
+	<SubTexture name="bftalkloop0000" x="550" y="10" width="537" height="559"/>
+	<SubTexture name="bftalkloop0001" x="550" y="10" width="537" height="559"/>
+	<SubTexture name="bftalkloop0002" x="1092" y="10" width="535" height="551" frameX="0" frameY="-8" frameWidth="537" frameHeight="559"/>
+	<SubTexture name="bftalkloop0003" x="1092" y="10" width="535" height="551" frameX="0" frameY="-8" frameWidth="537" frameHeight="559"/>
+	<SubTexture name="bftalkloop0004" x="10" y="574" width="535" height="541" frameX="-1" frameY="-18" frameWidth="537" frameHeight="559"/>
+	<SubTexture name="bftalkloop0005" x="10" y="574" width="535" height="541" frameX="-1" frameY="-18" frameWidth="537" frameHeight="559"/>
+</TextureAtlas>

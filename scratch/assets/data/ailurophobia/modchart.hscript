@@ -1,0 +1,92 @@
+
+var dadCamX = dad.followCamX;
+var dadCamY = dad.followCamY;
+
+function start(song) {
+}
+
+
+function beatHit(beat)
+{
+    if (curStep >= 1216 && curStep <= 1343){
+        FlxG.camera.zoom = 1.0;
+        FlxTween.tween(FlxG.camera, { zoom: 0.8 }, 0.2, { type: FlxTween.PERSIST });
+    }
+}
+
+function update(elapsed)
+{
+    if (curStep >= 310 && curStep <= 320){
+        dad.animation.play('glitch');
+    }
+    if (curStep >= 444 && curStep <= 447){
+        dad.animation.play('glitch');
+    }
+    if (curStep >= 572 && curStep <= 575){
+        dad.animation.play('glitch');
+    }
+    if (curStep >= 952 && curStep <= 959){
+        dad.animation.play('glitch');
+    }
+    if (curStep >= 1084 && curStep <= 1087){
+        dad.animation.play('glitch');
+    }
+    if (curStep >= 1212 && curStep <= 1215){
+        dad.animation.play('glitch');
+    }
+    if (curStep >= 1340 && curStep <= 1343){
+        dad.animation.play('glitch');
+    }
+    if (dad.animation.curAnim.name == "glitch"){
+        setDefaultZoom(1.8);
+        FlxG.camera.shake(0.02, 0.08);
+        dad.followCamX = 0;
+    }
+    else {
+        setDefaultZoom(0.8);
+        dad.followCamX = dadCamX;
+    }
+}
+
+function stepHit(step)
+{
+    if (curStep == 1){
+        FlxTween.tween(FlxG.camera, { zoom: 0.8 }, 0.5, { type: FlxTween.ONESHOT, ease: FlxEase.circOut });
+    }
+    if (curStep == 960){
+        FlxTween.tween(camHUD, { x: 20 }, 0.5, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut });
+    }
+    if (curStep == 1088){
+        camHUD.angle = -5;
+        FlxTween.tween(camHUD, { angle: 10 }, 0.5, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut });
+        FlxTween.tween(camHUD, { y: 20 }, 1, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut });
+        FlxTween.tween(window, { x: 2.5 }, 0.5, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut });
+        FlxTween.tween(window, { y: 5 }, 1, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut });
+    }
+}
+
+function playerTwoTurn()
+{
+    
+}
+
+function playerTwoMiss()
+{
+    
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}

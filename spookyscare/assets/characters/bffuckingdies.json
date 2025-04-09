@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				680,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Boyfriend Head Slice"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				452
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Boyfriend Dead Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				328,
+				631
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Boyfriend Revive Retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/boyfriendfuckingdies",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		140,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

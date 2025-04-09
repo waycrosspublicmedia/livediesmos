@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-96,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-170,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-172,
+				-263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-214,
+				-238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-170,
+				-222
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/imscared/whitefacepixel",
+	"position": [
+		70,
+		20
+	],
+	"healthicon": "whiteface",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-270,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 7.49999999999999
+}

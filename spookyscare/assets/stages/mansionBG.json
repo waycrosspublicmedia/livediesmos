@@ -1,0 +1,9 @@
+{
+	"directory": "mansionbg",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [850, -400],
+	"girlfriend": [-200, -360],
+	"opponent": [-100, -300]
+}

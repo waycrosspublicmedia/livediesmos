@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HERpixel.png"><SubTexture name="HERpixel down0000" x="0" y="0" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel down0001" x="188" y="0" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel down0002" x="376" y="0" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel down0003" x="564" y="0" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0000" x="752" y="0" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0001" x="0" y="248" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0002" x="188" y="248" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0003" x="376" y="248" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0004" x="564" y="248" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0005" x="752" y="248" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0006" x="0" y="496" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0007" x="188" y="496" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0008" x="376" y="496" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0009" x="564" y="496" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0010" x="752" y="496" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel idle0011" x="0" y="744" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel left0000" x="188" y="744" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel left0001" x="376" y="744" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel left0002" x="564" y="744" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel left0003" x="752" y="744" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel right0000" x="0" y="992" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel right0001" x="188" y="992" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel right0002" x="376" y="992" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel right0003" x="564" y="992" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel up0000" x="752" y="992" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel up0001" x="0" y="1240" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel up0002" x="188" y="1240" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+<SubTexture name="HERpixel up0003" x="376" y="1240" width="188" height="248" frameX="0" frameY="0" frameWidth="188" frameHeight="248" />
+</TextureAtlas>

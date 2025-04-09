@@ -1,0 +1,14 @@
+[178[ [179[ [223[ [216[ |Breakfast| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Heh, very good!
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      You're pretty good at this already
+:bf: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Beep!
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Well
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Something that i learned from people
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      is that, like.
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Everyone that learns here
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      They just...
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Do something really hard instantly
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      You're that type of people right?
+:bf: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Bap
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Swag
+:scratchCat: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Let's get into it!

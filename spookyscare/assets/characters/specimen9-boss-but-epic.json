@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				91,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "specimen9bossleft01"
+		},
+		{
+			"offsets": [
+				-120,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "specimen9bossright01"
+		},
+		{
+			"offsets": [
+				-38,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "specimen9bossdown01"
+		},
+		{
+			"offsets": [
+				4,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "specimen9bossup01"
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "specimen9bossidle01"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sp9/specimen9bossplaceholder",
+	"position": [
+		120,
+		-150
+	],
+	"healthicon": "sp9",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-150,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

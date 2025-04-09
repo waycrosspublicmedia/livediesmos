@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-128
+			],
+			"anim": "knife",
+			"fps": 24,
+			"name": "SpookyKnifeSpin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				-160
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SpookyRLeftALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				-158
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SpookyRLeft01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SpookyRRight01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-150
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SpookyRRightALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SpookyRDown01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-150
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SpookyRDownALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SpookyRUp01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				230
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SpookyRUpALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-40
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "SpookyRHEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-knife",
+			"loop": false,
+			"name": "SpookyRIdle01"
+		},
+		{
+			"offsets": [
+				40,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "SpookyNIdle01"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spooky/SpookyRC",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rcspook",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		56,
+		81
+	],
+	"camera_position": [
+		-320,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
