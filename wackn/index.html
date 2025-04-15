@@ -1,51 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Ruffle Player</title>
-        <meta name="robots" content="noindex, nofollow">
-        <style>
-            html, body {
-                margin: 0;
-                padding: 0;
-                height: 100%;
-                overflow: hidden;
-            }
-        </style>
-    </head>
-    <body>
-        <div id="container"></div>
+<html>
+  <head>
 
-        <script>
-            window.RufflePlayer = window.RufflePlayer || {};
-            window.RufflePlayer.config = {
-                "autoplay": "on",
-                "contextMenu": false,
-                "unmuteOverlay": "hidden",
-                "preloader": false,
-                "warnOnUnsupportedContent": false,
-                "upgradeToHttps": window.location.protocol === "https:",
-                "allowNetworking": "none",
-                "scale": "showAll",
-                "forceScale": true,
-                "wmode": "window",
-                "base": ""
-            };
-            document.addEventListener("DOMContentLoaded", function () {
-                let swf = 'whack-your-neighbour.swf';
-                if (swf) {
-                    let ruffle = window.RufflePlayer.newest();
-                    let player = Object.assign(document.getElementById("container").appendChild(ruffle.createPlayer()), {
-                        style: 'width: 100vw; height: 100vh'
-                    });
+    <script src="/js/all.js"></script>
 
-                    player.load({
-                        url: '/' + swf,
-                        parameters: ""
-                    });
-                }
-            });
-        </script>
-        <script src="07122024/ruffle.js"></script>
-    </body>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Vex</title>
+    <style>html{background-color:#000;}</style>
+  </head>
+  <body>
+    <div id="ruffle" width="100%" height="100%"></div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script>
+      window.RufflePlayer = window.RufflePlayer || {};
+      window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("ruffle");
+        player.id = "player";
+        player.style.width = "100%";
+        player.style.height = "100%";
+        container.appendChild(player);
+        player.load("whack-your-neighbour.swf");
+      });
+    </script>
+  </body>
 </html>
