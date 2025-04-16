@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet"> <!-- Link to Google Fonts -->
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diesmos Games</title>
-    <style>
+    <style>        
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Poppins', sans-serif;
             background-color: #f0f0f0;
             margin: 0;
             padding: 0;
-            cursor: url('ArrowCursor.png'), auto; /* Custom cursor */
+            cursor: url('ArrowCursor.png'), auto;
             background-image: linear-gradient(45deg, #ff00cc, #3333ff, #66ff33, #ff9933);
             background-size: 400% 400%;
             animation: gradientAnimation 15s ease infinite;
@@ -70,7 +71,7 @@
 
         nav a:hover {
             text-decoration: underline;
-            color: #0056b3; /* Change color on hover */
+            color: #0056b3;
         }
 
         .content {
@@ -100,16 +101,129 @@
             z-index: 1;
         }
 
+        .grid-item-new {
+            background: #00ccff;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+            box-shadow: 0 4px 8px rgba(0, 62, 255, 0.27);
+            position: relative;
+            z-index: 1;
+        }
+
         .grid-item:hover {
-            transform: translateY(-8px);
+            transform: translateY(-8px); 
             background: #0056b3;
             box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+        }
+
+        .grid-item-new:hover {
+            transform: translateY(-8px); 
+            background: #00c8ff82;
+            box-shadow: 0 12px 24px rgba(0, 62, 255, 0.27);
         }
 
         .grid-item a {
             color: white;
             text-decoration: none;
             font-weight: bold;
+        }
+
+        .grid-item-new a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .video-preview {
+            display: none;
+            position: absolute;
+            top: -180px; 
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            height: 180px;
+            background: black;
+            border-radius: 8px;
+            overflow: hidden;
+            z-index: 10; 
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        .ranking-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            padding: 20px;
+            list-style: none;
+            text-align: center;
+        }
+
+        .ranking-item {
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 1.2em;
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.2s, background 0.3s;
+        }
+
+        .ranking-item:hover {
+            transform: scale(1.1);
+            background: rgba(0, 0, 0, 0.9);
+        }
+
+        .tooltip {
+            visibility: hidden;
+            background: rgba(0, 0, 0, 0.9);
+            color: white;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 180px;
+            font-size: 0.9em;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .ranking-item:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .easter-egg {
+            display: none;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+            background: rgba(0, 255, 127, 0.8);
+            border-radius: 10px;
+            animation: blink 1s infinite alternate;
+        }
+
+        @keyframes blink {
+            from { opacity: 0.7; }
+            to { opacity: 1; }
+        }
+
+        .grid-item:hover .video-preview {
+            display: block;
+            opacity: 1;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
 
         footer {
@@ -123,27 +237,22 @@
 
         footer:hover {
             transform: scale(1.05);
-            background-color: #0056b3; /* Change background color on hover */
-            color: white; /* Change text color on hover */
+            background-color: #0056b3;
+            color: white;
         }
 
-        /* Animate the favicon */
-        @keyframes pulse {
-            0% {
-                transform: scale(1);
-            }
-            50% {
-                transform: scale(1.1);
-            }
-            100% {
-                transform: scale(1);
-            }
+        #searchBar {
+            padding: 10px;
+            width: 80%;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            display: block;
+            margin: 0 auto 20px;
         }
-
-        /* Apply animation to the favicon */
-        head > link[rel='shortcut icon'] {
-            animation: pulse 2s ease-in-out infinite;
-        }
+    </style>
+</head>
+<body>
     </style>
 </head>
 <body>
@@ -154,39 +263,156 @@
             </ul>
         </nav>
         <div class="content">
-            <p>If anyone tells you that they own the site, ignore it. Credits are below, and frankly we don't really care about our credit. Yet, I find it so ridiculously stupid we have to say this, because, the mere concept of someone being in high school and bragging about an unimportant, and very unmaintained website is just.. stupid? To be fair, it's even a bit petty on our part to even state something like this, but I don't care. Here's some new games, not sure how long it'll take until this site gets blocked.- Marcco</p>
+            <p>i cant get any of the wack your games to work i can work on it tmr with Marcco -Jalen </p>
         </div>
-        <div class="grid-container">
-             <div class="grid-item"><a href="/birds">Angry Birds</a></div>
-             <div class="grid-item"><a href="/rio">Angry Birds Rio</a></div>
-             <div class="grid-item"><a href="/pizza">Cut The Rope</a></div>
-             <div class="grid-item"><a href="/slope">Slope</a></div>
-             <div class="grid-item"><a href="/sonic">Sonic the Hedgehog</a></div>
+<div class="container">
+    <nav>
+        <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search Games ... duh">
+        <ul>
+        </ul>
+    </nav>
+           </div>
+
+            <div class="grid-container">
+            <div class="grid-item"><a href="/birds">Angry Birds</a></div>
+            <div class="grid-item"><a href="/rio">Angry Birds Rio</a></div>
+            <div class="grid-item"><a href="/rope">Cut The Rope</a></div>
+            <div class="grid-item"><a href="/slope">Slope</a></div>
+            <div class="grid-item"><a href="/sonic">Sonic the Hedgehog</a></div>
             <div class="grid-item"><a href="https://maths.diesmos.com/main.html">Friday Night Funkin' (and mods)</a></div>
-             <div class="grid-item"><a href="/bloons">Bloons</a></div>
-             <div class="grid-item"><a href="/crossy">Crossy Road</a></div>
-             <div class="grid-item"><a href="/dirt">Dirt Racers</a></div>
-             <div class="grid-item"><a href="/mine">Minecraft 1.11.2</a></div>
-             <div class="grid-item"><a href="/ninja">Fruit Ninja</a></div>
-             <div class="grid-item"><a href="/panic">SpongeBob Patty Panic</a></div>
-             <div class="grid-item"><a href="/sb2">Super Brawl 2</a></div>
-             <div class="grid-item"><a href="/pizza">Papa's Pizzaria</a></div>
-             <div class="grid-item"><a href="/burger">Papa's Burgeria</a></div>
-             <div class="grid-item"><a href="/pvz">Plants vs Zombies</a></div>
-             <div class="grid-item"><a href="/rider">Snow Rider 3D</a></div>
-             <div class="grid-item"><a href="/2048">2048</a></div>
-             <div class="grid-item"><a href="/candy">Candy Clicker</a></div>
-             <div class="grid-item"><a href="/sm64">Super Mario 64</a></div>
-             <div class="grid-item"><a href="/Cookie-Clicker-Classic-main">Cookie Clicker Classic</a></div>
-             <div class="grid-item"><a href="/ssf">Super Smash Flash</a></div>
-             <div class="grid-item"><a href="/splash">Gumball Splash Master</a></div>
+            <div class="grid-item"><a href="/bloons">Bloons</a></div>
+            <div class="grid-item"><a href="/crossy">Crossy Road</a></div>
+            <div class="grid-item"><a href="/dirt">Dirt Racers</a></div>
+            <div class="grid-item"><a href="/mine">Minecraft 1.11.2</a></div>
+            <div class="grid-item"><a href="/ninja">Fruit Ninja</a></div>
+            <div class="grid-item"><a href="/panic">SpongeBob Patty Panic</a></div>
+            <div class="grid-item"><a href="/sb2">Super Brawl 2</a></div>
+            <div class="grid-item"><a href="/pizza">Papa's Pizzaria</a></div>
+            <div class="grid-item"><a href="/burger">Papa's Burgeria</a></div>
+            <div class="grid-item"><a href="/pvz">Plants vs Zombies</a></div>
+            <div class="grid-item"><a href="/rider">Snow Rider 3D</a></div>
+            <div class="grid-item"><a href="/2048">2048</a></div>
+            <div class="grid-item"><a href="/chess">Chess</a></div>
+            <div class="grid-item"><a href="/subway">Subway Surfers</a></div>
+            <div class="grid-item"><a href="/ovo">ovo</a></div>
+            <div class="grid-item"><a href="/there-is-no-game">There is no game</a></div>
+            <div class="grid-item"><a href="/breakout">Breakout</a></div>
+            <div class="grid-item"><a href="/flappybird">Flappy Bird</a></div>
+            <div class="grid-item"><a href="/idle-breakout">Idle Breakout</a></div>
+            <div class="grid-item"><a href="/moto-x3m-2">Motox3m 2</a></div>
+            <div class="grid-item"><a href="/moto-x3m-pool-party">Motox3m Pool Party</a></div>
+            <div class="grid-item"><a href="/motox3m-spooky">Motox3m Spooky</a></div>
+            <div class="grid-item"><a href="/motox3m">Motox3m</a></div>
+            <div class="grid-item"><a href="/sandboxels">Sandboxels</a></div>
+            <div class="grid-item"><a href="/tetris">Tetris</a></div>
+            <div class="grid-item"><a href="/the-impossible-quiz">The Impossible Quiz</a></div>
+            <div class="grid-item"><a href="/the-impossible-quiz-2">The Impossible Quiz 2</a></div>
+            <div class="grid-item"><a href="/thisistheonlylevel">This Is The Only Level</a></div>
+            <div class="grid-item"><a href="/worlds-hardest-game">Worlds Hardest Game</a></div>
+            <div class="grid-item"><a href="/worlds-hardest-game-2">Worlds Hardest Game 2</a></div>
+            <div class="grid-item"><a href="/DogeMiner">Doge Miner</a></div>
+            <div class="grid-item"><a href="/baldis-basics">Baldi's Basics</a></div>
+            <div class="grid-item"><a href="/bitlife">Bitlife</a></div>
+            <div class="grid-item"><a href="/ducklife">Duck life</a></div>
+            <div class="grid-item"><a href="/ducklife2">Duck life 2</a></div>
+            <div class="grid-item"><a href="/ducklife3">Duck life 3</a></div>
+            <div class="grid-item"><a href="/ducklife4">Duck life 4</a></div> 
+            <div class="grid-item"><a href="/duck-life-treasurehunt">Duck life 5 Treasure Hunt</a></div> 
+            <div class="grid-item"><a href="/fist">Spongebob Fiery Tracks Of Fury</a></div>
+            <div class="grid-item"><a href="/candy">Candy Clicker</a></div>
+            <div class="grid-item"><a href="/sm64">Super Mario 64</a></div>
+            <div class="grid-item"><a href="/fnaf">FNAF</a></div>
+            <div class="grid-item"><a href="/hackertype">Hacker Type</a></div>
+            <div class="grid-item"><a href="/rooftopsnipers">Rooftop snipers</a></div>
+            <div class="grid-item"><a href="/rooftopsnipers2">Rooftop snipers 2</a></div>
+            <div class="grid-item"><a href="/short-life-2">Short life 2 </a></div>
+            <div class="grid-item"><a href="/run">Run</a></div>
+            <div class="grid-item"><a href="/run2">Run 2</a></div>
+            <div class="grid-item"><a href="/stickman-dismount">Stickman Dismount</a></div>
+            <div class="grid-item"><a href="/retro-bowl">Retro Bowl</a></div>
+            <div class="grid-item"><a href="/surf">Microsoft surf</a></div>          
+            <div class="grid-item"><a href="/Cookie-Clicker-Classic-main">Cookie Clicker Classic</a></div>
+            <div class="grid-item"><a href="/ssf">Super Smash Flash</a></div>
+            <div class="grid-item"><a href="/splash">Gumball Splash Master</a></div>
+                <div class="grid-item"><a href="/adofai">A Dance Of Fire And Ice</a></div>
+                <div class="grid-item"><a href="/backflip-dive-3d">Backflip Dive 3d</a></div>
+                <div class="grid-item"><a href="/badtimesimulator">Bad Time Simulator</a></div>
+                <div class="grid-item"><a href="/basketball-stars">Basketball Stars</a></div>
+                <div class="grid-item"><a href="/binding-of-isaac">Binding Of Isaac</a></div>
+                <div class="grid-item"><a href="/breaklock">Breaklock</a></div>
+                <div class="grid-item"><a href="/dino">Chrome Dino</a></div>
+                <div class="grid-item"><a href="/cluster-rush">Cluster Rush</a></div>
+                <div class="grid-item"><a href="/drift-boss">Drift Boss</a></div>
+                <div class="grid-item"><a href="/drifthunters">Drift Hunters</a></div>
+                <div class="grid-item"><a href="/fancypantsadventures">Fancy Pants Adventures</a></div>
+                <div class="grid-item"><a href="/fancypantsadventures2">Fancy Pants Adventures 2</a></div>
+                <div class="grid-item"><a href="/fireboywatergirl">Fireboy and Watergirl</a></div>
+                <div class="grid-item"><a href="/fireboywatergirl2">Fireboy and Watergirl 2</a></div>
+                <div class="grid-item"><a href="/fireboywatergirl3">Fireboy and Watergirl 3</a></div>
+                <div class="grid-item"><a href="/fireboywatergirl4">Fireboy and Watergirl 4</a></div>
+                <div class="grid-item"><a href="/free-rider-2">Free Rider 2</a></div>
+                <div class="grid-item"><a href="/gunmayhem">Gun Mayhem</a></div>
+                <div class="grid-item"><a href="/gunmayhem2">Gun Mayhem 2</a></div>
+                <div class="grid-item"><a href="/happywheels">Happy Wheels</a></div>
+                <div class="grid-item"><a href="/helixjump">Helix Jump</a></div>
+                <div class="grid-item"><a href="/learntofly">learn To Fly</a></div>
+                <div class="grid-item"><a href="/learntofly2">learn To Fly 2</a></div>
+                <div class="grid-item"><a href="/linerider">line rider</a></div>
+                <div class="grid-item"><a href="/pizza-tower">Pizza Tower</a></div>
+                <div class="grid-item"><a href="/redball3">Red Ball 3</a></div>
+                <div class="grid-item"><a href="/redball4">Red Ball 4</a></div>
+                <div class="grid-item"><a href="/rocketleague">Rocket Soccer Derby</a></div>
+                <div class="grid-item"><a href="/slope2">Slope 2</a></div>
+                <div class="grid-item"><a href="/slope3">Slope 3</a></div>
+                <div class="grid-item"><a href="/stickman-hook">Stickman Hook</a></div>
+                <div class="grid-item"><a href="/supermeatboy">Super Meat Boy</a></div>
+                <div class="grid-item"><a href="/vex">Vex</a></div>
+                <div class="grid-item"><a href="/vex2">Vex 2</a></div>
+                <div class="grid-item"><a href="/vex3">Vex 3</a></div>
+                <div class="grid-item"><a href="/vex4">Vex 4</a></div>
+                <div class="grid-item"><a href="/vex5">Vex 5</a></div>
+                <div class="grid-item"><a href="/vex6">Vex 6</a></div>
+                <div class="grid-item"><a href="/vex7">Vex 7</a></div>    
+            <div class="grid-item"><a href="/10-minutes-till-dawn">10 Minutes Till Dawn</a></div>
+                <div class="grid-item"><a href="/amazing-rope-police">Amazing Rope Police</a></div>
+                <div class="grid-item"><a href="/astray">Astray</a></div>
+                <div class="grid-item"><a href="/death-run-3d">Death Run 3D</a></div>
+                <div class="grid-item"><a href="/doodlejump">Doodle Jump</a></div>
+                <div class="grid-item"><a href="/factory-balls-forever">Factory Balls Forever</a></div>
+                <div class="grid-item"><a href="/factoryballs">Factory Balls</a></div>
+                <div class="grid-item"><a href="/getaway-shootout">Getaway Shootout</a></div>
+                <div class="grid-item"><a href="/house-of-hazards">House Of Hazards</a></div>
+                <div class="grid-item"><a href="/jelly-truck">Jelly Truck</a></div>
+                <div class="grid-item"><a href="/knifehit">Knife Hit</a></div>
+                <div class="grid-item"><a href="/one-screen-run-2">One Screen Run 2</a></div>
+                <div class="grid-item"><a href="/one-screen-run">One Screen Run</a></div>
+                <div class="grid-item"><a href="/mad2">Mutilate A Doll 2</a></div>
+                <div class="grid-item"><a href="/wackn">Whack Your Neighbour</a></div>
+                <div class="grid-item"><a href="/wackyourex">Wack Your EX</a></div>
+                <div class="grid-item"><a href="/stack-bump-3d">Stack Bump 3d</a></div>
+                <div class="grid-item"><a href="/super-mario-maker-online">Super Mario Maker</a></div>
+                <div class="grid-item"><a href="/xx142-b2exe">xx142-b2exe</a></div>
+                <div class="grid-item"><a href="/sand-game">Sand Game</a></div>
             </div>
-            <footer>
+ <footer>
 <script async data-id="101481770" src="//static.getclicky.com/js"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101481770ns.gif" /></p></noscript>
-            <p>Made by Marcco And Jalen - 2025</p>
+            <p>Made by Marcco And Jalen (Normandy Highschool)- 2025</p>
         </footer>
-    </div>
+<script>
+function searchMods() {
+    const input = document.getElementById('searchBar').value.toLowerCase();
+    const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
+
+    gridItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        if (text.includes(input)) {
+            item.style.display = '';
+        } else {
+            item.style.display = 'none';
+        }
+    });
+}
+</script>
 </body>
 </html>
-
