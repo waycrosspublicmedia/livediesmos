@@ -1,0 +1,27 @@
+{
+	"storyName": "What? I wanna Win.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "fries",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Get Digging",
+			"fries",
+			[
+				207,
+				85,
+				84
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bfdia18"
+}

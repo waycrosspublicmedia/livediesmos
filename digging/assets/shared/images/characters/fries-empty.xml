@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fries-empty.png">
+<SubTexture name="idle0000" x="477" y="1062" width="500" height="503" frameX="-58" frameY="-52" frameWidth="857" frameHeight="563" />
+<SubTexture name="idle0001" x="977" y="1062" width="492" height="501" frameX="-64" frameY="-54" frameWidth="857" frameHeight="563" />
+<SubTexture name="idle0002" x="0" y="1062" width="477" height="510" frameX="-74" frameY="-45" frameWidth="857" frameHeight="563" />
+<SubTexture name="idle0003" x="1372" y="0" width="473" height="515" frameX="-75" frameY="-40" frameWidth="857" frameHeight="563" />
+<SubTexture name="idle0004" x="1372" y="515" width="470" height="514" frameX="-76" frameY="-40" frameWidth="857" frameHeight="563" />
+<SubTexture name="left0000" x="504" y="543" width="531" height="518" frameX="-6" frameY="-36" frameWidth="857" frameHeight="563" />
+<SubTexture name="left0001" x="0" y="543" width="504" height="519" frameX="-22" frameY="-36" frameWidth="857" frameHeight="563" />
+<SubTexture name="right0000" x="1002" y="0" width="370" height="521" frameX="-231" frameY="-43" frameWidth="857" frameHeight="563" />
+<SubTexture name="right0001" x="640" y="0" width="362" height="526" frameX="-235" frameY="-43" frameWidth="857" frameHeight="563" />
+<SubTexture name="up0000" x="0" y="0" width="320" height="543" frameX="-242" frameY="-11" frameWidth="857" frameHeight="563" />
+<SubTexture name="up0001" x="320" y="0" width="320" height="539" frameX="-241" frameY="-15" frameWidth="857" frameHeight="563" />
+<SubTexture name="down0000" x="0" y="1572" width="666" height="493" frameX="-190" frameY="-62" frameWidth="857" frameHeight="563" />
+<SubTexture name="down0001" x="1845" y="0" width="659" height="498" frameX="-195" frameY="-57" frameWidth="857" frameHeight="563" />
+</TextureAtlas>
