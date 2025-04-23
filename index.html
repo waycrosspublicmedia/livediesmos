@@ -513,7 +513,6 @@
 function searchMods() {
     const input = document.getElementById('searchBar').value.toLowerCase();
     const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
-
     gridItems.forEach(item => {
         const text = item.textContent.toLowerCase();
         if (text.includes(input)) {
@@ -523,31 +522,34 @@ function searchMods() {
         }
     });
 }
+</script>
 
 <script>
 window.addEventListener('DOMContentLoaded', () => {
-  const allItems = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
-  const sorted = allItems.sort((a, b) => {
-    const nameA = a.textContent.trim().toLowerCase();
-    const nameB = b.textContent.trim().toLowerCase();
-    return nameA.localeCompare(nameB);
-  });
+    const allItems = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
+    const sorted = allItems.sort((a, b) => {
+        const nameA = a.textContent.trim().toLowerCase();
+        const nameB = b.textContent.trim().toLowerCase();
+        return nameA.localeCompare(nameB);
+    });
 
-  sorted.forEach(item => item.parentElement.appendChild(item));
+    sorted.forEach(item => item.parentElement.appendChild(item));
 });
+</script>
+
 <script>
 window.addEventListener('load', function() {
-  let all1 = Array.from(document.querySelectorAll('.grid-item'))
-  let all2 = Array.from(document.querySelectorAll('.grid-item-new'))
-  all1.sort((a,b)=>a.textContent.toLowerCase().localeCompare(b.textContent.toLowerCase()))
-  all2.sort((a,b)=>a.textContent.toLowerCase().localeCompare(b.textContent.toLowerCase()))
-  let div1 = document.getElementById('grid-items-container')
-  let div2 = document.getElementById('grid-new-items-container')
-  if(!div1){div1=document.createElement('div');div1.id='grid-items-container';document.body.appendChild(div1)}
-  if(!div2){div2=document.createElement('div');div2.id='grid-new-items-container';document.body.appendChild(div2)}
-  for(let i=0;i<all1.length;i++){div1.appendChild(all1[i])}
-  for(let i=0;i<all2.length;i++){div2.appendChild(all2[i])}
-})
+    let all1 = Array.from(document.querySelectorAll('.grid-item'));
+    let all2 = Array.from(document.querySelectorAll('.grid-item-new'));
+    all1.sort((a, b) => a.textContent.toLowerCase().localeCompare(b.textContent.toLowerCase()));
+    all2.sort((a, b) => a.textContent.toLowerCase().localeCompare(b.textContent.toLowerCase()));
+    let div1 = document.getElementById('grid-items-container');
+    let div2 = document.getElementById('grid-new-items-container');
+    if (!div1) { div1 = document.createElement('div'); div1.id = 'grid-items-container'; document.body.appendChild(div1); }
+    if (!div2) { div2 = document.createElement('div'); div2.id = 'grid-new-items-container'; document.body.appendChild(div2); }
+    for (let i = 0; i < all1.length; i++) { div1.appendChild(all1[i]); }
+    for (let i = 0; i < all2.length; i++) { div2.appendChild(all2[i]); }
+});
 </script>
 </body>
 </html>
