@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet"> <!-- Link to Google Fonts -->
     <meta charset="UTF-8">
-    <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diesmos Games</title>
-    <style>        
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="./favicon.png">
+    <style>
         body {
             font-family: 'Poppins', sans-serif;
             background-color: #f0f0f0;
@@ -17,19 +17,11 @@
             background-size: 400% 400%;
             animation: gradientAnimation 15s ease infinite;
         }
-
         @keyframes gradientAnimation {
-            0% {
-                background-position: 0% 50%;
-            }
-            50% {
-                background-position: 100% 50%;
-            }
-            100% {
-                background-position: 0% 50%;
-            }
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
         }
-
         .container {
             width: 80%;
             margin: 50px auto;
@@ -38,7 +30,6 @@
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
         }
-
         h1 {
             text-align: center;
             color: #333;
@@ -46,50 +37,29 @@
             margin-bottom: 20px;
             text-shadow: 0 0 20px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 0, 255, 0.5);
         }
-
         nav {
             text-align: center;
             margin-bottom: 20px;
         }
-
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        nav li {
-            display: inline;
-            margin: 0 10px;
-        }
-
         nav a {
             text-decoration: none;
             color: #007BFF;
             font-weight: bold;
             font-size: 1.2em;
         }
-
         nav a:hover {
             text-decoration: underline;
             color: #0056b3;
         }
-
-        .content {
-            text-align: center;
-        }
-
-        .content p {
-            font-size: 1.2em;
-        }
-
+        .content { text-align: center; }
+        .content p { font-size: 1.2em; }
         .grid-container {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 20px;
             padding: 20px;
         }
-
-        .grid-item {
+        .grid-item, .grid-item-new {
             background: #007BFF;
             color: white;
             padding: 20px;
@@ -100,47 +70,23 @@
             position: relative;
             z-index: 1;
         }
-
         .grid-item-new {
             background: #00ccff;
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
-            box-shadow: 0 4px 8px rgba(0, 62, 255, 0.27);
-            position: relative;
-            z-index: 1;
         }
-
-        .grid-item:hover {
-            transform: translateY(-8px); 
+        .grid-item:hover, .grid-item-new:hover {
+            transform: translateY(-8px);
             background: #0056b3;
             box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
         }
-
-        .grid-item-new:hover {
-            transform: translateY(-8px); 
-            background: #00c8ff82;
-            box-shadow: 0 12px 24px rgba(0, 62, 255, 0.27);
-        }
-
-        .grid-item a {
+        .grid-item a, .grid-item-new a {
             color: white;
             text-decoration: none;
             font-weight: bold;
         }
-
-        .grid-item-new a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
         .video-preview {
             display: none;
             position: absolute;
-            top: -180px; 
+            top: -180px;
             left: 50%;
             transform: translateX(-50%);
             width: 100%;
@@ -148,84 +94,27 @@
             background: black;
             border-radius: 8px;
             overflow: hidden;
-            z-index: 10; 
+            z-index: 10;
             opacity: 0;
             transition: opacity 0.5s ease-in-out;
         }
-
-        .ranking-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px;
-            padding: 20px;
-            list-style: none;
-            text-align: center;
-        }
-
-        .ranking-item {
-            background: rgba(0, 0, 0, 0.8);
-            color: white;
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 1.2em;
-            position: relative;
-            cursor: pointer;
-            transition: transform 0.2s, background 0.3s;
-        }
-
-        .ranking-item:hover {
-            transform: scale(1.1);
-            background: rgba(0, 0, 0, 0.9);
-        }
-
-        .tooltip {
-            visibility: hidden;
-            background: rgba(0, 0, 0, 0.9);
-            color: white;
-            text-align: center;
-            padding: 5px;
-            border-radius: 5px;
-            position: absolute;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 180px;
-            font-size: 0.9em;
-            opacity: 0;
-            transition: opacity 0.3s;
-        }
-
-        .ranking-item:hover .tooltip {
-            visibility: visible;
-            opacity: 1;
-        }
-
-        .easter-egg {
-            display: none;
-            text-align: center;
-            padding: 20px;
-            margin-top: 20px;
-            background: rgba(0, 255, 127, 0.8);
-            border-radius: 10px;
-            animation: blink 1s infinite alternate;
-        }
-
-        @keyframes blink {
-            from { opacity: 0.7; }
-            to { opacity: 1; }
-        }
-
-        .grid-item:hover .video-preview {
+        .grid-item:hover .video-preview, .grid-item-new:hover .video-preview {
             display: block;
             opacity: 1;
         }
-
         video {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
-
+        #searchBar {
+            padding: 10px;
+            width: 80%;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            margin: 0 auto 20px;
+            display: block;
+        }
         footer {
             text-align: center;
             margin-top: 30px;
@@ -234,49 +123,34 @@
             padding: 10px;
             border-radius: 10px;
         }
-
+        p {
+            text-align: center;
+            margin-top: 30px;
+            color: #777;
+            transition: transform 0.3s, background-color 0.3s;
+            padding: 10px;
+            border-radius: 10px;
+        }
         footer:hover {
             transform: scale(1.05);
             background-color: #0056b3;
             color: white;
         }
-
-        #searchBar {
-            padding: 10px;
-            width: 80%;
-            border-radius: 10px;
-            border: 1px solid #ccc;
-            margin-bottom: 20px;
-            display: block;
-            margin: 0 auto 20px;
-        }
-    </style>
-</head>
-<body>
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Diesmos Games</h1>
         <nav>
-            <ul>
-            </ul>
+            <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search Games ... duh">
         </nav>
         <div class="content">
-            <p></p>
-            <p> some new games today and we working on the html more - Jalen</p>
+            <p>some new games today and we working on the html more - Jalen</p>
         </div>
-<div class="container">
-    <nav>
-        <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search Games ... duh">
-        <ul>
-        </ul>
-    </nav>
-           </div>
-
-        
-<div class="grid-container">
-<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie/">Papa louie</a></div>
+    </div>
+<p>234 Games</p><!-- This is the amount of germes we get it dont update on its own YET so when a new game is added update the count marcco . -->
+    <div class="grid-container" id="gamesGrid">
+       <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie/">Papa louie</a></div>
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie2/">Papa louie 2</a></div>
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie3/">Papa louie 3</a></div>
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/nitromemustdie/">Nitro Me Must Die</a></div>
@@ -510,53 +384,30 @@
 <div class="grid-item"><a href="player.html?game=zombocalypse">Zombocalypse</a></div>
 <div class="grid-item"><a href="https://chicken.diesmos.com/whatver/zombotron/">Zombotron</a></div>
 <div class="grid-item"><a href="https://chicken.diesmos.com/whatver/zombotron2/">Zombotron 2</a></div>
-            </div>
- <footer>
-<script async data-id="101481770" src="//static.getclicky.com/js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101481770ns.gif" /></p></noscript>
-            <p>Made by Jalen,Sprute,and Marcco 2025 (Normandy Highschool)- 2025</p>
-        </footer>
-<script>
-function searchMods() {
-    const input = document.getElementById('searchBar').value.toLowerCase();
-    const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
-    gridItems.forEach(item => {
-        const text = item.textContent.toLowerCase();
-        if (text.includes(input)) {
-            item.style.display = '';
-        } else {
-            item.style.display = 'none';
+    </div>
+
+    <footer>
+        <script async data-id="101481770" src="//static.getclicky.com/js"></script>
+        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101481770ns.gif" /></p></noscript>
+        <p>Made by Jalen, Sprute, and Marcco 2025 (Normandy Highschool) - 2025</p>
+    </footer>
+
+    <script>
+        function searchMods() {
+            const input = document.getElementById('searchBar').value.toLowerCase();
+            const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
+            gridItems.forEach(item => {
+                const text = item.textContent.toLowerCase();
+                item.style.display = text.includes(input) ? '' : 'none';
+            });
         }
-    });
-}
-</script>
 
-<script>
-window.addEventListener('DOMContentLoaded', () => {
-    const allItems = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
-    const sorted = allItems.sort((a, b) => {
-        const nameA = a.textContent.trim().toLowerCase();
-        const nameB = b.textContent.trim().toLowerCase();
-        return nameA.localeCompare(nameB);
-    });
-
-    sorted.forEach(item => item.parentElement.appendChild(item));
-});
-</script>
-
-<script>
-window.addEventListener('load', function() {
-    let all1 = Array.from(document.querySelectorAll('.grid-item'));
-    let all2 = Array.from(document.querySelectorAll('.grid-item-new'));
-    all1.sort((a, b) => a.textContent.toLowerCase().localeCompare(b.textContent.toLowerCase()));
-    all2.sort((a, b) => a.textContent.toLowerCase().localeCompare(b.textContent.toLowerCase()));
-    let div1 = document.getElementById('grid-items-container');
-    let div2 = document.getElementById('grid-new-items-container');
-    if (!div1) { div1 = document.createElement('div'); div1.id = 'grid-items-container'; document.body.appendChild(div1); }
-    if (!div2) { div2 = document.createElement('div'); div2.id = 'grid-new-items-container'; document.body.appendChild(div2); }
-    for (let i = 0; i < all1.length; i++) { div1.appendChild(all1[i]); }
-    for (let i = 0; i < all2.length; i++) { div2.appendChild(all2[i]); }
-});
-</script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('gamesGrid');
+            const items = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
+            items.sort((a, b) => a.textContent.trim().toLowerCase().localeCompare(b.textContent.trim().toLowerCase()));
+            items.forEach(item => container.appendChild(item));
+        });
+    </script>
 </body>
 </html>
