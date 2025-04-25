@@ -3,19 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diesmos Games</title>
+    <title>Desmos</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <style>
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: #f0f0f0;
+            background-color: #1e1e1e !important;
             margin: 0;
             padding: 0;
             cursor: url('ArrowCursor.png'), auto;
-            background-image: linear-gradient(45deg, #ff00cc, #3333ff, #66ff33, #ff9933);
-            background-size: 400% 400%;
-            animation: gradientAnimation 15s ease infinite;
         }
         @keyframes gradientAnimation {
             0% { background-position: 0% 50%; }
@@ -25,7 +22,7 @@
         .container {
             width: 80%;
             margin: 50px auto;
-            background: rgba(255, 255, 255, 0.8);
+            background: rgba(255, 255, 255, 1);
             padding: 20px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
@@ -35,7 +32,7 @@
             color: #333;
             font-size: 3.5em;
             margin-bottom: 20px;
-            text-shadow: 0 0 20px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 0, 255, 0.5);
+            text-shadow: 0 0 20px rgba(0, 0, 0, 0), 0 0 40px rgba(0, 0, 255, 0);
         }
         nav {
             text-align: center;
@@ -60,23 +57,23 @@
             padding: 20px;
         }
         .grid-item, .grid-item-new {
-            background: #007BFF;
+            background: #1e1e1e;
             color: white;
             padding: 20px;
             border-radius: 10px;
             text-align: center;
             transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
             position: relative;
             z-index: 1;
         }
         .grid-item-new {
-            background: #00ccff;
+            background: #636262;
         }
         .grid-item:hover, .grid-item-new:hover {
             transform: translateY(-8px);
-            background: #0056b3;
-            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+            background: #949494;
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0);
         }
         .grid-item a, .grid-item-new a {
             color: white;
@@ -111,7 +108,7 @@
             padding: 10px;
             width: 80%;
             border-radius: 10px;
-            border: 1px solid #ccc;
+            border: 5px solid #ccc;
             margin: 0 auto 20px;
             display: block;
         }
@@ -131,21 +128,17 @@
             padding: 10px;
             border-radius: 10px;
         }
-        footer:hover {
-            transform: scale(1.05);
-            background-color: #0056b3;
-            color: white;
-        }
+        
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Diesmos Games</h1>
         <nav>
-            <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search Games ... duh">
+            <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search...">
         </nav>
         <div class="content">
-            <p>some new games today and we working on the html more - Jalen</p>
+            <p>transitional period for the redesign, this is not permanent. enjoy the 'germes' - Marcco</p>
         </div>
     <p>234 Games</p><!-- This is the amount of germes we get it dont update on its own YET so when a new game is added update the count marcco . -->
     <div class="grid-container" id="gamesGrid">
@@ -388,7 +381,7 @@
     <footer>
         <script async data-id="101481770" src="//static.getclicky.com/js"></script>
         <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101481770ns.gif" /></p></noscript>
-        <p>Made by Jalen and Marcco 2025 (Normandy Highschool) - 2025</p>
+        <p>Made by Marcco and the Diesmos Team - 2025</p>
     </footer>
 
     <script>
