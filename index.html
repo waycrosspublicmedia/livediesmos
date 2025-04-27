@@ -7,6 +7,40 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <style>
+        .favorite-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 2em;
+    color: #ff4d4d;
+    transition: transform 0.2s ease-in-out;
+}
+.favorites-section {
+    padding: 30px 20px;
+    background: #222;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.favorites-section h2 {tl
+    color: #ffcc00; 
+    font-size: 2.5em;
+    text-align: center;
+}
+
+#favorites-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.favorite-icon.favorited {
+    color: #ffcc00; 
+    transform: scale(1.2); 
+}
+  
         body {
             font-family: 'Poppins', sans-serif;
             background-color: #1e1e1e !important;
@@ -403,6 +437,49 @@
             const items = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
             items.sort((a, b) => a.textContent.trim().toLowerCase().localeCompare(b.textContent.trim().toLowerCase()));
             items.forEach(item => container.appendChild(item));
+            }
+
+function toggleFavorite(icon, itemId) {
+    icon.classList.toggle('favorited');
+    let favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+    if (icon.classList.contains('favorited')) {
+        favoriteItems.push(itemId);
+    } else {
+        favoriteItems = favoriteItems.filter(id => id !== itemId);
+    }
+    localStorage.setItem('favorites', JSON.stringify(favoriteItems));
+}
+
+function updateFavoritesSection() {
+    const favoritesContainer = document.getElementById('favorites-container');
+    favoritesContainer.innerHTML = '';
+    const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+    const allItems = document.querySelectorAll('.grid-item, .grid-item-new');
+    allItems.forEach(item => {
+        const itemId = item.querySelector('a').href;
+        if (favoriteItems.includes(itemId)) {
+            const favoriteItemClone = item.cloneNode(true);
+            favoritesContainer.appendChild(favoriteItemClone);
+        }
+    });
+}
+
+window.onload = function () {
+    const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
+    const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+    gridItems.forEach(item => {
+        const itemId = item.querySelector('a').href;
+        const favoriteIcon = document.createElement('div');
+        favoriteIcon.classList.add('favorite-icon');
+        favoriteIcon.innerHTML = '❤️';
+        favoriteIcon.setAttribute('onclick', `toggleFavorite(this, '${itemId}')`);
+        item.appendChild(favoriteIcon);
+        if (favoriteItems.includes(itemId)) {
+            favoriteIcon.classList.add('favorited');
+        }
+    });
+    updateFavoritesSection();
+};
         });
     </script>
 </div>
