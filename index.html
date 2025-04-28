@@ -428,65 +428,69 @@
     </footer>
 
     <script>
-        function searchMods() {
-            const input = document.getElementById('searchBar').value.toLowerCase();
-            const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
-            gridItems.forEach(item => {
-                const text = item.textContent.toLowerCase();
-                item.style.display = text.includes(input) ? '' : 'none';
-            });
-        }
-
-        window.addEventListener('DOMContentLoaded', () => {
-            const container = document.getElementById('gamesGrid');
-            const items = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
-            items.sort((a, b) => a.textContent.trim().toLowerCase().localeCompare(b.textContent.trim().toLowerCase()));
-            items.forEach(item => container.appendChild(item));
-            }
-
-function toggleFavorite(icon, itemId) {
-    icon.classList.toggle('favorited');
-    let favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
-    if (icon.classList.contains('favorited')) {
-        favoriteItems.push(itemId);
-    } else {
-        favoriteItems = favoriteItems.filter(id => id !== itemId);
-    }
-    localStorage.setItem('favorites', JSON.stringify(favoriteItems));
-}
-
-function updateFavoritesSection() {
+document.addEventListener('DOMContentLoaded', () => {
+    const searchBar = document.getElementById('searchBar');
+    const container = document.getElementById('gamesGrid');
     const favoritesContainer = document.getElementById('favorites-container');
-    favoritesContainer.innerHTML = '';
-    const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
-    const allItems = document.querySelectorAll('.grid-item, .grid-item-new');
-    allItems.forEach(item => {
-        const itemId = item.querySelector('a').href;
-        if (favoriteItems.includes(itemId)) {
-            const favoriteItemClone = item.cloneNode(true);
-            favoritesContainer.appendChild(favoriteItemClone);
-        }
-    });
-}
+    const items = Array.from(document.querySelectorAll('.grid-item, .grid-item-new'));
 
-window.onload = function () {
-    const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
+    function searchMods() {
+        const input = searchBar.value.toLowerCase();
+        items.forEach(item => {
+            const text = item.textContent.toLowerCase();
+            item.style.display = text.includes(input) ? '' : 'none';
+        });
+    }
+
+    function toggleFavorite(icon, itemId) {
+        icon.classList.toggle('favorited');
+        let favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+        if (icon.classList.contains('favorited')) {
+            if (!favoriteItems.includes(itemId)) favoriteItems.push(itemId);
+        } else {
+            favoriteItems = favoriteItems.filter(id => id !== itemId);
+        }
+        localStorage.setItem('favorites', JSON.stringify(favoriteItems));
+        updateFavoritesSection();
+    }
+
+    function updateFavoritesSection() {
+        favoritesContainer.innerHTML = '';
+        const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+        items.forEach(item => {
+            const itemId = item.querySelector('a').href;
+            if (favoriteItems.includes(itemId)) {
+                const clone = item.cloneNode(true);
+                favoritesContainer.appendChild(clone);
+            }
+        });
+    }
+
+    // Sort items alphabetically
+    items.sort((a, b) => a.textContent.trim().toLowerCase().localeCompare(b.textContent.trim().toLowerCase()));
+    items.forEach(item => container.appendChild(item));
+
+    // Add favorite icons
     const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
-    gridItems.forEach(item => {
+    items.forEach(item => {
         const itemId = item.querySelector('a').href;
         const favoriteIcon = document.createElement('div');
         favoriteIcon.classList.add('favorite-icon');
         favoriteIcon.innerHTML = '❤️';
-        favoriteIcon.setAttribute('onclick', `toggleFavorite(this, '${itemId}')`);
+        favoriteIcon.onclick = () => toggleFavorite(favoriteIcon, itemId);
         item.appendChild(favoriteIcon);
+
         if (favoriteItems.includes(itemId)) {
             favoriteIcon.classList.add('favorited');
         }
     });
+
+    // Search bar event
+    searchBar.addEventListener('input', searchMods);
+
     updateFavoritesSection();
-};
-        });
-    </script>
+});
+  </script>
 </div>
 </body>
 </html>
