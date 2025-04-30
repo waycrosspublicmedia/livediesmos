@@ -18,6 +18,47 @@
     transition: transform 0.2s ease-in-out, color 0.2s ease-in-out;
     user-select: none;
 }
+
+p.green, p.orange {
+  position: relative;
+  padding: 10px 30px 10px 10px;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+p.green {
+  color: white;
+  border: 2px solid grey;
+  background-color: #808080;
+}
+
+p.orange {
+  color: red;
+  border: 2px solid brown;
+  background-color: #8B0000;
+}
+
+p.green::after, p.orange::after {
+  content: "";
+  background-size: 50px 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  top: -20px;
+  right: -10px;
+  width: 50px;
+  height: 50px;
+}
+
+p.green::after {
+  background-image: url('https://chicken.diesmos.com/whatver/websiteicons/marcco.png');
+}
+
+p.orange::after {
+  background-image: url('https://chicken.diesmos.com/whatver/websiteicons/jay.png');
+}
+
+
 .favorite-icon.favorited {
     color: #ffcc00;
     transform: scale(1.2);
@@ -208,10 +249,13 @@ footer, p {
         <nav>
             <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search...">
         </nav>
-        <div class="content">
-            <p>yessss more games back to back this is soooo sick -jalen</p>
-        </div>
-    <p>257 Games</p><!-- This is the amount of germes we got it dont update on its own YET so when a new game is added update the count marcco . -->
+            <div class="container">
+<p>Dev Note</p>
+<p class="orange">enjoy the new games -Jalen
+</p>
+<!-- <p class="green">enjoy the new games -Marcco</p> -->
+  <div class="content">
+    <p>264 Games</p><!-- This is the amount of germes we got it dont update on its own YET so when a new game is added update the count marcco . -->
     <div class="grid-container" id="gamesGrid">
        <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie/">Papa louie</a></div>
 <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie2/">Papa louie 2</a></div>
@@ -241,6 +285,13 @@ footer, p {
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/pakohighway/">Pako Highway</a></div>    
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/superherodrop/">Super Hero Drop</a></div>    
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/waterworks/">Water Works</a></div>     
+            <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/chime/">Chime Clicker</a></div>
+<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/60sburgerrun/">60s Burger Run</a></div>
+<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/ayun/">Ayun</a></div> 
+<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/fancypantsadventuresremix/">Fancy Pants World 1 Remix </a></div>    
+<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/granny/">Granny</a></div>    
+<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/idle-dice/">Idle Dice</a></div>    
+<div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/tunnelrush/">Tunnel Rush</a></div>     
 <div class="grid-item"><a href="player.html?game=10-minutes-till-dawn">10 Minutes Till Dawn</a></div>
 <div class="grid-item"><a href="player.html?game=2048">2048</a></div>
 <div class="grid-item"><a href="player.html?game=2drocketleague">2d rocket league</a></div>
