@@ -255,7 +255,7 @@ footer, p {
 <p class="orange">Cooking with more games -Jalen
 </p>
 <!-- <p class="green">enjoy the new games -Marcco</p> -->
-    <p>264 Games</p><!-- This is the amount of germes we got it dont update on its own YET so when a new game is added update the count marcco . -->
+ <div id="gameCount">Games</div>
   </div>
     <div class="grid-container" id="gamesGrid">
        <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie/">Papa louie</a></div>
@@ -302,6 +302,12 @@ footer, p {
 <div class="grid-item-new"><a href="https://chicken.diesmos.com/whatver/chisel/">Chisel</a></div>
 <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/chisel2/">Chisel 2</a></div>
         <div class="grid-item-new"><a href="https://chicken.diesmos.com/whatver/coin/">ABCya! Coin</a></div>
+        <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/burgerandfrights/">Burger And Frights</a></div>
+        <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/commodoreclicker/">Commodore Clicker</a></div>
+        <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/crash/">Crash Bandicoot: The Wrath of Cortex</a></div>
+        <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/gdlite/">Geometry Dash lite (Fake)</a></div>
+        <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/geometrydash/">Geometry Dash (Fake)</a></div>
+        <div class="grid-item-new"><a href="player.html?game=https://chicken.diesmos.com/whatver/geometryrash/">Geometry Rash</a></div>
 <div class="grid-item"><a href="player.html?game=10-minutes-till-dawn">10 Minutes Till Dawn</a></div>
 <div class="grid-item"><a href="player.html?game=2048">2048</a></div>
 <div class="grid-item"><a href="player.html?game=2drocketleague">2d rocket league</a></div>
@@ -598,9 +604,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Search bar event
     searchBar.addEventListener('input', searchMods);
 
+    // Game count display
+    const count = items.length;
+    document.getElementById('gameCount').textContent = `Total games: ${count}`;
+
     updateFavoritesSection();
 });
-  </script>
+</script>
 </div>
 </body>
 </html>
