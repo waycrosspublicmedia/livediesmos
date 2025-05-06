@@ -1,13 +1,12 @@
-<!DOCTYPE html><!-- good job marcco i rock with the redisign good job. -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desmos</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" type="image/png" href="./favicon.png">
-    <style>
-
+  <meta charset="UTF-8">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Diesmos Games">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diesmos Games</title>
+  <style>
 .favorite-icon {
     position: absolute;
     top: 10px;
@@ -87,31 +86,8 @@ p.orange::after {
 }
 
 
-body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #1e1e1e !important;
-    margin: 0;
-    padding: 0;
-    cursor: url('ArrowCursor.png'), auto;
-}
-
-.container {
-    width: 80%;
-    margin: 50px auto;
-    background: rgba(255, 255, 255, 1);
-    padding: 20px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-}
 
 
-h1 {
-    text-align: center;
-    color: #333;
-    font-size: 3.5em;
-    margin-bottom: 20px;
-    text-shadow: 0 0 20px rgba(0, 0, 0, 0), 0 0 40px rgba(0, 0, 255, 0);
-}
 .favorites-section h2 {
     text-align: center;
 }
@@ -133,6 +109,12 @@ nav a:hover {
     text-decoration: underline;
     color: #0056b3;
 }
+ #gameCount {
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            text-align: center;      
+        }
 
 
 .content {
@@ -217,48 +199,182 @@ video {
     margin: 0 auto 20px;
     display: block;
 }
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #121212;
+      color: #ccc;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
 
+    header {
+      background-color: #000;
+      padding: 1em;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    }
 
-footer, p {
-    text-align: center;
-    margin-top: 30px;
-    color: #777;
-    transition: transform 0.3s, background-color 0.3s;
-    padding: 10px;
-    border-radius: 10px;
-}
+    header h1 {
+      margin: 0;
+      color: #00eaff;
+      font-weight: bold;
+      font-size: 2em;
+    }
 
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 1em 0 0;
+      display: flex;
+      justify-content: center;
+      gap: 2em;
+    }
 
-@keyframes gradientAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
+    nav a {
+      color: #aaa;
+      text-decoration: none;
+      font-weight: bold;
+    }
 
-    </style>
+    nav a:hover {
+      color: #00eaff;
+    }
+
+    .container {
+      display: flex;
+      flex: 1;
+    }
+
+    .sidebar {
+      width: 220px;
+      background-color: #1e1e1e;
+      padding: 1em;
+      box-shadow: inset -1px 0 0 #333;
+    }
+
+    .sidebar h3 {
+      margin-top: 0;
+    }
+
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .sidebar li {
+      margin: 0.5em 0;
+    }
+
+    .sidebar a {
+      text-decoration: none;
+      color: #aaa;
+    }
+
+    .sidebar a:hover {
+      text-decoration: underline;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 1em 2em;
+    }
+
+    .intro {
+      text-align: center;
+      background-color: #1f1f1f;
+      color: #ccc;
+      padding: 1em;
+      margin-bottom: 1em;
+      border-radius: 8px;
+    }
+
+    .game-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1em;
+    }
+
+    .game-card {
+      background-color: #000;
+      border-radius: 10px;
+      overflow: hidden;
+      padding: 0.5em;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .game-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+    }
+
+    .game-card img {
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+    }
+
+    .game-card h3 {
+      color: #ccc;
+      font-size: 1.1em;
+      margin: 0.5em 0 0;
+    }
+
+    footer {
+      background-color: #000;
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
-    <div class="favorites-section">
-        <p>click the ❤️ on the game and it will go here</p>
-    <h2>Favorites</h2>
-    <div id="favorites-container" class="grid-container">
+  <header>
+    <h1>Diesmos Games</h1>
+    <nav>
+      <ul>
+        <li><a href="https://maths.diesmos.com/main.html">Friday Night Funkin</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    </div>
-    <div class="container">
-        <h1>Diesmos Games</h1>
+  <div class="container">
+    <aside class="sidebar">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <section class="intro">
+        <h2>I hope you have a good day</h2>
+<p>Dev Note</p>
+<p class="orange">welcome back to the website! oh and i made some updates while you was gone -jalen
+</p>
+<!-- <p class="green">enjoy the new games -Marcco</p> -->
         <nav>
             <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search...">
         </nav>
-        
-            <div class="container">
-<p>Dev Note</p>
-<p class="orange">i hope everyone had a nice weekend but now lets play some games ! -jalen
-</p>
-<!-- <p class="green">enjoy the new games -Marcco</p> -->
+ <div class="favorites-section">
+        <p>click the ❤️ on the game and it will go here</p>
+    <h2>Favorites</h2>
+    <div id="favorites-container" class="grid-container">
+</div>
+</div>
+</section>
  <div id="gameCount">Games</div>
-  </div>
-    <div class="grid-container" id="gamesGrid">
-       <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie/">Papa louie</a></div>
+<section>
+<div class="grid-container" id="gamesGrid">
+<div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie/">Papa louie</a></div>
 <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie2/">Papa louie 2</a></div>
 <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/papalouie3/">Papa louie 3</a></div>
 <div class="grid-item"><a href="player.html?game=https://chicken.diesmos.com/whatver/nitromemustdie/">Nitro Me Must Die</a></div>
@@ -545,14 +661,9 @@ footer, p {
 <div class="grid-item"><a href="player.html?game=zombocalypse">Zombocalypse</a></div>
 <div class="grid-item"><a href="https://chicken.diesmos.com/whatver/zombotron/">Zombotron</a></div>
 <div class="grid-item"><a href="https://chicken.diesmos.com/whatver/zombotron2/">Zombotron 2</a></div>
-    </div>
-
-    <footer>
-        <script async data-id="101481770" src="//static.getclicky.com/js"></script>
-        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101481770ns.gif" /></p></noscript>
-        <p>Made by Marcco and Jalen - 2025</p>
-    </footer>
-
+      </section>
+    </main>
+  </div>
     <script>
 document.addEventListener('DOMContentLoaded', () => {
     const searchBar = document.getElementById('searchBar');
@@ -620,7 +731,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     updateFavoritesSection();
 });
+
 </script>
-</div>
+  <footer>
+ <script async data-id="101481770" src="//static.getclicky.com/js"></script>
+        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101481770ns.gif" /></p></noscript>
+    <p>&copy; 2025 Marcco And Jalen. All rights reserved.</p>
+  </footer>
+
 </body>
 </html>
