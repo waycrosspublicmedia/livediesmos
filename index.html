@@ -336,8 +336,6 @@ video {
   <header>
     <h1>Diesmos Games</h1>
     <nav>
-      <ul>
-      </ul>
     </nav>
   </header>
 
@@ -359,9 +357,9 @@ video {
 
     <main class="main-content">
       <section class="intro">
-        <h2>I hope you have a good day</h2>
+  <div id="greeting" class="greeting"></div>
 <p>Dev Note</p>
-<p class="orange">OMGGGGGGG 500 Games AHHHHHH yes sir have fun its a little less foggy this morning dont ya think ... no ? "Sigh" -Jalen
+<p class="orange">YAY HAPPY 1000 VISITTTSSS i added more too i hope you like it -Jalen
 </p>
 <!-- <p class="green">enjoy the new games -Marcco</p> -->
         <nav>
@@ -890,6 +888,290 @@ video {
 <div class="grid-item"><a href="https://chicken.diesmos.com/whatver/zombotron/">Zombotron</a></div>
 <div class="grid-item"><a href="https://chicken.diesmos.com/whatver/zombotron2/">Zombotron 2</a></div>
       </section>
+<ul>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.3s ease, color 0.3s ease, filter 0.3s ease;
+    }
+
+    /* Settings container at the top */
+    .settings-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      z-index: 100;
+    }
+
+    .settings-container select,
+    .settings-container input[type="color"],
+    .settings-container input[type="range"],
+    .settings-container input[type="file"],
+    .settings-container button {
+      background: #444;
+      border: none;
+      color: white;
+      padding: 8px;
+      margin: 5px;
+      border-radius: 5px;
+    }
+
+    .settings-container label {
+      color: white;
+    }
+
+    .input-group {
+      margin-bottom: 10px;
+    }
+
+    .container {
+      padding: 20px;
+      margin-top: 100px; /* Make room for the settings menu */
+    }
+
+    #reset-button {
+      background-color: #ff4e4e;
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      border-radius: 5px;
+      width: 100%;
+      margin-top: 10px;
+    }
+
+    #reset-button:hover {
+      background-color: #ff1f1f;
+    }
+
+    /* Settings button */
+    .settings-icon {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      font-size: 24px;
+      z-index: 200;
+    }
+
+    /* Settings Menu (Initially Hidden, Toggleable) */
+    .settings-menu {
+      display: none;
+      position: fixed;
+      top: 60px;
+      left: 10px;
+      width: 280px;
+      background-color: #444;
+      color: white;
+      padding: 15px;
+      z-index: 100;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      border-radius: 8px;
+      max-height: 90%;
+      overflow-y: auto;
+    }
+
+    .settings-menu.open {
+      display: block;
+    }
+
+    .settings-menu .input-group {
+      margin-bottom: 10px;
+    }
+
+    .settings-menu .input-group label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .settings-menu .input-group input {
+      width: 100%;
+    }
+
+    .settings-menu button {
+      background-color: #007bff;
+      padding: 10px;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      width: 100%;
+      cursor: pointer;
+    }
+
+    .settings-menu button:hover {
+      background-color: #0056b3;
+    }
+
+    .settings-menu label {
+      color: white;
+    }
+
+    /* Greeting Style */
+    .greeting {
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+  </style>
+
+  <div class="settings-icon" onclick="toggleSettingsMenu()">
+    ⚙️
+  </div>
+
+  <!-- Greeting -->
+
+  <!-- Settings Menu (Initially Hidden, Toggleable) -->
+  <div class="settings-menu" id="settings-menu">
+    <div class="input-group">
+      <label for="theme-select">Choose a Theme:</label>
+      <select id="theme-select" onchange="applyTheme(this.value)">
+        <option value="dark">Dark Mode</option>
+        <option value="light">Light Mode</option>
+        <option value="custom">Custom</option>
+      </select>
+    </div>
+
+    <div class="input-group">
+      <label for="bg-color">Background Color</label>
+      <input type="color" id="bg-color">
+    </div>
+
+    <div class="input-group">
+      <label for="text-color">Text Color</label>
+      <input type="color" id="text-color">
+    </div>
+
+     <div class="input-group">
+      <label for="bg-upload">Upload Background Image</label>
+      <input type="file" id="bg-upload" accept="image/*" onchange="handleBackgroundImageUpload(event)">
+    </div>
+
+
+    <div class="input-group">
+      <label for="bg-blur">Background Blur</label>
+      <input type="range" id="bg-blur" min="0" max="20" step="1">
+    </div>
+
+    <div class="input-group">
+      <label for="bg-brightness">Brightness</label>
+      <input type="range" id="bg-brightness" min="50" max="150" step="1">
+    </div>
+
+    <div class="input-group">
+      <label for="bg-contrast">Contrast</label>
+      <input type="range" id="bg-contrast" min="50" max="200" step="1">
+    </div>
+
+    <div class="input-group">
+      <label for="bg-grayscale">Grayscale</label>
+      <input type="range" id="bg-grayscale" min="0" max="100" step="1">
+    </div>
+
+    <div class="input-group">
+      <button id="reset-button">Reset</button>
+    </div>
+  </div>
+
+  <script>
+    // Function to update the greeting based on the time of day
+    function updateGreeting() {
+      const hour = new Date().getHours();
+      let greeting = 'Have a good day!';
+      if (hour < 12) greeting = 'Good morning!';
+      else if (hour < 18) greeting = 'Good afternoon!';
+      else greeting = 'Good evening!';
+      document.getElementById('greeting').textContent = greeting;
+    }
+
+    function toggleSettingsMenu() {
+      const menu = document.getElementById('settings-menu');
+      menu.classList.toggle('open');
+    }
+
+    function applyTheme(mode) {
+      const styleTag = document.createElement('style');
+      document.head.appendChild(styleTag);
+
+      let styles = '';
+      switch (mode) {
+        case 'light':
+          styles = `body { background: #f0f0f0; color: #111; }`;
+          break;
+        case 'dark':
+          styles = `body { background: #121212; color: #ffffff; }`;
+          break;
+        case 'custom':
+          const bg = document.getElementById('bg-color').value;
+          const text = document.getElementById('text-color').value;
+          const blur = document.getElementById('bg-blur').value;
+          const brightness = document.getElementById('bg-brightness').value;
+          const contrast = document.getElementById('bg-contrast').value;
+          const grayscale = document.getElementById('bg-grayscale').value;
+          const bgImage = document.getElementById('bg-upload').files[0];
+
+          let bgImageUrl = '';
+          if (bgImage) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+              bgImageUrl = e.target.result;
+              applyCustomTheme(bg, text, blur, brightness, contrast, grayscale, bgImageUrl);
+            };
+            reader.readAsDataURL(bgImage);
+          } else {
+            applyCustomTheme(bg, text, blur, brightness, contrast, grayscale, bgImageUrl);
+          }
+          return; // Prevent the function from doing further work before background image is loaded
+      }
+
+      styleTag.innerHTML = styles;
+    }
+
+    function applyCustomTheme(bg, text, blur, brightness, contrast, grayscale, bgImageUrl) {
+      const styleTag = document.createElement('style');
+      document.head.appendChild(styleTag);
+
+      let bgImageStyle = bgImageUrl ? `background-image: url('${bgImageUrl}');` : '';
+      let styles = `
+        body {
+          background-color: ${bg};
+          color: ${text};
+          filter: blur(${blur}px) brightness(${brightness}%) contrast(${contrast}%) grayscale(${grayscale}%);
+          ${bgImageStyle}
+        }
+      `;
+      styleTag.innerHTML = styles;
+    }
+
+    function resetTheme() {
+      document.getElementById('theme-select').value = 'dark';
+      document.getElementById('bg-color').value = '#121212';
+  document.getElementById('text-color').value = '#ffffff';
+  document.getElementById('bg-blur').value = 0;
+  document.getElementById('bg-brightness').value = 100;
+  document.getElementById('bg-contrast').value = 100;
+  document.getElementById('bg-grayscale').value = 0;
+  document.getElementById('bg-upload').value = '';
+  applyTheme('dark');
+}
+
+// Call updateGreeting when page loads
+window.onload = function() {
+  updateGreeting();
+  document.getElementById('reset-button').addEventListener('click', resetTheme);
+};
+</script> </ul>
+
+
     </main>
   </div>
     <script>
