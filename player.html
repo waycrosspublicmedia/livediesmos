@@ -14,6 +14,11 @@ body {
             padding: 0;
             cursor: url('ArrowCursor.png'), auto;
         }
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
 
         @keyframes gradientAnimation {
             0% {
@@ -299,12 +304,18 @@ body {
             position: relative;
             cursor: pointer;
             transition: transform 0.2s, background 0.3s;
-        }
+        
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
     </style>
 </head>
 <body>
     <div id="iframe-container">
-        <iframe id="myIframe" src=""></iframe>
+        <iframe id="myIframe" src="" allowfullscreen allow="fullscreen"></iframe>
 
 <script>
     const params = new URLSearchParams(window.location.search);
@@ -320,16 +331,93 @@ body {
 </div>
 <div>
         <button id="fullscreenBtn">Fullscreen</button>
+    
+         <button id="exitFullscreenBtn">Exit Fullscreen</button>
     </div>
 
     <script>
-        document.getElementById('fullscreenBtn').addEventListener('click', function() {
-            var iframe = document.getElementById('myIframe');
-            if (iframe.requestFullscreen) {
-                iframe.requestFullscreen();
-             }
+        
+    document.getElementById('fullscreenBtn').addEventListener('click', function () {
+        const container = document.getElementById('iframe-container');
+        if (container.requestFullscreen) {
+            container.requestFullscreen();
+        } else if (container.webkitRequestFullscreen) {
+            container.webkitRequestFullscreen();
+        } else if (container.msRequestFullscreen) {
+            container.msRequestFullscreen();
+        }
+    });
+    
         });
     </script>
+
+<style>
+    #exitFullscreenBtn {
+        display: none;
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        z-index: 10000;
+        padding: 10px 20px;
+        background: rgba(255, 0, 0, 0.8);
+        color: white;
+        font-size: 1em;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+.simulate-fullscreen {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  z-index: 99999 !important;
+  background: black;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+</style>
+<script>
+    const iframe = document.getElementById('myIframe');
+    const container = document.getElementById('iframe-container');
+    const fsBtn = document.getElementById('fullscreenBtn');
+    const exitBtn = document.getElementById('exitFullscreenBtn');
+
+    let isSimulatedFullscreen = false;
+
+    fsBtn.addEventListener('click', () => {
+        container.classList.add('simulate-fullscreen');
+        exitBtn.style.display = 'block';
+        isSimulatedFullscreen = true;
+    });
+
+    exitBtn.addEventListener('click', () => {
+        container.classList.remove('simulate-fullscreen');
+        exitBtn.style.display = 'none';
+        isSimulatedFullscreen = false;
+    });
+
+    window.addEventListener('resize', () => {
+        if (!isSimulatedFullscreen) {
+            container.style.transition = 'all 0.5s ease';
+            container.style.width = window.innerWidth + 'px';
+            container.style.height = (window.innerWidth * 9 / 16) + 'px'; // 16:9 ratio
+        }
+    });
+
+    // Prevent ESC from exiting the simulated fullscreen
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && isSimulatedFullscreen) {
+            e.preventDefault();
+        }
+    });
+</script>
+
 </body>
 </div>
 </html>
