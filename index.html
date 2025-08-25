@@ -137,41 +137,70 @@ nav a:hover {
 }
 
 
-.grid-item, .grid-item-new {
-    background: #1e1e1e;
-    color: white;
-    padding: 20px;
-    border-radius: 10px;
-    text-align: center;
-    transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
-    position: relative;
-    z-index: 1;
+.grid-item {
+  background: #1e1e1e;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+  position: relative;
+  z-index: 1;
 }
 
 .grid-item-new {
-    background: #636262;
+  background: #636262;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+  position: relative;
+  z-index: 1;
 }
 
-.grid-item:hover, .grid-item-new:hover {
-    transform: translateY(-8px);
-    background: #949494;
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0);
+.grid-item:hover {
+  transform: translateY(-8px);
+  background: #949494;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0);
 }
 
-.grid-item-new, .grid-item img {
+.grid-item-new:hover {
+  transform: translateY(-8px);
+  background: #949494;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0);
+}
+
+.grid-item img {
   width: 100%;
-  aspect-ratio: 1 / 1; /* makes it square */
-  object-fit: cover;
+  aspect-ratio: 1 / 1; /* Force square shape */
+  object-fit: cover;   /* Crops the image proportionally */
   border-radius: 10px;
   margin-bottom: 10px;
-  display: block; 
+  display: block;
 }
 
-.grid-item a, .grid-item-new a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
+.grid-item-new img {
+  width: 100%;
+  aspect-ratio: 1 / 1; /* Force square shape */
+  object-fit: cover;   /* Crops the image proportionally */
+  border-radius: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.grid-item a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.grid-item-new a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 
@@ -803,7 +832,7 @@ video {
 <div class="grid-item"><img alt="Breaklock" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/breaklock.jpg"/><a href="player.html?game=breaklock">Breaklock</a></div>
 <div class="grid-item"><img alt="Breakout" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/breakout.jpg"/><a href="player.html?game=breakout">Breakout</a></div>
 <div class="grid-item"><img alt="Candy Clicker By Jalen" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/candy.jpg"/><a href="player.html?game=candy">Candy Clicker By Jalen</a></div>
-    <div class="grid-item"><img alt="FNF: GUMMIBAR!" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/gummi.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/fnf/gummi/">FNF: GUMMIBAR!</a></div>
+    <div class="grid-item-new"><img alt="FNF: GUMMIBAR!" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/gummi.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/fnf/gummi/">FNF: GUMMIBAR!</a></div>
 <div class="grid-item"><img alt="Champion Island" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/championisland.jpg"/><a href="player.html?game=championisland">Champion Island</a></div>
 <div class="grid-item"><img alt="Chess" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/chess.jpg"/><a href="player.html?game=chess">Chess</a></div>
 <div class="grid-item"><img alt="Choose Your Weapon" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/chooseyourweapon.jpg"/><a href="https://chicken.yoylefake.org/whatver/chooseyourweapon/">Choose Your Weapon</a></div>
