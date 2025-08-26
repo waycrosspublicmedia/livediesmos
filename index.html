@@ -74,6 +74,33 @@ p.orange::after {
     border-radius: 10px;
     margin-top: 40px;
 }
+#sectionSwitcher {
+  text-align: center;
+  margin: 10px 0 20px 0;
+}
+
+.switch-btn {
+  background-color: #1e1e1e;
+  color: #00eaff;
+  border: 2px solid #00eaff;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin: 0 5px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, transform 0.2s;
+}
+
+.switch-btn:hover {
+  background-color: #00eaff;
+  color: #1e1e1e;
+  transform: translateY(-3px);
+}
+
+.switch-btn:active {
+  transform: translateY(0);
+}
 
 .favorites-section h2 {
     color: #ffcc00;
@@ -398,8 +425,8 @@ video {
 <section class="intro">
 <div class="greeting" id="greeting"></div>
 <p>Dev Note</p>
-<!-- <p class="green">absolutely pissed, but we're back up! fullscreen is not working after the server push, so that's broken for now.. thanq for the support - Marcco</p> -->
-<p class="orange">small update - Jalen </p>
+<p class="green">new games... ye! - Marcco</p>
+<!-- <p class="orange">small update - Jalen </p> -->
 <nav>
 <input id="searchBar" onkeyup="searchMods()" placeholder="Search..." type="text"/>
 </nav>
@@ -411,9 +438,52 @@ video {
 </div>
 </section>
 <div class="powr-hit-counter" id="03315e98_1747834633"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+<script>
+function updateGameCount(count, isNew = false) {
+  const label = isNew ? 'New Game Count: ' : 'Game Count: ';
+  document.getElementById('gameCount').innerText = label + count;
+}
+
+function showAll() {
+  const allItems = document.querySelectorAll('.grid-item, .grid-item-new');
+  allItems.forEach(item => item.style.display = 'block');
+  updateGameCount(allItems.length, false);
+}
+
+function showNew() {
+  const allItems = document.querySelectorAll('.grid-item, .grid-item-new');
+  const newItems = document.querySelectorAll('.grid-item-new');
+  allItems.forEach(item => item.style.display = 'none');
+  newItems.forEach(item => item.style.display = 'block');
+  updateGameCount(newItems.length, true);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  showAll(); // default view is all
+});
+</script>
 <div id="gameCount">Games</div>
+<div id="sectionSwitcher">
+  <button class="switch-btn" onclick="showAll()">All</button>
+  <button class="switch-btn" onclick="showNew()">New</button>
+</div>
 <section>
 <div class="grid-container" id="gamesGrid">
+<div class="grid-item-new"><img alt="Class of 09'" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/class09.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/class-of-09/">Class of 09'</a></div>
+    <div class="grid-item-new"><img alt="Ultrakill" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/ultrakill.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/ultrakill/">Ultrakill</a></div>
+<div class="grid-item-new"><img alt="BLOODMONEY!" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/bmoney.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/bmoney/">BLOODMONEY!</a></div>
+<div class="grid-item-new"><img alt="Infinite Mario" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/infmar.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/infmar/">Infinite Mario</a></div>
+<div class="grid-item-new"><img alt="Hextris" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/hxtrs.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/hxtrs/">Hextris</a></div>
+<div class="grid-item-new"><img alt="Chiikawa Puzzle" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/chiipuz.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/chiipuz/">Chiikawa Puzzle</a></div>
+<div class="grid-item-new"><img alt="Pure CSS Stack" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/stck.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/stck/">Pure CSS Stack</a></div>
+<div class="grid-item-new"><img alt="Phineas and Ferb Tetris" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/pftet.jpg"/><a href="player.html?game=bestgameevermadefrfrong">Phineas and Ferb Tetris</a></div>
+    <div class="grid-item-new"><img alt="Doki Doki Literature Club" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/ddlc.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/gamepath/dokidoki/">Doki Doki Literature Club</a></div>
+    <div class="grid-item-new"><img alt="Undertale" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/undertalereal.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/gamepath/undertale/">Undertale</a></div>
+    <div class="grid-item-new"><img alt="Deltarune" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/deltarune.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/gamepath/deltarune/">Deltarune</a></div>
+        <div class="grid-item-new"><img alt="FNF Bocchi Mod idk i'm too tired for this" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/bocchi.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/fnf/bocchi/">FNF: an FNF Bocchi the Rock! mod (DEMO)</a></div>
+<div class="grid-item-new"><img alt="FNF: Weekend 1: Girlfriend Mix" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/gfmixes.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/fnf/gfmix/">FNF: Weekend 1: Girlfriend Mix</a></div>
+<div class="grid-item-new"><img alt="Lacey's Flash Games" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/lacey.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/gamepath/lacysflashgames/">Lacey's Flash Games</a></div>
+    <div class="grid-item-new"><img alt="Do NOT Take This Cat Home" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/dontcat.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/gamepath/donottakethiscathome/">Do NOT Take This Cat Home</a></div>
 <div class="grid-item"><img onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/papalouie.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/papalouie/">Papa louie</a></div>
 <div class="grid-item"><img alt="Papa louie 2" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/papalouie2.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/papalouie2/">Papa louie 2</a></div>
 <div class="grid-item"><img alt="Papa louie 3" onerror="this.onerror=null;this.src='https://chicken.yoylefake.org/whatver/wip.jpg';" src="https://chicken.yoylefake.org/images/papalouie3.jpg"/><a href="player.html?game=https://chicken.yoylefake.org/whatver/papalouie3/">Papa louie 3</a></div>
