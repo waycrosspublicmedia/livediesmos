@@ -2,29 +2,57 @@
 
 <html lang="en">
 <head>
-<script>
-(function () {
+  <script>
+document.addEventListener("DOMContentLoaded", function () {
   const host = window.location.hostname;
-  document.querySelectorAll("a[href]").forEach(link => {
+
+  function rewriteLink(link) {
+    // Convert relative URLs to absolute
+    let url = new URL(link.href, window.location.origin);
+
     if (host.includes("yoylefake")) {
-      link.href = link.href
+      url.href = url.href
         .replace(/diesmos/g, "yoylefake")
         .replace(/royalredeemerlutheranschool/g, "yoylefake")
         .replace(/\.com/g, ".org");
     } else if (host.includes("diesmos")) {
-      link.href = link.href
+      url.href = url.href
         .replace(/yoylefake/g, "diesmos")
         .replace(/royalredeemerlutheranschool/g, "diesmos")
-        .replace(/\.org/g, ".com");
+        .replace(/\.org/g, ".com")
+        .replace(/^https?:\/\/chicken\./, "https://"); // remove chicken prefix
     } else if (host.includes("royalredeemerlutheranschool")) {
-      link.href = link.href
+      url.href = url.href
         .replace(/yoylefake/g, "royalredeemerlutheranschool")
         .replace(/diesmos/g, "royalredeemerlutheranschool")
         .replace(/\.com/g, ".org");
+        // leave chicken intact
     }
+
+    link.href = url.href;
+  }
+
+  // Initial rewrite for existing links
+  document.querySelectorAll("a[href]").forEach(rewriteLink);
+
+  // Observe DOM for dynamically added links
+  const observer = new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+      mutation.addedNodes.forEach(node => {
+        if (node.nodeType === 1) { // ELEMENT_NODE
+          if (node.tagName === "A" && node.href) {
+            rewriteLink(node);
+          }
+          node.querySelectorAll && node.querySelectorAll("a[href]").forEach(rewriteLink);
+        }
+      });
+    });
   });
-})();
+
+  observer.observe(document.body, { childList: true, subtree: true });
+});
 </script>
+
 
 
 
