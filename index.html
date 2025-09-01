@@ -2,62 +2,30 @@
 
 <html lang="en">
 <head>
-   <script>
-  // Define domain replacements based on current site
-  let domainReplacements = {};
-
-  if (location.hostname === "diesmos.com" || location.hostname === "www.diesmos.com") {
-    domainReplacements = {
-      "chicken.yoylefake.org": "diesmos.com"
-    };
-  }
-
-  if (
-    location.hostname === "chicken.royalredeemerlutheranschool.org" ||
-    location.hostname === "www.chicken.royalredeemerlutheranschool.org"
-  ) {
-    domainReplacements = {
-      "chicken.yoylefake.org": "chicken.royalredeemerlutheranschool.org"
-    };
-  }
-
-  // Function to replace old domains with the current site's domain
-  function replaceDomainsInUrl(urlStr) {
-    let newUrl = urlStr;
-    for (const oldDomain in domainReplacements) {
-      const newDomain = domainReplacements[oldDomain];
-      const domainRegex = new RegExp(oldDomain.replace(/\./g, '\\.'), 'g');
-      newUrl = newUrl.replace(domainRegex, newDomain);
+<script>
+(function () {
+  const host = window.location.hostname;
+  document.querySelectorAll("a[href]").forEach(link => {
+    if (host.includes("yoylefake")) {
+      link.href = link.href
+        .replace(/diesmos/g, "yoylefake")
+        .replace(/royalredeemerlutheranschool/g, "yoylefake")
+        .replace(/\.com/g, ".org");
+    } else if (host.includes("diesmos")) {
+      link.href = link.href
+        .replace(/yoylefake/g, "diesmos")
+        .replace(/royalredeemerlutheranschool/g, "diesmos")
+        .replace(/\.org/g, ".com");
+    } else if (host.includes("royalredeemerlutheranschool")) {
+      link.href = link.href
+        .replace(/yoylefake/g, "royalredeemerlutheranschool")
+        .replace(/diesmos/g, "royalredeemerlutheranschool")
+        .replace(/\.com/g, ".org");
     }
-    return newUrl;
-  }
-
-  // Function to process all links in the grid
-  function processLinks() {
-    const links = document.querySelectorAll('.grid-item a, .grid-item-new a');
-    links.forEach(link => {
-      try {
-        const originalHref = link.href;
-        const replacedHref = replaceDomainsInUrl(originalHref);
-        if (replacedHref !== originalHref) {
-          link.href = replacedHref;
-        }
-      } catch (err) {
-        console.error("Error updating link:", err);
-      }
-    });
-  }
-
-  // Run once immediately (for static content)
-  processLinks();
-
-  // Use MutationObserver to catch dynamically added content
-  const observer = new MutationObserver(() => {
-    processLinks();
   });
-
-  observer.observe(document.body, { childList: true, subtree: true });
+})();
 </script>
+
 
 
 <!-- 100% privacy-first analytics -->
