@@ -2,15 +2,17 @@
 
 <html lang="en">
 <head>
-    <script>
+   <script>
+  // Define domain replacements based on current site
   let domainReplacements = {};
 
-  // Pick replacements depending on the current site
   if (location.hostname === "diesmos.com" || location.hostname === "www.diesmos.com") {
     domainReplacements = {
       "chicken.yoylefake.org": "diesmos.com"
     };
-  } else if (
+  }
+
+  if (
     location.hostname === "chicken.royalredeemerlutheranschool.com" ||
     location.hostname === "www.chicken.royalredeemerlutheranschool.com"
   ) {
@@ -19,21 +21,19 @@
     };
   }
 
+  // Function to replace old domains with the current site's domain
   function replaceDomainsInUrl(urlStr) {
     let newUrl = urlStr;
     for (const oldDomain in domainReplacements) {
       const newDomain = domainReplacements[oldDomain];
-      const domainRegex = new RegExp(
-        `(^|[^a-zA-Z0-9-\\.])(${oldDomain.replace(/\./g, '\\.')})([^a-zA-Z0-9-\\.])`,
-        'g'
-      );
-      newUrl = newUrl.replace(domainRegex, (match, p1, p2, p3) => p1 + newDomain + p3);
+      const domainRegex = new RegExp(oldDomain.replace(/\./g, '\\.'), 'g');
+      newUrl = newUrl.replace(domainRegex, newDomain);
     }
     return newUrl;
   }
 
-  // Only run if we actually set replacements
-  if (Object.keys(domainReplacements).length > 0) {
+  // Function to process all links in the grid
+  function processLinks() {
     const links = document.querySelectorAll('.grid-item a, .grid-item-new a');
     links.forEach(link => {
       try {
@@ -47,7 +47,18 @@
       }
     });
   }
+
+  // Run once immediately (for static content)
+  processLinks();
+
+  // Use MutationObserver to catch dynamically added content
+  const observer = new MutationObserver(() => {
+    processLinks();
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
 </script>
+
 
 <!-- 100% privacy-first analytics -->
 <script async="" data-collect-dnt="true" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
