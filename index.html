@@ -474,7 +474,7 @@ video {
 <section class="intro">
 <div class="greeting" id="greeting"></div>
 <p>Dev Note</p>
-<p class="green">fresh games! enjoy! don't suffer in school too much :p!!! - marcco</p>
+<p class="green">runnin' low on ideas!! however, i added an awesome suggestions button! send over suggestions (and bugs)!.. please I need it. don't suggest anything unrealistic.. please. thxxx!- marcco</p>
 
 <nav>
 <input id="searchBar" onkeyup="searchMods()" placeholder="Search..." type="text"/>
@@ -506,7 +506,12 @@ function showNew() {
   newItems.forEach(item => item.style.display = 'block');
   updateGameCount(newItems.length, true);
 }
-
+function openSuggestions() {
+    window.open(
+      "https://docs.google.com/forms/d/e/1FAIpQLSfqTJRoaUQJ3YgpZALPIE85umsW12IBXtv6BaI9Y0fdB_XqzQ/viewform?fbzx=492301836448601508&pli=1",
+      "_blank"
+    );
+}
 document.addEventListener('DOMContentLoaded', () => {
   showAll(); // default view is all
 });
@@ -515,6 +520,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <div id="sectionSwitcher">
   <button class="switch-btn" onclick="showAll()">All</button>
   <button class="switch-btn" onclick="showNew()">New</button>
+  <button class="switch-btn" onclick="openSuggestions()">Suggestions</button>
 </div>
 <section>
 <div class="grid-container" id="gamesGrid">
