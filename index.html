@@ -48,7 +48,21 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<script>
+// Password protection runs before the page renders
+(function() {
+const host = window.location.hostname;
+const correctPassword = "y0ylec0ik!bfdi%26"; // <-- change this
+const entered = prompt("This page is restricted. Please enter the password:");
 
+
+if (entered !== correctPassword) {
+document.write("<h1 style='text-align:center; margin-top:20%; color:red;'>Access Denied</h1>");
+window.stop(); // Prevent the rest of the page from loading
+
+}
+})();
+</script>
 
 
 <!-- 100% privacy-first analytics -->
@@ -56,9 +70,9 @@ document.addEventListener("DOMContentLoaded", function () {
 <noscript><img alt="" referrerpolicy="no-referrer-when-downgrade" src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true"/></noscript>
 <meta charset="utf-8"/>
 <meta content="website" property="og:type"/>
-<meta content="Diesmos Games" property="og:title"/>
+<meta content="Google Drive" property="og:title"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Diesmos Games</title>
+<title>the page.</title>
 <style>
 .favorite-icon {
     position: absolute;
@@ -451,25 +465,11 @@ video {
 </head>
 <body>
 <header>
-<h1>Diesmos Games</h1>
+<h1>the page.</h1>
 <nav>
 </nav>
 </header>
-<div class="container">
-<aside class="sidebar">
-<h3>Categories</h3>
-<ul>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-</ul>
-<h3>Partners</h3>
-<ul>
-<li><a href="">VOXEL</a></li>
-</ul>
-</aside>
+
 <main class="main-content">
 <section class="intro">
 <div class="greeting" id="greeting"></div>
