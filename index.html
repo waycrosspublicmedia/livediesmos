@@ -6,11 +6,14 @@
 document.addEventListener("DOMContentLoaded", function () {
   const host = window.location.hostname;
 
-  function rewriteLink(link) {
-    // Convert relative URLs to absolute
-    let url = new URL(link.href, window.location.origin);
+  const host = window.location.host;
 
-     if (host.includes("diesmos")) {
+  function rewriteURL(urlString) {
+    if (!urlString) return urlString;
+
+    let url = new URL(urlString, window.location.origin);
+
+    if (host.includes("diesmos")) {
       url.href = url.href
         .replace(/yoylefake/g, "diesmos")
         .replace(/royalredeemerlutheranschool/g, "diesmos")
@@ -19,50 +22,50 @@ document.addEventListener("DOMContentLoaded", function () {
     } else if (host.includes("royalredeemerlutheranschool")) {
       url.href = url.href
         .replace(/yoylefake/g, "royalredeemerlutheranschool")
-        .replace(/diesmos/g, "royalredeemerlutheranschool")
         .replace(/\.com/g, ".org");
         // leave chicken intact
     }
 
-    link.href = url.href;
+    return url.href;
   }
 
-  // Initial rewrite for existing links
-  document.querySelectorAll("a[href]").forEach(rewriteLink);
+  function rewriteElement(el) {
+    if (el.hasAttribute("href")) {
+      el.href = rewriteURL(el.href);
+    }
+    if (el.hasAttribute("src")) {
+      el.src = rewriteURL(el.src);
+    }
+    if (el.style && el.style.backgroundImage) {
+      el.style.backgroundImage = el.style.backgroundImage.replace(
+        /url\(["']?(.*?)["']?\)/g,
+        (match, p1) => `url("${rewriteURL(p1)}")`
+      );
+    }
+  }
 
-  // Observe DOM for dynamically added links
+  // Initial rewrite
+  document.querySelectorAll("a[href], img[src], script[src], iframe[src], link[href], video[src], audio[src], [style*='background-image']").forEach(rewriteElement);
+
+  // Observe DOM for dynamically added nodes
   const observer = new MutationObserver(mutations => {
     mutations.forEach(mutation => {
       mutation.addedNodes.forEach(node => {
-        if (node.nodeType === 1) { // ELEMENT_NODE
-          if (node.tagName === "A" && node.href) {
-            rewriteLink(node);
-          }
-          node.querySelectorAll && node.querySelectorAll("a[href]").forEach(rewriteLink);
+        if (node.nodeType === 1) {
+          rewriteElement(node);
+          node.querySelectorAll &&
+            node.querySelectorAll("a[href], img[src], script[src], iframe[src], link[href], video[src], audio[src], [style*='background-image']")
+              .forEach(rewriteElement);
         }
       });
     });
   });
 
   observer.observe(document.body, { childList: true, subtree: true });
-});
-</script>
-
-<script>
-// Password protection runs before the page renders
-(function() {
-const host = window.location.hostname;
-const correctPassword = "y0ylec0ik!bfdi%26"; // <-- change this
-const entered = prompt("This page is restricted. Please enter the password:");
-
-
-if (entered !== correctPassword) {
-document.write("<h1 style='text-align:center; margin-top:20%; color:red;'>Access Denied</h1>");
-window.stop(); // Prevent the rest of the page from loading
-
-}
 })();
-</script>
+
+
+
 
 
 <!-- 100% privacy-first analytics -->
@@ -70,9 +73,9 @@ window.stop(); // Prevent the rest of the page from loading
 <noscript><img alt="" referrerpolicy="no-referrer-when-downgrade" src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true"/></noscript>
 <meta charset="utf-8"/>
 <meta content="website" property="og:type"/>
-<meta content="Google Drive" property="og:title"/>
+<meta content="Diesmos Games" property="og:title"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>the page.</title>
+<title>Diesmos Games</title>
 <style>
 .favorite-icon {
     position: absolute;
@@ -465,11 +468,25 @@ video {
 </head>
 <body>
 <header>
-<h1>the page.</h1>
+<h1>Diesmos Games</h1>
 <nav>
 </nav>
 </header>
-
+<div class="container">
+<aside class="sidebar">
+<h3>Categories</h3>
+<ul>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+</ul>
+<h3>Partners</h3>
+<ul>
+<li><a href="">VOXEL</a></li>
+</ul>
+</aside>
 <main class="main-content">
 <section class="intro">
 <div class="greeting" id="greeting"></div>
